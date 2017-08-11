@@ -1,25 +1,5 @@
 .. contents::
 
-\|
-`Kaggle <https://github.com/iphysresearch/DataSciComp#Kaggle>`__
-\|
-`天池 <https://github.com/iphysresearch/DataSciComp#天池>`__
-\|
-`DataCastle <https://github.com/iphysresearch/DataSciComp#DataCastle>`__
-\|
-`Biendata <https://github.com/iphysresearch/DataSciComp#Biendata>`__
-\|
-`DataFountain <https://github.com/iphysresearch/DataSciComp#DataFountain>`__
-\|
-`Kesci <https://github.com/iphysresearch/DataSciComp#Kesci>`__
-\|
-`SODA <https://github.com/iphysresearch/DataSciComp#SODA>`__
-\|
-`数据嗨客 <https://github.com/iphysresearch/DataSciComp#数据嗨客>`__
-\|
-`数愿 <https://github.com/iphysresearch/DataSciComp#数愿>`__
-\|
-
 
 
 Kaggle
