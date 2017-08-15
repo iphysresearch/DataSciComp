@@ -21,7 +21,6 @@
 | [Passenger Screening Algorithm Challenge](https://www.kaggle.com/c/passenger-screening-algorithm-challenge) |    Featured     |        2017.12.15         | $1,500,000  |
 | [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting) |    Research     |         2017.9.10         |   $25,000   |
 | [Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1) |    Featured     |   2017.10.16/2018.6.29    | $1,200,000  |
-| [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis) |    Featured     |         2017.8.14         |   $25,000   |
 | [Invasive Species Monitoring](https://www.kaggle.com/c/invasive-species-monitoring) |   Playground    |             -             |      -      |
 | [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Getting Started |             -             |      -      |
 | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) | Getting Started |             -             |      -      |
@@ -30,6 +29,7 @@
 | [NIPS 2017: Targeted Adversarial Attack](https://www.kaggle.com/c/nips-2017-targeted-adversarial-attack) |    Research     |         2017.10.1         |    swag     |
 | [NIPS 2017: Defense Against Adversarial Attack](https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack) |    Research     |         2017.10.1         |    swag     |
 | [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge) |    Research     |             -             |      -      |
+| [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis) |    Featured     |         2017.8.14         |   $25,000   |
 
 ## 天池
 
@@ -42,9 +42,9 @@ https://tianchi.aliyun.com/
 | 比赛项目                                     |  状态  |  第一赛季截止时间  |   总奖池   |
 | ---------------------------------------- | :--: | :--------: | :-----: |
 | [第二届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231612) | 进行中  | 2017.9.13  | 330000  |
-| [“数聚华夏 创享未来”中国数据创新行——智慧交通预测挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231598) | 进行中  | 2017.8.12  | 300000  |
+| [“数聚华夏 创享未来”中国数据创新行——智慧交通预测挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231598) | 复赛中  | 2017.8.12  | 300000  |
 | [智慧航空AI大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231609) | 进行中  | 2017.9.15  | 340000  |
-| [全国社会保险大数据应用创新大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231607) | 进行中  | 2017.8.15  | 340000  |
+| [全国社会保险大数据应用创新大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231607) | 复赛中  | 2017.8.15  | 340000  |
 | [余震捕捉AI大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231606) | 进行中  | 2017.9.15  | 350000  |
 | [天池医疗AI大赛[第一季]：肺部结节智能诊断](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231601) | 进行中  | 2017.9.12  | 1000000 |
 | [天池新人实战赛o2o优惠券使用预测](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231593) (新人实战赛) | 进行中  |  2018.3.1  |    -    |
@@ -125,9 +125,9 @@ https://biendata.com/competition/
 | 比赛项目                                     |  状态  |          时间轴           |  备注  |
 | ---------------------------------------- | :--: | :--------------------: | :--: |
 | [2017 开放学术精准画像大赛](https://biendata.com/competition/scholar/) | 进行中  | 2017.7.18 - 2017.9.15  |      |
-| [SMP CUP 2017](https://biendata.com/competition/smpcup2017/) | 进行中  |  2017.7.4 - 2017.8.11  |      |
+| [SMP CUP 2017](https://biendata.com/competition/smpcup2017/) | 递交结束 |  2017.7.4 - 2017.8.11  |      |
 | [2017 摩拜杯算法挑战赛](https://biendata.com/competition/mobike/) | 进行中  | 2017.6.25 - 2017.9.25  |      |
-| [2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu/) | 进行中  | 2017.5.15 - 2017.8.15  |      |
+| [2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu/) | 递交结束 | 2017.5.15 - 2017.8.15  |      |
 | [CCKS 2017 评测一](https://biendata.com/competition/CCKS2017_1/) | 已结束  |  2017.5.14 - 2017.7.7  |      |
 | [CCKS 2017 评测二](https://biendata.com/competition/CCKS2017_2/) | 已结束  |  2017.5.13 - 2017.7.7  |      |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | 已结束  |  2017.5.12 - 2016.6.7  |      |
@@ -204,7 +204,7 @@ https://www.kesci.com/
 | [“王牌猎手”悬赏令—金融壹账通前海征信金融反欺诈创新大赛](https://www.kesci.com/apps/home/#!/competition/598162da61ce8a34afc4b252/content/0) | 进行中  |  2017.8.4 - 2017.9.10  |      |
 | [携程机票航班延误预测算法大赛](https://www.kesci.com/apps/home/#!/competition/59786712bd66a32dfa703e0a/content/0) | 进行中  |  2017.8.1 - 2017.9.24  |      |
 | [中国联通“沃+海创”开放数据应用大赛](https://www.kesci.com/apps/home/#!/competition/59682b887284f10ace46baf3/content/0) | 进行中  | 2017.7.15 - 2017.8.25  |      |
-| [第二届魔镜杯数据应用大赛](https://www.kesci.com/apps/home/#!/competition/58e8ce6f9957300141f983a6/content/0) | 进行中  |  2017.4.10 - 2017.8.5  |      |
+| [第二届魔镜杯数据应用大赛](https://www.kesci.com/apps/home/#!/competition/58e8ce6f9957300141f983a6/content/0) | 决赛中  |  2017.4.10 - 2017.8.5  |      |
 | [2017华为开发者大赛交通大数据赛题](https://www.kesci.com/apps/home/#!/competition/595f2ace7284f10ace44cd68/content/0) | 已结束  |  2017.7.7 - 2017.7.25  |      |
 | [破壁计划——招商银行信用卡中心金融科技大赛](https://www.kesci.com/apps/home/#!/competition/5954c6aa72ead054a5e255b4/content/0) | 已结束  | 2017.6.30 - 2017.8.10  |      |
 | [2017“达观杯”个性化推荐算法挑战赛](https://www.kesci.com/apps/home/#!/competition/590a9629812ede32b73ee216/content/0) | 已结束  |  2017.5.4 - 2017.7.31  |      |
@@ -294,9 +294,11 @@ http://www.zhishu51.com
 
 ## 第三届数据新闻比赛
 
+http://file.caixin.com/datanews_mobile/competition2017/
+
 | 数据支持        |  状态  |     时间轴     | 备注   |
 | ----------- | :--: | :---------: | ---- |
-| 基础的地理信息数据   | 进行中  | 2017.8.15截止 |      |
-| 与生活密切相关的数据集 | 进行中  | 2017.8.15截止 |      |
+| 基础的地理信息数据   | 递交结束 | 2017.8.15截止 |      |
+| 与生活密切相关的数据集 | 递交结束 | 2017.8.15截止 |      |
 
 
