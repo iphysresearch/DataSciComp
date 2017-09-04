@@ -21,7 +21,6 @@
 | [Passenger Screening Algorithm Challenge](https://www.kaggle.com/c/passenger-screening-algorithm-challenge) |    Featured     |        2017.12.15         | $1,500,000  |
 | [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting) |    Research     |         2017.9.10         |   $25,000   |
 | [Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1) |    Featured     |   2017.10.16/2018.6.29    | $1,200,000  |
-| [Invasive Species Monitoring](https://www.kaggle.com/c/invasive-species-monitoring) |   Playground    |             -             |      -      |
 | [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Getting Started |             -             |      -      |
 | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) | Getting Started |             -             |      -      |
 | [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) | Getting Started |             -             |      -      |
@@ -30,6 +29,7 @@
 | [NIPS 2017: Defense Against Adversarial Attack](https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack) |    Research     |         2017.10.1         |    swag     |
 | [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge) |    Research     |             -             |      -      |
 | [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis) |    Featured     |         2017.8.14         |   $25,000   |
+| [Invasive Species Monitoring](https://www.kaggle.com/c/invasive-species-monitoring) |   Playground    |             -             |      -      |
 
 
 
@@ -47,13 +47,14 @@ https://challenger.ai
 4. **人体骨骼关键点检测**：挑战复杂生活场景中的人体检测，并预测多种复杂动作下的人体骨骼关键点位置。 
 5. **图像中文描述**：用一句话描述给定图像中的主要信息，挑战中文语境下的图像理解问题。尝试自然语言处理与计算机视觉技术结合的力量。 
 
-| 比赛项目                                     |  状态  |   截止日期    |   冠军奖金   |
-| ---------------------------------------- | :--: | :-------: | :------: |
-| [英中机器同声传译](https://challenger.ai/competition/interpretation) |      | 2017/12/3 | ¥400,000 |
-| [英中机器文本翻译](https://challenger.ai/competition/translation) |      | 2017/12/3 | ¥300,000 |
-| [场景分类](https://challenger.ai/competition/scene) |      | 2017/12/3 | ¥100,000 |
-| [人体骨骼关键点检测](https://challenger.ai)       |      | 2017/12/3 | ¥300,000 |
-| [图像中文描述](https://challenger.ai/competition/caption) |      | 2017/12/3 | ¥300,000 |
+| 比赛项目                                     |  状态  |               截止日期                |   冠军奖金   |
+| ---------------------------------------- | :--: | :-------------------------------: | :------: |
+| [英中机器同声传译](https://challenger.ai/competition/interpretation) | 进行中  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥400,000 |
+| [英中机器文本翻译](https://challenger.ai/competition/translation) | 进行中  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
+| [场景分类](https://challenger.ai/competition/scene) | 进行中  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥100,000 |
+| [人体骨骼关键点检测](https://challenger.ai)       | 进行中  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
+| [图像中文描述](https://challenger.ai/competition/caption) | 进行中  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
+| [虚拟股票趋势预测](https://challenger.ai/competition/trendsense) (实验赛道) | 进行中  | 2017/9/4 - 2017/10/31 - 2017/12/3 | ¥50,000  |
 
 
 
@@ -67,6 +68,8 @@ https://tianchi.aliyun.com/
 
 | 比赛项目                                     |  状态  |  第一赛季截止时间  |   总奖池   |
 | ---------------------------------------- | :--: | :--------: | :-----: |
+| [广东政务数据创新大赛—应用创新赛](https://tianchi.aliyun.com/dataV/introduction.htm?spm=5176.100066.0.0.773ef42fjklgMW&raceId=231616) | 进行中  | 2017/10/10 | 400000  |
+| [广东政务数据创新大赛—智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.773ef42fjklgMW&raceId=231615) | 进行中  | 2017/10/10 | 550000  |
 | [第二届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231612) | 进行中  | 2017.9.13  | 330000  |
 | [“数聚华夏 创享未来”中国数据创新行——智慧交通预测挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231598) | 复赛中  | 2017.8.12  | 300000  |
 | [智慧航空AI大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231609) | 进行中  | 2017.9.15  | 340000  |
@@ -153,6 +156,7 @@ https://biendata.com/competition/
 | [2017 开放学术精准画像大赛](https://biendata.com/competition/scholar/) | 进行中  | 2017.7.18 - 2017.9.15  |      |
 | [SMP CUP 2017](https://biendata.com/competition/smpcup2017/) | 递交结束 |  2017.7.4 - 2017.8.11  |      |
 | [2017 摩拜杯算法挑战赛](https://biendata.com/competition/mobike/) | 进行中  | 2017.6.25 - 2017.9.25  |      |
+| [(练习赛) 2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu_practice/) | 进行中  | 2015.4.4 - 2017.11.16  |      |
 | [2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu/) | 递交结束 | 2017.5.15 - 2017.8.15  |      |
 | [CCKS 2017 评测一](https://biendata.com/competition/CCKS2017_1/) | 已结束  |  2017.5.14 - 2017.7.7  |      |
 | [CCKS 2017 评测二](https://biendata.com/competition/CCKS2017_2/) | 已结束  |  2017.5.13 - 2017.7.7  |      |
@@ -230,7 +234,7 @@ https://www.kesci.com/
 | [“王牌猎手”悬赏令—金融壹账通前海征信金融反欺诈创新大赛](https://www.kesci.com/apps/home/#!/competition/598162da61ce8a34afc4b252/content/0) | 进行中  |  2017.8.4 - 2017.9.10  |      |
 | [携程机票航班延误预测算法大赛](https://www.kesci.com/apps/home/#!/competition/59786712bd66a32dfa703e0a/content/0) | 进行中  |  2017.8.1 - 2017.9.24  |      |
 | [中国联通“沃+海创”开放数据应用大赛](https://www.kesci.com/apps/home/#!/competition/59682b887284f10ace46baf3/content/0) | 进行中  | 2017.7.15 - 2017.8.25  |      |
-| [第二届魔镜杯数据应用大赛](https://www.kesci.com/apps/home/#!/competition/58e8ce6f9957300141f983a6/content/0) | 决赛中  |  2017.4.10 - 2017.8.5  |      |
+| [第二届魔镜杯数据应用大赛](https://www.kesci.com/apps/home/#!/competition/58e8ce6f9957300141f983a6/content/0) | 已结束  |  2017.4.10 - 2017.8.5  |      |
 | [2017华为开发者大赛交通大数据赛题](https://www.kesci.com/apps/home/#!/competition/595f2ace7284f10ace44cd68/content/0) | 已结束  |  2017.7.7 - 2017.7.25  |      |
 | [破壁计划——招商银行信用卡中心金融科技大赛](https://www.kesci.com/apps/home/#!/competition/5954c6aa72ead054a5e255b4/content/0) | 已结束  | 2017.6.30 - 2017.8.10  |      |
 | [2017“达观杯”个性化推荐算法挑战赛](https://www.kesci.com/apps/home/#!/competition/590a9629812ede32b73ee216/content/0) | 已结束  |  2017.5.4 - 2017.7.31  |      |
@@ -307,8 +311,8 @@ http://www.jinji.hu
 
 | 比赛项目                              |  状态  |     时间轴     | 备注   |
 | --------------------------------- | :--: | :---------: | ---- |
-| 苏州工业园区第八届高技能人才职业技能竞赛（算法类）         | 进行中  | 2017.8.15截止 |      |
-| 苏州工业园区第八届高技能人才职业技能竞赛(决赛第二阶段)（算法类） | 进行中  | 2017.8.15截止 |      |
+| 苏州工业园区第八届高技能人才职业技能竞赛（算法类）         | 已结束  | 2017.8.15截止 |      |
+| 苏州工业园区第八届高技能人才职业技能竞赛(决赛第二阶段)（算法类） | 已结束  | 2017.8.15截止 |      |
 
 
 
