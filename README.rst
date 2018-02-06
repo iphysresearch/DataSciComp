@@ -3,8 +3,8 @@
 Kaggle
 ======
 
-由墨尔本大学的Anthony
-Goldbloom创办，是最早的大数据竞赛平台，拥有庞大的技术分享社区和众多开元代码，面向全球用户；产品2010年上线，累计举办竞赛260+个（含练习赛和自办赛），注册用户数20W+。
+    由墨尔本大学的Anthony
+    Goldbloom创办，是最早的大数据竞赛平台，拥有庞大的技术分享社区和众多开元代码，面向全球用户；产品2010年上线，累计举办竞赛260+个（含练习赛和自办赛），注册用户数20W+。
 
 -  官方网址：\ https://www.kaggle.com/
 
@@ -100,12 +100,12 @@ Goldbloom创办，是最早的大数据竞赛平台，拥有庞大的技术分�
 AI Challenger 全球AI挑战赛
 ==========================
 
-8月14日，创新工场、搜狗和今日头条宣布三方发起首届“AI
-Challenger全球AI挑战赛”，设立总计200万元的奖金池。赛事将在三年内投入数千万元，建立中国最大的科研数据集与世界级AI竞赛平台。
+    2017年8月14日，创新工场、搜狗和今日头条宣布三方发起首届“AI
+    Challenger全球AI挑战赛”，设立总计200万元的奖金池。赛事将在三年内投入数千万元，建立中国最大的科研数据集与世界级AI竞赛平台。
 
-https://challenger.ai
+Website：\ https://challenger.ai
 
-**9月4日**\ 起，首届大赛将开放超过1000万条中英文翻译数据（用于同声传译等自然语言处理的各类应用）、70万个人体动作分析标注数据（用于无人驾驶、安防、体感游戏等场景）、30万张图片场景标注和语义描述数据（用于图像和视频内容理解、图像标题自动生成等各类应用），是国内迄今公开的规模最大的科研数据集。根据大赛官网challenger.ai上的描述，比赛共包含5大“变态”任务，分别为：
+**2017年9月4日**\ 起，首届大赛将开放超过1000万条中英文翻译数据（用于同声传译等自然语言处理的各类应用）、70万个人体动作分析标注数据（用于无人驾驶、安防、体感游戏等场景）、30万张图片场景标注和语义描述数据（用于图像和视频内容理解、图像标题自动生成等各类应用），是国内迄今公开的规模最大的科研数据集。根据大赛官网challenger.ai上的描述，比赛共包含5大“变态”任务，分别为：
 
 1. **英中机器同声传译**\ ：挑战同声传译中的语料无标点、无断句、口语化、以及夹杂语气词等问题。
 
@@ -138,7 +138,7 @@ https://challenger.ai
 天池
 ====
 
-阿里巴巴旗下产品，国内最早的大数据竞赛平台，多用于解决阿里自身的技术需求和人才需求，具有丰富的数据量，社会资源，平台资源和技术背景。主要面向国内用户；产品上线2015年，累计举办竞赛19个，注册用户数5.7W+。
+    阿里巴巴旗下产品，国内最早的大数据竞赛平台，多用于解决阿里自身的技术需求和人才需求，具有丰富的数据量，社会资源，平台资源和技术背景。主要面向国内用户；产品上线2015年，累计举办竞赛19个，注册用户数5.7W+。
 
 https://tianchi.aliyun.com/
 
@@ -257,7 +257,7 @@ https://tianchi.aliyun.com/
 DataCastle
 ==========
 
-源自电子科技大学，具有较高的学术背景和技术背景，主要面向国内用户，2014年产品上线。
+    源自电子科技大学，具有较高的学术背景和技术背景，主要面向国内用户，2014年产品上线。
 
 http://www.pkbigdata.com
 
@@ -326,10 +326,11 @@ http://www.pkbigdata.com
 Biendata
 ========
 
-`Biendata.com <https://biendata.com/>`__ is a platform for providing
-data science competitions to meet different enterprises and
-organizations needs. We are committed to helping you solve challenging
-data related problems in order to make your business more smart.
+    `Biendata.com <https://biendata.com/>`__ is a platform for providing
+    data science competitions to meet different enterprises and
+    organizations needs. We are committed to helping you solve
+    challenging data related problems in order to make your business
+    more smart.
 
 https://biendata.com/competition/
 
@@ -364,7 +365,7 @@ https://biendata.com/competition/
 DataFountain
 ============
 
-源自中科院计算机所，具有丰厚的学术背景和技术背景，主要面向国内用户，产品2015年上线。
+    源自中科院计算机所，具有丰厚的学术背景和技术背景，主要面向国内用户，产品2015年上线。
 
 Website：\ http://www.datafountain.cn/
 
@@ -421,7 +422,7 @@ Website：\ http://www.datafountain.cn/
 Kesci
 =====
 
-由第一届CCF大数据竞赛的冠军队创建，源自上海交通大学，具有较高的学术背景和技术背景，主要面向国内用户；产品上线3年，累计举办竞赛16个（含练习赛），注册用户数1W+。
+    由第一届CCF大数据竞赛的冠军队创建，源自上海交通大学，具有较高的学术背景和技术背景，主要面向国内用户；产品上线3年，累计举办竞赛16个（含练习赛），注册用户数1W+。
 
 https://www.kesci.com/
 
