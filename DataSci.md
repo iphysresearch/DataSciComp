@@ -18,9 +18,7 @@
 
 
 
-
-
-## Active Competitons to join
+##Active Competitons to join
 
 > 2018-2-6 Update!
 
@@ -426,6 +424,9 @@ http://file.caixin.com/datanews_mobile/competition2017/
 | ----------- | :--: | :---------: | ---- |
 | 基础的地理信息数据   | 递交结束 | 2017.8.15截止 |      |
 | 与生活密切相关的数据集 | 递交结束 | 2017.8.15截止 |      |
+
+
+
 
 
 
