@@ -4,8 +4,11 @@
 
 > 2018-2-6 Update!
 
+
+
+
 | Active Competitons to join               | From..       | Entry deadline | Prize Money |
-| ---------------------------------------- | ------------ | :------------- | ----------- |
+| ---------------------------------------- | ------------ | -------------- | ----------- |
 | [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) | Kaggle       | 2018.4.9       | $100,000    |
 | [Mercari Price Suggestion Challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge) | Kaggle       | 2018.2.7       | $100,000    |
 | [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) | Kaggle       | 2018.3.13      | $35,000     |
@@ -36,7 +39,7 @@
 
  
 
----
+
 
 ---
 
