@@ -18,7 +18,7 @@
 
 
 
-##Active Competitons to join
+## Active Competitons to join
 
 > 2018-2-6 Update!
 
