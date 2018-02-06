@@ -5,7 +5,7 @@
 ---
 
 - [Kaggle](#kaggle)
-- [AI Challenger 全球AI挑战赛](#aI-challenger-全球AI挑战赛)
+- [AI Challenger 全球AI挑战赛](#ai-challenger-全球AI挑战赛)
 - [天池](#天池)
 - [DataCastle](#datacastle)
 - [Biendata](#biendata)
