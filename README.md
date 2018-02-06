@@ -57,9 +57,8 @@
 | [2018“云移杯- 景区口碑评价分值预测](http://www.datafountain.cn/#/competitions/283/intro) | DataFountain | 2018-03-10     | NaN         |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci        | Always         | NaN         |
 
- 
- ---
- 
+---
+
 
 ## Kaggle
 
@@ -86,7 +85,7 @@
 | [Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification) |   Playground    |        2017.12.15         |   $25,000   |
 | [Google Landmark Recognition Challenge](https://www.kaggle.com/c/landmark-recognition-challenge) |    Research     |         2018.5.22         |   $2,500    |
 | [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting) |    Featured     |         2018.1.15         |   $30,000   |
-| [Statoil/C-CORE Iceberg Classifier Challenge](Statoil/C-CORE Iceberg Classifier Challenge) |    Featured     |         2018.1.23         |   $50,000   |
+| [Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge) |    Featured     |         2018.1.23         |   $50,000   |
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) |   Playground    |             -             |      -      |
 | [Nomad2018 Predicting Transparent Conductors](https://www.kaggle.com/c/nomad2018-predict-transparent-conductors) |    Research     |         2018.2.15         |   €5,000    |
 | [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting) |    Featured     |         2018.2.6          |   $25,000   |
