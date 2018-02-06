@@ -6,7 +6,6 @@
 
 
 
-
 | Active Competitons to join               | From..       | Entry deadline | Prize Money |
 | ---------------------------------------- | ------------ | -------------- | ----------- |
 | [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) | Kaggle       | 2018.4.9       | $100,000    |
@@ -38,12 +37,6 @@
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci        | Always         | NaN         |
 
  
-
-
-
----
-
-
 
 ## Kaggle
 
