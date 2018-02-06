@@ -1,5 +1,47 @@
 [TOC]
 
+## Active Competitons to join
+
+> 2018-2-6 Update!
+
+| Active Competitons to join               | From..       | Entry deadline | Prize Money |
+| ---------------------------------------- | ------------ | :------------- | ----------- |
+| [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) | Kaggle       | 2018.4.9       | $100,000    |
+| [Mercari Price Suggestion Challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge) | Kaggle       | 2018.2.7       | $100,000    |
+| [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) | Kaggle       | 2018.3.13      | $35,000     |
+| [Nomad2018 Predicting Transparent Conductors](https://www.kaggle.com/c/nomad2018-predict-transparent-conductors) | Kaggle       | 2018.2.8       | €5,000      |
+| [Google Landmark Retrieval Challenge](https://www.kaggle.com/c/landmark-retrieval-challenge) | Kaggle       | 2018.3.15      | $2,500      |
+| [Google Landmark Recognition Challenge](https://www.kaggle.com/c/landmark-recognition-challenge) | Kaggle       | 2018.3.15      | $2,500      |
+| [ImageNet Object Detection Challenge](https://www.kaggle.com/c/imagenet-object-detection-challenge) | Kaggle       | NaN            | NaN         |
+| [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge) | Kaggle       | NaN            | NaN         |
+| [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) | Kaggle       | NaN            | NaN         |
+| [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) | Kaggle       | NaN            | NaN         |
+| [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) | Kaggle       | NaN            | NaN         |
+| [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) | Kaggle       | NaN            | NaN         |
+| [FashionAI全球挑战赛—服饰属性标签识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231649) | 天池           | 2018-04-21     | ￥1340000    |
+| [FashionAI全球挑战赛—服饰关键点定位](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231648) | 天池           | 2018-04-21     | ￥1340000    |
+| [IJCAI-18 阿里妈妈搜索广告转化预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231647) | 天池           | 2018-04-22     | $37000      |
+| [天文数据挖掘大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231646) | 天池           | 2018-03-12     | ￥0          |
+| [印象盐城·数创未来大数据竞赛 - 盐城汽车上牌量预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231641) | 天池           | 2018-02-24     | ￥190000     |
+| [印象盐城·数创未来大数据竞赛 - 乘用车零售量预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231640) | 天池           | 2018-02-24     | ￥460000     |
+| [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池           | 2018-09-01     | $ 0         |
+| [信贷违约预测模型（邀请赛）](http://www.dcjingsai.com/common/cmpt/信贷违约预测模型（邀请赛）_竞赛信息.html) | DataCastle   | 2018.4.15      | NaN         |
+| [“高斯杯”全国大学生数学建模挑战赛（邀请赛）](http://www.dcjingsai.com/common/cmpt/“高斯杯”全国大学生数学建模挑战赛（邀请赛）_竞赛信息.html) | DataCastle   | 2018.3.26      | NaN         |
+| [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle   | Long term      | ￥1,000,000  |
+| [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle   | 2020.12.31     | NaN         |
+| [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle   | 2020.12.31     | NaN         |
+| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata     | 2020.1.1       | NaN         |
+| [2018“云移杯- 景区口碑评价分值预测](http://www.datafountain.cn/#/competitions/283/intro) | DataFountain | 2018-03-10     | NaN         |
+| [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci        | Always         | NaN         |
+
+
+
+---
+
+---
+
+
+
 ## Kaggle
 
 > 由墨尔本大学的Anthony Goldbloom创办，是最早的大数据竞赛平台，拥有庞大的技术分享社区和众多开元代码，面向全球用户；产品2010年上线，累计举办竞赛260+个（含练习赛和自办赛），注册用户数20W+。
@@ -335,9 +377,9 @@ http://www.datadreams.org
 
 | 比赛项目                                     |  状态  | 时间轴       | 备注   |
 | ---------------------------------------- | :--: | --------- | ---- |
-| [赛题3：医疗场景AI创业赛](http://www.datadreams.org/race-race-1.html) | 进行中  | 未说明具体截止日期 |      |
-| [赛题4：智能投顾技术挑战赛](http://www.datadreams.org/race-race-4.html) | 进行中  | 未说明具体截止日期 |      |
-| [赛题5：病理切片识别AI挑战赛](http://www.datadreams.org/race-race-3.html) | 进行中  | 未说明具体截止日期 |      |
+| [赛题3：医疗场景AI创业赛](http://www.datadreams.org/race-race-1.html) | 已结束  | 未说明具体截止日期 |      |
+| [赛题4：智能投顾技术挑战赛](http://www.datadreams.org/race-race-4.html) | 已结束  | 未说明具体截止日期 |      |
+| [赛题5：病理切片识别AI挑战赛](http://www.datadreams.org/race-race-3.html) | 已结束  | 未说明具体截止日期 |      |
 
 
 
