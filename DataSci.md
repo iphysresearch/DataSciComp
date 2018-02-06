@@ -34,7 +34,7 @@
 | [2018“云移杯- 景区口碑评价分值预测](http://www.datafountain.cn/#/competitions/283/intro) | DataFountain | 2018-03-10     | NaN         |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci        | Always         | NaN         |
 
-
+ 
 
 ---
 
