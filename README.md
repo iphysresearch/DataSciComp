@@ -6,7 +6,7 @@
 
 - [Kaggle](#kaggle)
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
-- [CCDM-2018](ccdm-2018)
+- [CCDM-2018](#ccdm-2018)
 - [天池](#天池)
 - [DataCastle](#datacastle)
 - [Biendata](#biendata)
