@@ -6,6 +6,7 @@
 
 - [Kaggle](#kaggle)
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
+- [CCDM-2018](ccdm-2018)
 - [天池](#天池)
 - [DataCastle](#datacastle)
 - [Biendata](#biendata)
@@ -40,6 +41,7 @@
 | [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) | Kaggle       | NaN            | NaN         |
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) | Kaggle       | NaN            | NaN         |
 | [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) | Kaggle       | NaN            | NaN         |
+| [第三届中国数据挖掘大赛（**国际首次蝴蝶识别大赛**）](http://ccdm2018.sdufe.edu.cn/sjwjjs.htm) | CCDM         | 2018-04-30     | ~ ￥5w      |
 | [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) | 天池         | 2018-05-28     | ￥40000     |
 | [ICPR 2018 挑战赛二：网络图像的文本检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231651) | 天池         | 2018-05-28     | ￥30000     |
 | [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) | 天池         | 2018-05-28     | ￥30000     |
@@ -141,6 +143,32 @@ Website：https://challenger.ai
 | [人体骨骼关键点检测](https://challenger.ai)       |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
 | [图像中文描述](https://challenger.ai/competition/caption) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
 | [虚拟股票趋势预测](https://challenger.ai/competition/trendsense) (实验赛道) |  结束  | 2017/9/4 - 2017/10/31 - 2017/12/3 | ¥50,000  |
+
+## CCDM-2018
+
+**第三届中国数据挖掘大赛（国际首次蝴蝶识别大赛）**
+
+大赛官方网站：http://ccdm2018.sdufe.edu.cn/sjwjjs.htm
+
+第三届中国数据挖掘竞赛（国际首次蝴蝶识别大赛）是由中国计算机学会和中国人工智能学会主办，由中国计算机学会人工智能与模式识别专业委员会和中国人工智能学会机器学习专业委员会协办，由山东财经大学承办的竞赛活动，是第七届中国数据挖掘会议（CCDM 2018）的重要组成部分，旨在通过该竞赛引导参赛人员将其研究成果用于解决实际问题，激发参赛人员的科研兴趣，促进科研成果转化。
+
+- 2018年03月01日：报名开始，竞赛组委会提供竞赛数据、竞赛协议。
+- 2018年04月30日：报名结束，竞赛组委会公布报名信息。
+- 2018年06月01~15日：参赛队伍提交程序代码、可执行文件和设计文档。
+- 2018年07月16~31日：竞赛组委会公布获奖入围队伍名单。
+- 2018年08月08~10日：竞赛组委会公布获奖队伍名次，举行颁奖典礼及竞赛研讨会。
+
+> 一等奖1队：20000元；
+>
+> 二等奖2-3队：10000元（每队）；
+>
+> 三等奖3-5队：4000元（每队）；
+>
+> 单项奖2队：2500元（每队）（蝴蝶位置检测奖、蝴蝶分类奖）。
+>
+> 部分获奖队伍将被邀请撰写学术论文，推荐到《计算机研究与发展》期刊。
+
+
 
 
 
