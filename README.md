@@ -6,6 +6,7 @@
 
 - [Kaggle](#kaggle)
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
+- [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛)
 - [CCDM-2018](#ccdm-2018)
 - [天池](#天池)
 - [DataCastle](#datacastle)
@@ -24,13 +25,19 @@
 
 ## Active Competitons to join
 
-> 2018-2-26 Update!
+> 2018-3-10 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
 | Active Competitons to join                                   | From..       | Entry deadline | Prize Money |
 | ------------------------------------------------------------ | ------------ | -------------- | ----------- |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) | Kaggle       | -              | -           |
+| [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) | Kaggle       | 2018.4.30      | $25,000     |
+| [DonorsChoose.org Application Screening](https://www.kaggle.com/c/donorschoose-application-screening) | Kaggle       | 2018.4.18      | -           |
+| [Google Cloud & NCAA® ML Competition 2018-Women's](https://www.kaggle.com/c/womens-machine-learning-competition-2018) | Kaggle       | 2018.5.11      | $50,000     |
+| [Google Cloud & NCAA® ML Competition 2018-Men's](https://www.kaggle.com/c/mens-machine-learning-competition-2018) | Kaggle       | 2018.5.10      | $50,000     |
+| [iNaturalist Challenge at FGVC5](https://www.kaggle.com/c/inaturalist-2018) | Kaggle       | 2018.5.28      | -           |
+| [iMaterialist Challenge (Furniture) at FGVC5](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018#Timeline) | Kaggle       | 2018.5.23      | $2,500      |
 | [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) | Kaggle       | 2018.4.9       | $100,000    |
 | [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) | Kaggle       | 2018.3.13      | $35,000     |
 | [Google Landmark Retrieval Challenge](https://www.kaggle.com/c/landmark-retrieval-challenge) | Kaggle       | 2018.3.15      | $2,500      |
@@ -42,6 +49,7 @@
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) | Kaggle       | NaN            | NaN         |
 | [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) | Kaggle       | NaN            | NaN         |
 | [第三届中国数据挖掘大赛（**国际首次蝴蝶识别大赛**）](http://ccdm2018.sdufe.edu.cn/sjwjjs.htm) | CCDM         | 2018-04-30     | ~ ￥5w      |
+| [**第六届"泰迪杯"数据挖掘挑战赛**](http://www.tipdm.org/jingsa/1253.jhtml) | tipdm        | 2018-4-11      | ￥108000    |
 | [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) | 天池         | 2018-05-28     | ￥40000     |
 | [ICPR 2018 挑战赛二：网络图像的文本检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231651) | 天池         | 2018-05-28     | ￥30000     |
 | [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) | 天池         | 2018-05-28     | ￥30000     |
@@ -77,7 +85,13 @@
 | Competiton                                                   |    Category     | Final submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------------: | :---------: |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) |   Playground    |             -             |      -      |
+| [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) |    Featured     |         2018.5.7          |   $25,000   |
+| [DonorsChoose.org Application Screening](https://www.kaggle.com/c/donorschoose-application-screening) |   Playground    |         2018.4.25         |      -      |
 | [Google Landmark Retrieval Challenge](https://www.kaggle.com/c/landmark-retrieval-challenge) |    Research     |         2018.5.22         |   $2,500    |
+| [Google Cloud & NCAA® ML Competition 2018-Women's](https://www.kaggle.com/c/womens-machine-learning-competition-2018) |    Featured     |         2018.5.16         |   $50,000   |
+| [Google Cloud & NCAA® ML Competition 2018-Men's](https://www.kaggle.com/c/mens-machine-learning-competition-2018) |    Featured     |         2018.5.15         |   $50,000   |
+| [iNaturalist Challenge at FGVC5](https://www.kaggle.com/c/inaturalist-2018) |    Research     |         2018.6.4          |      -      |
+| [iMaterialist Challenge (Furniture) at FGVC5](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018#Timeline) |    Research     |         2018.5.30         |   $2,500    |
 | [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) |    Featured     |         2018.4.16         |  $100,000   |
 | [IEEE's Signal Processing Society - Camera Model Identification](https://www.kaggle.com/c/sp-society-camera-model-identification) |    Featured     |         2018.2.8          |   $25,000   |
 | [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) |    Featured     |         2018.5.20         |   $35,000   |
@@ -144,6 +158,26 @@ Website：https://challenger.ai
 | [图像中文描述](https://challenger.ai/competition/caption) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
 | [虚拟股票趋势预测](https://challenger.ai/competition/trendsense) (实验赛道) |  结束  | 2017/9/4 - 2017/10/31 - 2017/12/3 | ¥50,000  |
 
+## 第六届-泰迪杯数据挖掘挑战赛
+
+**第六届"泰迪杯"数据挖掘挑战赛**
+
+> 大赛官方网站：http://www.tipdm.org/jingsa/1253.jhtml
+>
+> 竞赛开始日期：2018-03-01
+>
+> 奖金：￥108000
+>
+> ![](https://i.loli.net/2018/03/10/5aa34ed655be5.png)
+
+- **A题：基于非侵入式负荷检测与分解的电力数据挖掘**
+- **B题：电视产品的营销推荐**
+- **C题：智能阅读模型的构建**
+
+
+
+
+
 ## CCDM-2018
 
 **第三届中国数据挖掘大赛（国际首次蝴蝶识别大赛）**
@@ -194,7 +228,7 @@ https://tianchi.aliyun.com/
 | [天文数据挖掘大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231646) | 进行中 |    2018-03-12    |    ￥0    |
 | [印象盐城·数创未来大数据竞赛 - 盐城汽车上牌量预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231641) | 进行中 |    2018-02-27    | ￥190000  |
 | [印象盐城·数创未来大数据竞赛 - 乘用车零售量预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231640) | 进行中 |    2018-02-27    | ￥460000  |
-| [天池精准医疗大赛——人工智能辅助糖尿病遗传风险预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231638) | 进行中 |    2018-01-30    | ￥250000  |
+| [天池精准医疗大赛——人工智能辅助糖尿病遗传风险预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231638) | 已结束 |    2018-01-30    | ￥250000  |
 | [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 进行中 |    2018-09-01    |    $ 0    |
 | [未来已来——气象数据领航无人飞行器线路优化大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231622) | 已结束 |    2018-01-31    |  $16000   |
 | [天池工业AI大赛-智能制造质量预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231633) | 已结束 |    2018-01-16    | ￥550000  |
@@ -252,35 +286,35 @@ http://www.pkbigdata.com
 
 注：下表按照截止时间排序，不包含已完结竞赛或创意竞赛，详细信息以官方竞赛网页为准。
 
-| 比赛项目                                     |  状态  |           时间轴           |  备注  |
-| ---------------------------------------- | :--: | :---------------------: | :--: |
-| [信贷违约预测模型（邀请赛）](http://www.dcjingsai.com/common/cmpt/信贷违约预测模型（邀请赛）_竞赛信息.html) | 进行中  |  2018.1.15 - 2018.4.15  | 创意竞赛 |
-| [“高斯杯”全国大学生数学建模挑战赛（邀请赛）](http://www.dcjingsai.com/common/cmpt/“高斯杯”全国大学生数学建模挑战赛（邀请赛）_竞赛信息.html) | 进行中  |  2018.1.15 - 2018.3.26  | 创意竞赛 |
-| [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | 进行中  |            -            | 创意竞赛 |
-| [精品旅行服务成单预测](http://www.dcjingsai.com/common/cmpt/精品旅行服务成单预测_竞赛信息.html) | 进行中  |  2017.12.20 - 2018.2.7  |      |
-| [京东金融全球数据探索者大赛](http://www.dcjingsai.com/common/cmpt/京东金融全球数据探索者大赛_竞赛信息.html) | 已完结  | 2017.11.6 -  2017.12.17 | 创意竞赛 |
-| [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | 进行中  | 2017.9.19 -  2020.12.31 |      |
-| [员工离职预测训练赛](http://www.pkbigdata.com/common/cmpt/员工离职预测训练赛_竞赛信息.html) | 进行中  |  2017.8.2 - 2020.12.31  | 练习赛  |
-| [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | 进行中  | 2017.7.31 - 2020.12.31  | 练习赛  |
-| [智慧校园全球大学生创意应用大赛](http://www.pkbigdata.com/common/cmpt/智慧校园全球大学生创意应用大赛_竞赛信息.html) | 可参加  |  2017.7.3 - 2017.9.24   | 创意竞赛 |
-| [大师赛](http://www.pkbigdata.com/common/cmpt/大师赛_竞赛信息.html) | 可参加  | 2017.6.13 - 2017.10.15  |      |
-| [食品安全国家标准的精准化提取](http://www.pkbigdata.com/common/cmpt/食品安全国家标准的精准化提取_竞赛信息.html) | 可参加  |  2017.6.1 - 2017.7.10   |      |
-| [大学生助学金精准资助预测](http://www.pkbigdata.com/common/cmpt/大学生助学金精准资助预测_竞赛信息.html) | 可参加  |  2016.11.3 - 2017.5.10  |      |
-| [用户贷款风险预测](http://www.pkbigdata.com/common/cmpt/用户贷款风险预测_竞赛信息.html) | 可参加  |  2016.11.3 - 2017.5.10  |      |
-| [交通线路通达时间预测](http://www.pkbigdata.com/common/cmpt/交通线路通达时间预测_竞赛信息.html) | 可参加  |  2016.11.3 - 2017.5.10  |      |
-| [地点推荐系统](http://www.pkbigdata.com/common/cmpt/地点推荐系统_竞赛信息.html) | 可参加  | 2016.10.9 - 2016.11.30  |      |
-| [微博热度预测](http://www.pkbigdata.com/common/cmpt/微博热度预测_竞赛信息.html) | 可参加  | 2016.8.26 - 2016.11.25  |      |
-| [猜你喜欢](http://www.pkbigdata.com/common/cmpt/猜你喜欢_竞赛信息.html) | 可参加  |  2016.5.17 - 2016.7.18  |      |
-| [猫狗大战](http://www.pkbigdata.com/common/cmpt/猫狗大战_竞赛信息.html) | 可参加  |   2016.4.1 - 2016.7.1   |      |
-| [Identify the error connections in the network](http://www.pkbigdata.com/common/cmpt/Identify%20the%20error%20connections%20in%20the%20network_竞赛信息.html) | 可参加  | 2015.12.5 - 2015.12.14  |      |
-| [微额借款用户人品预测大赛](http://www.pkbigdata.com/common/cmpt/微额借款用户人品预测大赛_竞赛信息.html) | 可参加  | 2015.11.26 - 2016.2.29  |      |
-| [职位预测竞赛](http://www.pkbigdata.com/common/cmpt/职位预测竞赛_竞赛信息.html) | 可参加  | 2015.9.23 - 2015.12.20  |      |
-| [矛与盾](http://www.pkbigdata.com/common/cmpt/矛与盾_竞赛信息.html) | 可参加  | 2015.9.22 - 2015.12.10  |      |
-| [验证码识别竞赛](http://www.pkbigdata.com/common/cmpt/验证码识别竞赛_竞赛信息.html) | 可参加  | 2015.7.20 - 2015.10.12  |      |
-| [成电大数据培训实践](http://www.pkbigdata.com/common/cmpt/成电大数据培训实践_竞赛信息.html) | 可参加  |  2015.7.17 - 2015.8.17  | 练习赛  |
-| [图像搜索竞赛](http://www.pkbigdata.com/common/cmpt/图像搜索竞赛_竞赛信息.html) | 可参加  | 2014.12.11 - 2015.3.12  |      |
-| [学生成绩排名预测](http://www.pkbigdata.com/common/cmpt/学生成绩排名预测_竞赛信息.html) | 可参加  | 2014.12.11 - 2015.3.12  |      |
-| [CCF大数据竞赛](http://www.pkbigdata.com/common/cmpt/CCF大数据竞赛_竞赛信息.html) | 可参加  |  2014.9.1 - 2014.11.15  |      |
+| 比赛项目                                                     |  状态  |         时间轴          |   备注   |
+| ------------------------------------------------------------ | :----: | :---------------------: | :------: |
+| [信贷违约预测模型（邀请赛）](http://www.dcjingsai.com/common/cmpt/信贷违约预测模型（邀请赛）_竞赛信息.html) | 进行中 |  2018.1.15 - 2018.4.15  | 创意竞赛 |
+| [“高斯杯”全国大学生数学建模挑战赛（邀请赛）](http://www.dcjingsai.com/common/cmpt/“高斯杯”全国大学生数学建模挑战赛（邀请赛）_竞赛信息.html) | 进行中 |  2018.1.15 - 2018.3.26  | 创意竞赛 |
+| [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | 进行中 |            -            | 创意竞赛 |
+| [精品旅行服务成单预测](http://www.dcjingsai.com/common/cmpt/精品旅行服务成单预测_竞赛信息.html) | 可参加 |  2017.12.20 - 2018.2.7  |          |
+| [京东金融全球数据探索者大赛](http://www.dcjingsai.com/common/cmpt/京东金融全球数据探索者大赛_竞赛信息.html) | 已完结 | 2017.11.6 -  2017.12.17 | 创意竞赛 |
+| [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | 进行中 | 2017.9.19 -  2020.12.31 |          |
+| [员工离职预测训练赛](http://www.pkbigdata.com/common/cmpt/员工离职预测训练赛_竞赛信息.html) | 进行中 |  2017.8.2 - 2020.12.31  |  练习赛  |
+| [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | 进行中 | 2017.7.31 - 2020.12.31  |  练习赛  |
+| [智慧校园全球大学生创意应用大赛](http://www.pkbigdata.com/common/cmpt/智慧校园全球大学生创意应用大赛_竞赛信息.html) | 可参加 |  2017.7.3 - 2017.9.24   | 创意竞赛 |
+| [大师赛](http://www.pkbigdata.com/common/cmpt/大师赛_竞赛信息.html) | 可参加 | 2017.6.13 - 2017.10.15  |          |
+| [食品安全国家标准的精准化提取](http://www.pkbigdata.com/common/cmpt/食品安全国家标准的精准化提取_竞赛信息.html) | 可参加 |  2017.6.1 - 2017.7.10   |          |
+| [大学生助学金精准资助预测](http://www.pkbigdata.com/common/cmpt/大学生助学金精准资助预测_竞赛信息.html) | 可参加 |  2016.11.3 - 2017.5.10  |          |
+| [用户贷款风险预测](http://www.pkbigdata.com/common/cmpt/用户贷款风险预测_竞赛信息.html) | 可参加 |  2016.11.3 - 2017.5.10  |          |
+| [交通线路通达时间预测](http://www.pkbigdata.com/common/cmpt/交通线路通达时间预测_竞赛信息.html) | 可参加 |  2016.11.3 - 2017.5.10  |          |
+| [地点推荐系统](http://www.pkbigdata.com/common/cmpt/地点推荐系统_竞赛信息.html) | 可参加 | 2016.10.9 - 2016.11.30  |          |
+| [微博热度预测](http://www.pkbigdata.com/common/cmpt/微博热度预测_竞赛信息.html) | 可参加 | 2016.8.26 - 2016.11.25  |          |
+| [猜你喜欢](http://www.pkbigdata.com/common/cmpt/猜你喜欢_竞赛信息.html) | 可参加 |  2016.5.17 - 2016.7.18  |          |
+| [猫狗大战](http://www.pkbigdata.com/common/cmpt/猫狗大战_竞赛信息.html) | 可参加 |   2016.4.1 - 2016.7.1   |          |
+| [Identify the error connections in the network](http://www.pkbigdata.com/common/cmpt/Identify%20the%20error%20connections%20in%20the%20network_竞赛信息.html) | 可参加 | 2015.12.5 - 2015.12.14  |          |
+| [微额借款用户人品预测大赛](http://www.pkbigdata.com/common/cmpt/微额借款用户人品预测大赛_竞赛信息.html) | 可参加 | 2015.11.26 - 2016.2.29  |          |
+| [职位预测竞赛](http://www.pkbigdata.com/common/cmpt/职位预测竞赛_竞赛信息.html) | 可参加 | 2015.9.23 - 2015.12.20  |          |
+| [矛与盾](http://www.pkbigdata.com/common/cmpt/矛与盾_竞赛信息.html) | 可参加 | 2015.9.22 - 2015.12.10  |          |
+| [验证码识别竞赛](http://www.pkbigdata.com/common/cmpt/验证码识别竞赛_竞赛信息.html) | 可参加 | 2015.7.20 - 2015.10.12  |          |
+| [成电大数据培训实践](http://www.pkbigdata.com/common/cmpt/成电大数据培训实践_竞赛信息.html) | 可参加 |  2015.7.17 - 2015.8.17  |  练习赛  |
+| [图像搜索竞赛](http://www.pkbigdata.com/common/cmpt/图像搜索竞赛_竞赛信息.html) | 可参加 | 2014.12.11 - 2015.3.12  |          |
+| [学生成绩排名预测](http://www.pkbigdata.com/common/cmpt/学生成绩排名预测_竞赛信息.html) | 可参加 | 2014.12.11 - 2015.3.12  |          |
+| [CCF大数据竞赛](http://www.pkbigdata.com/common/cmpt/CCF大数据竞赛_竞赛信息.html) | 可参加 |  2014.9.1 - 2014.11.15  |          |
 
 
 
