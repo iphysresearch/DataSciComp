@@ -4,10 +4,10 @@
 
 ---
 
-- [Kaggle](#kaggle)
+- [Kaggle](#kaggle) （新）
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
-- [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛)
-- [CCDM-2018](#ccdm-2018)
+- [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛) （新）
+- [CCDM-2018](#ccdm-2018) （新）
 - [天池](#天池)
 - [DataCastle](#datacastle)
 - [Biendata](#biendata)
