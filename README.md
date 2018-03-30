@@ -10,9 +10,9 @@
 - [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛) （新）
 - [CCDM-2018](#ccdm-2018) （新）
 - [天池](#天池)
-- [DataCastle](#datacastle)
-- [Biendata](#biendata)
-- [DataFountain](#datafountain)
+- [DataCastle](#datacastle)（新）
+- [Biendata](#biendata)（新）
+- [DataFountain](#datafountain)（新）
 - [Kesci](#kesci)
 - [SODA](#soda)
 - [数据嗨客](#数据嗨客)
@@ -26,43 +26,49 @@
 
 ## Active Competitons to join
 
-> 2018-3-24 Update!
+> 2018-3-31 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
-| Active Competitons to join                                   | From..        | Entry deadline | Prize Money |
-| ------------------------------------------------------------ | ------------- | -------------- | ----------- |
-| [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) | Kaggle        | -              | -           |
-| [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) | Kaggle        | 2018.4.30      | $25,000     |
-| [DonorsChoose.org Application Screening](https://www.kaggle.com/c/donorschoose-application-screening) | Kaggle        | 2018.4.18      | -           |
-| [Google Cloud & NCAA® ML Competition 2018-Women's](https://www.kaggle.com/c/womens-machine-learning-competition-2018) | Kaggle        | 2018.5.11      | $50,000     |
-| [Google Cloud & NCAA® ML Competition 2018-Men's](https://www.kaggle.com/c/mens-machine-learning-competition-2018) | Kaggle        | 2018.5.10      | $50,000     |
-| [iNaturalist Challenge at FGVC5](https://www.kaggle.com/c/inaturalist-2018) | Kaggle        | 2018.5.28      | -           |
-| [iMaterialist Challenge (Furniture) at FGVC5](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018#Timeline) | Kaggle        | 2018.5.23      | $2,500      |
-| [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) | Kaggle        | 2018.4.9       | $100,000    |
-| [ImageNet Object Detection Challenge](https://www.kaggle.com/c/imagenet-object-detection-challenge) | Kaggle        | NaN            | NaN         |
-| [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge) | Kaggle        | NaN            | NaN         |
-| [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) | Kaggle        | NaN            | NaN         |
-| [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) | Kaggle        | NaN            | NaN         |
-| [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) | Kaggle        | NaN            | NaN         |
-| [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) | Kaggle        | NaN            | NaN         |
-| [**零样本学习**](https://challenger.ai/competition/zsl2018)  | AI Challenger | 2018-04-23     | ¥30,000     |
-| [第三届中国数据挖掘大赛（**国际首次蝴蝶识别大赛**）](http://ccdm2018.sdufe.edu.cn/sjwjjs.htm) | CCDM          | 2018-04-30     | ~ ￥5w      |
-| [**第六届"泰迪杯"数据挖掘挑战赛**](http://www.tipdm.org/jingsa/1253.jhtml) | tipdm         | 2018-4-11      | ￥108000    |
-| [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) | 天池          | 2018-05-28     | ￥40000     |
-| [ICPR 2018 挑战赛二：网络图像的文本检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231651) | 天池          | 2018-05-28     | ￥30000     |
-| [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) | 天池          | 2018-05-28     | ￥30000     |
-| [FashionAI全球挑战赛—服饰属性标签识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231649) | 天池          | 2018-04-21     | ￥1340000   |
-| [FashionAI全球挑战赛—服饰关键点定位](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231648) | 天池          | 2018-04-21     | ￥1340000   |
-| [IJCAI-18 阿里妈妈搜索广告转化预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231647) | 天池          | 2018-04-22     | $37000      |
-| [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池          | 2018-09-01     | $ 0         |
-| [信贷违约预测模型（邀请赛）](http://www.dcjingsai.com/common/cmpt/信贷违约预测模型（邀请赛）_竞赛信息.html) | DataCastle    | 2018.4.15      | NaN         |
-| [“高斯杯”全国大学生数学建模挑战赛（邀请赛）](http://www.dcjingsai.com/common/cmpt/“高斯杯”全国大学生数学建模挑战赛（邀请赛）_竞赛信息.html) | DataCastle    | 2018.3.26      | NaN         |
-| [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle    | Long term      | ￥1,000,000 |
-| [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle    | 2020.12.31     | NaN         |
-| [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle    | 2020.12.31     | NaN         |
-| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata      | 2020.1.1       | NaN         |
-| [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci         | Always         | NaN         |
+| Active Competitons to join                                   | From..        | Entry deadline    | Prize Money |
+| ------------------------------------------------------------ | ------------- | ----------------- | ----------- |
+| **[Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging)** | Kaggle        | 2018.7.24         | -           |
+| [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) | Kaggle        | -                 | -           |
+| [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) | Kaggle        | 2018.4.30         | $25,000     |
+| [DonorsChoose.org Application Screening](https://www.kaggle.com/c/donorschoose-application-screening) | Kaggle        | 2018.4.18         | -           |
+| [Google Cloud & NCAA® ML Competition 2018-Women's](https://www.kaggle.com/c/womens-machine-learning-competition-2018) | Kaggle        | 2018.5.11         | $50,000     |
+| [Google Cloud & NCAA® ML Competition 2018-Men's](https://www.kaggle.com/c/mens-machine-learning-competition-2018) | Kaggle        | 2018.5.10         | $50,000     |
+| [iNaturalist Challenge at FGVC5](https://www.kaggle.com/c/inaturalist-2018) | Kaggle        | 2018.5.28         | -           |
+| [iMaterialist Challenge (Furniture) at FGVC5](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018#Timeline) | Kaggle        | 2018.5.23         | $2,500      |
+| [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) | Kaggle        | 2018.4.9          | $100,000    |
+| [ImageNet Object Detection Challenge](https://www.kaggle.com/c/imagenet-object-detection-challenge) | Kaggle        | NaN               | NaN         |
+| [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge) | Kaggle        | NaN               | NaN         |
+| [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) | Kaggle        | NaN               | NaN         |
+| [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) | Kaggle        | NaN               | NaN         |
+| [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) | Kaggle        | NaN               | NaN         |
+| [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) | Kaggle        | NaN               | NaN         |
+| [**零样本学习**](https://challenger.ai/competition/zsl2018)  | AI Challenger | 2018-04-23        | ¥30,000     |
+| [2018年国际大学生类脑计算创新应用大赛](https://contest.cbicr.org) | cbicr         | 2018-07-29        | ￥100 W     |
+| [第三届中国数据挖掘大赛（**国际首次蝴蝶识别大赛**）](http://ccdm2018.sdufe.edu.cn/sjwjjs.htm) | CCDM          | 2018-04-30        | ~ ￥5w      |
+| **[第六届"泰迪杯"数据挖掘挑战赛](http://www.tipdm.org/jingsa/1253.jhtml)** | tipdm         | 2018-4-11         | ￥108000    |
+| [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) | 天池          | 2018-05-28        | ￥40000     |
+| [ICPR 2018 挑战赛二：网络图像的文本检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231651) | 天池          | 2018-05-28        | ￥30000     |
+| [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) | 天池          | 2018-05-28        | ￥30000     |
+| [FashionAI全球挑战赛—服饰属性标签识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231649) | 天池          | 2018-04-21        | ￥1340000   |
+| [FashionAI全球挑战赛—服饰关键点定位](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231648) | 天池          | 2018-04-21        | ￥1340000   |
+| [IJCAI-18 阿里妈妈搜索广告转化预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231647) | 天池          | 2018-04-22        | $37000      |
+| [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池          | 2018-09-01        | $ 0         |
+| **[“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/%E2%80%9C%E9%87%8F%E5%AD%90%E6%9D%AF%E2%80%9D%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%87%8F%E5%8C%96%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)** | DataCastle    | 2018.6.17         | ￥53,000    |
+| **[凤凰金融量化投资大赛](http://www.dcjingsai.com/common/cmpt/%E5%87%A4%E5%87%B0%E9%87%91%E8%9E%8D%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)** | DataCastle    | 2018.4.13开始打榜 | ￥80,000    |
+| [信贷违约预测模型（邀请赛）](http://www.dcjingsai.com/common/cmpt/信贷违约预测模型（邀请赛）_竞赛信息.html) | DataCastle    | 2018.4.15         | NaN         |
+| [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle    | Long term         | ￥1,000,000 |
+| [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle    | 2020.12.31        | NaN         |
+| [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle    | 2020.12.31        | NaN         |
+| [**搜狐第二届算法大赛**](https://biendata.com/competition/sohu2018/) | Biendata      | 2018.5.7          | ￥100,000   |
+| **[KDD CUP of Fresh Air](https://biendata.com/competition/kdd_2018/)** | Biendata      | 2018/5/7          | 21,500美元  |
+| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata      | 2020.1.1          | NaN         |
+| **[2018平安产险数据建模大赛 驾驶行为预测驾驶风险](http://www.datafountain.cn/#/competitions/284/intro)** | DataFountain  | 2018.6.9          | ~￥40万     |
+| [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci         | Always            | NaN         |
 
 ---
 
@@ -81,6 +87,7 @@
 
 | Competiton                                                   |    Category     | Final submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------------: | :---------: |
+| [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) |    Research     |         2018.7.24         |      -      |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) |   Playground    |             -             |      -      |
 | [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) |    Featured     |         2018.5.7          |   $25,000   |
 | [DonorsChoose.org Application Screening](https://www.kaggle.com/c/donorschoose-application-screening) |   Playground    |         2018.4.25         |      -      |
@@ -164,6 +171,16 @@
 | [图像中文描述](https://challenger.ai/competition/caption) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
 | [虚拟股票趋势预测](https://challenger.ai/competition/trendsense) (实验赛道) |  结束  | 2017/9/4 - 2017/10/31 - 2017/12/3 | ¥50,000  |
 
+## 2018年国际大学生类脑计算创新应用大赛
+
+官方网址：https://contest.cbicr.org
+
+> 竞赛题目：本赛事采用开放式命题。作品需以类脑通用智能系统为主题，作品可以是面向市场的创新应用或者是具有先进性的科研突破，其表现形式包括但不限于：机器人、无人机、智能可穿戴设备、自然语言处理系统、人机交互系统、智能手机APP等理论、算法、软件、硬件或系统。特别鼓励新创意、新算法、新应用。作品要体现通用性、实用价值和应用前景。
+>
+> 报名截止日期为2018年7月29日(星期日) 晚上23:59
+>
+> 大赛**总奖金100万元**
+
 ## 第六届-泰迪杯数据挖掘挑战赛
 
 **第六届"泰迪杯"数据挖掘挑战赛**
@@ -225,6 +242,7 @@ https://tianchi.aliyun.com/
 
 | 比赛项目                                                     |  状态  | 第一赛季截止时间 |  总奖池   |
 | ------------------------------------------------------------ | :----: | :--------------: | :-------: |
+| [美年健康AI大赛——双高疾病风险预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231654) | 进行中 |    2018/05/07    | ￥250000  |
 | [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) | 进行中 |    2018-05-28    |  ￥40000  |
 | [ICPR 2018 挑战赛二：网络图像的文本检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231651) | 进行中 |    2018-05-28    |  ￥30000  |
 | [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) | 进行中 |    2018-05-28    |  ￥30000  |
@@ -294,6 +312,8 @@ http://www.pkbigdata.com
 
 | 比赛项目                                                     |  状态  |         时间轴          |   备注   |
 | ------------------------------------------------------------ | :----: | :---------------------: | :------: |
+| [“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/“量子杯”全国高校量化大赛_竞赛信息.html) | 进行中 |  2018.4.16 - 2018.9.21  |          |
+| [凤凰金融量化投资大赛](http://www.dcjingsai.com/common/cmpt/凤凰金融量化投资大赛_竞赛信息.html) | 进行中 |  2018.3.28 - 2018.7.8   |          |
 | [信贷违约预测模型（邀请赛）](http://www.dcjingsai.com/common/cmpt/信贷违约预测模型（邀请赛）_竞赛信息.html) | 进行中 |  2018.1.15 - 2018.4.15  | 创意竞赛 |
 | [“高斯杯”全国大学生数学建模挑战赛（邀请赛）](http://www.dcjingsai.com/common/cmpt/“高斯杯”全国大学生数学建模挑战赛（邀请赛）_竞赛信息.html) | 进行中 |  2018.1.15 - 2018.3.26  | 创意竞赛 |
 | [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | 进行中 |            -            | 创意竞赛 |
@@ -331,20 +351,22 @@ http://www.pkbigdata.com
 
 https://biendata.com/competition/
 
-| 比赛项目                                     |  状态  |          时间轴           |  备注  |
-| ---------------------------------------- | :--: | :--------------------: | :--: |
-| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | 进行中  |  2017.5.12 - 2020.1.1  |      |
-| [2017 开放学术精准画像大赛](https://biendata.com/competition/scholar/) | 已结束  | 2017.7.18 - 2017.9.15  |      |
-| [SMP CUP 2017](https://biendata.com/competition/smpcup2017/) | 已结束  |  2017.7.4 - 2017.8.11  |      |
-| [2017 摩拜杯算法挑战赛](https://biendata.com/competition/mobike/) | 已结束  | 2017.6.25 - 2017.9.25  |      |
-| [(练习赛) 2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu_practice/) | 已结束  | 2015.4.4 - 2017.11.16  |      |
-| [2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu/) | 已结束  | 2017.5.15 - 2017.8.15  |      |
-| [CCKS 2017 评测一](https://biendata.com/competition/CCKS2017_1/) | 已结束  |  2017.5.14 - 2017.7.7  |      |
-| [CCKS 2017 评测二](https://biendata.com/competition/CCKS2017_2/) | 已结束  |  2017.5.13 - 2017.7.7  |      |
-| [搜狐图文匹配算法大赛](https://biendata.com/competition/luckydata/) | 已结束  | 2017.3.13 - 2017.6.13  |      |
-| [2016 Byte Cup国际机器学习竞赛](https://biendata.com/competition/bytecup2016/) | 已结束  | 2016.8.15 - 2016.11.20 |      |
-| [SMP CUP 2016](https://biendata.com/competition/smpcup2016/) | 已结束  | 2016.7.20 - 2016.9.21  |      |
-| [KDD Cup 2015](https://biendata.com/competition/kddcup2015/) | 已结束  |  2015.5.1 - 2015.7.12  |      |
+| 比赛项目                                                     |  状态  |         时间轴         | 备注 |
+| ------------------------------------------------------------ | :----: | :--------------------: | :--: |
+| [搜狐第二届算法大赛](https://biendata.com/competition/sohu2018/) | 进行中 | 2018.3.19 - 2018.5.21  |      |
+| [KDD CUP of Fresh Air](https://biendata.com/competition/kdd_2018/) | 进行中 | 2018.3.15 - 2018.5.31  |      |
+| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | 进行中 |  2017.5.12 - 2020.1.1  |      |
+| [2017 开放学术精准画像大赛](https://biendata.com/competition/scholar/) | 已结束 | 2017.7.18 - 2017.9.15  |      |
+| [SMP CUP 2017](https://biendata.com/competition/smpcup2017/) | 已结束 |  2017.7.4 - 2017.8.11  |      |
+| [2017 摩拜杯算法挑战赛](https://biendata.com/competition/mobike/) | 已结束 | 2017.6.25 - 2017.9.25  |      |
+| [(练习赛) 2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu_practice/) | 已结束 | 2015.4.4 - 2017.11.16  |      |
+| [2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu/) | 已结束 | 2017.5.15 - 2017.8.15  |      |
+| [CCKS 2017 评测一](https://biendata.com/competition/CCKS2017_1/) | 已结束 |  2017.5.14 - 2017.7.7  |      |
+| [CCKS 2017 评测二](https://biendata.com/competition/CCKS2017_2/) | 已结束 |  2017.5.13 - 2017.7.7  |      |
+| [搜狐图文匹配算法大赛](https://biendata.com/competition/luckydata/) | 已结束 | 2017.3.13 - 2017.6.13  |      |
+| [2016 Byte Cup国际机器学习竞赛](https://biendata.com/competition/bytecup2016/) | 已结束 | 2016.8.15 - 2016.11.20 |      |
+| [SMP CUP 2016](https://biendata.com/competition/smpcup2016/) | 已结束 | 2016.7.20 - 2016.9.21  |      |
+| [KDD Cup 2015](https://biendata.com/competition/kddcup2015/) | 已结束 |  2015.5.1 - 2015.7.12  |      |
 
 
 
@@ -357,30 +379,31 @@ Website：http://www.datafountain.cn/
 
 下表仅收集“结果提交型”赛题。
 
-| 比赛项目                                     |  状态  |           时间轴           |  备注  |
-| ---------------------------------------- | :--: | :---------------------: | :--: |
-| [2018“云移杯- 景区口碑评价分值预测](http://www.datafountain.cn/#/competitions/283/intro) | 进行中  | 2018-01-17 - 2018-04-15 |      |
-| [商场中精确定位用户所在店铺](http://www.datafountain.cn/#/competitions/279/intro) | 已结束  | 2017-09-24 - 2017-12-24 |      |
-| [基于合成数据的Logo识别](http://www.datafountain.cn/#/competitions/278/intro) | 已结束  | 2017-09-24 - 2017-12-24 |      |
-| [AlphaGo之后“人机大战”Round 2 ——机器写作与人类写作的巅峰对决](http://www.datafountain.cn/#/competitions/276/intro) | 已结束  | 2017-09-24 - 2017-12-24 |      |
-| [复杂海情和气象条件下的海上船只识别](http://www.datafountain.cn/#/competitions/275/intro) | 已结束  | 2017-09-24 - 2017-12-24 |      |
-| [小超市供销存管理优化](http://www.datafountain.cn/#/competitions/274/intro) | 已结束  | 2017-09-24 - 2017-12-24 |      |
-| [城市自行车的出行行为分析及效率优化](http://www.datafountain.cn/#/competitions/273/intro) | 已结束  | 2017-09-24 - 2017-12-24 |      |
-| [企业经营退出风险预测](http://www.datafountain.cn/#/competitions/271/intro) | 已结束  | 2017-09-24 - 2017-12-24 |      |
-| [卫星影像的AI分类与识别](http://www.datafountain.cn/#/competitions/270/intro) | 已结束  | 2017-09-24 - 2017-12-24 |      |
-| [基于机构实体的智能摘要和风险等级识别](http://www.datafountain.cn/#/competitions/269/intro) | 已结束  | 2017-09-24 - 2017-12-24 |      |
-| [基于主题的文本情感分析](http://www.datafountain.cn/#/competitions/268/intro) | 已结束  | 2017-09-24 - 2017-12-24 |      |
-| [唯品会用户购买行为预测](http://www.datafountain.cn/#/competitions/260/intro) | 已结束  |  2017.5.22 - 2017.7.20  |      |
-| [肉鸡销售预测](http://www.datafountain.cn/#/competitions/259/intro) | 已结束  |  2017.5.22 - 2017.7.20  |      |
-| [京东JData算法大赛-高潜用户购买意向预测](http://www.datafountain.cn/#/competitions/247/intro) | 已结束  |  2017.3.19 - 2017.5.25  |      |
-| [依据用户轨迹的商户精准营销](http://www.datafountain.cn/#/competitions/245/intro) | 已结束  | 2016.12.17 - 2016.12.23 |      |
-| [FutureData大数据大赛：农产品价格预测分析](http://www.datafountain.cn/#/competitions/244/intro) | 已结束  | 2016.12.17 - 2016.12.23 |      |
-| [FutureData大数据大赛：基于多源数据的青藏高原湖泊面积预测](http://www.datafountain.cn/#/competitions/243/intro) | 已结束  | 2016.12.17 - 2016.12.23 |      |
-| [P2P网络借贷平台的经营风险量化分析](http://www.datafountain.cn/#/competitions/233/intro) | 已结束  | 2015.12.19 - 2015.12.20 |      |
-| [京东商品图片分类算法](http://www.datafountain.cn/#/competitions/232/intro) | 已结束  | 2015.9.29 - 2015.12.19  |      |
-| [广告点击行为预测](http://www.datafountain.cn/#/competitions/231/intro) | 已结束  | 2015.9.29 - 2015.12.19  |      |
-| [垃圾短信基于文本内容识别](http://www.datafountain.cn/#/competitions/227/intro) | 已结束  | 2015.9.29 - 2015.12.20  |      |
-| [判决文书中的金额项提取](http://www.datafountain.cn/#/competitions/226/intro) | 已结束  | 2015.9.29 - 2015.12.20  |      |
+| 比赛项目                                                     |  状态  |         时间轴          | 备注 |
+| ------------------------------------------------------------ | :----: | :---------------------: | :--: |
+| [2018平安产险数据建模大赛 驾驶行为预测驾驶风险](http://www.datafountain.cn/#/competitions/284/intro) | 进行中 | 2018-03-20 - 2018-07-13 |      |
+| [2018“云移杯- 景区口碑评价分值预测](http://www.datafountain.cn/#/competitions/283/intro) | 进行中 | 2018-01-17 - 2018-04-15 |      |
+| [商场中精确定位用户所在店铺](http://www.datafountain.cn/#/competitions/279/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
+| [基于合成数据的Logo识别](http://www.datafountain.cn/#/competitions/278/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
+| [AlphaGo之后“人机大战”Round 2 ——机器写作与人类写作的巅峰对决](http://www.datafountain.cn/#/competitions/276/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
+| [复杂海情和气象条件下的海上船只识别](http://www.datafountain.cn/#/competitions/275/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
+| [小超市供销存管理优化](http://www.datafountain.cn/#/competitions/274/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
+| [城市自行车的出行行为分析及效率优化](http://www.datafountain.cn/#/competitions/273/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
+| [企业经营退出风险预测](http://www.datafountain.cn/#/competitions/271/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
+| [卫星影像的AI分类与识别](http://www.datafountain.cn/#/competitions/270/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
+| [基于机构实体的智能摘要和风险等级识别](http://www.datafountain.cn/#/competitions/269/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
+| [基于主题的文本情感分析](http://www.datafountain.cn/#/competitions/268/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
+| [唯品会用户购买行为预测](http://www.datafountain.cn/#/competitions/260/intro) | 已结束 |  2017.5.22 - 2017.7.20  |      |
+| [肉鸡销售预测](http://www.datafountain.cn/#/competitions/259/intro) | 已结束 |  2017.5.22 - 2017.7.20  |      |
+| [京东JData算法大赛-高潜用户购买意向预测](http://www.datafountain.cn/#/competitions/247/intro) | 已结束 |  2017.3.19 - 2017.5.25  |      |
+| [依据用户轨迹的商户精准营销](http://www.datafountain.cn/#/competitions/245/intro) | 已结束 | 2016.12.17 - 2016.12.23 |      |
+| [FutureData大数据大赛：农产品价格预测分析](http://www.datafountain.cn/#/competitions/244/intro) | 已结束 | 2016.12.17 - 2016.12.23 |      |
+| [FutureData大数据大赛：基于多源数据的青藏高原湖泊面积预测](http://www.datafountain.cn/#/competitions/243/intro) | 已结束 | 2016.12.17 - 2016.12.23 |      |
+| [P2P网络借贷平台的经营风险量化分析](http://www.datafountain.cn/#/competitions/233/intro) | 已结束 | 2015.12.19 - 2015.12.20 |      |
+| [京东商品图片分类算法](http://www.datafountain.cn/#/competitions/232/intro) | 已结束 | 2015.9.29 - 2015.12.19  |      |
+| [广告点击行为预测](http://www.datafountain.cn/#/competitions/231/intro) | 已结束 | 2015.9.29 - 2015.12.19  |      |
+| [垃圾短信基于文本内容识别](http://www.datafountain.cn/#/competitions/227/intro) | 已结束 | 2015.9.29 - 2015.12.20  |      |
+| [判决文书中的金额项提取](http://www.datafountain.cn/#/competitions/226/intro) | 已结束 | 2015.9.29 - 2015.12.20  |      |
 
 
 
