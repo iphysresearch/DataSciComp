@@ -12,7 +12,7 @@
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
 - [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛) 
 - [CCDM-2018](#ccdm-2018) 
-- [TinyMind](#tingmind)（新）
+- [TinyMind](#tinymind)（新）
 - [天池](#天池)
 - [DataCastle](#datacastle)（新）
 - [Biendata](#biendata)
