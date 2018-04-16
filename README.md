@@ -1,4 +1,4 @@
-> 2018-4-8 Update!
+> 2018-4-16 Update!
 
 #### Table of contents
 
@@ -31,7 +31,7 @@
 
 ## Active Competitons to join
 
-> 2018-4-8 Update!
+> 2018-4-16 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
