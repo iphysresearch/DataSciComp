@@ -9,7 +9,7 @@
 
 - [Kaggle](#kaggle) （新）
 - [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)（新）
-- [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛（蚂蚁金服）)（新）
+- [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛 - 蚂蚁金服)（新）
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
 - [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛) 
@@ -170,7 +170,7 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 
 
-## ATEC人工智能大赛（蚂蚁金服）
+## ATEC人工智能大赛 - 蚂蚁金服
 
 ![](https://i.loli.net/2018/04/18/5ad6cea723180.gif)
 
