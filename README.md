@@ -1,4 +1,4 @@
-> 2018-4-16 Update!
+> 2018-4-18 Update!
 
 #### Table of contents
 
@@ -9,6 +9,7 @@
 
 - [Kaggle](#kaggle) （新）
 - [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)（新）
+- [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛（蚂蚁金服）)（新）
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
 - [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛) 
@@ -18,7 +19,7 @@
 - [DataCastle](#datacastle)（新）
 - [Biendata](#biendata)
 - [DataFountain](#datafountain)
-- [Kesci](#kesci)
+- [Kesci](#kesci)（新）
 - [SODA](#soda)
 - [数据嗨客](#数据嗨客)
 - [数愿](#数愿)
@@ -31,7 +32,7 @@
 
 ## Active Competitons to join
 
-> 2018-4-16 Update!
+> 2018-4-18 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
@@ -53,6 +54,7 @@
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) | Kaggle        | NaN               | NaN                 |
 | [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) | Kaggle        | NaN               | NaN                 |
 | [**OpenAI 迁移学习竞赛**](https://contest.openai.com/)       | OpenAI        | 2018-06-05        | NaN                 |
+| **[ATEC人工智能大赛](https://dc.cloud.alipay.com/index#/home)** | 蚂蚁金服      | 2018-07-09        | ~￥120万            |
 | [**零样本学习**](https://challenger.ai/competition/zsl2018)  | AI Challenger | 2018-04-23        | ¥30,000             |
 | [2018年国际大学生类脑计算创新应用大赛](https://contest.cbicr.org) | cbicr         | 2018-07-29        | ￥100 W             |
 | [第三届中国数据挖掘大赛（**国际首次蝴蝶识别大赛**）](http://ccdm2018.sdufe.edu.cn/sjwjjs.htm) | CCDM          | 2018-04-30        | ~ ￥5w              |
@@ -75,6 +77,7 @@
 | **[KDD CUP of Fresh Air](https://biendata.com/competition/kdd_2018/)** | Biendata      | 2018/5/7          | 21,500美元          |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata      | 2020.1.1          | NaN                 |
 | **[2018平安产险数据建模大赛 驾驶行为预测驾驶风险](http://www.datafountain.cn/#/competitions/284/intro)** | DataFountain  | 2018.6.9          | ~￥40万             |
+| **[2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4)** | Kesci         | 2018.6.16         | ~￥60万             |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci         | Always            | NaN                 |
 
 ---
@@ -163,6 +166,62 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 >
 > retro-baseline 地址：https://github.com/openai/retro-baselines
 
+
+
+
+
+## ATEC人工智能大赛（蚂蚁金服）
+
+![](https://i.loli.net/2018/04/18/5ad6cea723180.gif)
+
+竞赛官网：[PC 端](https://dc.cloud.alipay.com/index#/home)，[手机端](https://dc.antfin.com/index?from=singlemessage&isappinstalled=0#/home)
+
+链接：[蚂蚁金服科技的报道](https://mp.weixin.qq.com/s/QmhCzWEKsCgZyRAHgRvnHg)
+
+- **赛题一：风险大脑——支付风险识别**
+
+> 【技术领域】数据挖掘、机器学习
+
+- **赛题二：金融大脑——智能金融服务**
+
+> 【技术领域】自然语义理解NLP、深度学习
+
+**【大赛亮点】**
+
+> - **最前沿：金融科技行业级高质量课题**
+> - **最权威：中、美、英全球顶尖AI长老联合发布**
+> - **最大咖：世界级大咖全程赛事指导**
+> - **最心动：百万奖金池，亿级实践场景**
+
+ **【奖项及激励】**
+
+- **单题奖金**
+
+> **一等奖：一支队伍，** **300000元/队 **
+>
+> **二等奖：一支队伍，** **200000元/队**
+>
+> **三等奖：一支队伍，** **100000元/队**
+
+- **TOP20** **优胜奖：** **大赛认证证书**
+
+> 1. **蚂蚁金服集团技术岗绿色通道**
+>
+> （前三名，直通终面资格，第四-二十名，免笔试初试资格。每队至少一人，一年内有效）
+>
+> 2. **学界实验室：高校深度合作项目机会**
+> 3. **创客团队：技术投资合作机会**
+
+- **赛程**
+
+比赛将于**4月25日发布会（10：00-12:00）**结束后正式启动，数据集也将在比赛启动后正式开放下载。
+
+
+
+
+
+
+
 ## AI Challenger 全球AI挑战赛
 
 > Official Website：https://challenger.ai
@@ -197,6 +256,10 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 | [图像中文描述](https://challenger.ai/competition/caption) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
 | [虚拟股票趋势预测](https://challenger.ai/competition/trendsense) (实验赛道) |  结束  | 2017/9/4 - 2017/10/31 - 2017/12/3 | ¥50,000  |
 
+
+
+
+
 ## 2018年国际大学生类脑计算创新应用大赛
 
 官方网址：https://contest.cbicr.org
@@ -206,6 +269,12 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 > 报名截止日期为2018年7月29日(星期日) 晚上23:59
 >
 > 大赛**总奖金100万元**
+
+
+
+
+
+
 
 ## 第六届-泰迪杯数据挖掘挑战赛
 
@@ -226,6 +295,10 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 
 
+
+
+
+
 ## TinyMind
 
 来自 CSDN。
@@ -234,6 +307,10 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 | :----------------------------------------------------------: | :----: | :---------------------: | :----: |
 | [TinyMind第一届汉字书法识别挑战赛](http://www.tinymind.cn/competitions/41) | 进行中 | 2018.04.02 - 2018.06.08 |   -    |
 |                                                              |        |                         |        |
+
+
+
+
 
 
 
@@ -260,6 +337,8 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 > 单项奖2队：2500元（每队）（蝴蝶位置检测奖、蝴蝶分类奖）。
 >
 > 部分获奖队伍将被邀请撰写学术论文，推荐到《计算机研究与发展》期刊。
+
+
 
 
 
@@ -336,6 +415,10 @@ https://tianchi.aliyun.com/
 | [资金流入流出预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=3) | 已结束 |    2015.7.25     |  300000   |
 | [阿里移动推荐算法](https://tianchi.aliyun.com/competition/introduction.htm?raceId=1) | 已结束 |     2015.7.1     |  300000   |
 
+
+
+
+
 ## DataCastle
 
 > 源自电子科技大学，具有较高的学术背景和技术背景，主要面向国内用户，2014年产品上线。
@@ -382,6 +465,10 @@ http://www.pkbigdata.com
 
 
 
+
+
+
+
 ## Biendata
 
 > [Biendata.com](https://biendata.com/) is a platform for providing data science competitions to meet different enterprises and organizations needs. We are committed to helping you solve challenging data related problems in order to make your business more smart.
@@ -405,6 +492,10 @@ https://biendata.com/competition/
 | [2016 Byte Cup国际机器学习竞赛](https://biendata.com/competition/bytecup2016/) | 已结束 | 2016.8.15 - 2016.11.20 |      |
 | [SMP CUP 2016](https://biendata.com/competition/smpcup2016/) | 已结束 | 2016.7.20 - 2016.9.21  |      |
 | [KDD Cup 2015](https://biendata.com/competition/kddcup2015/) | 已结束 |  2015.5.1 - 2015.7.12  |      |
+
+
+
+
 
 
 
@@ -456,6 +547,7 @@ https://www.kesci.com/
 
 | 比赛项目                                                     |  状态  |         时间轴          |                             备注                             |
 | ------------------------------------------------------------ | :----: | :---------------------: | :----------------------------------------------------------: |
+| **[2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4)** | 进行中 |  2018.5.26 - 2018.8.18  |                            限学生                            |
 | [百度 PaddlePaddle AI 大赛——综艺节目精彩片段预测](https://www.kesci.com/apps/home/competition/5a41bca63bf3464aab731a31) | 已结束 | 2017.12.28 - 2018.3.15  |                                                              |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | 进行中 |  2017.9.28 - 2020.9.28  | [DATA TRAIN](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) |
 | [TAIL CAMP——AI实战训练营 自然语言处理](https://www.kesci.com/apps/home/competition/5a6b533aafceb51770d6a481) | 已结束 |  2018.1.28 - 2018.2.13  | [TAIL CAMP](https://www.kesci.com/apps/home/competition/5a6b533aafceb51770d6a481) |
