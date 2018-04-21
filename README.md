@@ -1,4 +1,4 @@
-> 2018-4-21 Update!
+> 2018-4-22 Update!
 >
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 
@@ -17,6 +17,8 @@
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
 - [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛) 
 - [CCDM-2018](#ccdm-2018) 
+- [2018机器阅读理解技术竞赛](#2018机器阅读理解技术竞赛)
+- [**第二届“讯飞杯”中文机器阅读理解评测**](#第二届“讯飞杯”中文机器阅读理解评测)（新）
 - [TinyMind](#tinymind)（新）
 - [天池](#天池)（新）
 - [DataCastle](#datacastle)（新）
@@ -31,11 +33,11 @@
 - [第三届数据新闻比赛](#第三届数据新闻比赛)
 
 
-
+<br>
 
 ## Active Competitons to join
 
-> 2018-4-21 Update!
+> 2018-4-22 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
@@ -72,14 +74,13 @@
 | **[ATEC人工智能大赛](https://dc.cloud.alipay.com/index#/home)** | 蚂蚁金服      | 2018-07-09        | ~￥120 W            |
 | [**零样本学习**](https://challenger.ai/competition/zsl2018)  | AI Challenger | 2018-04-23        | ¥30,000             |
 | [2018年国际大学生类脑计算创新应用大赛](https://contest.cbicr.org) | cbicr         | 2018-07-29        | ￥100 W             |
-| [第三届中国数据挖掘大赛（**国际首次蝴蝶识别大赛**）](http://ccdm2018.sdufe.edu.cn/sjwjjs.htm) | CCDM          | 2018-04-30        | ~ ￥5w              |
+| [第三届中国数据挖掘大赛（**国际首次蝴蝶识别大赛**）](http://ccdm2018.sdufe.edu.cn/sjwjjs.htm) | CCDM          | 2018-04-30        | ~ ￥5W              |
+| **[第二届“讯飞杯”中文机器阅读理解评测](http://www.hfl-tek.com/cmrc2018/)** | CCL           | 2018-04-22        | ~ ￥45W             |
 | **[TinyMind第一届汉字书法识别挑战赛](http://www.tinymind.cn/competitions/41)** | TinyMind      | 2018.06.08        | 前5名获得技术书籍！ |
 | [Tianchi x MSU Hackathon - Alimama International Advertising Algorithm Competition](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.3a85d780vfsvZ5&raceId=231656) | 天池          | 2018/04/23        | $1000               |
 | [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) | 天池          | 2018-05-28        | ￥40000             |
 | [ICPR 2018 挑战赛二：网络图像的文本检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231651) | 天池          | 2018-05-28        | ￥30000             |
 | [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) | 天池          | 2018-05-28        | ￥30000             |
-| [FashionAI全球挑战赛—服饰属性标签识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231649) | 天池          | 2018-04-21        | ￥1340000           |
-| [FashionAI全球挑战赛—服饰关键点定位](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231648) | 天池          | 2018-04-21        | ￥1340000           |
 | [IJCAI-18 阿里妈妈搜索广告转化预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231647) | 天池          | 2018-04-22        | $37000              |
 | [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池          | 2018-09-01        | $ 0                 |
 | [**2018腾讯广告算法大赛**](http://www.dcjingsai.com/common/cmpt/2018腾讯广告算法大赛_竞赛信息.html) | DataCastle    | 2018.5.9          | ~￥450,000          |
@@ -155,6 +156,10 @@
 | [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge) |    Research     |             -             |      -      |
 | [Invasive Species Monitoring](https://www.kaggle.com/c/invasive-species-monitoring) |   Playground    |             -             |      -      |
 
+<br>
+
+<br>
+
 ## NIPS 2018 Competition Track
 
 > This is the second NIPS edition on "NIPS Competitions".
@@ -178,6 +183,10 @@ More details below!
 | The AI Driving Olympics                                      |       July 15th       |       Dec 7th       |                                                              |
 | [AI for prosthetics](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge ) |       June 1st        |      Sep 30th       |                                                              |
 
+<br>
+
+<br>
+
 ## GECCO 2018 Competition
 
 > In 2018, we have a number of competitions ranging from different types of optimization problems to games and industrial problems. If you are interested in one or the other competition, please follow the links to their respective web pages (see list below).
@@ -194,7 +203,9 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 | [Internet of Things: Online Anomaly Detection for Drinking Water Quality](http://www.spotseven.de/gecco/gecco-challenge/) | June 30, 2018       |
 | [Virtual Creatures Competition](https://virtualcreatures.github.io/vc2018/) | June 22, 2018       |
 
+<br>
 
+<br>
 
 
 
@@ -218,7 +229,9 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 >
 > retro-baseline 地址：https://github.com/openai/retro-baselines
 
+<br>
 
+<br>
 
 
 
@@ -270,14 +283,16 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 
 
+<br>
 
+<br>
 
 
 
 ## AI Challenger 全球AI挑战赛
 
 
-<img src="https://i.loli.net/2018/04/21/5adaf29e8ddb6.png" style="height:200px" />
+![](https://i.loli.net/2018/04/22/5adb64a67485f.png)
 
 
 > Official Website：https://challenger.ai
@@ -314,7 +329,9 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 
 
+<br>
 
+<br>
 
 ## 2018年国际大学生类脑计算创新应用大赛
 
@@ -328,7 +345,9 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 
 
+<br>
 
+<br>
 
 
 
@@ -351,6 +370,46 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 
 
+<br>
+
+<br>
+
+## 2018机器阅读理解技术竞赛
+
+> 机器阅读理解(Machine Reading Comprehension)是指让机器阅读文本，然后回答和阅读内容相关的问题。阅读理解是自然语言处理和人工智能领域的重要前沿课题，对于提升机器智能水平、使机器具有持续知识获取能力具有重要价值，近年来受到学术界和工业界的广泛关注。
+>
+> 为了促进阅读理解技术发展，[中国中文信息学会](http://www.cipsc.org.cn/)、[中国计算机学会](http://www.ccf.org.cn/)和[百度公司](http://home.baidu.com/)联手举办“2018机器阅读理解技术竞赛”。竞赛将提供面向真实应用场景的大规模中文阅读理解数据集， 旨在为研究者提供学术交流平台，进一步提升阅读理解的研究水平， 推动语言理解和人工智能领域技术和应用的发展。竞赛将在第三届“[语言与智能高峰论坛](http://tcci.ccf.org.cn/summit/2017/index.php)”举办技术交流和颁奖。诚邀学术界和工业界的研究者和开发者参加本次竞赛！
+
+Website：http://mrc2018.cipsc.org.cn  also [NLPCC 2018 Events](http://tcci.ccf.org.cn/conference/2018/cfpnlp.php)
+
+报名时间：2018年3月1日至2018年3月31日
+
+![](https://i.loli.net/2018/04/22/5adb60b946193.png)
+
+![](https://i.loli.net/2018/04/22/5adb61134e1ca.png)
+
+<br>
+
+<br>
+
+
+
+## 第二届“讯飞杯”中文机器阅读理解评测
+
+> ![](https://i.loli.net/2018/04/22/5adb6294a2ca2.png)
+>
+> 作为全国计算语言学学术会议(CCL)的系列评测，今年我们继续举办**第二届“讯飞杯”中文机器阅读理解评测 (The Second Evaluation Workshop on Chinese Machine Reading Comprehension, CMRC2018)**，并将于2018年下半年与**第十七届全国计算语言学学术会议**（CCL2018，2018年10月19日~21日，湖南长沙）共同召开。
+>
+> 今年我们将聚焦**基于篇章片段抽取的阅读理解(Span-Extraction Machine Reading Comprehension)**，作为填空型阅读理解任务的进一步延伸。虽然在英文阅读理解研究上有例如斯坦福SQuAD、NewsQA等篇章片段抽取型阅读理解数据集，但目前相关中文资源仍然处于空白状态。本届中文机器阅读理解评测将开放**首个人工标注的中文篇章片段抽取型阅读理解数据集**，参赛选手需要对篇章、问题进行建模，并从篇章中抽取出连续片段作为答案。 **本次评测依然采取训练集、开发集公开，测试集隐藏的形式以保证评测的公平性。**
+
+Website：http://www.hfl-tek.com/cmrc2018/
+
+![](https://i.loli.net/2018/04/22/5adb623bc241e.png)
+
+<br>
+
+<br>
+
 
 
 
@@ -364,7 +423,9 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 | [TinyMind第一届汉字书法识别挑战赛](http://www.tinymind.cn/competitions/41) | 进行中 | 2018.04.02 - 2018.06.08 |   -    |
 |                                                              |        |                         |        |
 
+<br>
 
+<br>
 
 
 
@@ -399,7 +460,9 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 
 
+<br>
 
+<br>
 
 
 
@@ -477,6 +540,10 @@ https://tianchi.aliyun.com/
 
 
 
+<br>
+
+<br>
+
 
 
 ## DataCastle
@@ -525,7 +592,9 @@ http://www.pkbigdata.com
 | [学生成绩排名预测](http://www.pkbigdata.com/common/cmpt/学生成绩排名预测_竞赛信息.html) | 可参加 | 2014.12.11 - 2015.3.12  |            |
 | [CCF大数据竞赛](http://www.pkbigdata.com/common/cmpt/CCF大数据竞赛_竞赛信息.html) | 可参加 |  2014.9.1 - 2014.11.15  |            |
 
+<br>
 
+<br>
 
 
 
@@ -558,7 +627,9 @@ https://biendata.com/competition/
 
 
 
+<br>
 
+<br>
 
 
 
@@ -599,6 +670,10 @@ Website：http://www.datafountain.cn/
 | [判决文书中的金额项提取](http://www.datafountain.cn/#/competitions/226/intro) | 已结束 | 2015.9.29 - 2015.12.20  |      |
 
 
+
+<br>
+
+<br>
 
 ## Kesci
 
@@ -650,6 +725,8 @@ https://www.kesci.com/
 
 
 
+<br><br>
+
 ## SODA
 
 http://shanghai.sodachallenges.com
@@ -670,6 +747,10 @@ http://shanghai.sodachallenges.com
 
 
 
+<br>
+
+<br>
+
 ## 数据嗨客
 
 数据嗨客（HackData）是全球首家大数据教育、竞赛和服务平台。作为数据科学家的有力工具，为有数据分析建模学习及练习需求的用户提供可以自主学习实战演练的在线平台。通过平台集合大数据的从业人员和爱好者，促进他们的交流并创造更多商业机会。
@@ -677,6 +758,10 @@ http://shanghai.sodachallenges.com
 http://hackdata.cn
 
 
+
+<br>
+
+<br>
 
 ## 数愿
 
@@ -691,6 +776,10 @@ http://www.datadreams.org
 
 
 
+<br>
+
+<br>
+
 
 ## 竞技乎
 
@@ -704,11 +793,19 @@ http://www.jinji.hu
 
 
 
+<br>
+
+<br>
+
 ## 知数学院
 
 http://www.zhishu51.com
 
 
+
+<br>
+
+<br>
 
 ## 第三届数据新闻比赛
 
