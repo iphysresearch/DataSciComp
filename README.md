@@ -1,4 +1,6 @@
 > 2018-4-21 Update!
+>
+> Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 
 #### Table of contents
 
