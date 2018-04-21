@@ -2,7 +2,7 @@
 
 #### Table of contents
 
-- [**Active Competitons to Join **](#active-competitons-to-join)  < == Check me first!!
+- [**Active Competitons to Join**](#active-competitons-to-join)  <== **Check me first!!**
 
 ---
 
