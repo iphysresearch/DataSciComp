@@ -1,4 +1,4 @@
-> 2018-4-26 Update!
+> 2018-4-27 Update!
 >
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 
@@ -37,15 +37,16 @@
 
 ## Active Competitons to join
 
-> 2018-4-26 Update!
+> 2018-4-27 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
 | Active Competitons to join                                   | From..       | Entry deadline    | Prize Money         |
 | ------------------------------------------------------------ | ------------ | ----------------- | ------------------- |
 | [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) | Kaggle       | 2018.7.24         | -                   |
-| **[CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving)** | Kaggle       | 2018.6.4          | $2,500              |
+| [CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving) | Kaggle       | 2018.6.4          | $2,500              |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) | Kaggle       | -                 | -                   |
+| **[Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction)** | Kaggle       | 2018.6.20         | $25,000             |
 | [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) | Kaggle       | 2018.4.30         | $25,000             |
 | [Google Cloud & NCAA® ML Competition 2018-Women's](https://www.kaggle.com/c/womens-machine-learning-competition-2018) | Kaggle       | 2018.5.11         | $50,000             |
 | [Google Cloud & NCAA® ML Competition 2018-Men's](https://www.kaggle.com/c/mens-machine-learning-competition-2018) | Kaggle       | 2018.5.10         | $50,000             |
@@ -116,8 +117,9 @@
 | Competiton                                                   |    Category     | Final submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------------: | :---------: |
 | [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) |    Research     |         2018.7.24         |      -      |
-| [CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving) |    Research     |         2018.6.11         |   $2,500    |
+| [CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving) |    Research     |                           |   $2,500    |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) |   Playground    |             -             |      -      |
+| **[Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction)** |    Featured     |         2018.6.27         |   $25,000   |
 | [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) |    Featured     |         2018.5.7          |   $25,000   |
 | [DonorsChoose.org Application Screening](https://www.kaggle.com/c/donorschoose-application-screening) |   Playground    |         2018.4.25         |      -      |
 | [Google Landmark Retrieval Challenge](https://www.kaggle.com/c/landmark-retrieval-challenge) |    Research     |         2018.5.22         |   $2,500    |
