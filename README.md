@@ -18,11 +18,11 @@
 - [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛) 
 - [CCDM-2018](#ccdm-2018) 
 - [2018机器阅读理解技术竞赛](#2018机器阅读理解技术竞赛)
-- [**第二届"讯飞杯"中文机器阅读理解评测**](#第二届讯飞杯中文机器阅读理解评测)（新）
+- [第二届"讯飞杯"中文机器阅读理解评测](#第二届讯飞杯中文机器阅读理解评测)
 - [TinyMind](#tinymind)（新）
-- [天池](#天池)（新）
-- [DataCastle](#datacastle)（新）
-- [Biendata](#biendata)
+- [天池](#天池)
+- [DataCastle](#datacastle)
+- [Biendata](#biendata)（新）
 - [DataFountain](#datafountain)
 - [Kesci](#kesci)（新）
 - [SODA](#soda)
@@ -664,7 +664,7 @@ https://biendata.com/competition/
 
 | 比赛项目                                                     |  状态  |         时间轴         | 备注 |
 | ------------------------------------------------------------ | :----: | :--------------------: | :--: |
-| [CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/) | 进行中 |  2018.4.27 - 2018-7-2  |      |
+| **[CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/)** | 进行中 |  2018.4.27 - 2018-7-2  |      |
 | [搜狐第二届算法大赛](https://biendata.com/competition/sohu2018/) | 进行中 | 2018.3.19 - 2018.5.21  |      |
 | [KDD CUP of Fresh Air](https://biendata.com/competition/kdd_2018/) | 进行中 | 2018.3.15 - 2018.5.31  |      |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | 进行中 |  2017.5.12 - 2020.1.1  |      |
