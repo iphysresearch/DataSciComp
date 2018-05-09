@@ -73,6 +73,7 @@
 | [Internet of Things: Online Anomaly Detection for Drinking Water Quality](http://www.spotseven.de/gecco/gecco-challenge/) | **GECCO**      | June 30, 2018     |                     |
 | [Virtual Creatures Competition](https://virtualcreatures.github.io/vc2018/) | **GECCO**      | June 22, 2018     |                     |
 | [**OpenAI 迁移学习竞赛**](https://contest.openai.com/)       | OpenAI         | 2018-06-05        | NaN                 |
+| [**京东AI时尚挑战赛**](https://fashion-challenge.github.io/#index) | JD             | 2018-07-20        | -                   |
 | **[ATEC人工智能大赛](https://dc.cloud.alipay.com/index#/home)** | 蚂蚁金服       | 2018-07-09        | ~￥120 W            |
 | [北京市高校校园大数据竞赛](https://bigdata.bupt.edu.cn)      | 北邮+北师+农大 | 线下              | -                   |
 | [2018年国际大学生类脑计算创新应用大赛](https://contest.cbicr.org) | cbicr          | 2018-07-29        | ￥100 W             |
