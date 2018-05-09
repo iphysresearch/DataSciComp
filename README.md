@@ -12,6 +12,7 @@
 - [**NIPS 2018 Competition Track**](#nips-2018-competition-track)
 - [**GECCO 2018 Competition**](#gecco-2018-competition)
 - [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)
+- **[京东AI时尚挑战赛](#京东ai时尚挑战赛)**（新）
 - [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛---蚂蚁金服)（新）
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
 - [北京市高校校园大数据竞赛](#北京市高校校园大数据竞赛)（新）
@@ -234,7 +235,21 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 <br>
 
+## 京东AI时尚挑战赛
 
+![](https://i.loli.net/2018/05/09/5af2be7d55f39.png)
+
+> 竞赛官网：https://fashion-challenge.github.io/#index
+>
+> 题目1：**时尚风格识别**
+>
+> 题目2：**时尚单品搜索**
+
+![](https://i.loli.net/2018/05/09/5af2bf2e8627f.png)
+
+<br>
+
+<br>
 
 ## ATEC人工智能大赛 - 蚂蚁金服
 
