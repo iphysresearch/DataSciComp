@@ -44,7 +44,6 @@
 
 | Active Competitons to join                                   | From..         | Entry deadline    | Prize Money         |
 | ------------------------------------------------------------ | -------------- | ----------------- | ------------------- |
-| **[TrackML Particle Tracking Challenge](https://www.kaggle.com/c/trackml-particle-identification#Prizes)** (CERN) | Kaggle         | 2018.8.6          | $25,000             |
 | [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) | Kaggle         | 2018.7.24         | -                   |
 | [CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving) | Kaggle         | 2018.6.4          | $2,500              |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) | Kaggle         | -                 | -                   |
@@ -90,8 +89,6 @@
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle     | 2020.12.31        | NaN                 |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle     | 2020.12.31        | NaN                 |
 | **[CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/)** | Biendata       | 2018.7.15         | NaN                 |
-| [搜狐第二届算法大赛](https://biendata.com/competition/sohu2018/) | Biendata       | 2018.5.7          | ￥100,000           |
-| [KDD CUP of Fresh Air](https://biendata.com/competition/kdd_2018/) | Biendata       | 2018/5/7          | 21,500美元          |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata       | 2020.1.1          | NaN                 |
 | [2018平安产险数据建模大赛 驾驶行为预测驾驶风险](http://www.datafountain.cn/#/competitions/284/intro) | DataFountain   | 2018.6.9          | ~￥40万             |
 | **[用户兴趣建模大赛](https://www.kesci.com/apps/home/competition/5ad306e633a98340e004f8d1)** | Kesci          | 2018.5.31         | ~￥30万             |
@@ -511,7 +508,7 @@ https://www.kesci.com/
 | ------------------------------------------------------------ | :----: | :---------------------: | :----------------------------------------------------------: |
 | [用户兴趣建模大赛](https://www.kesci.com/apps/home/competition/5ad306e633a98340e004f8d1)（快手） | 进行中 |   2018.5.7 - 2018.8.6   |                                                              |
 | **[2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4)** | 进行中 |  2018.5.26 - 2018.8.18  |                            限学生                            |
-| **[百度 PaddlePaddle AI 大赛——智能问答](https://www.kesci.com/apps/home/competition/5ad56e667238515d80b53704)** | 进行中 |  2018.4.26 - 2018.6.18  |                                                              |
+| [百度 PaddlePaddle AI 大赛——智能问答](https://www.kesci.com/apps/home/competition/5ad56e667238515d80b53704) | 进行中 |  2018.4.26 - 2018.6.18  |                                                              |
 | [百度 PaddlePaddle AI 大赛——综艺节目精彩片段预测](https://www.kesci.com/apps/home/competition/5a41bca63bf3464aab731a31) | 已结束 | 2017.12.28 - 2018.3.15  |                                                              |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | 进行中 |  2017.9.28 - 2020.9.28  | [DATA TRAIN](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) |
 | [TAIL CAMP——AI实战训练营 自然语言处理](https://www.kesci.com/apps/home/competition/5a6b533aafceb51770d6a481) | 已结束 |  2018.1.28 - 2018.2.13  | [TAIL CAMP](https://www.kesci.com/apps/home/competition/5a6b533aafceb51770d6a481) |
@@ -567,7 +564,7 @@ http://www.pkbigdata.com
 | 比赛项目                                                     |  状态  |         时间轴          |    备注    |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--------: |
 | **[华录杯](http://www.dcjingsai.com/common/cmpt/华录杯_竞赛信息.html)** | 进行中 |         暂不详          |  ~￥100W   |
-| **[2018腾讯广告算法大赛](http://www.dcjingsai.com/common/cmpt/2018腾讯广告算法大赛_竞赛信息.html)** | 进行中 |  2018.3.15 - 2018.6.13  | ~￥450,000 |
+| [2018腾讯广告算法大赛](http://www.dcjingsai.com/common/cmpt/2018腾讯广告算法大赛_竞赛信息.html) | 进行中 |  2018.3.15 - 2018.6.13  | ~￥450,000 |
 | **[基于人工智能的药物分子筛选](http://www.dcjingsai.com/common/cmpt/基于人工智能的药物分子筛选_竞赛信息.html)** | 进行中 |  2018.4.9 - 2018.5.21   |  ￥ 50000  |
 | **[“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/“量子杯”全国高校量化大赛_竞赛信息.html)** | 进行中 |  2018.4.16 - 2018.9.21  |            |
 | [凤凰金融量化投资大赛](http://www.dcjingsai.com/common/cmpt/凤凰金融量化投资大赛_竞赛信息.html) | 进行中 |  2018.3.28 - 2018.7.8   |            |
