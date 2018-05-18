@@ -1,4 +1,4 @@
-> ##2018-5-16 Update!
+> ##2018-5-18 Update!
 >
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 
@@ -10,21 +10,28 @@
 
 - [Kaggle](#kaggle) （新）
 - [CodaLab](#codalab)（新）
+- [crowdAI](#crowdai)（新）
 - [**NIPS 2018 Competition Track**](#nips-2018-competition-track)
 - [**GECCO 2018 Competition**](#gecco-2018-competition)
 - **[Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)**（新）
 - [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)
-- **[京东AI时尚挑战赛](#京东ai时尚挑战赛)**（新）
-- [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛---蚂蚁金服)（新）
+- **[Momenta Car Detection Challenge (MCDC)](#momenta-car-detection-challenge)**（新）
+- [京东AI时尚挑战赛](#京东ai时尚挑战赛)
+- [京东JD Dialog Challenge人机对话挑战赛](#京东jd-dialog-challenge人机对话挑战赛)（新）
+- [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛---蚂蚁金服)
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
+- [**中国法研杯司法人工智能挑战赛**](#中国法研杯司法人工智能挑战赛)（新）
 - [北京市高校校园大数据竞赛](#北京市高校校园大数据竞赛)（新）
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
-- [TinyMind](#tinymind)（新）
-- [天池](#天池)
-- [Kesci](#kesci)（新）
-- [DataCastle](#datacastle)
-- [Biendata](#biendata)（新）
+- [TinyMind](#tinymind)
+- [天池](#天池)（新）
+- [JData](#jdata)（新）
+- [点石](#点石)（新）
+- [Kesci](#kesci)
+- [DataCastle](#datacastle)（新）
+- [Biendata](#biendata)
 - [DataFountain](#datafountain)
+- [智慧金融马上AI全球挑战者大赛](#智慧金融马上ai全球挑战者大赛)
 - [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛) 
 - [CCDM-2018](#ccdm-2018) 
 - [2018机器阅读理解技术竞赛](#2018机器阅读理解技术竞赛)
@@ -41,16 +48,17 @@
 
 ## Active Competitons to join
 
-> 2018-5-16 Update!
+> 2018-5-18 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
 | Active Competitons to join                                   | From..              | Entry deadline               | Prize Money                 |
 | ------------------------------------------------------------ | ------------------- | ---------------------------- | --------------------------- |
+| **[Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk#Timeline)** | Kaggle              | 2018.8.22                    | $70,000                     |
 | [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) | Kaggle              | 2018.7.24                    | -                           |
 | [CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving) | Kaggle              | 2018.6.4                     | $2,500                      |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) | Kaggle              | -                            | -                           |
-| **[Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction)** | Kaggle              | 2018.6.20                    | $25,000                     |
+| [Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction) | Kaggle              | 2018.6.20                    | $25,000                     |
 | [iNaturalist Challenge at FGVC5](https://www.kaggle.com/c/inaturalist-2018) | Kaggle              | 2018.5.28                    | -                           |
 | [iMaterialist Challenge (Furniture) at FGVC5](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018#Timeline) | Kaggle              | 2018.5.23                    | $2,500                      |
 | [ImageNet Object Detection Challenge](https://www.kaggle.com/c/imagenet-object-detection-challenge) | Kaggle              | NaN                          | NaN                         |
@@ -59,7 +67,8 @@
 | [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) | Kaggle              | NaN                          | NaN                         |
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) | Kaggle              | NaN                          | NaN                         |
 | [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) | Kaggle              | NaN                          | NaN                         |
-| **[MCS 2018. Adversarial Attacks on Black Box Face Recognition](https://competitions.codalab.org/competitions/19090)** | **CodaLab**         | 2018.6.6                     | 300,000 RUB+ 3 NVIDIA GPU’s |
+| **[Telenav MapAI Contest](https://competitions.codalab.org/competitions/19024)** | **CodaLab**         | 2018.8.17                    | 300,000 RUB+ 3 NVIDIA GPU’s |
+| **[AI-generated music challenge](https://www.crowdai.org/challenges/ai-generated-music-challenge)** | **crowdAI**         |                              |                             |
 | [AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018) | **NIPS**            | Sep 24th                     | ~$15,000                    |
 | [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct 10th                     |                             |
 | [The Conversational Intelligence Challenge 2 (ConvAI2)](http://convai.io/) | **NIPS**            | Sep 30th                     | ~$20,000                    |
@@ -78,19 +87,30 @@
 | [Correction of Brainshift with Intra-Operative Ultrasound](https://curious2018.grand-challenge.org/) | **Grand-challenge** | Jun. 15th                    |                             |
 | [Multi-Organ Nuclei Segmentation Challenge](https://monuseg.grand-challenge.org/) | **Grand-challenge** | Jun. 15th                    |                             |
 | [**OpenAI 迁移学习竞赛**](https://contest.openai.com/)       | OpenAI              | 2018-06-05                   | NaN                         |
-| [**京东AI时尚挑战赛**](https://fashion-challenge.github.io/#index) | JD                  | 2018-07-20                   | -                           |
-| **[ATEC人工智能大赛](https://dc.cloud.alipay.com/index#/home)** | 蚂蚁金服            | 2018-07-09                   | ~￥120 W                    |
+| **[图像中车道线检测](https://zhuanlan.zhihu.com/p/36972707)**（线下赛） | MCDC                | 2018-05-25                   | -                           |
+| [京东AI时尚挑战赛](https://fashion-challenge.github.io/#index) | JD                  | 2018-07-20                   | -                           |
+| **[京东JD Dialog Challenge人机对话挑战赛](http://jddc.jd.com)** | JD                  | 2018-05-29                   | ￥850000                    |
+| [ATEC人工智能大赛](https://dc.cloud.alipay.com/index#/home)  | 蚂蚁金服            | 2018-07-09                   | ~￥120 W                    |
 | [北京市高校校园大数据竞赛](https://bigdata.bupt.edu.cn)      | 北邮+北师+农大      | 线下                         | -                           |
 | [2018年国际大学生类脑计算创新应用大赛](https://contest.cbicr.org) | cbicr               | 2018-07-29                   | ￥100 W                     |
 | **[TinyMind第一届汉字书法识别挑战赛](http://www.tinymind.cn/competitions/41)** | TinyMind            | 2018.06.08                   | 前5名获得技术书籍！         |
+| **[CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661)** | 天池                | 2018/07/30                   | €7500                       |
+| **[FDDC2018金融算法挑战赛－A股主板上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231660)** | 天池                | 2018/06/30                   | ￥840000                    |
+| **[FDDC2018金融算法挑战赛－A股主板上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231659)** | 天池                | 2018/07/08                   | ￥840000                    |
 | [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) | 天池                | 2018-05-28                   | ￥40000                     |
 | [ICPR 2018 挑战赛二：网络图像的文本检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231651) | 天池                | 2018-05-28                   | ￥30000                     |
 | [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) | 天池                | 2018-05-28                   | ￥30000                     |
 | [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池                | 2018-09-01                   | $ 0                         |
-| **[华录杯](http://www.dcjingsai.com/common/cmpt/华录杯_竞赛信息.html)** | DataCastle          | 暂不详                       | ~￥100 W                    |
-| **[基于人工智能的药物分子筛选](http://www.dcjingsai.com/common/cmpt/基于人工智能的药物分子筛选_竞赛信息.html)** | DataCastle          | 2018.5.21                    | ￥ 50000                    |
-| **[“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/%E2%80%9C%E9%87%8F%E5%AD%90%E6%9D%AF%E2%80%9D%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%87%8F%E5%8C%96%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)** | DataCastle          | 2018.6.17                    | ￥53,000                    |
-| **[凤凰金融量化投资大赛](http://www.dcjingsai.com/common/cmpt/%E5%87%A4%E5%87%B0%E9%87%91%E8%9E%8D%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)** | DataCastle          | 2018.4.13开始打榜            | ￥80,000                    |
+| **[GOC 城市物流运输车辆智能调度](https://jdata.jd.com/html/detail.html?id=5)** | JData               | 2018/07/09                   | ￥750,000                   |
+| **[GOC 仓储网络智能库存管理[初赛]](https://jdata.jd.com/html/detail.html?id=4)** | JData               | 2018/07/09                   | ￥750,000                   |
+| **[如期而至-用户购买时间预测](https://jdata.jd.com/html/detail.html?id=2)** | JData               | 2018/06/22                   | ￥700,000                   |
+| **[西交大·大数据竞赛2018——商家招牌的分类与检测](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=17)** | 点石                | 2018/6/8                     | ~￥10W                      |
+| **[物联网黑客马拉松-互联交通](http://www.dcjingsai.com/common/cmpt/物联网黑客马拉松-互联交通_竞赛信息.html)** | DataCastle          | 2018.6.15                    | -                           |
+| **[交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html)** | DataCastle          | 2018.8.1                     | ~￥60W                      |
+| **[公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html)** | DataCastle          | 2018.8.1                     | ~￥60W                      |
+| [基于人工智能的药物分子筛选](http://www.dcjingsai.com/common/cmpt/基于人工智能的药物分子筛选_竞赛信息.html) | DataCastle          | 2018.5.21                    | ￥ 50000                    |
+| [“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/%E2%80%9C%E9%87%8F%E5%AD%90%E6%9D%AF%E2%80%9D%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%87%8F%E5%8C%96%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html) | DataCastle          | 2018.6.17                    | ￥53,000                    |
+| [凤凰金融量化投资大赛](http://www.dcjingsai.com/common/cmpt/%E5%87%A4%E5%87%B0%E9%87%91%E8%9E%8D%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html) | DataCastle          | 2018.4.13开始打榜            | ￥80,000                    |
 | [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000                 |
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN                         |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN                         |
@@ -123,6 +143,7 @@
 
 | Competiton                                                   |    Category     | Final submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------------: | :---------: |
+| [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk#Timeline) |    Featured     |         2018.8.29         |   $70,000   |
 | [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) |    Research     |         2018.7.24         |      -      |
 | [CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving) |    Research     |                           |   $2,500    |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) |   Playground    |             -             |      -      |
@@ -191,11 +212,37 @@
 >
 > 仅给出最新上线的赛题题目一个：
 
-- 【黑盒人脸识别对抗攻击比赛】“[MCS 2018. Adversarial Attacks on Black Box Face Recognition](https://competitions.codalab.org/competitions/19090)” 
+- “[Telenav MapAI Contest](https://competitions.codalab.org/competitions/19024)” 
 
-  ![](https://i.loli.net/2018/05/15/5afa3328e3789.png)
+  ![](https://i.loli.net/2018/05/18/5afe3d2405b84.png)
 
-> The winners will share a cash pool of  300,000 RUB and 3 NVIDIA GPU’s.
+> **Building Better Maps for a Better World and You Could Win $10,000!!!!**
+
+
+
+<br>
+
+<br>
+
+## crowdAI
+
+![](https://github.com/crowdAI/crowdai/raw/master/app/assets/images/misc/crowdai-logo-smile.svg?sanitize=true)
+
+![](https://i.loli.net/2018/05/18/5afe4146b68d1.png)
+
+> crowdAI is a platform for open data science challenges. crowdAI helps universities, government agencies, NGOs, or businesses to run and manage their data challenges. The crowdAI platform is a non-profit, open source infrastructure that can immediately reach thousands of data scientists around the world to work on interesting data problems.
+>
+> Website：https://www.crowdai.org
+
+赛题非常多，无意一一列举，详情请直接关注官方网址。
+
+仅给出最新可参与的赛题题目一个：
+
+- [AI-generated music challenge](https://www.crowdai.org/challenges/ai-generated-music-challenge)
+
+![](https://i.loli.net/2018/05/18/5afe40748967c.png)
+
+> The winner will be invited to the 3rd Applied Machine Learning Days at EPFL in Switzerland in January 2019, with travel and accommodation covered (up to $2000).
 
 <br>
 
@@ -299,6 +346,50 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 <br>
 
+
+
+## Momenta Car Detection Challenge
+
+![](https://i.loli.net/2018/05/18/5afe3c66e698f.png)
+
+> - **活动说明**，请查看知乎机构号：[Momenta](https://www.zhihu.com/org/momenta-3)，打造自动驾驶大脑。
+>
+> MC活动全称是Momenta Challenge，是Momenta实习生培养计划中的一个模块，作为Momenta主办的系列赛事，我们提供百万级数据、强有力运算平台支持、mentor点对点指导、参加内部paper reading/Saturday Poster等活动机会、基础intern工资和丰厚大奖，希望通过MC培养出更多优秀的人才，做自动驾驶领域的技术引领者和创新驱动者。 
+>
+> **本期比赛为MC系列的第二期，赛题为车道线检测**，如果你态度好、代码好、数学好，如果你有激情、有潜力、有冲劲，如果你希望一个月获取一年的经验，那么快来加入我们吧。
+>
+> 报名请**[点击这里](https://jinshuju.net/f/JObetu)**，填写报名信息。
+>
+> 当然，如果你对比赛非常感兴趣、但苦于无法线下集中一个月时间参赛，那也可以扫描文末二维码，填写报名信息选择适合的时间，我们会优先给您发送下一次比赛的最新信息。
+>
+> - **比赛时间**
+>
+>   5月16号-5月25号  简历投递；
+>
+>   5月26号  初筛简历，通知入围；
+>
+>   5月28号-6月28号 封闭式竞赛；
+>
+> - **赛制**
+>
+>   选手投递简历进行报名后进行初步筛选，确定具体参赛人数，选手进行自由组队，每队3人； 
+>
+>   前两周（15天）淘汰两个组，第三周淘汰一个组，最终评选出前三名分别获得3万、2万、1万元大奖。
+>
+> - **报名方式**
+>
+>   1.报名时间：即日起至5月26日。报名截止时间为5月25日23:59:59。
+>
+>   2.报名方式：扫描文末二维码，上传简历、填写报名信息。
+>
+>   3.入围通知：5月26日初步筛选结束，通知已入围选手，确定最终参赛名单
+>
+>   4.参赛队员必须遵守并签署《竞赛选手报名协议》。
+
+<br>
+
+<br>
+
 ## 京东AI时尚挑战赛
 
 ![](https://i.loli.net/2018/05/09/5af2be7d55f39.png)
@@ -310,6 +401,22 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 > 题目2：**时尚单品搜索**
 
 ![](https://i.loli.net/2018/05/09/5af2bf2e8627f.png)
+
+<br>
+
+<br>
+
+## 京东JD Dialog Challenge人机对话挑战赛
+
+![](https://i.loli.net/2018/05/18/5afe3623d922c.png)
+
+> 本次大赛以京东用户与京东人工客服真实对话数据（脱敏后）为基础，参赛队伍需要给定的对话数据进行分析，构建端到端的任务驱动型多轮对话系统，输出满足用户需求的答案，要求该答案能正确、完整且高效地解决问题，为用户带来简单、省心、智能的购物咨询体验。
+>
+> Website：http://jddc.jd.com
+>
+> ![](https://i.loli.net/2018/05/18/5afe3642d40b0.png)
+>
+> ![](https://i.loli.net/2018/05/18/5afe3655c420b.png)
 
 <br>
 
@@ -406,6 +513,32 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 | [人体骨骼关键点检测](https://challenger.ai)       |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
 | [图像中文描述](https://challenger.ai/competition/caption) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
 | [虚拟股票趋势预测](https://challenger.ai/competition/trendsense) (实验赛道) |  结束  | 2017/9/4 - 2017/10/31 - 2017/12/3 | ¥50,000  |
+
+<br>
+
+<br>
+
+## 中国法研杯司法人工智能挑战赛
+
+![](https://i.loli.net/2018/05/18/5afe4675468ad.png)
+
+> 为了促进法律智能相关技术的发展，在最高人民法院信息中心、共青团中央青年发展部的指导下，中国司法大数据研究院、中国中文信息学会、中电科系统团委联合清华大学、北京大学、中国科学院软件研究所共同举办“2018中国‘法研杯’法律智能挑战赛（CAIL2018）”。
+>
+> 挑战赛将提供海量的刑事法律文书数据作为数据集，旨在为研究者提供学术交流平台，推动语言理解和人工智能领域技术在法律领域的应用，促进法律人工智能事业的发展。每年比赛结束后将举办技术交流和颁奖活动。诚邀学术界和工业界的研究者和开发者积极参与该挑战赛！
+
+- Website：[http://cail.cipsc.org.cn/](http://cail.cipsc.org.cn/)
+
+> - 挑战赛任务：
+>
+> 任务一  罪名预测：根据刑事法律文书中的案情描述和事实部分，预测被告人被判的罪名；
+>
+> 任务二  法条推荐：根据刑事法律文书中的案情描述和事实部分，预测本案涉及的相关法条；
+>
+> 任务三  刑期预测：根据刑事法律文书中的案情描述和事实部分，预测被告人的刑期长短。
+>
+> ![](https://i.loli.net/2018/05/18/5afe46fef02bf.png)
+>
+> ![](https://i.loli.net/2018/05/18/5afe471b2223b.png)
 
 <br>
 
@@ -509,6 +642,9 @@ https://tianchi.aliyun.com/
 
 | 比赛项目                                                     |  状态  | 第一赛季截止时间 |  总奖池   |
 | ------------------------------------------------------------ | :----: | :--------------: | :-------: |
+| [CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661) | 进行中 |    2018/07/30    |   €7500   |
+| [FDDC2018金融算法挑战赛－A股主板上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231660) | 进行中 |    2018/08/03    | ￥840000  |
+| [FDDC2018金融算法挑战赛－A股主板上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231659) | 进行中 |    2018/07/08    | ￥840000  |
 | [Tianchi x MSU Hackathon - Alimama International Advertising Algorithm Competition](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.3a85d780vfsvZ5&raceId=231656) | 已结束 |    2018/04/22    |   $1000   |
 | [美年健康AI大赛——双高疾病风险预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231654) | 进行中 |    2018/05/07    | ￥250000  |
 | [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) | 进行中 |    2018-05-28    |  ￥40000  |
@@ -516,7 +652,7 @@ https://tianchi.aliyun.com/
 | [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) | 进行中 |    2018-05-28    |  ￥30000  |
 | [FashionAI全球挑战赛—服饰属性标签识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231649) | 进行中 |    2018-04-21    | ￥1340000 |
 | [FashionAI全球挑战赛—服饰关键点定位](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231648) | 进行中 |    2018-04-21    | ￥1340000 |
-| [IJCAI-18 阿里妈妈搜索广告转化预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231647) | 进行中 |    2018-04-23    |  $37000   |
+| [IJCAI-18 阿里妈妈搜索广告转化预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231647) | 已结束 |    2018-04-23    |  $37000   |
 | [天文数据挖掘大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231646) | 已结束 |    2018-03-12    |    ￥0    |
 | [印象盐城·数创未来大数据竞赛 - 盐城汽车上牌量预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231641) | 已结束 |    2018-02-27    | ￥190000  |
 | [印象盐城·数创未来大数据竞赛 - 乘用车零售量预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231640) | 已结束 |    2018-02-27    | ￥460000  |
@@ -568,6 +704,44 @@ https://tianchi.aliyun.com/
 | [阿里移动推荐算法](https://tianchi.aliyun.com/competition/introduction.htm?raceId=1) | 已结束 |     2015.7.1     |  300000   |
 
 
+
+<br>
+
+<br>
+
+## JData
+
+![](https://i.loli.net/2018/05/18/5afe32a715ca1.png)
+
+> 京东的数据科学竞赛平台
+>
+> Website：https://jdata.jd.com/index.html
+
+| 比赛项目                                                     |  状态  |          时间轴          |  总奖池   |
+| ------------------------------------------------------------ | :----: | :----------------------: | :-------: |
+| [GOC 城市物流运输车辆智能调度](https://jdata.jd.com/html/detail.html?id=5) | 进行中 | 2018/05/15 -  2018/09/15 | ￥750,000 |
+| [GOC 仓储网络智能库存管理[初赛]](https://jdata.jd.com/html/detail.html?id=4) | 进行中 | 2018/05/15 -  2018/09/15 | ￥750,000 |
+| [如期而至-用户购买时间预测](https://jdata.jd.com/html/detail.html?id=2) | 进行中 | 2018/04/18 -  2018/07/10 | ￥700,000 |
+| [基于移动网络通讯行为的风险用户识别](https://jdata.jd.com/html/detail.html?id=3) | 进行中 | 2018/04/20 -  2018/06/26 | ￥800,000 |
+| [高潜用户购买意向预测](https://jdata.jd.com/html/detail.html?id=1) | 已结束 | 2017/03/19 -  2017/05/26 | ￥554,000 |
+
+<br>
+
+<br>
+
+## 点石
+
+![](https://i.loli.net/2018/05/18/5afe4a5fc35e0.png)
+
+> 百度的数据科学竞赛平台
+>
+> Website：[http://dianshi.baidu.com/](http://dianshi.baidu.com/)
+>
+> | 比赛题目                                                     |        时间轴         |  备注  |
+> | ------------------------------------------------------------ | :-------------------: | :----: |
+> | **[西交大·大数据竞赛2018——商家招牌的分类与检测](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=17)** | 2018/4/30 - 2018/9/00 |        |
+> | [充电桩故障分类与检测](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=19) | 2018/4/20 - 2018/7/13 | 练习赛 |
+> | [用户评论情感极性判别](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=18) | 2018/4/20 - 2018/7/13 | 练习赛 |
 
 <br>
 
@@ -643,19 +817,17 @@ http://www.pkbigdata.com
 
 | 比赛项目                                                     |  状态  |         时间轴          |    备注    |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--------: |
+| **[物联网黑客马拉松-互联交通](http://www.dcjingsai.com/common/cmpt/物联网黑客马拉松-互联交通_竞赛信息.html)** | 进行中 | 2018.5.17 - 2018.07.20  |            |
+| **[交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html)** | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W   |
+| **[公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html)** | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W   |
 | [2018腾讯广告算法大赛](http://www.dcjingsai.com/common/cmpt/2018腾讯广告算法大赛_竞赛信息.html) | 进行中 |  2018.3.15 - 2018.6.13  | ~￥450,000 |
-| **[基于人工智能的药物分子筛选](http://www.dcjingsai.com/common/cmpt/基于人工智能的药物分子筛选_竞赛信息.html)** | 进行中 |  2018.4.9 - 2018.5.21   |  ￥ 50000  |
-| **[“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/“量子杯”全国高校量化大赛_竞赛信息.html)** | 进行中 |  2018.4.16 - 2018.9.21  |            |
+| [基于人工智能的药物分子筛选](http://www.dcjingsai.com/common/cmpt/基于人工智能的药物分子筛选_竞赛信息.html) | 进行中 |  2018.4.9 - 2018.5.21   |  ￥ 50000  |
+| [“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/“量子杯”全国高校量化大赛_竞赛信息.html) | 进行中 |  2018.4.16 - 2018.9.21  |            |
 | [凤凰金融量化投资大赛](http://www.dcjingsai.com/common/cmpt/凤凰金融量化投资大赛_竞赛信息.html) | 进行中 |  2018.3.28 - 2018.7.8   |            |
-| [信贷违约预测模型（邀请赛）](http://www.dcjingsai.com/common/cmpt/信贷违约预测模型（邀请赛）_竞赛信息.html) | 已完结 |  2018.1.15 - 2018.4.15  |  创意竞赛  |
-| [“高斯杯”全国大学生数学建模挑战赛（邀请赛）](http://www.dcjingsai.com/common/cmpt/“高斯杯”全国大学生数学建模挑战赛（邀请赛）_竞赛信息.html) | 已完结 |  2018.1.15 - 2018.3.26  |  创意竞赛  |
-| [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | 进行中 |            -            |  创意竞赛  |
 | [精品旅行服务成单预测](http://www.dcjingsai.com/common/cmpt/精品旅行服务成单预测_竞赛信息.html) | 可参加 |  2017.12.20 - 2018.2.7  |            |
-| [京东金融全球数据探索者大赛](http://www.dcjingsai.com/common/cmpt/京东金融全球数据探索者大赛_竞赛信息.html) | 已完结 | 2017.11.6 -  2017.12.17 |  创意竞赛  |
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | 进行中 | 2017.9.19 -  2020.12.31 |            |
 | [员工离职预测训练赛](http://www.pkbigdata.com/common/cmpt/员工离职预测训练赛_竞赛信息.html) | 进行中 |  2017.8.2 - 2020.12.31  |   练习赛   |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | 进行中 | 2017.7.31 - 2020.12.31  |   练习赛   |
-| [智慧校园全球大学生创意应用大赛](http://www.pkbigdata.com/common/cmpt/智慧校园全球大学生创意应用大赛_竞赛信息.html) | 可参加 |  2017.7.3 - 2017.9.24   |  创意竞赛  |
 | [大师赛](http://www.pkbigdata.com/common/cmpt/大师赛_竞赛信息.html) | 可参加 | 2017.6.13 - 2017.10.15  |            |
 | [食品安全国家标准的精准化提取](http://www.pkbigdata.com/common/cmpt/食品安全国家标准的精准化提取_竞赛信息.html) | 可参加 |  2017.6.1 - 2017.7.10   |            |
 | [大学生助学金精准资助预测](http://www.pkbigdata.com/common/cmpt/大学生助学金精准资助预测_竞赛信息.html) | 可参加 |  2016.11.3 - 2017.5.10  |            |
@@ -755,7 +927,17 @@ Website：http://www.datafountain.cn/
 | [垃圾短信基于文本内容识别](http://www.datafountain.cn/#/competitions/227/intro) | 已结束 | 2015.9.29 - 2015.12.20  |      |
 | [判决文书中的金额项提取](http://www.datafountain.cn/#/competitions/226/intro) | 已结束 | 2015.9.29 - 2015.12.20  |      |
 
+<br>
 
+<br>
+
+## 智慧金融马上AI全球挑战者大赛
+
+![](https://i.loli.net/2018/05/18/5afe38d0c0a47.png)
+
+> 2018年，AI江湖，风云再起。智慧金融一方霸主马上消费金融广发英雄帖——首届马上AI全球挑战者大赛，力邀各大院校英雄豪杰论剑于此，“问鼎AI琅琊榜，力夺巨额赛事奖，还有机会直面传奇人物——马上消费金融CEO赵国庆,并与世界级AI大咖并肩工作”。AI高手们，有胆你就来！
+>
+> 首届马上AI全球挑战者大赛将围绕人工智能在金融行业的应用展开，聚焦视觉、听觉、语言、风控四大方向，提供“[图像污迹去除](https://aichallenge.msxf.com/#/subject/B/info)”、“[中文连续语音识别](https://aichallenge.msxf.com/#/subject/C/info)”、“[对话意图识别](https://aichallenge.msxf.com/#/subject/A/info)”、“[违约用户风险预测](https://aichallenge.msxf.com/#/subject/D/info)”4组赛题供参赛选手挑战。官网提供实时排行榜，让身为AI高手的你时刻体验“一览众山小”的豪迈与刺激。
 
 <br>
 
