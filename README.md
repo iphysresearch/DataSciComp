@@ -1,6 +1,8 @@
 > ##2018-5-18 Update!
 >
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
+>
+> 欢迎关注微博更新：[IPhysResearch](http://weibo.com/IPhysresearch)
 
 #### Table of contents
 
