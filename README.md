@@ -1,4 +1,4 @@
-> ## 2018-5-23 Update!
+> ## 2018-5-26 Update!
 >
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -50,7 +50,7 @@
 
 ## Active Competitons to join
 
-> 2018-5-23 Update!
+> 2018-5-26 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
@@ -69,8 +69,7 @@
 | [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) | Kaggle              | NaN                          | NaN                 |
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) | Kaggle              | NaN                          | NaN                 |
 | [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) | Kaggle              | NaN                          | NaN                 |
-| **[2018 Visual Domain adaptation (VisDA2018) Detection Challenge](https://competitions.codalab.org/competitions/18892)** | **CodaLab**         | Aug 22,2018                  | NaN                 |
-| **[2018 Visual Domain adaptation (VisDA2018) Open-Set Classification](https://competitions.codalab.org/competitions/19113)** | **CodaLab**         | Aug 22,2018                  | NaN                 |
+| **[SemEval 2019 Task 1: Cross-lingual Semantic Parsing with UCCA](https://competitions.codalab.org/competitions/19117)** | **CodaLab**         | June 1,2018,                 | NaN                 |
 | **[AI-generated music challenge](https://www.crowdai.org/challenges/ai-generated-music-challenge)** | **crowdAI**         |                              |                     |
 | [AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018) | **NIPS**            | Sep 24th                     | ~$15,000            |
 | [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct 10th                     |                     |
@@ -216,15 +215,11 @@
 
 > 赛题非常多，当前可参加的赛题和 long term 题目也非常丰富，无意一一列举，详情请直接关注官方网址。
 >
-> 仅给出最新上线的赛题题目2个：
+> 仅给出最新上线的赛题题目1个：
 
-- [2018 Visual Domain adaptation (VisDA2018) Detection Challenge](https://competitions.codalab.org/competitions/18892)
+- [SemEval 2019 Task 1: Cross-lingual Semantic Parsing with UCCA](https://competitions.codalab.org/competitions/19117)
 
-- [2018 Visual Domain adaptation (VisDA2018) Open-Set Classification Challenge](https://competitions.codalab.org/competitions/19113)
-
-  ![](https://i.loli.net/2018/05/23/5b04f1f1addb9.png)
-
-> 
+  ![](https://i.loli.net/2018/05/26/5b09826e7cc2d.png)
 
 
 
