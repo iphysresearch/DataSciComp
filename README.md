@@ -1,5 +1,5 @@
-> ## 2018-5-26 Update!
->
+## 2018-6-4 Update!
+
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
 > 欢迎关注微博更新：[IPhysResearch](http://weibo.com/IPhysresearch)
@@ -11,24 +11,25 @@
 ---
 
 - [Kaggle](#kaggle) （新）
-- [CodaLab](#codalab)（新）
-- [crowdAI](#crowdai)（新）
+- [CodaLab](#codalab)
+- [crowdAI](#crowdai)
 - [**NIPS 2018 Competition Track**](#nips-2018-competition-track)
 - [**GECCO 2018 Competition**](#gecco-2018-competition)
 - **[Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)**（新）
-- [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)
-- **[Momenta Car Detection Challenge (MCDC)](#momenta-car-detection-challenge)**（新）
+- [OpenAI 迁移学习竞](#openai-迁移学习竞赛)
+- **[对抗样本攻防赛CAAD](#对抗样本攻防赛caad)（新）**
+- [Momenta Car Detection Challenge (MCDC)](#momenta-car-detection-challenge)
 - [京东AI时尚挑战赛](#京东ai时尚挑战赛)
-- [京东JD Dialog Challenge人机对话挑战赛](#京东jd-dialog-challenge人机对话挑战赛)（新）
+- [京东JD Dialog Challenge人机对话挑战赛](#京东jd-dialog-challenge人机对话挑战赛)
 - [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛---蚂蚁金服)
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
 - [**中国法研杯司法人工智能挑战赛**](#中国法研杯司法人工智能挑战赛)（新）
-- [北京市高校校园大数据竞赛](#北京市高校校园大数据竞赛)（新）
+- [北京市高校校园大数据竞赛](#北京市高校校园大数据竞赛)
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
 - [TinyMind](#tinymind)
-- [天池](#天池)（新）
-- [JData](#jdata)（新）
-- [点石](#点石)（新）
+- [天池](#天池)
+- [JData](#jdata)
+- [点石](#点石)
 - [Kesci](#kesci)
 - [DataCastle](#datacastle)（新）
 - [Biendata](#biendata)（新）
@@ -50,7 +51,7 @@
 
 ## Active Competitons to join
 
-> 2018-5-26 Update!
+> 2018-6-4 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
@@ -62,7 +63,6 @@
 | [CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving) | Kaggle              | 2018.6.4                     | $2,500              |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) | Kaggle              | -                            | -                   |
 | [Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction) | Kaggle              | 2018.6.20                    | $25,000             |
-| [iNaturalist Challenge at FGVC5](https://www.kaggle.com/c/inaturalist-2018) | Kaggle              | 2018.5.28                    | -                   |
 | [ImageNet Object Detection Challenge](https://www.kaggle.com/c/imagenet-object-detection-challenge) | Kaggle              | NaN                          | NaN                 |
 | [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge) | Kaggle              | NaN                          | NaN                 |
 | [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) | Kaggle              | NaN                          | NaN                 |
@@ -89,7 +89,7 @@
 | [Correction of Brainshift with Intra-Operative Ultrasound](https://curious2018.grand-challenge.org/) | **Grand-challenge** | Jun. 15th                    |                     |
 | [Multi-Organ Nuclei Segmentation Challenge](https://monuseg.grand-challenge.org/) | **Grand-challenge** | Jun. 15th                    |                     |
 | [**OpenAI 迁移学习竞赛**](https://contest.openai.com/)       | OpenAI              | 2018-06-05                   | NaN                 |
-| **[图像中车道线检测](https://zhuanlan.zhihu.com/p/36972707)**（线下赛） | MCDC                | 2018-05-25                   | -                   |
+| **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W              |
 | [京东AI时尚挑战赛](https://fashion-challenge.github.io/#index) | JD                  | 2018-07-20                   | -                   |
 | **[京东JD Dialog Challenge人机对话挑战赛](http://jddc.jd.com)** | JD                  | 2018-05-29                   | ￥850000            |
 | [ATEC人工智能大赛](https://dc.cloud.alipay.com/index#/home)  | 蚂蚁金服            | 2018-07-09                   | ~￥120 W            |
@@ -100,14 +100,13 @@
 | **[CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661)** | 天池                | 2018/07/30                   | €7500               |
 | **[FDDC2018金融算法挑战赛－A股主板上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231660)** | 天池                | 2018/06/30                   | ￥840000            |
 | **[FDDC2018金融算法挑战赛－A股主板上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231659)** | 天池                | 2018/07/08                   | ￥840000            |
-| [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) | 天池                | 2018-05-28                   | ￥40000             |
-| [ICPR 2018 挑战赛二：网络图像的文本检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231651) | 天池                | 2018-05-28                   | ￥30000             |
-| [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) | 天池                | 2018-05-28                   | ￥30000             |
 | [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池                | 2018-09-01                   | $ 0                 |
 | **[GOC 城市物流运输车辆智能调度](https://jdata.jd.com/html/detail.html?id=5)** | JData               | 2018/07/09                   | ￥750,000           |
 | **[GOC 仓储网络智能库存管理[初赛]](https://jdata.jd.com/html/detail.html?id=4)** | JData               | 2018/07/09                   | ￥750,000           |
 | **[如期而至-用户购买时间预测](https://jdata.jd.com/html/detail.html?id=2)** | JData               | 2018/06/22                   | ￥700,000           |
 | **[西交大·大数据竞赛2018——商家招牌的分类与检测](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=17)** | 点石                | 2018/6/8                     | ~￥10W              |
+| **[政府治理大数据应用算法大赛](http://www.dcjingsai.com/common/cmpt/政府治理大数据应用算法大赛_竞赛信息.html)** | DataCastle          | 2018.6.15                    | 140000              |
+| **[首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8)** | DataCastle          | 2018.7.19                    | ~￥60W              |
 | **[物联网黑客马拉松-互联交通](http://www.dcjingsai.com/common/cmpt/物联网黑客马拉松-互联交通_竞赛信息.html)** | DataCastle          | 2018.6.15                    | -                   |
 | **[交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html)** | DataCastle          | 2018.8.1                     | ~￥60W              |
 | **[公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html)** | DataCastle          | 2018.8.1                     | ~￥60W              |
@@ -116,17 +115,19 @@
 | [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000         |
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN                 |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN                 |
+| **[SMP ETST 2018](https://biendata.com/competition/smpetst2018/)（文本溯源竞赛）** | Biendata            | 2018.06.30                   |                     |
+| **[SMP EUPT 2018](https://biendata.com/competition/smpeupt2018/)（今日头条作者画像）** | Biendata            | 2018.06.30                   |                     |
 | **[CCIR 2018](https://biendata.com/competition/CCIR2018/) ( 移动环境下知识分享平台上的内容推荐)** | Biendata            | 2018.6.19                    | ￥100,000           |
 | **[CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/)** | Biendata            | 不详                         | NaN                 |
 | **[CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/)** | Biendata            | 不详                         | NaN                 |
 | **[CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/)** | Biendata            | 2018.7.15                    | NaN                 |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN                 |
+| **[消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro)** | DataFountain        | 2018-07-12                   | ~￥6万              |
 | **[尊嘉证券-2018俄罗斯世界杯AI挑战赛](http://www.datafountain.cn/#/competitions/286/intro)** | DataFountain        | 2018-06-14                   | 暂无                |
 | **[“AIIA”杯（航天科工站）- 国际安全事件关系发现](http://www.datafountain.cn/#/competitions/285/intro)** | DataFountain        | 2018-06-25                   | ~￥25万             |
 | [2018平安产险数据建模大赛 驾驶行为预测驾驶风险](http://www.datafountain.cn/#/competitions/284/intro) | DataFountain        | 2018.6.9                     | ~￥40万             |
-| **[PaddlePaddle AI 产业应用赛——汽车大师问答摘要与推理](https://www.kesci.com/apps/home/competition/5aec0eb10739c42faa203931)** | Kesci               | 2018.5.29                    | ~￥10万             |
-| **[用户兴趣建模大赛](https://www.kesci.com/apps/home/competition/5ad306e633a98340e004f8d1)** | Kesci               | 2018.5.31                    | ~￥30万             |
-| **[2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4)** | Kesci               | 2018.6.16                    | ~￥60万             |
+| **[首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8)** | Kesci               | 2018.7.19                    | ~￥20W              |
+| [2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4) | Kesci               | 2018.6.16                    | ~￥60万             |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN                 |
 
 ---
@@ -350,6 +351,32 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 <br>
 
 
+
+## 对抗样本攻防赛CAAD
+
+![](https://i.loli.net/2018/06/04/5b14ff4ed3a01.png)
+
+![](https://i.loli.net/2018/06/04/5b14ff7a5b39e.png)
+
+> Website：https://cn.caad.geekpwn.org
+>
+> 大多数基于机器学习的分类器对于对抗样本是高度敏感的。对抗样本就是对原输入样本进行非常小的修改但是使分类器进行错误分类的样本。在绝大多数时候，这些小的修改并不会使人注意，但会使得分类器出错。对抗样本带来了安全隐患，因为它们可以被用来攻击机器学习系统，即使是在无法获得模型的情况下。
+>
+> 为了加快对抗样本的研究，极棒联合谷歌大脑的**Alexey Kurakin**，Ian Goodfellow，和美国加州大学伯克利分校计算机系教授**宋晓冬**共同发起对抗样本攻防赛，英文名**Competition on Adversarial Attacks and Defenses 2018**，简称CAAD2018。
+>
+> 比赛分为3个子项目：
+>
+> - **非定向对抗攻击**，此项比赛的目标是轻微修改原图像，使得未知分类器将修改后的图像错误分类。
+> - **定向对抗攻击**，此项比赛的目标是轻微修改原图像，使得未知分类器将修改后的图像错误分类到指定的类。
+> - **对抗防御**，此项比赛的目标是生成基于机器学习的分类器，对对抗样本有强的防御力，也即能够正确地把对抗样本进行分类。
+
+
+
+
+
+<br>
+
+<br>
 
 ## Momenta Car Detection Challenge
 
@@ -763,9 +790,10 @@ https://www.kesci.com/
 
 | 比赛项目                                                     |  状态  |         时间轴          |                             备注                             |
 | ------------------------------------------------------------ | :----: | :---------------------: | :----------------------------------------------------------: |
+| **[首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8)** | 进行中 |  2018.6.3 - 2018.9.14   |                                                              |
 | [用户兴趣建模大赛](https://www.kesci.com/apps/home/competition/5ad306e633a98340e004f8d1)（快手） | 进行中 |   2018.5.7 - 2018.8.6   |                                                              |
-| **[PaddlePaddle AI 产业应用赛——汽车大师问答摘要与推理](https://www.kesci.com/apps/home/competition/5aec0eb10739c42faa203931)** | 进行中 |  2018.5.11 - 2018.6.22  |                                                              |
-| **[2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4)** | 进行中 |  2018.5.26 - 2018.8.18  |                            限学生                            |
+| [PaddlePaddle AI 产业应用赛——汽车大师问答摘要与推理](https://www.kesci.com/apps/home/competition/5aec0eb10739c42faa203931) | 进行中 |  2018.5.11 - 2018.6.22  |                                                              |
+| [2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4) | 进行中 |  2018.5.26 - 2018.8.18  |                            限学生                            |
 | [百度 PaddlePaddle AI 大赛——智能问答](https://www.kesci.com/apps/home/competition/5ad56e667238515d80b53704) | 进行中 |  2018.4.26 - 2018.6.18  |                                                              |
 | [百度 PaddlePaddle AI 大赛——综艺节目精彩片段预测](https://www.kesci.com/apps/home/competition/5a41bca63bf3464aab731a31) | 已结束 | 2017.12.28 - 2018.3.15  |                                                              |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | 进行中 |  2017.9.28 - 2020.9.28  | [DATA TRAIN](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) |
@@ -806,7 +834,6 @@ https://www.kesci.com/
 
 <br><br>
 
-
 ## DataCastle
 
 > ![](https://i.loli.net/2018/04/21/5adaf5c6edb98.png)
@@ -821,6 +848,7 @@ http://www.pkbigdata.com
 
 | 比赛项目                                                     |  状态  |         时间轴          |    备注    |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--------: |
+| **[政府治理大数据应用算法大赛](http://www.dcjingsai.com/common/cmpt/政府治理大数据应用算法大赛_竞赛信息.html)** | 进行中 |   2018.5.22 - 2018.08   |   140000   |
 | **[物联网黑客马拉松-互联交通](http://www.dcjingsai.com/common/cmpt/物联网黑客马拉松-互联交通_竞赛信息.html)** | 进行中 | 2018.5.17 - 2018.07.20  |            |
 | **[交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html)** | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W   |
 | **[公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html)** | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W   |
@@ -867,26 +895,28 @@ http://www.pkbigdata.com
 
 https://biendata.com/competition/
 
-| 比赛项目                                                     |  状态  |         时间轴         | 备注 |
-| ------------------------------------------------------------ | :----: | :--------------------: | :--: |
-| **[CCIR 2018](https://biendata.com/competition/CCIR2018/) ( 移动环境下知识分享平台上的内容推荐)** | 进行中 | 2018.5.21 - 2018.7.24  |      |
-| **[CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/)** | 进行中 |  2018.5.9 - 2018-8-5   |      |
-| **[CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/)** | 进行中 |  2018.4.1 - 2018-8-5   |      |
-| **[CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/)** | 进行中 |  2018.4.27 - 2018-7-2  |      |
-| [搜狐第二届算法大赛](https://biendata.com/competition/sohu2018/) | 进行中 | 2018.3.19 - 2018.5.21  |      |
-| [KDD CUP of Fresh Air](https://biendata.com/competition/kdd_2018/) | 进行中 | 2018.3.15 - 2018.5.31  |      |
-| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | 进行中 |  2017.5.12 - 2020.1.1  |      |
-| [2017 开放学术精准画像大赛](https://biendata.com/competition/scholar/) | 已结束 | 2017.7.18 - 2017.9.15  |      |
-| [SMP CUP 2017](https://biendata.com/competition/smpcup2017/) | 已结束 |  2017.7.4 - 2017.8.11  |      |
-| [2017 摩拜杯算法挑战赛](https://biendata.com/competition/mobike/) | 已结束 | 2017.6.25 - 2017.9.25  |      |
-| [(练习赛) 2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu_practice/) | 已结束 | 2015.4.4 - 2017.11.16  |      |
-| [2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu/) | 已结束 | 2017.5.15 - 2017.8.15  |      |
-| [CCKS 2017 评测一](https://biendata.com/competition/CCKS2017_1/) | 已结束 |  2017.5.14 - 2017.7.7  |      |
-| [CCKS 2017 评测二](https://biendata.com/competition/CCKS2017_2/) | 已结束 |  2017.5.13 - 2017.7.7  |      |
-| [搜狐图文匹配算法大赛](https://biendata.com/competition/luckydata/) | 已结束 | 2017.3.13 - 2017.6.13  |      |
-| [2016 Byte Cup国际机器学习竞赛](https://biendata.com/competition/bytecup2016/) | 已结束 | 2016.8.15 - 2016.11.20 |      |
-| [SMP CUP 2016](https://biendata.com/competition/smpcup2016/) | 已结束 | 2016.7.20 - 2016.9.21  |      |
-| [KDD Cup 2015](https://biendata.com/competition/kddcup2015/) | 已结束 |  2015.5.1 - 2015.7.12  |      |
+| 比赛项目                                                     |  状态  |         时间轴          | 备注 |
+| ------------------------------------------------------------ | :----: | :---------------------: | :--: |
+| **[SMP ETST 2018](https://biendata.com/competition/smpetst2018/)（文本溯源竞赛）** | 进行中 | 2018.06.01 - 2018.07.02 |      |
+| **[SMP EUPT 2018](https://biendata.com/competition/smpeupt2018/)（今日头条作者画像）** | 进行中 | 2018.06.01- 2018.07.10  |      |
+| **[CCIR 2018](https://biendata.com/competition/CCIR2018/) ( 移动环境下知识分享平台上的内容推荐)** | 进行中 |  2018.5.21 - 2018.7.24  |      |
+| **[CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/)** | 进行中 |   2018.5.9 - 2018-8-5   |      |
+| **[CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/)** | 进行中 |   2018.4.1 - 2018-8-5   |      |
+| **[CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/)** | 进行中 |  2018.4.27 - 2018-7-2   |      |
+| [搜狐第二届算法大赛](https://biendata.com/competition/sohu2018/) | 已结束 |  2018.3.19 - 2018.5.21  |      |
+| [KDD CUP of Fresh Air](https://biendata.com/competition/kdd_2018/) | 已结束 |  2018.3.15 - 2018.5.31  |      |
+| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | 进行中 |  2017.5.12 - 2020.1.1   |      |
+| [2017 开放学术精准画像大赛](https://biendata.com/competition/scholar/) | 已结束 |  2017.7.18 - 2017.9.15  |      |
+| [SMP CUP 2017](https://biendata.com/competition/smpcup2017/) | 已结束 |  2017.7.4 - 2017.8.11   |      |
+| [2017 摩拜杯算法挑战赛](https://biendata.com/competition/mobike/) | 已结束 |  2017.6.25 - 2017.9.25  |      |
+| [(练习赛) 2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu_practice/) | 已结束 |  2015.4.4 - 2017.11.16  |      |
+| [2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu/) | 已结束 |  2017.5.15 - 2017.8.15  |      |
+| [CCKS 2017 评测一](https://biendata.com/competition/CCKS2017_1/) | 已结束 |  2017.5.14 - 2017.7.7   |      |
+| [CCKS 2017 评测二](https://biendata.com/competition/CCKS2017_2/) | 已结束 |  2017.5.13 - 2017.7.7   |      |
+| [搜狐图文匹配算法大赛](https://biendata.com/competition/luckydata/) | 已结束 |  2017.3.13 - 2017.6.13  |      |
+| [2016 Byte Cup国际机器学习竞赛](https://biendata.com/competition/bytecup2016/) | 已结束 | 2016.8.15 - 2016.11.20  |      |
+| [SMP CUP 2016](https://biendata.com/competition/smpcup2016/) | 已结束 |  2016.7.20 - 2016.9.21  |      |
+| [KDD Cup 2015](https://biendata.com/competition/kddcup2015/) | 已结束 |  2015.5.1 - 2015.7.12   |      |
 
 
 
@@ -908,6 +938,7 @@ Website：http://www.datafountain.cn/
 
 | 比赛项目                                                     |  状态  |         时间轴          | 备注 |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--: |
+| **[消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro)** | 进行中 | 2018-05-30 - 2018-07-15 |      |
 | **[尊嘉证券-2018俄罗斯世界杯AI挑战赛](http://www.datafountain.cn/#/competitions/286/rules)** | 进行中 | 2018-05-21 - 2018-07-14 |      |
 | **[“AIIA”杯（航天科工站）- 国际安全事件关系发现](http://www.datafountain.cn/#/competitions/285/intro)** | 进行中 | 2018-05-18 - 2018-07-31 |      |
 | [2018平安产险数据建模大赛 驾驶行为预测驾驶风险](http://www.datafountain.cn/#/competitions/284/intro) | 进行中 | 2018-03-20 - 2018-07-13 |      |
