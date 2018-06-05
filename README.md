@@ -1,4 +1,4 @@
-## 2018-6-4 Update!
+## 2018-6-5 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -16,8 +16,10 @@
 - [**NIPS 2018 Competition Track**](#nips-2018-competition-track)
 - [**GECCO 2018 Competition**](#gecco-2018-competition)
 - **[Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)**（新）
-- [OpenAI 迁移学习竞](#openai-迁移学习竞赛)
+- [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)
 - **[对抗样本攻防赛CAAD](#对抗样本攻防赛caad)（新）**
+- **[COLIEE-2018](#coliee-2018)（新）**
+- **[Visual Dialog Challenge 2018](#visual-dialog-challenge-2018)（新）**
 - [Momenta Car Detection Challenge (MCDC)](#momenta-car-detection-challenge)
 - [京东AI时尚挑战赛](#京东ai时尚挑战赛)
 - [京东JD Dialog Challenge人机对话挑战赛](#京东jd-dialog-challenge人机对话挑战赛)
@@ -34,6 +36,12 @@
 - [DataCastle](#datacastle)（新）
 - [Biendata](#biendata)（新）
 - [DataFountain](#datafountain)（新）
+
+---
+
+**Overdued:**
+
+- [CoNLL–SIGMORPHON 2018 Shared Task](#conll–sigmorphon-2018-shared-task)
 - [智慧金融马上AI全球挑战者大赛](#智慧金融马上ai全球挑战者大赛)
 - [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛) 
 - [CCDM-2018](#ccdm-2018) 
@@ -51,7 +59,7 @@
 
 ## Active Competitons to join
 
-> 2018-6-4 Update!
+> 2018-6-5 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
@@ -60,7 +68,6 @@
 | **[The 2nd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2018)** | Kaggle              | July 30,2018                 | $25,000             |
 | [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk#Timeline) | Kaggle              | 2018.8.22                    | $70,000             |
 | [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) | Kaggle              | 2018.7.24                    | -                   |
-| [CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving) | Kaggle              | 2018.6.4                     | $2,500              |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) | Kaggle              | -                            | -                   |
 | [Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction) | Kaggle              | 2018.6.20                    | $25,000             |
 | [ImageNet Object Detection Challenge](https://www.kaggle.com/c/imagenet-object-detection-challenge) | Kaggle              | NaN                          | NaN                 |
@@ -90,6 +97,8 @@
 | [Multi-Organ Nuclei Segmentation Challenge](https://monuseg.grand-challenge.org/) | **Grand-challenge** | Jun. 15th                    |                     |
 | [**OpenAI 迁移学习竞赛**](https://contest.openai.com/)       | OpenAI              | 2018-06-05                   | NaN                 |
 | **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W              |
+| **[COLIEE-2018](https://sites.ualberta.ca/~miyoung2/COLIEE2018/)** | JURISIN 2018        | Aug 15,2018                  | -                   |
+| **[Visual Dialog Challenge 2018](https://visualdialog.org/challenge/2018)** | visualdialog.org    | mid-August                   | -                   |
 | [京东AI时尚挑战赛](https://fashion-challenge.github.io/#index) | JD                  | 2018-07-20                   | -                   |
 | **[京东JD Dialog Challenge人机对话挑战赛](http://jddc.jd.com)** | JD                  | 2018-05-29                   | ￥850000            |
 | [ATEC人工智能大赛](https://dc.cloud.alipay.com/index#/home)  | 蚂蚁金服            | 2018-07-09                   | ~￥120 W            |
@@ -370,6 +379,32 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 > - **定向对抗攻击**，此项比赛的目标是轻微修改原图像，使得未知分类器将修改后的图像错误分类到指定的类。
 > - **对抗防御**，此项比赛的目标是生成基于机器学习的分类器，对对抗样本有强的防御力，也即能够正确地把对抗样本进行分类。
 
+<br>
+
+<br>
+
+## COLIEE-2018
+
+> **Competition on Legal Information Extraction/Entailment (COLIEE)**
+>
+> Website：[https://sites.ualberta.ca/~miyoung2/COLIEE2018/](https://sites.ualberta.ca/~miyoung2/COLIEE2018/)
+
+![](https://i.loli.net/2018/06/05/5b16521b0195e.png)
+
+![](https://i.loli.net/2018/06/05/5b1652427e483.png)
+
+<br>
+
+<br>
+
+## Visual Dialog Challenge 2018
+
+> Website：https://visualdialog.org/challenge/2018
+
+![](https://i.loli.net/2018/06/05/5b165605a875f.gif)
+
+![](https://i.loli.net/2018/06/05/5b16564d6e685.png)
+
 
 
 
@@ -377,6 +412,7 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 <br>
 
 <br>
+
 
 ## Momenta Car Detection Challenge
 
@@ -964,6 +1000,20 @@ Website：http://www.datafountain.cn/
 | [广告点击行为预测](http://www.datafountain.cn/#/competitions/231/intro) | 已结束 | 2015.9.29 - 2015.12.19  |      |
 | [垃圾短信基于文本内容识别](http://www.datafountain.cn/#/competitions/227/intro) | 已结束 | 2015.9.29 - 2015.12.20  |      |
 | [判决文书中的金额项提取](http://www.datafountain.cn/#/competitions/226/intro) | 已结束 | 2015.9.29 - 2015.12.20  |      |
+
+<br>
+
+<br>
+
+
+
+## CoNLL–SIGMORPHON 2018 Shared Task
+
+> Website：https://sigmorphon.github.io/sharedtasks/2018/
+
+![](https://i.loli.net/2018/06/05/5b16540939ca6.png)
+
+![](https://i.loli.net/2018/06/05/5b165469e54ec.png)
 
 <br>
 
