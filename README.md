@@ -1,4 +1,4 @@
-## 2018-6-5 Update!
+## 2018-6-11 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -10,25 +10,24 @@
 
 ---
 
-- [Kaggle](#kaggle) （新）
-- [CodaLab](#codalab)
+- [Kaggle](#kaggle) 
+- [CodaLab](#codalab)（新）
 - [crowdAI](#crowdai)
 - [**NIPS 2018 Competition Track**](#nips-2018-competition-track)
 - [**GECCO 2018 Competition**](#gecco-2018-competition)
 - **[Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)**（新）
-- [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)
 - **[对抗样本攻防赛CAAD](#对抗样本攻防赛caad)（新）**
 - **[COLIEE-2018](#coliee-2018)（新）**
 - **[Visual Dialog Challenge 2018](#visual-dialog-challenge-2018)（新）**
 - [Momenta Car Detection Challenge (MCDC)](#momenta-car-detection-challenge)
+- **[The FashionGen Challenge](#the-fashiongen-challenge)（新）**
 - [京东AI时尚挑战赛](#京东ai时尚挑战赛)
 - [京东JD Dialog Challenge人机对话挑战赛](#京东jd-dialog-challenge人机对话挑战赛)
 - [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛---蚂蚁金服)
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
-- [**中国法研杯司法人工智能挑战赛**](#中国法研杯司法人工智能挑战赛)（新）
-- [北京市高校校园大数据竞赛](#北京市高校校园大数据竞赛)
+- **[第三届魔镜杯大赛](#第三届魔镜杯大赛)（新）**
+- [中国法研杯司法人工智能挑战赛](#中国法研杯司法人工智能挑战赛)（新）
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
-- [TinyMind](#tinymind)
 - [天池](#天池)
 - [JData](#jdata)
 - [点石](#点石)
@@ -40,6 +39,11 @@
 ---
 
 **Overdued:**
+
+- [北京市高校校园大数据竞赛](#北京市高校校园大数据竞赛)
+- [TinyMind](#tinymind)
+
+- [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)
 
 - [CoNLL–SIGMORPHON 2018 Shared Task](#conll–sigmorphon-2018-shared-task)
 - [智慧金融马上AI全球挑战者大赛](#智慧金融马上ai全球挑战者大赛)
@@ -59,85 +63,84 @@
 
 ## Active Competitons to join
 
-> 2018-6-5 Update!
+> 2018-6-11 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
-| Active Competitons to join                                   | From..              | Entry deadline               | Prize Money         |
-| ------------------------------------------------------------ | ------------------- | ---------------------------- | ------------------- |
-| **[The 2nd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2018)** | Kaggle              | July 30,2018                 | $25,000             |
-| [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk#Timeline) | Kaggle              | 2018.8.22                    | $70,000             |
-| [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) | Kaggle              | 2018.7.24                    | -                   |
-| [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) | Kaggle              | -                            | -                   |
-| [Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction) | Kaggle              | 2018.6.20                    | $25,000             |
-| [ImageNet Object Detection Challenge](https://www.kaggle.com/c/imagenet-object-detection-challenge) | Kaggle              | NaN                          | NaN                 |
-| [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge) | Kaggle              | NaN                          | NaN                 |
-| [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) | Kaggle              | NaN                          | NaN                 |
-| [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) | Kaggle              | NaN                          | NaN                 |
-| [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) | Kaggle              | NaN                          | NaN                 |
-| [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) | Kaggle              | NaN                          | NaN                 |
-| **[SemEval 2019 Task 1: Cross-lingual Semantic Parsing with UCCA](https://competitions.codalab.org/competitions/19117)** | **CodaLab**         | June 1,2018,                 | NaN                 |
-| **[AI-generated music challenge](https://www.crowdai.org/challenges/ai-generated-music-challenge)** | **crowdAI**         |                              |                     |
-| [AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018) | **NIPS**            | Sep 24th                     | ~$15,000            |
-| [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct 10th                     |                     |
-| [The Conversational Intelligence Challenge 2 (ConvAI2)](http://convai.io/) | **NIPS**            | Sep 30th                     | ~$20,000            |
-| [Tracking Machine Learning Challenge](https://sites.google.com/site/trackmlparticle/) | **NIPS**            | Oct 20th                     | ~$15,000            |
-| [Pommerman](https://www.pommerman.com/)                      | **NIPS**            | Nov 26th                     | TBA                 |
-| [InclusiveImages: A challenge of distributional skew, side information, and global inclusion](https://sites.google.com/view/inclusiveimages/) | **NIPS**            | Nov 9th                      |                     |
-| The AI Driving Olympics                                      | **NIPS**            | Dec 7th                      |                     |
-| [AI for prosthetics](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge) | **NIPS**            | Sep 30th                     |                     |
-| [Black Box Optimization Competition (BBComp)](http://bbcomp.ini.rub.de) | **GECCO**           | June 30, 2018                |                     |
-| [Competition on Niching Methods for Multimodal Optimization](http://www.epitropakis.co.uk/gecco2018/) | **GECCO**           | June 30, 2018                |                     |
-| [General Video Game AI Competition](http://www.gvgai.net)    | **GECCO**           | June 15, 2018                |                     |
-| [Internet of Things: Online Anomaly Detection for Drinking Water Quality](http://www.spotseven.de/gecco/gecco-challenge/) | **GECCO**           | June 30, 2018                |                     |
-| [Virtual Creatures Competition](https://virtualcreatures.github.io/vc2018/) | **GECCO**           | June 22, 2018                |                     |
-| [EndoVis](https://endovis.grand-challenge.org/)              | **Grand-challenge** | Sept. 10th<br />(Submission) |                     |
-| [The Continuous Registration Challenge](https://continuousregistration.grand-challenge.org/) | **Grand-challenge** | Jun 14th<br />(Final commit) |                     |
-| [Correction of Brainshift with Intra-Operative Ultrasound](https://curious2018.grand-challenge.org/) | **Grand-challenge** | Jun. 15th                    |                     |
-| [Multi-Organ Nuclei Segmentation Challenge](https://monuseg.grand-challenge.org/) | **Grand-challenge** | Jun. 15th                    |                     |
-| [**OpenAI 迁移学习竞赛**](https://contest.openai.com/)       | OpenAI              | 2018-06-05                   | NaN                 |
-| **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W              |
-| **[COLIEE-2018](https://sites.ualberta.ca/~miyoung2/COLIEE2018/)** | JURISIN 2018        | Aug 15,2018                  | -                   |
-| **[Visual Dialog Challenge 2018](https://visualdialog.org/challenge/2018)** | visualdialog.org    | mid-August                   | -                   |
-| [京东AI时尚挑战赛](https://fashion-challenge.github.io/#index) | JD                  | 2018-07-20                   | -                   |
-| **[京东JD Dialog Challenge人机对话挑战赛](http://jddc.jd.com)** | JD                  | 2018-05-29                   | ￥850000            |
-| [ATEC人工智能大赛](https://dc.cloud.alipay.com/index#/home)  | 蚂蚁金服            | 2018-07-09                   | ~￥120 W            |
-| [北京市高校校园大数据竞赛](https://bigdata.bupt.edu.cn)      | 北邮+北师+农大      | 线下                         | -                   |
-| [2018年国际大学生类脑计算创新应用大赛](https://contest.cbicr.org) | cbicr               | 2018-07-29                   | ￥100 W             |
-| **[TinyMind第一届汉字书法识别挑战赛](http://www.tinymind.cn/competitions/41)** | TinyMind            | 2018.06.08                   | 前5名获得技术书籍！ |
-| **[全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.2b54d780zoWNMQ&raceId=231662)** | 天池                | 2018-09-10                   | $31000              |
-| **[CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661)** | 天池                | 2018/07/30                   | €7500               |
-| **[FDDC2018金融算法挑战赛－A股主板上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231660)** | 天池                | 2018/06/30                   | ￥840000            |
-| **[FDDC2018金融算法挑战赛－A股主板上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231659)** | 天池                | 2018/07/08                   | ￥840000            |
-| [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池                | 2018-09-01                   | $ 0                 |
-| **[GOC 城市物流运输车辆智能调度](https://jdata.jd.com/html/detail.html?id=5)** | JData               | 2018/07/09                   | ￥750,000           |
-| **[GOC 仓储网络智能库存管理[初赛]](https://jdata.jd.com/html/detail.html?id=4)** | JData               | 2018/07/09                   | ￥750,000           |
-| **[如期而至-用户购买时间预测](https://jdata.jd.com/html/detail.html?id=2)** | JData               | 2018/06/22                   | ￥700,000           |
-| **[西交大·大数据竞赛2018——商家招牌的分类与检测](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=17)** | 点石                | 2018/6/8                     | ~￥10W              |
-| **[政府治理大数据应用算法大赛](http://www.dcjingsai.com/common/cmpt/政府治理大数据应用算法大赛_竞赛信息.html)** | DataCastle          | 2018.6.15                    | 140000              |
-| **[首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8)** | DataCastle          | 2018.7.19                    | ~￥60W              |
-| **[物联网黑客马拉松-互联交通](http://www.dcjingsai.com/common/cmpt/物联网黑客马拉松-互联交通_竞赛信息.html)** | DataCastle          | 2018.6.15                    | -                   |
-| **[交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html)** | DataCastle          | 2018.8.1                     | ~￥60W              |
-| **[公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html)** | DataCastle          | 2018.8.1                     | ~￥60W              |
-| [“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/%E2%80%9C%E9%87%8F%E5%AD%90%E6%9D%AF%E2%80%9D%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%87%8F%E5%8C%96%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html) | DataCastle          | 2018.6.17                    | ￥53,000            |
-| [凤凰金融量化投资大赛](http://www.dcjingsai.com/common/cmpt/%E5%87%A4%E5%87%B0%E9%87%91%E8%9E%8D%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html) | DataCastle          | 2018.4.13开始打榜            | ￥80,000            |
-| [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000         |
-| [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN                 |
-| [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN                 |
-| **[SMP ETST 2018](https://biendata.com/competition/smpetst2018/)（文本溯源竞赛）** | Biendata            | 2018.06.30                   |                     |
-| **[SMP EUPT 2018](https://biendata.com/competition/smpeupt2018/)（今日头条作者画像）** | Biendata            | 2018.06.30                   |                     |
-| **[CCIR 2018](https://biendata.com/competition/CCIR2018/) ( 移动环境下知识分享平台上的内容推荐)** | Biendata            | 2018.6.19                    | ￥100,000           |
-| **[CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/)** | Biendata            | 不详                         | NaN                 |
-| **[CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/)** | Biendata            | 不详                         | NaN                 |
-| **[CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/)** | Biendata            | 2018.7.15                    | NaN                 |
-| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN                 |
-| **[消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro)** | DataFountain        | 2018-07-12                   | ~￥6万              |
-| **[尊嘉证券-2018俄罗斯世界杯AI挑战赛](http://www.datafountain.cn/#/competitions/286/intro)** | DataFountain        | 2018-06-14                   | 暂无                |
-| **[“AIIA”杯（航天科工站）- 国际安全事件关系发现](http://www.datafountain.cn/#/competitions/285/intro)** | DataFountain        | 2018-06-25                   | ~￥25万             |
-| [2018平安产险数据建模大赛 驾驶行为预测驾驶风险](http://www.datafountain.cn/#/competitions/284/intro) | DataFountain        | 2018.6.9                     | ~￥40万             |
-| **[首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8)** | Kesci               | 2018.7.19                    | ~￥20W              |
-| [2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4) | Kesci               | 2018.6.16                    | ~￥60万             |
-| [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN                 |
+| Active Competitons to join                                   | From..              | Entry deadline               | Prize Money |
+| ------------------------------------------------------------ | ------------------- | ---------------------------- | ----------- |
+| **[The 2nd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2018)** | Kaggle              | July 30,2018                 | $25,000     |
+| [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk#Timeline) | Kaggle              | 2018.8.22                    | $70,000     |
+| [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) | Kaggle              | 2018.7.24                    | -           |
+| [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) | Kaggle              | -                            | -           |
+| [Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction) | Kaggle              | 2018.6.20                    | $25,000     |
+| [ImageNet Object Detection Challenge](https://www.kaggle.com/c/imagenet-object-detection-challenge) | Kaggle              | NaN                          | NaN         |
+| [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge) | Kaggle              | NaN                          | NaN         |
+| [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) | Kaggle              | NaN                          | NaN         |
+| [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) | Kaggle              | NaN                          | NaN         |
+| [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) | Kaggle              | NaN                          | NaN         |
+| [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) | Kaggle              | NaN                          | NaN         |
+| **[PIRM 2018 Spectral Image Super-Resolution Challenge- Track 1](https://competitions.codalab.org/competitions/19226)** | **CodaLab**         | Aug 2,2018,                  | NaN         |
+| **[PIRM 2018 Spectral Image Super-Resolution Challenge- Track 2 Colour Guidance](https://competitions.codalab.org/competitions/19227)** | **CodaLab**         | Aug 2,2018,                  | NaN         |
+| **[AI-generated music challenge](https://www.crowdai.org/challenges/ai-generated-music-challenge)** | **crowdAI**         |                              |             |
+| [AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018) | **NIPS**            | Sep 24th                     | ~$15,000    |
+| [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct 10th                     |             |
+| [The Conversational Intelligence Challenge 2 (ConvAI2)](http://convai.io/) | **NIPS**            | Sep 30th                     | ~$20,000    |
+| [Tracking Machine Learning Challenge](https://sites.google.com/site/trackmlparticle/) | **NIPS**            | Oct 20th                     | ~$15,000    |
+| [Pommerman](https://www.pommerman.com/)                      | **NIPS**            | Nov 26th                     | TBA         |
+| [InclusiveImages: A challenge of distributional skew, side information, and global inclusion](https://sites.google.com/view/inclusiveimages/) | **NIPS**            | Nov 9th                      |             |
+| The AI Driving Olympics                                      | **NIPS**            | Dec 7th                      |             |
+| [AI for prosthetics](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge) | **NIPS**            | Sep 30th                     |             |
+| [Black Box Optimization Competition (BBComp)](http://bbcomp.ini.rub.de) | **GECCO**           | June 30, 2018                |             |
+| [Competition on Niching Methods for Multimodal Optimization](http://www.epitropakis.co.uk/gecco2018/) | **GECCO**           | June 30, 2018                |             |
+| [General Video Game AI Competition](http://www.gvgai.net)    | **GECCO**           | June 15, 2018                |             |
+| [Internet of Things: Online Anomaly Detection for Drinking Water Quality](http://www.spotseven.de/gecco/gecco-challenge/) | **GECCO**           | June 30, 2018                |             |
+| [Virtual Creatures Competition](https://virtualcreatures.github.io/vc2018/) | **GECCO**           | June 22, 2018                |             |
+| [EndoVis](https://endovis.grand-challenge.org/)              | **Grand-challenge** | Sept. 10th<br />(Submission) |             |
+| [The Continuous Registration Challenge](https://continuousregistration.grand-challenge.org/) | **Grand-challenge** | Jun 14th<br />(Final commit) |             |
+| [Correction of Brainshift with Intra-Operative Ultrasound](https://curious2018.grand-challenge.org/) | **Grand-challenge** | Jun. 15th                    |             |
+| [Multi-Organ Nuclei Segmentation Challenge](https://monuseg.grand-challenge.org/) | **Grand-challenge** | Jun. 15th                    |             |
+| **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W      |
+| **[COLIEE-2018](https://sites.ualberta.ca/~miyoung2/COLIEE2018/)** | JURISIN 2018        | Aug 15,2018                  | -           |
+| **[Visual Dialog Challenge 2018](https://visualdialog.org/challenge/2018)** | visualdialog.org    | mid-August                   | -           |
+| [京东AI时尚挑战赛](https://fashion-challenge.github.io/#index) | JD                  | 2018-07-20                   | -           |
+| [ATEC人工智能大赛](https://dc.cloud.alipay.com/index#/home)  | 蚂蚁金服            | 2018-07-09                   | ~￥120 W    |
+| [北京市高校校园大数据竞赛](https://bigdata.bupt.edu.cn)      | 北邮+北师+农大      | 线下                         | -           |
+| [2018年国际大学生类脑计算创新应用大赛](https://contest.cbicr.org) | cbicr               | 2018-07-29                   | ￥100 W     |
+| **[全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.2b54d780zoWNMQ&raceId=231662)** | 天池                | 2018-09-10                   | $31000      |
+| **[CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661)** | 天池                | 2018/07/30                   | €7500       |
+| **[FDDC2018金融算法挑战赛－A股主板上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231660)** | 天池                | 2018/06/30                   | ￥840000    |
+| **[FDDC2018金融算法挑战赛－A股主板上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231659)** | 天池                | 2018/07/08                   | ￥840000    |
+| [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池                | 2018-09-01                   | $ 0         |
+| **[The FashionGen Challenge](https://fashion-gen.com)**      | Fashion-gen         | July 31 2018                 | $2,000 CAN  |
+| **[GOC 城市物流运输车辆智能调度](https://jdata.jd.com/html/detail.html?id=5)** | JData               | 2018/07/09                   | ￥750,000   |
+| **[GOC 仓储网络智能库存管理[初赛]](https://jdata.jd.com/html/detail.html?id=4)** | JData               | 2018/07/09                   | ￥750,000   |
+| [如期而至-用户购买时间预测](https://jdata.jd.com/html/detail.html?id=2) | JData               | 2018/06/22                   | ￥700,000   |
+| **[第三届魔镜杯大赛](https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1)** | 拍拍贷              | 2018/7/9                     | ~￥66W      |
+| [政府治理大数据应用算法大赛](http://www.dcjingsai.com/common/cmpt/政府治理大数据应用算法大赛_竞赛信息.html) | DataCastle          | 2018.6.15                    | 140000      |
+| **[首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8)** | DataCastle          | 2018.7.19                    | ~￥60W      |
+| [物联网黑客马拉松-互联交通](http://www.dcjingsai.com/common/cmpt/物联网黑客马拉松-互联交通_竞赛信息.html) | DataCastle          | 2018.6.15                    | -           |
+| **[交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html)** | DataCastle          | 2018.8.1                     | ~￥60W      |
+| **[公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html)** | DataCastle          | 2018.8.1                     | ~￥60W      |
+| [“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/%E2%80%9C%E9%87%8F%E5%AD%90%E6%9D%AF%E2%80%9D%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%87%8F%E5%8C%96%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html) | DataCastle          | 2018.6.17                    | ￥53,000    |
+| [凤凰金融量化投资大赛](http://www.dcjingsai.com/common/cmpt/%E5%87%A4%E5%87%B0%E9%87%91%E8%9E%8D%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html) | DataCastle          | 2018.4.13开始打榜            | ￥80,000    |
+| [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000 |
+| [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
+| [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
+| **[SMP ETST 2018](https://biendata.com/competition/smpetst2018/)（文本溯源竞赛）** | Biendata            | 2018.06.30                   |             |
+| **[SMP EUPT 2018](https://biendata.com/competition/smpeupt2018/)（今日头条作者画像）** | Biendata            | 2018.06.30                   |             |
+| **[CCIR 2018](https://biendata.com/competition/CCIR2018/) ( 移动环境下知识分享平台上的内容推荐)** | Biendata            | 2018.6.19                    | ￥100,000   |
+| **[CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/)** | Biendata            | 不详                         | NaN         |
+| **[CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/)** | Biendata            | 不详                         | NaN         |
+| **[CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/)** | Biendata            | 2018.7.15                    | NaN         |
+| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN         |
+| **[“AIIA”杯（航天科工站）- 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/288/intro)** | DataFountain        | 2018-07-05                   | ~￥25万     |
+| **[消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro)** | DataFountain        | 2018-07-12                   | ~￥6万      |
+| **[尊嘉证券-2018俄罗斯世界杯AI挑战赛](http://www.datafountain.cn/#/competitions/286/intro)** | DataFountain        | 2018-06-14                   | 暂无        |
+| **[“AIIA”杯（航天科工站）- 国际安全事件关系发现](http://www.datafountain.cn/#/competitions/285/intro)** | DataFountain        | 2018-06-25                   | ~￥25万     |
+| **[首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8)** | Kesci               | 2018.7.19                    | ~￥20W      |
+| [2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4) | Kesci               | 2018.6.16                    | ~￥60万     |
+| [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN         |
 
 ---
 
@@ -178,23 +181,15 @@
 | [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) |   Playground    |             -             |      -      |
 | [TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge) |    Featured     |         2018.1.16         |   $25,000   |
 | [Mercari Price Suggestion Challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge) |    Featured     |         2018.2.21         |  $100,000   |
-| [Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification) |   Playground    |        2017.12.15         |   $25,000   |
 | [Google Landmark Recognition Challenge](https://www.kaggle.com/c/landmark-recognition-challenge) |    Research     |         2018.5.22         |   $2,500    |
 | [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting) |    Featured     |         2018.1.15         |   $30,000   |
 | [Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge) |    Featured     |         2018.1.23         |   $50,000   |
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) |   Playground    |             -             |      -      |
 | [Nomad2018 Predicting Transparent Conductors](https://www.kaggle.com/c/nomad2018-predict-transparent-conductors) |    Research     |         2018.2.15         |   €5,000    |
 | [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting) |    Featured     |         2018.2.6          |   $25,000   |
-| [WSDM - KKBox's Churn Prediction Challenge](https://www.kaggle.com/c/kkbox-churn-prediction-challenge) |    Research     |        2017.12.10         |   $5,000    |
-| [WSDM - KKBox's Music Recommendation Challenge](https://www.kaggle.com/c/kkbox-music-recommendation-challenge) |    Research     |        2017.12.17         |   $5,000    |
-| [Cdiscount’s Image Classification Challenge](https://www.kaggle.com/c/cdiscount-image-classification-challenge) |    Featured     |        2017.12.14         |   $35,000   |
-| [Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction) |    Featured     |        2017.11.29         |   $25,000   |
-| [Text Normalization Challenge - Russian Language](https://www.kaggle.com/c/text-normalization-challenge-russian-language) |    Research     |        2017.11.20         |   $25,000   |
-| [Text Normalization Challenge - English Language](https://www.kaggle.com/c/text-normalization-challenge-english-language) |    Research     |        2017.11.20         |   $25,000   |
 | [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) |   Playground    |             -             |      -      |
 | [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) |    Research     |             -             |      -      |
 | [ImageNet Object Detection Challenge](https://www.kaggle.com/c/imagenet-object-detection-challenge) |    Research     |             -             |      -      |
-| [Passenger Screening Algorithm Challenge](https://www.kaggle.com/c/passenger-screening-algorithm-challenge) |    Featured     |        2017.12.15         | $1,500,000  |
 | [Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1) |    Featured     |   2017.10.16/2018.6.29    | $1,200,000  |
 | [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Getting Started |             -             |      -      |
 | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) | Getting Started |             -             |      -      |
@@ -225,11 +220,13 @@
 
 > 赛题非常多，当前可参加的赛题和 long term 题目也非常丰富，无意一一列举，详情请直接关注官方网址。
 >
-> 仅给出最新上线的赛题题目1个：
+> 仅给出最新上线的赛题题目2个：
 
-- [SemEval 2019 Task 1: Cross-lingual Semantic Parsing with UCCA](https://competitions.codalab.org/competitions/19117)
+- [PIRM 2018 Spectral Image Super-Resolution Challenge- Track 1](https://competitions.codalab.org/competitions/19226)
 
-  ![](https://i.loli.net/2018/05/26/5b09826e7cc2d.png)
+- [PIRM 2018 Spectral Image Super-Resolution Challenge- Track 2 Colour Guidance](https://competitions.codalab.org/competitions/19227)
+
+  ![](https://i.loli.net/2018/06/11/5b1d951f439b5.png)
 
 
 
@@ -249,7 +246,7 @@
 
 赛题非常多，无意一一列举，详情请直接关注官方网址。
 
-仅给出最新可参与的赛题题目一个：[All  30](https://www.crowdai.org/challenges?challenge_filter=all) [Active  8](https://www.crowdai.org/challenges?challenge_filter=active) [Completed  22](https://www.crowdai.org/challenges?challenge_filter=completed)
+仅给出最新可参与的赛题题目一个：[All  30](https://www.crowdai.org/challenges?challenge_filter=all) [Active  7](https://www.crowdai.org/challenges?challenge_filter=active) [Completed  23](https://www.crowdai.org/challenges?challenge_filter=completed)
 
 - [AI-generated music challenge](https://www.crowdai.org/challenges/ai-generated-music-challenge)
 
@@ -328,32 +325,6 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 | [The Continuous Registration Challenge](https://continuousregistration.grand-challenge.org/) | Jun 14th<br />(Final commit) | Jun. 28th  |
 | [Correction of Brainshift with Intra-Operative Ultrasound](https://curious2018.grand-challenge.org/) | Jun. 15th                    | Sept. 16th |
 | [Multi-Organ Nuclei Segmentation Challenge](https://monuseg.grand-challenge.org/) | Jun. 15th                    | Sept. 20th |
-
-<br>
-
-<br>
-
-
-
-## OpenAI 迁移学习竞赛
-
-> 近日，OpenAI 发布了一个迁移学习竞赛，来评判强化学习算法从先前经验进行泛化的能力。在典型的强化学习研究中，算法的测试与训练环境是一样的，这对于记忆能力更好以及有很多超参数的算法来说更有优势。而 OpenAI 发布的这个竞赛是在先前未见过的视频游戏上测试算法。此外，该竞赛使用的是 OpenAI 将经典游戏融入到 Gym 中做出的新平台 Gym Retro。
-
-竞赛地址：https://contest.openai.com/
-
-Gym Retro 的 GitHub 地址：https://github.com/openai/retro
-
-中文资讯说明：[机器之心](https://mp.weixin.qq.com/s/qNTe7yJtV3QToK1fYWeleA)
-
-![](https://i.loli.net/2018/04/16/5ad4116922518.png)
-
-> OpenAI Retro 竞赛给出了在《刺猬索尼克》系列游戏上的多级别训练集，然后在 OpenAI 定义级别的测试集上评估算法。这里有两个机密测试集：一个用于在竞赛进行的时候竞争排行榜，另一个仅在最终排名的时候使用一次。此外，OpenAI 提供了训练集/测试集的分划级别建议，被用于技术报告的所有结果，以及下面的学习曲线。
-
-- **比赛日期从 4 月 5 日持续到 6 月 5 日。**
-
-> OpenAI 还发布了 retro-baseline，演示了如何在此竞赛任务上运行数种强化学习算法。
->
-> retro-baseline 地址：https://github.com/openai/retro-baselines
 
 <br>
 
@@ -451,6 +422,24 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 >   3.入围通知：5月26日初步筛选结束，通知已入围选手，确定最终参赛名单
 >
 >   4.参赛队员必须遵守并签署《竞赛选手报名协议》。
+
+<br>
+
+<br>
+
+## The FashionGen Challenge
+
+> ![](https://i.loli.net/2018/06/11/5b1d9ce0cae64.png)
+>
+> Website：https://fashion-gen.com
+>
+> FashionGen文字到图像挑战赛：根据设计描述生成时尚单品。数据由设计师标记，每个单品有多个角度，样本数量超过300,000个。
+>
+> The winner with the best model will be given a $2,000 CAN prize.
+>
+> Your application will be revised within 24 hours of submission. Once accepted, you will have access to the FashionGen dataset. Submissions begin June 10th, 2018 and end on July 31st, 2018. You are permitted two submissions per day.
+
+
 
 <br>
 
@@ -584,6 +573,30 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 <br>
 
+
+
+## 第三届魔镜杯大赛
+
+> ![](https://i.loli.net/2018/06/11/5b1d91f9784f8.png)
+>
+> Website：[https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1](https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1)
+>
+> 第三届“魔镜杯”由拍拍贷智慧金融研究院主办，在2018年6月10日至7月24日举行，总奖池高达10万美金。拍拍贷将提供智能客服聊天机器人真实数据，以自然语言处理和文本挖掘技术为主要探索对象。我们邀请优秀的你，利用这些资源开发一种算法，提高智能客服的识别能力和服务质量。Come on！秀出你的算法实力！
+>
+> 初赛：2018年06月10日 
+>
+> 复赛：2018年07月10日
+>
+> 决赛：2018年07月24日
+
+
+
+
+
+<br>
+
+<br>
+
 ## 中国法研杯司法人工智能挑战赛
 
 ![](https://i.loli.net/2018/05/18/5afe4675468ad.png)
@@ -610,20 +623,6 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 <br>
 
-## 北京市高校校园大数据竞赛
-
-![](https://i.loli.net/2018/05/09/5af2732593e91.png)
-
-> Official Website：https://bigdata.bupt.edu.cn
->
-> Official Wechat post: https://mp.weixin.qq.com/s/f9KHJl-nd9fKW5B8gorfrQ
-
-![](https://i.loli.net/2018/05/09/5af2730343eb2.png)
-
-<br>
-
-<br>
-
 ## 2018年国际大学生类脑计算创新应用大赛
 
 官方网址：https://contest.cbicr.org
@@ -642,55 +641,7 @@ Gym Retro 的 GitHub 地址：https://github.com/openai/retro
 
 
 
-## TinyMind
 
-来自 CSDN。
-
-|                           比赛项目                           |  状态  |    第一赛季截止时间     | 总奖池 |
-| :----------------------------------------------------------: | :----: | :---------------------: | :----: |
-| [TinyMind第一届汉字书法识别挑战赛](http://www.tinymind.cn/competitions/41) | 进行中 | 2018.04.02 - 2018.06.08 |   -    |
-|                                                              |        |                         |        |
-
-<br>
-
-<br>
-
-
-
-
-
-## CCDM-2018
-
-![](https://i.loli.net/2018/04/21/5adaf47ddfc2e.png)
-
-**第三届中国数据挖掘大赛（国际首次蝴蝶识别大赛）**
-
-大赛官方网站：http://ccdm2018.sdufe.edu.cn/sjwjjs.htm
-
-> 第三届中国数据挖掘竞赛（国际首次蝴蝶识别大赛）是由中国计算机学会和中国人工智能学会主办，由中国计算机学会人工智能与模式识别专业委员会和中国人工智能学会机器学习专业委员会协办，由山东财经大学承办的竞赛活动，是第七届中国数据挖掘会议（CCDM 2018）的重要组成部分，旨在通过该竞赛引导参赛人员将其研究成果用于解决实际问题，激发参赛人员的科研兴趣，促进科研成果转化。
->
-
-- 2018年03月01日：报名开始，竞赛组委会提供竞赛数据、竞赛协议。
-- 2018年04月30日：报名结束，竞赛组委会公布报名信息。
-- 2018年06月01~15日：参赛队伍提交程序代码、可执行文件和设计文档。
-- 2018年07月16~31日：竞赛组委会公布获奖入围队伍名单。
-- 2018年08月08~10日：竞赛组委会公布获奖队伍名次，举行颁奖典礼及竞赛研讨会。
-
-> 一等奖1队：20000元；
->
-> 二等奖2-3队：10000元（每队）；
->
-> 三等奖3-5队：4000元（每队）；
->
-> 单项奖2队：2500元（每队）（蝴蝶位置检测奖、蝴蝶分类奖）。
->
-> 部分获奖队伍将被邀请撰写学术论文，推荐到《计算机研究与发展》期刊。
-
-
-
-<br>
-
-<br>
 
 
 
@@ -974,8 +925,9 @@ Website：http://www.datafountain.cn/
 
 | 比赛项目                                                     |  状态  |         时间轴          | 备注 |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--: |
-| **[消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro)** | 进行中 | 2018-05-30 - 2018-07-15 |      |
-| **[尊嘉证券-2018俄罗斯世界杯AI挑战赛](http://www.datafountain.cn/#/competitions/286/rules)** | 进行中 | 2018-05-21 - 2018-07-14 |      |
+| **[“AIIA”杯（航天科工站）- 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/288/intro)** | 进行中 | 2018-05-18 - 2018-07-30 |      |
+| [消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro) | 进行中 | 2018-05-30 - 2018-07-15 |      |
+| [尊嘉证券-2018俄罗斯世界杯AI挑战赛](http://www.datafountain.cn/#/competitions/286/rules) | 进行中 | 2018-05-21 - 2018-07-14 |      |
 | **[“AIIA”杯（航天科工站）- 国际安全事件关系发现](http://www.datafountain.cn/#/competitions/285/intro)** | 进行中 | 2018-05-18 - 2018-07-31 |      |
 | [2018平安产险数据建模大赛 驾驶行为预测驾驶风险](http://www.datafountain.cn/#/competitions/284/intro) | 进行中 | 2018-03-20 - 2018-07-13 |      |
 | [2018“云移杯- 景区口碑评价分值预测](http://www.datafountain.cn/#/competitions/283/intro) | 已结束 | 2018-01-17 - 2018-04-15 |      |
@@ -1004,6 +956,67 @@ Website：http://www.datafountain.cn/
 <br>
 
 <br>
+
+
+
+
+
+## 北京市高校校园大数据竞赛
+
+![](https://i.loli.net/2018/05/09/5af2732593e91.png)
+
+> Official Website：https://bigdata.bupt.edu.cn
+>
+> Official Wechat post: https://mp.weixin.qq.com/s/f9KHJl-nd9fKW5B8gorfrQ
+
+![](https://i.loli.net/2018/05/09/5af2730343eb2.png)
+
+<br>
+
+<br>
+
+
+
+## TinyMind
+
+来自 CSDN。
+
+|                           比赛项目                           |  状态  |    第一赛季截止时间     | 总奖池 |
+| :----------------------------------------------------------: | :----: | :---------------------: | :----: |
+| [TinyMind第一届汉字书法识别挑战赛](http://www.tinymind.cn/competitions/41) | 进行中 | 2018.04.02 - 2018.06.08 |   -    |
+|                                                              |        |                         |        |
+
+<br>
+
+<br>
+
+
+
+## OpenAI 迁移学习竞赛
+
+> 近日，OpenAI 发布了一个迁移学习竞赛，来评判强化学习算法从先前经验进行泛化的能力。在典型的强化学习研究中，算法的测试与训练环境是一样的，这对于记忆能力更好以及有很多超参数的算法来说更有优势。而 OpenAI 发布的这个竞赛是在先前未见过的视频游戏上测试算法。此外，该竞赛使用的是 OpenAI 将经典游戏融入到 Gym 中做出的新平台 Gym Retro。
+
+竞赛地址：https://contest.openai.com/
+
+Gym Retro 的 GitHub 地址：https://github.com/openai/retro
+
+中文资讯说明：[机器之心](https://mp.weixin.qq.com/s/qNTe7yJtV3QToK1fYWeleA)
+
+![](https://i.loli.net/2018/04/16/5ad4116922518.png)
+
+> OpenAI Retro 竞赛给出了在《刺猬索尼克》系列游戏上的多级别训练集，然后在 OpenAI 定义级别的测试集上评估算法。这里有两个机密测试集：一个用于在竞赛进行的时候竞争排行榜，另一个仅在最终排名的时候使用一次。此外，OpenAI 提供了训练集/测试集的分划级别建议，被用于技术报告的所有结果，以及下面的学习曲线。
+
+- **比赛日期从 4 月 5 日持续到 6 月 5 日。**
+
+> OpenAI 还发布了 retro-baseline，演示了如何在此竞赛任务上运行数种强化学习算法。
+>
+> retro-baseline 地址：https://github.com/openai/retro-baselines
+
+<br>
+
+<br>
+
+
 
 
 
@@ -1048,6 +1061,40 @@ Website：http://www.datafountain.cn/
 - **B题：电视产品的营销推荐**
 - **C题：智能阅读模型的构建**
 
+
+
+
+<br>
+
+<br>
+
+
+
+## CCDM-2018
+
+![](https://i.loli.net/2018/04/21/5adaf47ddfc2e.png)
+
+**第三届中国数据挖掘大赛（国际首次蝴蝶识别大赛）**
+
+大赛官方网站：http://ccdm2018.sdufe.edu.cn/sjwjjs.htm
+
+> 第三届中国数据挖掘竞赛（国际首次蝴蝶识别大赛）是由中国计算机学会和中国人工智能学会主办，由中国计算机学会人工智能与模式识别专业委员会和中国人工智能学会机器学习专业委员会协办，由山东财经大学承办的竞赛活动，是第七届中国数据挖掘会议（CCDM 2018）的重要组成部分，旨在通过该竞赛引导参赛人员将其研究成果用于解决实际问题，激发参赛人员的科研兴趣，促进科研成果转化。
+
+- 2018年03月01日：报名开始，竞赛组委会提供竞赛数据、竞赛协议。
+- 2018年04月30日：报名结束，竞赛组委会公布报名信息。
+- 2018年06月01~15日：参赛队伍提交程序代码、可执行文件和设计文档。
+- 2018年07月16~31日：竞赛组委会公布获奖入围队伍名单。
+- 2018年08月08~10日：竞赛组委会公布获奖队伍名次，举行颁奖典礼及竞赛研讨会。
+
+> 一等奖1队：20000元；
+>
+> 二等奖2-3队：10000元（每队）；
+>
+> 三等奖3-5队：4000元（每队）；
+>
+> 单项奖2队：2500元（每队）（蝴蝶位置检测奖、蝴蝶分类奖）。
+>
+> 部分获奖队伍将被邀请撰写学术论文，推荐到《计算机研究与发展》期刊。
 
 
 
