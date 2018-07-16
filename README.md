@@ -139,6 +139,7 @@
 - 开放数据集：https://www.kaggle.com/datasets
 - 《[Kaggle Competition Past Solutions](http://www.chioka.in/kaggle-competition-solutions/)》by log0
 - 《[Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)》by SRK 
+- [Kaggle 项目实战（教程）](https://github.com/apachecn/kaggle) by [ApacheCN](http://www.apachecn.org)
 
 
 下表只列出过去半年内active的competitons，并且按照recently created排序。
