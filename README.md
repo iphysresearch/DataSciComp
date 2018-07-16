@@ -1,4 +1,6 @@
-## 2018-7-5 Update!
+
+
+## 2018-7-16 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -63,7 +65,7 @@
 
 ## Active Competitons to join
 
-> 2018-7-5 Update!
+> 2018-7-16 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。(No playground)
 
@@ -74,7 +76,7 @@
 | [The 2nd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2018) | Kaggle              | July 30,2018                 | $25,000     |
 | [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk#Timeline) | Kaggle              | 2018.8.22                    | $70,000     |
 | [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) | Kaggle              | 2018.7.24                    | -           |
-| **[SemEval 2019 Task 2](https://competitions.codalab.org/competitions/19159)** | CodaLab             | NaN                          | NaN         |
+| **[ChaLearn LAP Large-scale Continuous Gesture Recognition Challenge (Round 2) @ICCV 2017](https://competitions.codalab.org/competitions/19456)** | CodaLab             | NaN                          | NaN         |
 | **[NIPS 2018: AI for Prosthetics Challenge](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)** | **crowdAI**         | mid-July                     |             |
 | **[Mapping Challenge](https://www.crowdai.org/challenges/mapping-challenge)** | **crowdAI**         | 20 July                      |             |
 | [AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018) | **NIPS**            | Sep 24th                     | ~$15,000    |
@@ -87,24 +89,20 @@
 | [AI for prosthetics](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge) | **NIPS**            | Sep 30th                     |             |
 | [EndoVis](https://endovis.grand-challenge.org/)              | **Grand-challenge** | Sept. 10th<br />(Submission) |             |
 | **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W      |
-| **[GeekPwn 2018 国际安全极客大赛](http://2018.geekpwn.org/zh/index.html)** | geekpwn             | 2018.7.10/15                 | ~￥500W     |
 | [COLIEE-2018](https://sites.ualberta.ca/~miyoung2/COLIEE2018/) | JURISIN 2018        | Aug 15,2018                  | -           |
 | [Visual Dialog Challenge 2018](https://visualdialog.org/challenge/2018) | visualdialog.org    | mid-August                   | -           |
 | [京东AI时尚挑战赛](https://fashion-challenge.github.io/#index) | JD                  | 2018-07-20                   | -           |
 | [ATEC人工智能大赛](https://dc.cloud.alipay.com/index#/home)  | 蚂蚁金服            | 2018-07-09                   | ~￥120 W    |
 | [2018年国际大学生类脑计算创新应用大赛](https://contest.cbicr.org) | cbicr               | 2018-07-29                   | ￥100 W     |
+| **[阿里巴巴大数据智能云上编程大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231669)** | 天池                | 2018/08/13                   | ￥300000    |
 | **[雪浪制造AI挑战赛—视觉计算辅助良品检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231666)** | 天池                | 2018-08-02                   | ￥370000    |
 | **[阿里巴巴全球调度算法大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231663)** | 天池                | 2018-08-14                   | ￥200000    |
 | **[全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.2b54d780zoWNMQ&raceId=231662)** | 天池                | 2018-09-10                   | $31000      |
 | [CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661) | 天池                | 2018/07/30                   | €7500       |
-| **[FDDC2018金融算法挑战赛－A股主板上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231659)** | 天池                | 2018/07/08                   | ￥840000    |
 | [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池                | 2018-09-01                   | $ 0         |
 | **[The FashionGen Challenge](https://fashion-gen.com)**      | Fashion-gen         | July 31 2018                 | $2,000 CAN  |
-| **[GOC 城市物流运输车辆智能调度](https://jdata.jd.com/html/detail.html?id=5)** | JData               | 2018/07/09                   | ￥750,000   |
-| **[GOC 仓储网络智能库存管理[初赛]](https://jdata.jd.com/html/detail.html?id=4)** | JData               | 2018/07/09                   | ￥750,000   |
+| **[西南财经大学“新网银行杯”大数据竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"大数据竞赛_竞赛信息.html)** | DataCastle          | 暂无                         | 暂无        |
 | **[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/“达观杯”文本智能处理挑战赛_竞赛信息.html)** | DataCastle          | 2018.9.12                    | ￥50000     |
-| **[抢占C位，燃情世界杯](http://www.dcjingsai.com/common/cmpt/抢占C位，燃情世界杯_竞赛信息.html)** | DataCastle          | 同世界杯进度                 | 10800       |
-| [第三届魔镜杯大赛](https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1) | DataCastle          | 2018.7.9                     | ~￥66W      |
 | **[游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html)** | DataCastle          | 2018.08.31                   | ￥100000    |
 | [首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8) | DataCastle          | 2018.7.19                    | ~￥60W      |
 | [交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html) | DataCastle          | 2018.8.1                     | ~￥60W      |
@@ -114,15 +112,18 @@
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
 | **[CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/)** | Biendata            | 不详                         | NaN         |
 | **[CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/)** | Biendata            | 不详                         | NaN         |
-| **[CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/)** | Biendata            | 2018.7.15                    | NaN         |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN         |
-| [“AIIA”杯（航天科工站）- 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/288/intro) | DataFountain        | 2018-07-05                   | ~￥25万     |
-| [消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro) | DataFountain        | 2018-07-12                   | ~￥6万      |
 | **[2018 全球（南京）人工智能应用大赛](https://www.kesci.com/apps/home/competition/njai)**（20个题目） | Kesci               | 2018.8.6                     | ¥ 5,900,000 |
 | **[携程海外酒店房态预测算法大赛](https://www.kesci.com/apps/home/competition/5b18a9d7fe8bc06aa3a937b5)** | Kesci               | 2018.7.23                    | ~￥5万      |
 | [首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8) | Kesci               | 2018.7.19                    | ~￥20W      |
-| **[同盾科技——声纹识别建模大赛暑期训练营](https://www.kesci.com/apps/home/competition/5b3b381c71a61726e1382caa)** | Kesci               | 2018.7.15                    | NaN         |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN         |
+| **[“AIIA”杯（航天科工站）-高校挑战赛国际安全事件关系发现](http://www.datafountain.cn/#/competitions/306/intro)** | DataFountain        | 2018-07-13 - 2018-07-31      | -           |
+| **[“AIIA”杯（航天科工站）- 高校挑战赛 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/305/intro)** | DataFountain        | 2018-07-13 - 2018-07-31      | -           |
+| **[安全帽佩戴识别](http://www.datafountain.cn/#/competitions/304/intro)** | DataFountain        | 2018-06-29 - 2018-08-20      | -           |
+| **[光伏电站人工智能运维大数据处理分析](http://www.datafountain.cn/#/competitions/303/intro)** | DataFountain        | 2018-06-29 - 2018-08-19      | -           |
+| **[风机叶片开裂故障预警](http://www.datafountain.cn/#/competitions/302/intro)** | DataFountain        | 2018-06-29 - 2018-08-20      | -           |
+| **[基于大数据的汽轮机瞬态应力分析与预测](http://www.datafountain.cn/#/competitions/301/intro)** | DataFountain        | 2018-06-29 - 2018-08-20      | -           |
+| **[无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro)** | DataFountain        | 2018-07-13 - 2018-09-10      | -           |
 
 
 
@@ -136,7 +137,8 @@
 
 - 官方网址：https://www.kaggle.com/
 - 开放数据集：https://www.kaggle.com/datasets
-- Kaggle Competition Past Solutions：http://www.chioka.in/kaggle-competition-solutions/
+- 《[Kaggle Competition Past Solutions](http://www.chioka.in/kaggle-competition-solutions/)》by log0
+- 《[Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)》by SRK 
 
 
 下表只列出过去半年内active的competitons，并且按照recently created排序。
@@ -213,8 +215,8 @@
 >
 > 仅给出最新上线的赛题题目4个：
 
-- [SemEval 2019 Task 2](https://competitions.codalab.org/competitions/19159)
-- ![](https://i.loli.net/2018/07/05/5b3dd6e061917.png)
+-  [ChaLearn LAP Large-scale Continuous Gesture Recognition Challenge (Round 2) @ICCV 2017](https://competitions.codalab.org/competitions/19456)
+- ![](https://i.loli.net/2018/07/16/5b4c9cb18d72d.png)
 
 
 <br>
@@ -233,7 +235,7 @@
 
 赛题非常多，无意一一列举，详情请直接关注官方网址。
 
-仅给出最新可参与的赛题题目一个：[All  32](https://www.crowdai.org/challenges?challenge_filter=all) [Active  9](https://www.crowdai.org/challenges?challenge_filter=active) [Completed  23](https://www.crowdai.org/challenges?challenge_filter=completed)
+仅给出最新可参与的赛题题目一个：[All  33](https://www.crowdai.org/challenges?challenge_filter=all) [Active  10](https://www.crowdai.org/challenges?challenge_filter=active) [Completed  23](https://www.crowdai.org/challenges?challenge_filter=completed)
 
 - [NIPS 2018: AI for Prosthetics Challenge](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)
 - [Mapping Challenge](https://www.crowdai.org/challenges/mapping-challenge)
@@ -644,8 +646,9 @@ Website: https://tianchi.aliyun.com/
 
 | 比赛项目                                                     |  状态  | 第一赛季截止时间 |  总奖池   |
 | ------------------------------------------------------------ | :----: | :--------------: | :-------: |
+| **[阿里巴巴大数据智能云上编程大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231669)** | 进行中 |    2018/08/03    | ￥300000  |
 | **[雪浪制造AI挑战赛—视觉计算辅助良品检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231666)** | 进行中 |    2018-08-02    | ￥370000  |
-| **[AI Word Cup - 2018世界杯新闻智能创作极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231664)** | 进行中 |    2018-07-02    | ￥200000  |
+| [AI Word Cup - 2018世界杯新闻智能创作极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231664) | 进行中 |    2018-07-02    | ￥200000  |
 | **[阿里巴巴全球调度算法大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231663)** | 进行中 |    2018-08-14    | ￥200000  |
 | **[IEEE ICDM 2018 全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231662)** | 进行中 |    2018-09-10    |  $31000   |
 | [CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661) | 进行中 |    2018/07/30    |   €7500   |
@@ -745,7 +748,7 @@ Website: https://tianchi.aliyun.com/
 >
 > | 比赛题目                                                     |        时间轴         |  备注  |
 > | ------------------------------------------------------------ | :-------------------: | :----: |
-> | **[西交大·大数据竞赛2018——商家招牌的分类与检测](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=17)** | 2018/4/30 - 2018/9/00 |        |
+> | [西交大·大数据竞赛2018——商家招牌的分类与检测](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=17) | 2018/4/30 - 2018/9/00 |        |
 > | [【邀请赛】人工智能加速器应用与设计](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=20) | 2018/4/10 - 2018/8/9  |        |
 > | [充电桩故障分类与检测](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=19) | 2018/4/20 - 2018/7/13 | 练习赛 |
 > | [用户评论情感极性判别](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=18) | 2018/4/20 - 2018/7/13 | 练习赛 |
@@ -827,9 +830,10 @@ http://www.pkbigdata.com
 
 | 比赛项目                                                     |  状态  |         时间轴          |    备注    |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--------: |
+| **[西南财经大学“新网银行杯”大数据竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"大数据竞赛_竞赛信息.html)** | 进行中 |          暂无           |    暂无    |
 | **[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/“达观杯”文本智能处理挑战赛_竞赛信息.html)** | 进行中 |  2018.7.2 - 2018.9.19   |  ￥50000   |
-| **[抢占C位，燃情世界杯](http://www.dcjingsai.com/common/cmpt/抢占C位，燃情世界杯_竞赛信息.html)** | 进行中 |      同世界杯进度       |   10800    |
-| **[游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html)** | 进行中 | 2018.6.19 - 2018.08.31  |   100000   |
+| [抢占C位，燃情世界杯](http://www.dcjingsai.com/common/cmpt/抢占C位，燃情世界杯_竞赛信息.html) | 可参加 |      同世界杯进度       |   10800    |
+| [游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html) | 进行中 | 2018.6.19 - 2018.08.31  |   100000   |
 | [政府治理大数据应用算法大赛](http://www.dcjingsai.com/common/cmpt/政府治理大数据应用算法大赛_竞赛信息.html) | 进行中 |   2018.5.22 - 2018.08   |   140000   |
 | [物联网黑客马拉松-互联交通](http://www.dcjingsai.com/common/cmpt/物联网黑客马拉松-互联交通_竞赛信息.html) | 可参加 | 2018.5.17 - 2018.07.20  |            |
 | [交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html) | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W   |
@@ -920,11 +924,18 @@ Website：http://www.datafountain.cn/
 
 | 比赛项目                                                     |  状态  |         时间轴          | 备注 |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--: |
-| **[“AIIA”杯（航天科工站）- 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/288/intro)** | 进行中 | 2018-05-18 - 2018-07-30 |      |
-| [消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro) | 进行中 | 2018-05-30 - 2018-07-15 |      |
-| [尊嘉证券-2018俄罗斯世界杯AI挑战赛](http://www.datafountain.cn/#/competitions/286/rules) | 进行中 | 2018-05-21 - 2018-07-14 |      |
-| **[“AIIA”杯（航天科工站）- 国际安全事件关系发现](http://www.datafountain.cn/#/competitions/285/intro)** | 进行中 | 2018-05-18 - 2018-07-31 |      |
-| [2018平安产险数据建模大赛 驾驶行为预测驾驶风险](http://www.datafountain.cn/#/competitions/284/intro) | 进行中 | 2018-03-20 - 2018-07-13 |      |
+| **[“AIIA”杯（航天科工站）-高校挑战赛国际安全事件关系发现](http://www.datafountain.cn/#/competitions/306/intro)** | 进行中 | 2018-07-13 - 2018-07-31 |      |
+| **[“AIIA”杯（航天科工站）- 高校挑战赛 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/305/intro)** | 进行中 | 2018-07-13 - 2018-07-31 |      |
+| **[安全帽佩戴识别](http://www.datafountain.cn/#/competitions/304/intro)** | 进行中 | 2018-06-29 - 2018-08-20 |      |
+| **[光伏电站人工智能运维大数据处理分析](http://www.datafountain.cn/#/competitions/303/intro)** | 进行中 | 2018-06-29 - 2018-08-19 |      |
+| **[风机叶片开裂故障预警](http://www.datafountain.cn/#/competitions/302/intro)** | 进行中 | 2018-06-29 - 2018-08-20 |      |
+| **[基于大数据的汽轮机瞬态应力分析与预测](http://www.datafountain.cn/#/competitions/301/intro)** | 进行中 | 2018-06-29 - 2018-08-20 |      |
+| **[无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro)** | 进行中 | 2018-07-13 - 2018-09-10 |      |
+| [“AIIA”杯（航天科工站）- 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/288/intro) | 进行中 | 2018-05-18 - 2018-07-30 |      |
+| [消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro) | 已结束 | 2018-05-30 - 2018-07-15 |      |
+| [尊嘉证券-2018俄罗斯世界杯AI挑战赛](http://www.datafountain.cn/#/competitions/286/rules) | 已结束 | 2018-05-21 - 2018-07-14 |      |
+| [“AIIA”杯（航天科工站）- 国际安全事件关系发现](http://www.datafountain.cn/#/competitions/285/intro) | 进行中 | 2018-05-18 - 2018-07-31 |      |
+| [2018平安产险数据建模大赛 驾驶行为预测驾驶风险](http://www.datafountain.cn/#/competitions/284/intro) | 已结束 | 2018-03-20 - 2018-07-13 |      |
 | [2018“云移杯- 景区口碑评价分值预测](http://www.datafountain.cn/#/competitions/283/intro) | 已结束 | 2018-01-17 - 2018-04-15 |      |
 | [商场中精确定位用户所在店铺](http://www.datafountain.cn/#/competitions/279/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
 | [基于合成数据的Logo识别](http://www.datafountain.cn/#/competitions/278/intro) | 已结束 | 2017-09-24 - 2017-12-24 |      |
