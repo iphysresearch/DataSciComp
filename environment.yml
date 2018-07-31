@@ -1,0 +1,45 @@
+name: mne
+channels:
+- defaults
+dependencies:
+- python>=3.6
+- pip
+- mkl
+- numpy
+- scipy
+- matplotlib
+- pyqt>=5.9
+- vtk>=8
+- pandas
+- scikit-learn
+- h5py
+- pillow
+- statsmodels
+- jupyter
+- nose
+- pytest
+- pytest-cov
+- sphinx
+- joblib
+- psutil
+- numpydoc
+- flake8
+- spyder
+- numexpr
+- pip:
+  - mne
+  - "https://api.github.com/repos/enthought/traits/zipball/a99b3f64d50c5f7f28ffc01bf69419b061f9e976"
+  - "https://api.github.com/repos/enthought/pyface/zipball/6a0cac149d56293482bb828a7d98122667c773be"
+  - "https://api.github.com/repos/enthought/traitsui/zipball/e366ad3886d3c39bedb96e83bab447d31c4ab725"
+  - "https://api.github.com/repos/enthought/mayavi/zipball/master"
+  - "https://api.github.com/repos/nipy/PySurfer/zipball/master"
+  - nitime
+  - nibabel
+  - nilearn
+  - neo
+  - pytest-sugar
+  - pytest-faulthandler
+  - pydocstyle
+  - sphinx_bootstrap_theme
+  - "https://api.github.com/repos/sphinx-gallery/sphinx-gallery/zipball/master"
+  - python-picard
