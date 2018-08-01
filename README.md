@@ -1,4 +1,4 @@
-## 2018-7-31 Update!
+## 2018-8-1 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -52,7 +52,7 @@
 
 ## Active Competitons to join
 
-> 2018-7-31 Update!
+> 2018-8-1 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。(No playground)
 
@@ -78,6 +78,8 @@
 | [Visual Dialog Challenge 2018](https://visualdialog.org/challenge/2018) | visualdialog.org    | mid-August                   | -           |
 | **[ATEC人工智能大赛 - 蚂蚁金服](https://dc.cloud.alipay.com/index#/compet/topics)** | 蚂蚁金融            | 2018-9-1                     | ￥60,000x2  |
 | **[第二届易观算法大赛](http://ds.analysys.cn/ldjs.html)**    | 易观                | 不详                         | ￥5W        |
+| **[2018之江杯全球人工智能大赛 ：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231677)** | 天池                | 2018/9/25                    | ￥2780000   |
+| **[2018之江杯全球人工智能大赛 ：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231676)** | 天池                | 2018/9/25                    | ￥2780000   |
 | **[第三届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231668)** | 天池                | 2018/8/23                    | ￥300000    |
 | **[阿里巴巴大数据智能云上编程大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231669)** | 天池                | 2018/08/13                   | ￥300000    |
 | [雪浪制造AI挑战赛—视觉计算辅助良品检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231666) | 天池                | 2018-08-02                   | ￥370000    |
@@ -88,8 +90,6 @@
 | **[西南财经大学“新网银行杯”大数据竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"大数据竞赛_竞赛信息.html)** | DataCastle          | 暂无                         | 暂无        |
 | **[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/“达观杯”文本智能处理挑战赛_竞赛信息.html)** | DataCastle          | 2018.9.12                    | ￥50000     |
 | **[游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html)** | DataCastle          | 2018.08.31                   | ￥100000    |
-| [交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html) | DataCastle          | 2018.8.1                     | ~￥60W      |
-| [公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html) | DataCastle          | 2018.8.1                     | ~￥60W      |
 | [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000 |
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
@@ -150,14 +150,10 @@
 | [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) |    Featured     |      2018.4.16      |  $100,000   |
 | [IEEE's Signal Processing Society - Camera Model Identification](https://www.kaggle.com/c/sp-society-camera-model-identification) |    Featured     |      2018.2.8       |   $25,000   |
 | [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) |    Featured     |      2018.5.20      |   $35,000   |
-| [Santa Gift Matching Challenge](https://www.kaggle.com/c/santa-gift-matching) |    Featured     |      2018.1.12      |   $25,000   |
 | [**TrackML Particle Tracking Challenge**](https://www.kaggle.com/c/trackml-particle-identification#Prizes) |    Featured     |      2018.8.13      |   $25,000   |
 | [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) |   Playground    |          -          |      -      |
-| [TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge) |    Featured     |      2018.1.16      |   $25,000   |
 | [Mercari Price Suggestion Challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge) |    Featured     |      2018.2.21      |  $100,000   |
 | [Google Landmark Recognition Challenge](https://www.kaggle.com/c/landmark-recognition-challenge) |    Research     |      2018.5.22      |   $2,500    |
-| [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting) |    Featured     |      2018.1.15      |   $30,000   |
-| [Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge) |    Featured     |      2018.1.23      |   $50,000   |
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) |   Playground    |          -          |      -      |
 | [Nomad2018 Predicting Transparent Conductors](https://www.kaggle.com/c/nomad2018-predict-transparent-conductors) |    Research     |      2018.2.15      |   €5,000    |
 | [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting) |    Featured     |      2018.2.6       |   $25,000   |
@@ -640,6 +636,8 @@ Website: https://tianchi.aliyun.com/
 
 | 比赛项目                                                     |  状态  | 第一赛季截止时间 |  总奖池   |
 | ------------------------------------------------------------ | :----: | :--------------: | :-------: |
+| **[2018之江杯全球人工智能大赛 ：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231677)** | 进行中 |    2018-9-25     | ￥2780000 |
+| **[2018之江杯全球人工智能大赛 ：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231676)** | 进行中 |    2018-9-25     | ￥2780000 |
 | [第三届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231668) | 进行中 |    2018-08-15    | ￥300000  |
 | **[阿里巴巴大数据智能云上编程大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231669)** | 进行中 |    2018/08/03    | ￥300000  |
 | **[雪浪制造AI挑战赛—视觉计算辅助良品检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231666)** | 进行中 |    2018-08-02    | ￥370000  |
@@ -826,7 +824,7 @@ http://www.pkbigdata.com
 
 | 比赛项目                                                     |  状态  |         时间轴          |    备注    |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--------: |
-| **[西南财经大学“新网银行杯”大数据竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"大数据竞赛_竞赛信息.html)** | 进行中 |          暂无           |    暂无    |
+| **[西南财经大学“新网银行杯”数据科学竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"数据科学竞赛_竞赛信息.html)** | 进行中 |  2018.8.1 - 2018.11.13  |  ￥31000   |
 | **[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/“达观杯”文本智能处理挑战赛_竞赛信息.html)** | 进行中 |  2018.7.2 - 2018.9.19   |  ￥50000   |
 | [抢占C位，燃情世界杯](http://www.dcjingsai.com/common/cmpt/抢占C位，燃情世界杯_竞赛信息.html) | 可参加 |      同世界杯进度       |   10800    |
 | [游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html) | 进行中 | 2018.6.19 - 2018.08.31  |   100000   |
