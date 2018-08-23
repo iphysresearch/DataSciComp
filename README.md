@@ -1,4 +1,4 @@
-## 2018-8-12 Update!
+## 2018-8-23 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -10,38 +10,40 @@
 
 ---
 
-- [Kaggle](#kaggle) （新）
+- [Kaggle](#kaggle)
 - **[CodaLab](#codalab)（新）**
-- [crowdAI](#crowdai)
+- **[crowdAI](#crowdai)（新）**
 - [NIPS 2018 Competition Track](#nips-2018-competition-track)
 - [GECCO 2018 Competition](#gecco-2018-competition)
-- **[Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)（新）**
-- **[GeekPwn 2018 国际安全极客大赛](#geekpwn2018国际安全极客大赛)（新）**
-- [对抗样本攻防赛CAAD](#对抗样本攻防赛caad)（新）
-- [COLIEE-2018](#coliee-2018)
-- [Visual Dialog Challenge 2018](#visual-dialog-challenge-2018)
-- [The FashionGen Challenge](#the-fashiongen-challenge)
-- [京东AI时尚挑战赛](#京东ai时尚挑战赛)
-- [京东JD Dialog Challenge人机对话挑战赛](#京东jd-dialog-challenge人机对话挑战赛)
+- [Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)
+- [GeekPwn 2018 国际安全极客大赛](#geekpwn2018国际安全极客大赛)
+- [对抗样本攻防赛CAAD](#对抗样本攻防赛caad)
 - [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛---蚂蚁金服)
 - [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
 - [中国法研杯司法人工智能挑战赛](#中国法研杯司法人工智能挑战赛)
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
-- [第二届易观算法大赛](#第二届易观算法大赛)（新）
-- [深圳医疗健康大数据创新应用国际大赛](#深圳医疗健康大数据创新应用国际大赛)（新）
-- [天池](#天池)
+- [第二届易观算法大赛](#第二届易观算法大赛)
+- [深圳医疗健康大数据创新应用国际大赛](#深圳医疗健康大数据创新应用国际大赛)
+- **[A Conversational Question Answering Challenge(CoQA)](#a-conversational-question-answering-challenge)（新）**
+- [天池](#天池)（新）
 - [JData](#jdata)
+- **[JDD空间站](#jdd空间站)（新）**
 - [点石](#点石)
 - [Kesci](#kesci)
 - [DataCastle](#datacastle)
-- [Biendata](#biendata)
+- **[Biendata](#biendata)（新）**
 - [DataFountain](#datafountain)
-- **[数愿](#数愿)（新）**
+- [数愿](#数愿)
 
 ---
 
 **Overdued:**
 
+- [Visual Dialog Challenge 2018](#visual-dialog-challenge-2018)
+- [The FashionGen Challenge](#the-fashiongen-challenge)
+- [京东AI时尚挑战赛](#京东ai时尚挑战赛)
+- [京东JD Dialog Challenge人机对话挑战赛](#京东jd-dialog-challenge人机对话挑战赛)
+- [COLIEE-2018](#coliee-2018)
 - [第三届魔镜杯大赛](#第三届魔镜杯大赛) [CoNaLa: The Code/Natural Language Challenge](#conala:-the-code/natural-language-challenge) 
 - [Momenta Car Detection Challenge (MCDC) ](#momenta-car-detection-challenge)  [北京市高校校园大数据竞赛](#北京市高校校园大数据竞赛)
 - [TinyMind](#tinymind)  [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)  [CoNLL–SIGMORPHON 2018 Shared Task](#conll–sigmorphon-2018-shared-task)
@@ -54,7 +56,7 @@
 
 ## Active Competitons to join
 
-> 2018-8-12 Update!
+> 2018-8-23 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。(No playground)
 
@@ -62,12 +64,9 @@
 | ------------------------------------------------------------ | ------------------- | ---------------------------- | ----------- |
 | **[New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)** | Kaggle              | Sep. 25, 2018                | -           |
 | **[TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge#description)** | Kaggle              | Oct 12, 2018                 | $100,000    |
-| [Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track) | Kaggle              | Aug 23,2018                  | $30,000     |
-| [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge) | Kaggle              | Aug 13,2018                  | $60,000     |
-| [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk#Timeline) | Kaggle              | 2018.8.22                    | $70,000     |
-| [**Chinese Natural Language Inference(CNLI)**](https://competitions.codalab.org/competitions/19911#learn_the_details) | CodaLab             | Sep. 18 2018                 | NaN         |
-| **[RumourEval 2019](https://competitions.codalab.org/competitions/19855)** | CodaLab             | Feb. 1, 2019                 | NaN         |
-| **[Semantic Segmentation of LArTPC tracks](https://competitions.codalab.org/competitions/19818)** | CodaLab             | Never                        | NaN         |
+| **[MAFAT Challenge - Fine-Grained Classification of Objects from Aerial Imagery](https://competitions.codalab.org/competitions/19854)** | CodaLab             | Dec 01, 2018                 | **$30,000** |
+| **[SemEval 2019 Task 9](https://competitions.codalab.org/competitions/19955)** | CodaLab             | Jan 31, 2019                 |             |
+| **[League of Nations Archives Digitization Challenge](https://www.crowdai.org/challenges/league-of-nations-archives-digitization-challenge)** | crowdAI             | Oct 31th                     |             |
 | [AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018) | **NIPS**            | Sep 24th                     | ~$15,000    |
 | [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct 10th                     |             |
 | [The Conversational Intelligence Challenge 2 (ConvAI2)](http://convai.io/ ) | **NIPS**            | Sep 30th                     | ~$20,000    |
@@ -80,32 +79,26 @@
 | [EndoVis](https://endovis.grand-challenge.org/)              | **Grand-challenge** | Sept. 10th<br />(Submission) |             |
 | **[GeekPwn2018国际安全极客大赛](http://2018.geekpwn.org/zh/index.html)** | GEEKPWN             | 10.10                        | ~￥500W     |
 | **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W      |
-| [COLIEE-2018](https://sites.ualberta.ca/~miyoung2/COLIEE2018/) | JURISIN 2018        | Aug 15,2018                  | -           |
-| [Visual Dialog Challenge 2018](https://visualdialog.org/challenge/2018) | visualdialog.org    | mid-August                   | -           |
-| **[ATEC人工智能大赛 - 蚂蚁金服](https://dc.cloud.alipay.com/index#/compet/topics)** | 蚂蚁金融            | 2018-9-1                     | ￥60,000x2  |
-| **[第二届易观算法大赛](http://ds.analysys.cn/ldjs.html)**    | 易观                | 不详                         | ￥5W        |
-| **[2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231677)** | 天池                | 2018/9/25                    | ￥2780000   |
-| **[2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231676)** | 天池                | 2018/9/25                    | ￥2780000   |
-| **[第三届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231668)** | 天池                | 2018/8/23                    | ￥300000    |
-| **[阿里巴巴大数据智能云上编程大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231669)** | 天池                | 2018/08/13                   | ￥300000    |
-| **[阿里巴巴全球调度算法大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231663)** | 天池                | 2018-08-14                   | ￥200000    |
+| [ATEC人工智能大赛 - 蚂蚁金服](https://dc.cloud.alipay.com/index#/compet/topics) | 蚂蚁金融            | 2018-9-1                     | ￥60,000x2  |
+| [第二届易观算法大赛](http://ds.analysys.cn/ldjs.html)        | 易观                | 不详                         | ￥5W        |
+| **[京东金融对话语音识别大赛 （ 预热 ）](https://jdder.jd.com/index/jddDetail?matchId=2223f40dcfca4e7da8d4c018b0cd0858)** | JDD空间站           | 2018-09-25                   | ￥5W        |
+| **[A Conversational Question Answering Challenge](https://stanfordnlp.github.io/coqa/)** | CoQA                | NaN                          | NaN         |
+| **[广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682)** | 天池                | 10月8日                      | ￥550000    |
+| [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231677) | 天池                | 2018/9/25                    | ￥2780000   |
+| [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231676) | 天池                | 2018/9/25                    | ￥2780000   |
 | [全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.2b54d780zoWNMQ&raceId=231662) | 天池                | 2018-09-10                   | $31000      |
 | [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池                | 2018-09-01                   | $ 0         |
-| **[西南财经大学“新网银行杯”大数据竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"大数据竞赛_竞赛信息.html)** | DataCastle          | 暂无                         | 暂无        |
-| **[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/“达观杯”文本智能处理挑战赛_竞赛信息.html)** | DataCastle          | 2018.9.12                    | ￥50000     |
-| **[游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html)** | DataCastle          | 2018.08.31                   | ￥100000    |
+| [西南财经大学“新网银行杯”大数据竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"大数据竞赛_竞赛信息.html) | DataCastle          | 暂无                         | 暂无        |
+| **[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/"达观杯"文本智能处理挑战赛_竞赛信息.html)** | DataCastle          | 2018.9.12                    | ￥50000     |
+| [游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html) | DataCastle          | 2018.08.31                   | ￥100000    |
 | [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000 |
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
-| **[CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/)** | Biendata            | 不详                         | NaN         |
-| **[CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/)** | Biendata            | 不详                         | NaN         |
+| **[2018自动驾驶模拟大赛](https://biendata.com/competition/autocar2018/)** | Biendata            | 9月25日                      | ~1W         |
+| **[Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/)** | Biendata            | 11月23日                     | $ 20,000    |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN         |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN         |
-| **[安全帽佩戴识别](http://www.datafountain.cn/#/competitions/304/intro)** | DataFountain        | 2018-06-29 - 2018-08-20      | -           |
-| **[光伏电站人工智能运维大数据处理分析](http://www.datafountain.cn/#/competitions/303/intro)** | DataFountain        | 2018-06-29 - 2018-08-19      | -           |
-| **[风机叶片开裂故障预警](http://www.datafountain.cn/#/competitions/302/intro)** | DataFountain        | 2018-06-29 - 2018-08-20      | -           |
-| **[基于大数据的汽轮机瞬态应力分析与预测](http://www.datafountain.cn/#/competitions/301/intro)** | DataFountain        | 2018-06-29 - 2018-08-20      | -           |
-| **[无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro)** | DataFountain        | 2018-07-13 - 2018-09-10      | -           |
+| [无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro) | DataFountain        | 2018-07-13 - 2018-09-10      | -           |
 | **[BOT新零售技术挑战赛](http://www.datadreams.org/#/raceDetail/raceSummary?raceid=124)** | 数愿                | 2018.10.8                    | ~￥17W      |
 | **[BOT智能汽车技术挑战赛](http://www.datadreams.org/#/raceDetail/raceSummary?raceid=120)** | 数愿                | 2018.9.26                    | ~￥15W      |
 
@@ -195,17 +188,16 @@
 >
 > 仅给出最新上线的赛题题目3个：
 
--  [Chinese Natural Language Inference(CNLI)](https://competitions.codalab.org/competitions/19911)
+- [MAFAT Challenge - Fine-Grained Classification of Objects from Aerial Imagery](https://competitions.codalab.org/competitions/19854)
+- [SemEval 2019](https://competitions.codalab.org/competitions/?q=SemEval) 1, 3, 5, 8, 9
 
--  [RumourEval 2019](https://competitions.codalab.org/competitions/19855)
+   ![](https://i.loli.net/2018/08/23/5b7e6242cc120.png)
 
--  [Semantic Segmentation of LArTPC tracks](https://competitions.codalab.org/competitions/19818)
+   ![](https://i.loli.net/2018/08/23/5b7e622019ce6.png)
 
-- ![](https://i.loli.net/2018/08/12/5b6fc46f71907.png)
 
-  
 
-<br>
+<br><br>
 
 ## crowdAI
 
@@ -219,14 +211,11 @@
 
 赛题非常多，无意一一列举，详情请直接关注官方网址。
 
-仅给出最新可参与的赛题题目2个：[All  33](https://www.crowdai.org/challenges?challenge_filter=all) [Active  10](https://www.crowdai.org/challenges?challenge_filter=active) [Completed  23](https://www.crowdai.org/challenges?challenge_filter=completed)
+仅给出最新可参与的赛题题目2个：[All  34](https://www.crowdai.org/challenges?challenge_filter=all) [Active  8](https://www.crowdai.org/challenges?challenge_filter=active) [Completed  26](https://www.crowdai.org/challenges?challenge_filter=completed)
 
-- [NIPS 2018: AI for Prosthetics Challenge](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)
-- [Mapping Challenge](https://www.crowdai.org/challenges/mapping-challenge)
+-  [League of Nations Archives Digitization Challenge](https://www.crowdai.org/challenges/league-of-nations-archives-digitization-challenge)
 
-![](https://i.loli.net/2018/06/23/5b2dc48997c95.png)
-
-![](https://i.loli.net/2018/06/23/5b2dc454037ce.png)
+  ![](https://i.loli.net/2018/08/23/5b7e648055f3b.png)
 
 > We will provide the full list of prizes in mid-July. Prizes confirmed for now include:
 >
@@ -371,87 +360,7 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 <br>
 
-## COLIEE-2018
 
-> **Competition on Legal Information Extraction/Entailment (COLIEE)**
->
-> Website：[https://sites.ualberta.ca/~miyoung2/COLIEE2018/](https://sites.ualberta.ca/~miyoung2/COLIEE2018/)
-
-![](https://i.loli.net/2018/06/05/5b16521b0195e.png)
-
-![](https://i.loli.net/2018/06/05/5b1652427e483.png)
-
-<br>
-
-<br>
-
-## Visual Dialog Challenge 2018
-
-> Website：https://visualdialog.org/challenge/2018
-
-![](https://i.loli.net/2018/06/05/5b165605a875f.gif)
-
-![](https://i.loli.net/2018/06/05/5b16564d6e685.png)
-
-
-
-
-
-<br>
-
-<br>
-
-
-
-## The FashionGen Challenge
-
-> ![](https://i.loli.net/2018/06/11/5b1d9ce0cae64.png)
->
-> Website：https://fashion-gen.com
->
-> FashionGen文字到图像挑战赛：根据设计描述生成时尚单品。数据由设计师标记，每个单品有多个角度，样本数量超过300,000个。
->
-> The winner with the best model will be given a $2,000 CAN prize.
->
-> Your application will be revised within 24 hours of submission. Once accepted, you will have access to the FashionGen dataset. **Submissions begin June 10th, 2018 and end on July 31st, 2018**. You are permitted two submissions per day.
-
-
-
-<br>
-
-<br>
-
-## 京东AI时尚挑战赛
-
-![](https://i.loli.net/2018/05/09/5af2be7d55f39.png)
-
-> 竞赛官网：https://fashion-challenge.github.io/#index
->
-> 题目1：**时尚风格识别**
->
-> 题目2：**时尚单品搜索**
-
-![](https://i.loli.net/2018/05/09/5af2bf2e8627f.png)
-
-<br>
-
-<br>
-
-## 京东JD Dialog Challenge人机对话挑战赛
-
-![](https://i.loli.net/2018/05/18/5afe3623d922c.png)
-
-> 本次大赛以京东用户与京东人工客服真实对话数据（脱敏后）为基础，参赛队伍需要给定的对话数据进行分析，构建端到端的任务驱动型多轮对话系统，输出满足用户需求的答案，要求该答案能正确、完整且高效地解决问题，为用户带来简单、省心、智能的购物咨询体验。
->
-> Website：http://jddc.jd.com
->
-> ![](https://i.loli.net/2018/05/18/5afe3642d40b0.png)
->
-> ![](https://i.loli.net/2018/05/18/5afe3655c420b.png)
-
-<br>
-
-<br>
 
 ## ATEC人工智能大赛 - 蚂蚁金服
 
@@ -657,9 +566,40 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 <br>
 
+## A Conversational Question Answering Challenge
+
+> ![](https://i.loli.net/2018/08/23/5b7e70dc1631f.png)
+>
+> CoQA is a large-scale dataset for building **Co**nversational **Q**uestion **A**nswering systems. The goal of the CoQA challenge is to measure the ability of machines to understand a text passage and answer a series of interconnected questions that appear in a conversation. CoQA is pronounced as [coca](https://en.wikipedia.org/wiki/Coca).
+>
+> Related paper: https://arxiv.org/abs/1808.07042 
+>
+> Official website: https://stanfordnlp.github.io/coqa/
+>
+> 新闻报道：[CoQA！斯坦福召开新一轮QA比赛，剑指对话问答！](https://mp.weixin.qq.com/s/gfvW9gTEK2I8IyQQsfsVFw)
+>
+> > 【导读】斯坦福的上一轮阅读理解问答比赛 SQUAD1.1，于今年1月13日被阿里团队成功突破，算法的效果已经可以击败人类。如今，斯坦福又卷土重来了新的问答比赛，不同于 SQUAD的阅读理解问答，本次的 CoQA是对话式问答。相信这次比赛，又将会带领算法突破人类，达到前所未有的成就。目前网站刚刚上线， 只有发布比赛的文章里给出的 baseline 和 人类的结果。 趁着还没人提交，不考虑刷一下么？
+> >
+> > 比赛同时发布了同名的大型数据集：CoQA，用于建立会话问答系统。CoQA比赛的目标是测试机器理解文本段落和回答对话中出现的一系列相互关联的问题的能力。CoQA的发音是coca.
+> >
+> > CoQA包含127000多个问题和回答，它们采集自8000多个对话。每个对话都是由两位众筹人员，以问答的形式就给定的一段文本进行交谈得到的。
+> >
+> > CoQA的独特之处在于：
+> >
+> > - 问题是对话式的
+> > - 答案是自由格式的文本
+> > - 每个答案都能在文本中找到高亮的证据序列
+> > - 有7个不同的领域
+> >
+> > 跟现有的阅读理解问答数据集相比，CoQA有许多新挑战，如共指、语用推理等。
 
 
 
+
+
+<br>
+
+<br>
 
 ## 天池
 
@@ -673,76 +613,77 @@ Website: https://tianchi.aliyun.com/
 
 以下仅收集“算法大赛”类别。
 
-| 比赛项目                                                     |  状态  | 第一赛季截止时间 |  总奖池   |
-| ------------------------------------------------------------ | :----: | :--------------: | :-------: |
-| **[2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231677)** | 进行中 |    2018-9-25     | ￥2780000 |
-| **[2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231676)** | 进行中 |    2018-9-25     | ￥2780000 |
-| [第三届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231668) | 进行中 |    2018-08-15    | ￥300000  |
-| **[阿里巴巴大数据智能云上编程大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231669)** | 进行中 |    2018/08/03    | ￥300000  |
-| **[雪浪制造AI挑战赛—视觉计算辅助良品检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231666)** | 进行中 |    2018-08-02    | ￥370000  |
-| [AI Word Cup - 2018世界杯新闻智能创作极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231664) | 进行中 |    2018-07-02    | ￥200000  |
-| **[阿里巴巴全球调度算法大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231663)** | 进行中 |    2018-08-14    | ￥200000  |
-| **[IEEE ICDM 2018 全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231662)** | 进行中 |    2018-09-10    |  $31000   |
-| [CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661) | 进行中 |    2018/07/30    |   €7500   |
-| [FDDC2018金融算法挑战赛－A股主板上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231660) | 进行中 |    2018/08/03    | ￥840000  |
-| [FDDC2018金融算法挑战赛－A股主板上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231659) | 进行中 |    2018/07/08    | ￥840000  |
-| [x MSU Hackathon - Alimama International Advertising Algorithm Competition](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.3a85d780vfsvZ5&raceId=231656) | 已结束 |    2018/04/22    |   $1000   |
-| [美年健康AI大赛——双高疾病风险预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231654) | 已结束 |    2018/05/07    | ￥250000  |
-| [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) | 已结束 |    2018-05-28    |  ￥40000  |
-| [ICPR 2018 挑战赛二：网络图像的文本检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231651) | 已结束 |    2018-05-28    |  ￥30000  |
-| [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) | 已结束 |    2018-05-28    |  ￥30000  |
-| [FashionAI全球挑战赛—服饰属性标签识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231649) | 已结束 |    2018-04-21    | ￥1340000 |
-| [FashionAI全球挑战赛—服饰关键点定位](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231648) | 已结束 |    2018-04-21    | ￥1340000 |
-| [IJCAI-18 阿里妈妈搜索广告转化预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231647) | 已结束 |    2018-04-23    |  $37000   |
-| [天文数据挖掘大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231646) | 已结束 |    2018-03-12    |    ￥0    |
-| [印象盐城·数创未来大数据竞赛 - 盐城汽车上牌量预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231641) | 已结束 |    2018-02-27    | ￥190000  |
-| [印象盐城·数创未来大数据竞赛 - 乘用车零售量预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231640) | 已结束 |    2018-02-27    | ￥460000  |
-| [天池精准医疗大赛——人工智能辅助糖尿病遗传风险预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231638) | 已结束 |    2018-01-30    | ￥250000  |
-| [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 进行中 |    2018-09-01    |    $ 0    |
-| [未来已来——气象数据领航无人飞行器线路优化大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231622) | 已结束 |    2018-01-31    |  $16000   |
-| [天池工业AI大赛-智能制造质量预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231633) | 已结束 |    2018-01-16    | ￥550000  |
-| [“未来已来”伦敦黑客马拉松](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231645) | 已结束 |    2018-01-22    |   $1600   |
-| [商场中精确定位用户所在店铺](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231620) | 已结束 |    2017/11/19    | ￥100000  |
-| [广东政务数据创新大赛—应用创新赛](https://tianchi.aliyun.com/dataV/introduction.htm?spm=5176.100066.0.0.773ef42fjklgMW&raceId=231616) | 已结束 |    2017/10/10    |  400000   |
-| [广东政务数据创新大赛—智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.773ef42fjklgMW&raceId=231615) | 已结束 |    2017/10/10    |  550000   |
-| [第二届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231612) | 已结束 |    2017.9.13     |  330000   |
-| [“数聚华夏 创享未来”中国数据创新行——智慧交通预测挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231598) | 已结束 |    2017.8.12     |  300000   |
-| [智慧航空AI大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231609) | 已结束 |    2017.9.15     |  340000   |
-| [全国社会保险大数据应用创新大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231607) | 已结束 |    2017.8.15     |  340000   |
-| [余震捕捉AI大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231606) | 已结束 |    2017.9.15     |  350000   |
-| [天池医疗AI大赛[第一季]：肺部结节智能诊断](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231601) | 已结束 |    2017.9.12     |  1000000  |
-| [天池新人实战赛o2o优惠券使用预测](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231593) (新人实战赛) | 进行中 |     2018.3.1     |     -     |
-| [Repeat Buyers Prediction-Challenge the Baseline](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231576) (新人实战赛) | 进行中 |     2018.3.1     |     -     |
-| [淘宝穿衣搭配-挑战Baseline](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231575) (新人实战赛) | 进行中 |     2018.3.1     |     -     |
-| [新浪微博互动预测-挑战Baseline](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231574) (新人实战赛) | 进行中 |     2018.3.1     |     -     |
-| [资金流入流出预测-挑战Baseline](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231573) (新人实战赛) | 进行中 |     2018.3.1     |     -     |
-| [天池新人实战赛之[离线赛]](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231522) (新人实战赛) | 进行中 |     2018.3.1     |     -     |
-| [【阿里中间件】24小时极客挑战赛](https://tianchi.aliyun.com/programming/introduction.htm?spm=5176.100066.0.0.3f6e7d83OKVRIh&raceId=231608) | 已结束 |    2017.7.24     |  120000   |
-| [大航杯“智造扬中”电力AI大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231602) | 已结束 |    2017.7.20     |  330000   |
-| [CIKM AnalytiCup 2017](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231596) | 已结束 |     2017.7.2     |   11000   |
-| [第三届阿里中间件性能挑战赛](https://tianchi.aliyun.com/programming/introduction.htm?raceId=231600) (程序设计大赛) | 已结束 |    2017.6.29     |  300000   |
-| [KDD CUP 2017](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231597) | 已结束 |     2017.6.1     |   25000   |
-| [阿里聚安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231592) | 已结束 |    2017.3.16     |  300000   |
-| [IJCAI-17 口碑商家客流量预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231591) | 已结束 |    2017.3.14     |   37000   |
-| [阿里聚安全攻防挑战赛](https://tianchi.aliyun.com/programming/introduction.htm?raceId=231590) (程序设计大赛) | 已结束 |    2016.12.31    |  217200   |
-| [生活大实惠：O2O优惠券使用预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231587) | 已结束 |    2016.12.16    |  100000   |
-| [【广东大赛】机场客流量的时空分布预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231588) | 已结束 |    2016.11.28    |  300000   |
-| [24小时极限挑战赛-阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231589) | 已结束 |    2016.10.14    |  350000   |
-| [阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231585) | 已结束 |    2016.9.28     |  350000   |
-| [最后一公里极速配送](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231581) | 已结束 |    2016.9.28     |   42000   |
-| [「公益云图 」数据可视化创新大赛](https://tianchi.aliyun.com/dataV/introduction.htm?raceId=231580) (可视化大赛) | 已结束 |    2016.9.25     |  360000   |
-| [阿里音乐流行趋势预测大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231531) | 已结束 |    2016.7.15     |  380000   |
-| [菜鸟-需求预测与分仓规划](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231530) | 已结束 |    2016.6.15     |  330000   |
-| [第二届阿里中间件性能挑战赛](https://tianchi.aliyun.com/programming/introduction.htm?raceId=231533) (程序设计大赛) | 已结束 |     2016.8.3     |  300000   |
-| [IJCAI](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.3f6e7d83OKVRIh&raceId=231532) | 已结束 |     2016.6.1     |   16000   |
-| [阿里大规模图像搜索大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231510) | 已结束 |    2015.12.16    |  100000   |
-| [市民出行公交线路选乘预测[广东赛场二]](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231513) | 已结束 |    2015.12.15    |  200000   |
-| [淘宝穿衣搭配算法](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231506) | 已结束 |    2015.12.8     |  300000   |
-| [公交线路客流预测[广东赛场一]](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231514) | 已结束 |    2015.11.30    |   30000   |
-| [新浪微博互动预测大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=5) | 已结束 |    2015.11.5     |  200000   |
-| [天池24小时极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231512) | 已结束 |    2015.10.15    |   50000   |
-| [资金流入流出预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=3) | 已结束 |    2015.7.25     |  300000   |
-| [阿里移动推荐算法](https://tianchi.aliyun.com/competition/introduction.htm?raceId=1) | 已结束 |     2015.7.1     |  300000   |
+| 比赛项目                                                     |     状态     | 第一赛季截止时间 |  总奖池   |
+| ------------------------------------------------------------ | :----------: | :--------------: | :-------: |
+| **[广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682)** |    进行中    |    2018-10-9     | ￥550000  |
+| [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231677) |    进行中    |    2018-9-25     | ￥2780000 |
+| [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231676) |    进行中    |    2018-9-25     | ￥2780000 |
+| [第三届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231668) |    进行中    |    2018-08-15    | ￥300000  |
+| [阿里巴巴大数据智能云上编程大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231669) |    已结束    |    2018/08/03    | ￥300000  |
+| [雪浪制造AI挑战赛—视觉计算辅助良品检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231666) |    已结束    |    2018-08-02    | ￥370000  |
+| [AI Word Cup - 2018世界杯新闻智能创作极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231664) |    进行中    |    2018-07-02    | ￥200000  |
+| [阿里巴巴全球调度算法大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231663) |    进行中    |    2018-08-14    | ￥200000  |
+| [IEEE ICDM 2018 全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231662) |    进行中    |    2018-09-10    |  $31000   |
+| [CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661) |    已结束    |    2018/07/30    |   €7500   |
+| [FDDC2018金融算法挑战赛－A股主板上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231660) |    已结束    |    2018/08/03    | ￥840000  |
+| [FDDC2018金融算法挑战赛－A股主板上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231659) | 已结束已结束 |    2018/07/08    | ￥840000  |
+| [x MSU Hackathon - Alimama International Advertising Algorithm Competition](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.3a85d780vfsvZ5&raceId=231656) |    已结束    |    2018/04/22    |   $1000   |
+| [美年健康AI大赛——双高疾病风险预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231654) |    已结束    |    2018/05/07    | ￥250000  |
+| [ICPR 2018 挑战赛三：网络图像的端到端文本检测和识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231652) |    已结束    |    2018-05-28    |  ￥40000  |
+| [ICPR 2018 挑战赛二：网络图像的文本检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231651) |    已结束    |    2018-05-28    |  ￥30000  |
+| [ICPR 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231650) |    已结束    |    2018-05-28    |  ￥30000  |
+| [FashionAI全球挑战赛—服饰属性标签识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231649) |    已结束    |    2018-04-21    | ￥1340000 |
+| [FashionAI全球挑战赛—服饰关键点定位](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231648) |    已结束    |    2018-04-21    | ￥1340000 |
+| [IJCAI-18 阿里妈妈搜索广告转化预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231647) |    已结束    |    2018-04-23    |  $37000   |
+| [天文数据挖掘大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231646) |    已结束    |    2018-03-12    |    ￥0    |
+| [印象盐城·数创未来大数据竞赛 - 盐城汽车上牌量预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.12112184J83k35&raceId=231641) |    已结束    |    2018-02-27    | ￥190000  |
+| [印象盐城·数创未来大数据竞赛 - 乘用车零售量预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231640) |    已结束    |    2018-02-27    | ￥460000  |
+| [天池精准医疗大赛——人工智能辅助糖尿病遗传风险预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231638) |    已结束    |    2018-01-30    | ￥250000  |
+| [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) |    进行中    |    2018-09-01    |    $ 0    |
+| [未来已来——气象数据领航无人飞行器线路优化大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231622) |    已结束    |    2018-01-31    |  $16000   |
+| [天池工业AI大赛-智能制造质量预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231633) |    已结束    |    2018-01-16    | ￥550000  |
+| [“未来已来”伦敦黑客马拉松](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231645) |    已结束    |    2018-01-22    |   $1600   |
+| [商场中精确定位用户所在店铺](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231620) |    已结束    |    2017/11/19    | ￥100000  |
+| [广东政务数据创新大赛—应用创新赛](https://tianchi.aliyun.com/dataV/introduction.htm?spm=5176.100066.0.0.773ef42fjklgMW&raceId=231616) |    已结束    |    2017/10/10    |  400000   |
+| [广东政务数据创新大赛—智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.773ef42fjklgMW&raceId=231615) |    已结束    |    2017/10/10    |  550000   |
+| [第二届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231612) |    已结束    |    2017.9.13     |  330000   |
+| [“数聚华夏 创享未来”中国数据创新行——智慧交通预测挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231598) |    已结束    |    2017.8.12     |  300000   |
+| [智慧航空AI大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231609) |    已结束    |    2017.9.15     |  340000   |
+| [全国社会保险大数据应用创新大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231607) |    已结束    |    2017.8.15     |  340000   |
+| [余震捕捉AI大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231606) |    已结束    |    2017.9.15     |  350000   |
+| [天池医疗AI大赛[第一季]：肺部结节智能诊断](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231601) |    已结束    |    2017.9.12     |  1000000  |
+| [天池新人实战赛o2o优惠券使用预测](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231593) (新人实战赛) |    进行中    |     2018.3.1     |     -     |
+| [Repeat Buyers Prediction-Challenge the Baseline](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231576) (新人实战赛) |    进行中    |     2018.3.1     |     -     |
+| [淘宝穿衣搭配-挑战Baseline](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231575) (新人实战赛) |    进行中    |     2018.3.1     |     -     |
+| [新浪微博互动预测-挑战Baseline](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231574) (新人实战赛) |    进行中    |     2018.3.1     |     -     |
+| [资金流入流出预测-挑战Baseline](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231573) (新人实战赛) |    进行中    |     2018.3.1     |     -     |
+| [天池新人实战赛之[离线赛]](https://tianchi.aliyun.com/getStart/introduction.htm?raceId=231522) (新人实战赛) |    进行中    |     2018.3.1     |     -     |
+| [【阿里中间件】24小时极客挑战赛](https://tianchi.aliyun.com/programming/introduction.htm?spm=5176.100066.0.0.3f6e7d83OKVRIh&raceId=231608) |    已结束    |    2017.7.24     |  120000   |
+| [大航杯“智造扬中”电力AI大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231602) |    已结束    |    2017.7.20     |  330000   |
+| [CIKM AnalytiCup 2017](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231596) |    已结束    |     2017.7.2     |   11000   |
+| [第三届阿里中间件性能挑战赛](https://tianchi.aliyun.com/programming/introduction.htm?raceId=231600) (程序设计大赛) |    已结束    |    2017.6.29     |  300000   |
+| [KDD CUP 2017](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231597) |    已结束    |     2017.6.1     |   25000   |
+| [阿里聚安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231592) |    已结束    |    2017.3.16     |  300000   |
+| [IJCAI-17 口碑商家客流量预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231591) |    已结束    |    2017.3.14     |   37000   |
+| [阿里聚安全攻防挑战赛](https://tianchi.aliyun.com/programming/introduction.htm?raceId=231590) (程序设计大赛) |    已结束    |    2016.12.31    |  217200   |
+| [生活大实惠：O2O优惠券使用预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231587) |    已结束    |    2016.12.16    |  100000   |
+| [【广东大赛】机场客流量的时空分布预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231588) |    已结束    |    2016.11.28    |  300000   |
+| [24小时极限挑战赛-阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231589) |    已结束    |    2016.10.14    |  350000   |
+| [阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231585) |    已结束    |    2016.9.28     |  350000   |
+| [最后一公里极速配送](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231581) |    已结束    |    2016.9.28     |   42000   |
+| [「公益云图 」数据可视化创新大赛](https://tianchi.aliyun.com/dataV/introduction.htm?raceId=231580) (可视化大赛) |    已结束    |    2016.9.25     |  360000   |
+| [阿里音乐流行趋势预测大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231531) |    已结束    |    2016.7.15     |  380000   |
+| [菜鸟-需求预测与分仓规划](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231530) |    已结束    |    2016.6.15     |  330000   |
+| [第二届阿里中间件性能挑战赛](https://tianchi.aliyun.com/programming/introduction.htm?raceId=231533) (程序设计大赛) |    已结束    |     2016.8.3     |  300000   |
+| [IJCAI](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.3f6e7d83OKVRIh&raceId=231532) |    已结束    |     2016.6.1     |   16000   |
+| [阿里大规模图像搜索大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231510) |    已结束    |    2015.12.16    |  100000   |
+| [市民出行公交线路选乘预测[广东赛场二]](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231513) |    已结束    |    2015.12.15    |  200000   |
+| [淘宝穿衣搭配算法](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231506) |    已结束    |    2015.12.8     |  300000   |
+| [公交线路客流预测[广东赛场一]](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231514) |    已结束    |    2015.11.30    |   30000   |
+| [新浪微博互动预测大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=5) |    已结束    |    2015.11.5     |  200000   |
+| [天池24小时极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231512) |    已结束    |    2015.10.15    |   50000   |
+| [资金流入流出预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=3) |    已结束    |    2015.7.25     |  300000   |
+| [阿里移动推荐算法](https://tianchi.aliyun.com/competition/introduction.htm?raceId=1) |    已结束    |     2015.7.1     |  300000   |
 
 
 
@@ -761,10 +702,29 @@ Website: https://tianchi.aliyun.com/
 | 比赛项目                                                     |  状态  |          时间轴          |  总奖池   |
 | ------------------------------------------------------------ | :----: | :----------------------: | :-------: |
 | [GOC 城市物流运输车辆智能调度](https://jdata.jd.com/html/detail.html?id=5) | 进行中 | 2018/05/15 -  2018/09/15 | ￥750,000 |
-| [GOC 仓储网络智能库存管理[初赛]](https://jdata.jd.com/html/detail.html?id=4) | 已结束 | 2018/05/15 -  2018/09/15 | ￥750,000 |
+| [GOC 仓储网络智能库存管理[初赛]](https://jdata.jd.com/html/detail.html?id=4) | 进行中 | 2018/05/15 -  2018/09/15 | ￥750,000 |
 | [如期而至-用户购买时间预测](https://jdata.jd.com/html/detail.html?id=2) | 已结束 | 2018/04/18 -  2018/07/10 | ￥700,000 |
 | [基于移动网络通讯行为的风险用户识别](https://jdata.jd.com/html/detail.html?id=3) | 已结束 | 2018/04/20 -  2018/06/26 | ￥800,000 |
 | [高潜用户购买意向预测](https://jdata.jd.com/html/detail.html?id=1) | 已结束 | 2017/03/19 -  2017/05/26 | ￥554,000 |
+
+<br>
+
+<br>
+
+
+
+##  JDD空间站
+
+> ![image-20180823162247513](assets/image-20180823162247513.png)
+>
+> Official website: https://jdder.jd.com
+
+| 赛题名称                                                     | 状态   | 截止日期   | 总奖池 |
+| ------------------------------------------------------------ | ------ | ---------- | ------ |
+| [京东金融对话语音识别大赛 （ 预热 ）](https://jdder.jd.com/index/jddDetail?matchId=2223f40dcfca4e7da8d4c018b0cd0858) | 进行中 | 2018-09-25 | ￥5W   |
+|                                                              |        |            |        |
+
+
 
 <br>
 
@@ -916,12 +876,14 @@ https://biendata.com/competition/
 
 | 比赛项目                                                     |  状态  |         时间轴          | 备注 |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--: |
-| **[SMP ETST 2018](https://biendata.com/competition/smpetst2018/)（文本溯源竞赛）** | 已结束 | 2018.06.01 - 2018.07.02 |      |
-| **[SMP EUPT 2018](https://biendata.com/competition/smpeupt2018/)（今日头条作者画像）** | 已结束 | 2018.06.01- 2018.07.10  |      |
-| **[CCIR 2018](https://biendata.com/competition/CCIR2018/) ( 移动环境下知识分享平台上的内容推荐)** | 已结束 |  2018.5.21 - 2018.7.24  |      |
-| **[CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/)** | 已结束 |   2018.5.9 - 2018-8-5   |      |
-| **[CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/)** | 已结束 |   2018.4.1 - 2018-8-5   |      |
-| **[CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/)** | 已结束 |  2018.4.27 - 2018-7-2   |      |
+| **[2018自动驾驶模拟大赛](https://biendata.com/competition/autocar2018/)** | 进行中 | 2018.08.22 - 2018.10.10 |      |
+| **[Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/)** | 进行中 | 2018.08.17 - 2018.11.22 |      |
+| [SMP ETST 2018](https://biendata.com/competition/smpetst2018/)（文本溯源竞赛） | 已结束 | 2018.06.01 - 2018.07.02 |      |
+| [SMP EUPT 2018](https://biendata.com/competition/smpeupt2018/)（今日头条作者画像） | 已结束 | 2018.06.01- 2018.07.10  |      |
+| [CCIR 2018](https://biendata.com/competition/CCIR2018/) ( 移动环境下知识分享平台上的内容推荐) | 已结束 |  2018.5.21 - 2018.7.24  |      |
+| [CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/) | 已结束 |   2018.5.9 - 2018-8-5   |      |
+| [CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/) | 已结束 |   2018.4.1 - 2018-8-5   |      |
+| [CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/) | 已结束 |  2018.4.27 - 2018-7-2   |      |
 | [搜狐第二届算法大赛](https://biendata.com/competition/sohu2018/) | 已结束 |  2018.3.19 - 2018.5.21  |      |
 | [KDD CUP of Fresh Air](https://biendata.com/competition/kdd_2018/) | 已结束 |  2018.3.15 - 2018.5.31  |      |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | 进行中 |  2017.5.12 - 2020.1.1   |      |
@@ -1026,6 +988,90 @@ Website：http://www.datafountain.cn/
 <br>
 
 ---
+
+## Visual Dialog Challenge 2018
+
+> Website：https://visualdialog.org/challenge/2018
+
+![](https://i.loli.net/2018/06/05/5b165605a875f.gif)
+
+![](https://i.loli.net/2018/06/05/5b16564d6e685.png)
+
+
+
+
+
+<br>
+
+<br>
+
+
+
+## The FashionGen Challenge
+
+> ![](https://i.loli.net/2018/06/11/5b1d9ce0cae64.png)
+>
+> Website：https://fashion-gen.com
+>
+> FashionGen文字到图像挑战赛：根据设计描述生成时尚单品。数据由设计师标记，每个单品有多个角度，样本数量超过300,000个。
+>
+> The winner with the best model will be given a $2,000 CAN prize.
+>
+> Your application will be revised within 24 hours of submission. Once accepted, you will have access to the FashionGen dataset. **Submissions begin June 10th, 2018 and end on July 31st, 2018**. You are permitted two submissions per day.
+
+
+
+<br>
+
+<br>
+
+## 京东AI时尚挑战赛
+
+![](https://i.loli.net/2018/05/09/5af2be7d55f39.png)
+
+> 竞赛官网：https://fashion-challenge.github.io/#index
+>
+> 题目1：**时尚风格识别**
+>
+> 题目2：**时尚单品搜索**
+
+![](https://i.loli.net/2018/05/09/5af2bf2e8627f.png)
+
+<br>
+
+<br>
+
+## 京东JD Dialog Challenge人机对话挑战赛
+
+![](https://i.loli.net/2018/05/18/5afe3623d922c.png)
+
+> 本次大赛以京东用户与京东人工客服真实对话数据（脱敏后）为基础，参赛队伍需要给定的对话数据进行分析，构建端到端的任务驱动型多轮对话系统，输出满足用户需求的答案，要求该答案能正确、完整且高效地解决问题，为用户带来简单、省心、智能的购物咨询体验。
+>
+> Website：http://jddc.jd.com
+>
+> ![](https://i.loli.net/2018/05/18/5afe3642d40b0.png)
+>
+> ![](https://i.loli.net/2018/05/18/5afe3655c420b.png)
+
+<br>
+
+<br>
+
+
+## COLIEE-2018
+
+> **Competition on Legal Information Extraction/Entailment (COLIEE)**
+>
+> Website：[https://sites.ualberta.ca/~miyoung2/COLIEE2018/](https://sites.ualberta.ca/~miyoung2/COLIEE2018/)
+
+![](https://i.loli.net/2018/06/05/5b16521b0195e.png)
+
+![](https://i.loli.net/2018/06/05/5b1652427e483.png)
+
+<br>
+
+<br>
+
 
 ## 第三届魔镜杯大赛
 
