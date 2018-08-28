@@ -1,4 +1,4 @@
-## 2018-8-23 Update!
+## 2018-8-28 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -10,9 +10,9 @@
 
 ---
 
-- [Kaggle](#kaggle)
-- **[CodaLab](#codalab)（新）**
-- **[crowdAI](#crowdai)（新）**
+- **[Kaggle](#kaggle)（新）**
+- [CodaLab](#codalab)（新）
+- [crowdAI](#crowdai)（新）
 - [NIPS 2018 Competition Track](#nips-2018-competition-track)
 - [GECCO 2018 Competition](#gecco-2018-competition)
 - [Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)
@@ -25,13 +25,14 @@
 - [第二届易观算法大赛](#第二届易观算法大赛)
 - [深圳医疗健康大数据创新应用国际大赛](#深圳医疗健康大数据创新应用国际大赛)
 - **[A Conversational Question Answering Challenge(CoQA)](#a-conversational-question-answering-challenge)（新）**
+- **[MC挑战赛第四期人脸视线角检测](#mc挑战赛第四期人脸视线角检测)（新）**
 - [天池](#天池)（新）
 - [JData](#jdata)
-- **[JDD空间站](#jdd空间站)（新）**
+- [JDD空间站](#jdd空间站)（新）
 - [点石](#点石)
 - [Kesci](#kesci)
-- [DataCastle](#datacastle)
-- **[Biendata](#biendata)（新）**
+- **[DataCastle](#datacastle)（新）**
+- [Biendata](#biendata)（新）
 - [DataFountain](#datafountain)
 - [数愿](#数愿)
 
@@ -56,21 +57,22 @@
 
 ## Active Competitons to join
 
-> 2018-8-23 Update!
+> 2018-8-28 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。(No playground)
 
 | Active Competitons to join                                   | From..              | Entry deadline               | Prize Money |
 | ------------------------------------------------------------ | ------------------- | ---------------------------- | ----------- |
+| **[RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)** | Kaggle              | Oct. 17, 2018                | $30,000     |
 | **[New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)** | Kaggle              | Sep. 25, 2018                | -           |
-| **[TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge#description)** | Kaggle              | Oct 12, 2018                 | $100,000    |
+| **[TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge#description)** | Kaggle              | Oct. 12, 2018                | $100,000    |
 | **[MAFAT Challenge - Fine-Grained Classification of Objects from Aerial Imagery](https://competitions.codalab.org/competitions/19854)** | CodaLab             | Dec 01, 2018                 | **$30,000** |
 | **[SemEval 2019 Task 9](https://competitions.codalab.org/competitions/19955)** | CodaLab             | Jan 31, 2019                 |             |
 | **[League of Nations Archives Digitization Challenge](https://www.crowdai.org/challenges/league-of-nations-archives-digitization-challenge)** | crowdAI             | Oct 31th                     |             |
 | [AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018) | **NIPS**            | Sep 24th                     | ~$15,000    |
-| [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct 10th                     |             |
+| [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct. 10th                    |             |
 | [The Conversational Intelligence Challenge 2 (ConvAI2)](http://convai.io/ ) | **NIPS**            | Sep 30th                     | ~$20,000    |
-| [Tracking Machine Learning Challenge](https://sites.google.com/site/trackmlparticle/) | **NIPS**            | Oct 20th                     | ~$15,000    |
+| [Tracking Machine Learning Challenge](https://sites.google.com/site/trackmlparticle/) | **NIPS**            | Oct. 20th                    | ~$15,000    |
 | [Pommerman](https://www.pommerman.com/)                      | **NIPS**            | Nov 26th                     | TBA         |
 | [InclusiveImages: A challenge of distributional skew, side information, and global inclusion](https://sites.google.com/view/inclusiveimages/) | **NIPS**            | Nov 9th                      |             |
 | The AI Driving Olympics                                      | **NIPS**            | Dec 7th                      |             |
@@ -83,6 +85,7 @@
 | [第二届易观算法大赛](http://ds.analysys.cn/ldjs.html)        | 易观                | 不详                         | ￥5W        |
 | **[京东金融对话语音识别大赛 （ 预热 ）](https://jdder.jd.com/index/jddDetail?matchId=2223f40dcfca4e7da8d4c018b0cd0858)** | JDD空间站           | 2018-09-25                   | ￥5W        |
 | **[A Conversational Question Answering Challenge](https://stanfordnlp.github.io/coqa/)** | CoQA                | NaN                          | NaN         |
+| **[MC挑战赛第四期人脸视线角检测](https://mp.weixin.qq.com/s/ATxEpxSv0CzTUAYaSvOtrA)** | Momenta             | 9月2日                       | \>￥60W     |
 | **[广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682)** | 天池                | 10月8日                      | ￥550000    |
 | [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231677) | 天池                | 2018/9/25                    | ￥2780000   |
 | [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231676) | 天池                | 2018/9/25                    | ￥2780000   |
@@ -98,7 +101,7 @@
 | **[Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/)** | Biendata            | 11月23日                     | $ 20,000    |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN         |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN         |
-| [无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro) | DataFountain        | 2018-07-13 - 2018-09-10      | -           |
+| **[2018 中国气象“神气”大数据算法与应用大赛](https://www.datafountain.cn/competitions/307/details)** | DataFountain        | 2018-08-23 - 2018-10-16      | ￥20,000    |
 | **[BOT新零售技术挑战赛](http://www.datadreams.org/#/raceDetail/raceSummary?raceid=124)** | 数愿                | 2018.10.8                    | ~￥17W      |
 | **[BOT智能汽车技术挑战赛](http://www.datadreams.org/#/raceDetail/raceSummary?raceid=120)** | 数愿                | 2018.9.26                    | ~￥15W      |
 
@@ -123,6 +126,7 @@
 
 | Competiton                                                   |   Categories    | Submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------: | :---------: |
+| **[RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)** |    Featured     |  October 24, 2018   |   $30,000   |
 | **[New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)** |   Playground    |    Sep. 25, 2018    |      -      |
 | [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge) |    Featured     |  October 19, 2018   |  $100,000   |
 | [Movie Review Sentiment Analysis (Kernels Only)](https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only) |   Playground    |          -          |      -      |
@@ -480,7 +484,7 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 >
 > 任务三  刑期预测：根据刑事法律文书中的案情描述和事实部分，预测被告人的刑期长短。
 >
-> ![](https://i.loli.net/2018/07/31/5b60186543342.png)
+> ![](https://i.loli.net/2018/08/28/5b84b50e068d4.png)
 >
 > ![](https://i.loli.net/2018/05/18/5afe471b2223b.png)
 
@@ -592,6 +596,34 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 > > - 有7个不同的领域
 > >
 > > 跟现有的阅读理解问答数据集相比，CoQA有许多新挑战，如共指、语用推理等。
+
+
+
+<br>
+
+<br>
+
+
+
+## MC挑战赛第四期人脸视线角检测
+
+> ![](https://i.loli.net/2018/08/28/5b84b7eab30cb.png)
+>
+> MC活动全称是Momenta Challenge，作为Momenta主办的系列赛事，MC提供海量数据、强大运算平台支持、mentor点对点指导、参加公司内部各类学习活动以及丰厚大奖，希望更多优秀人才从Momenta Challenge中脱颖而出，成为自动驾驶领域的技术引领者和创新驱动者。
+>
+> **MC挑战赛第四期人脸视线角检测** （Website：[**XXX**](https://mp.weixin.qq.com/s/ATxEpxSv0CzTUAYaSvOtrA)）
+>
+> 人脸视线检测是人脸识别领域的一个重要课题，在辅助驾驶、视频监控等领域有重要的应用。
+>
+> 如下是一张人脸视线检测结果的示意图。红点是人脸的关键点，蓝线和绿线组成了头部平面。黄线是预测视线方向，红线是头部朝向向量。这里视线方向定义为注视点和两眼正中连线的方向。
+>
+> ![](https://i.loli.net/2018/08/28/5b84b80c6a1a2.png)
+>
+> ![](https://i.loli.net/2018/08/28/5b84b838217e8.png)
+>
+> 本次MC比赛提供**海量数据集和大计算平台**，在线报名之后通过初步筛选和笔试筛选，确定最终参赛选手。选手们可选择自由组队。
+>
+> 比赛自**9月6日**开始，为期**半个月**，**前三名队伍最终可分别获得30000元、20000元、10000元现金大奖，同时还设立了奖金额度6666元的最佳创意奖**，都是税后金额哦。
 
 
 
@@ -823,7 +855,7 @@ http://www.pkbigdata.com
 
 | 比赛项目                                                     |  状态  |         时间轴          |    备注    |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--------: |
-| **[西南财经大学“新网银行杯”数据科学竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"数据科学竞赛_竞赛信息.html)** | 进行中 |  2018.8.1 - 2018.11.13  |  ￥31000   |
+| **[西南财经大学“新网银行杯”数据科学竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学“新网银行杯”数据科学竞赛_竞赛信息.html)** | 进行中 |  2018.8.1 - 2018.11.13  |  ￥31000   |
 | **[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/“达观杯”文本智能处理挑战赛_竞赛信息.html)** | 进行中 |  2018.7.2 - 2018.9.19   |  ￥50000   |
 | [抢占C位，燃情世界杯](http://www.dcjingsai.com/common/cmpt/抢占C位，燃情世界杯_竞赛信息.html) | 可参加 |      同世界杯进度       |   10800    |
 | [游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html) | 进行中 | 2018.6.19 - 2018.08.31  |   100000   |
@@ -919,13 +951,14 @@ Website：http://www.datafountain.cn/
 
 | 比赛项目                                                     |  状态  |         时间轴          | 备注 |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--: |
-| **[“AIIA”杯（航天科工站）-高校挑战赛国际安全事件关系发现](http://www.datafountain.cn/#/competitions/306/intro)** | 已结束 | 2018-07-13 - 2018-07-31 |      |
-| **[“AIIA”杯（航天科工站）- 高校挑战赛 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/305/intro)** | 已结束 | 2018-07-13 - 2018-07-31 |      |
-| **[安全帽佩戴识别](http://www.datafountain.cn/#/competitions/304/intro)** | 进行中 | 2018-06-29 - 2018-08-20 |      |
-| **[光伏电站人工智能运维大数据处理分析](http://www.datafountain.cn/#/competitions/303/intro)** | 进行中 | 2018-06-29 - 2018-08-19 |      |
-| **[风机叶片开裂故障预警](http://www.datafountain.cn/#/competitions/302/intro)** | 进行中 | 2018-06-29 - 2018-08-20 |      |
-| **[基于大数据的汽轮机瞬态应力分析与预测](http://www.datafountain.cn/#/competitions/301/intro)** | 进行中 | 2018-06-29 - 2018-08-20 |      |
-| **[无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro)** | 进行中 | 2018-07-13 - 2018-09-10 |      |
+| **[2018 中国气象“神气”大数据算法与应用大赛](https://www.datafountain.cn/competitions/307/details)** | 进行中 | 2018-08-23 - 2018-10-19 |      |
+| [“AIIA”杯（航天科工站）-高校挑战赛国际安全事件关系发现](http://www.datafountain.cn/#/competitions/306/intro) | 已结束 | 2018-07-13 - 2018-07-31 |      |
+| [“AIIA”杯（航天科工站）- 高校挑战赛 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/305/intro) | 已结束 | 2018-07-13 - 2018-07-31 |      |
+| [安全帽佩戴识别](http://www.datafountain.cn/#/competitions/304/intro) | 已结束 | 2018-06-29 - 2018-08-20 |      |
+| [光伏电站人工智能运维大数据处理分析](http://www.datafountain.cn/#/competitions/303/intro) | 已结束 | 2018-06-29 - 2018-08-19 |      |
+| [风机叶片开裂故障预警](http://www.datafountain.cn/#/competitions/302/intro) | 已结束 | 2018-06-29 - 2018-08-20 |      |
+| [基于大数据的汽轮机瞬态应力分析与预测](http://www.datafountain.cn/#/competitions/301/intro) | 已结束 | 2018-06-29 - 2018-08-20 |      |
+| [无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro) | 进行中 | 2018-07-13 - 2018-09-10 |      |
 | [“AIIA”杯（航天科工站）- 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/288/intro) | 已结束 | 2018-05-18 - 2018-07-30 |      |
 | [消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro) | 已结束 | 2018-05-30 - 2018-07-15 |      |
 | [尊嘉证券-2018俄罗斯世界杯AI挑战赛](http://www.datafountain.cn/#/competitions/286/rules) | 已结束 | 2018-05-21 - 2018-07-14 |      |
