@@ -1,4 +1,4 @@
-## 2018-8-28 Update!
+## 2018-8-29 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -11,15 +11,17 @@
 ---
 
 - **[Kaggle](#kaggle)（新）**
+- **[DrivenData](#drivendata)（新）**
 - [CodaLab](#codalab)（新）
 - [crowdAI](#crowdai)（新）
+- **[SIGNATE](#signate)（新）**
 - [NIPS 2018 Competition Track](#nips-2018-competition-track)
 - [GECCO 2018 Competition](#gecco-2018-competition)
 - [Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)
 - [GeekPwn 2018 国际安全极客大赛](#geekpwn2018国际安全极客大赛)
 - [对抗样本攻防赛CAAD](#对抗样本攻防赛caad)
 - [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛---蚂蚁金服)
-- [AI Challenger 全球AI挑战赛](#ai-challenger-全球ai挑战赛)
+- **[AI Challenger 全球AI挑战赛2018](#ai-challenger-全球ai挑战赛2018)（新）**
 - [中国法研杯司法人工智能挑战赛](#中国法研杯司法人工智能挑战赛)
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
 - [第二届易观算法大赛](#第二届易观算法大赛)
@@ -31,7 +33,7 @@
 - [JDD空间站](#jdd空间站)（新）
 - [点石](#点石)
 - [Kesci](#kesci)
-- **[DataCastle](#datacastle)（新）**
+- [DataCastle](#datacastle)
 - [Biendata](#biendata)（新）
 - [DataFountain](#datafountain)
 - [数愿](#数愿)
@@ -57,18 +59,27 @@
 
 ## Active Competitons to join
 
-> 2018-8-28 Update!
+> 2018-8-29 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。(No playground)
 
 | Active Competitons to join                                   | From..              | Entry deadline               | Prize Money |
 | ------------------------------------------------------------ | ------------------- | ---------------------------- | ----------- |
 | **[RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)** | Kaggle              | Oct. 17, 2018                | $30,000     |
-| **[New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)** | Kaggle              | Sep. 25, 2018                | -           |
+| **[Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection)** | Kaggle | Sep. 27, 2018                | $60,000     |
+| [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) | Kaggle              | Sep. 25, 2018                | -           |
 | **[TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge#description)** | Kaggle              | Oct. 12, 2018                | $100,000    |
+| **[Power Laws: Cold Start Energy Forecasting](https://www.drivendata.org/competitions/55/schneider-cold-start/)** | DrivenData | Oct. 31, 2018  | €23,000 |
+| [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) | DrivenData | Dec. 22, 2018  |         |
+| [Reboot: Box-Plots for Education](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/) | DrivenData | -              |         |
+| [United Nations Millennium Development Goals](https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/) | DrivenData | March 21, 2019 |         |
+| [Warm Up: Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/) | DrivenData | March 21, 2019 |         |
+| [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) | DrivenData | May 28, 2019   |         |
+| [Warm Up: Machine Learning with a Heart](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/) | DrivenData | Oct. 30, 2019  |         |
 | **[MAFAT Challenge - Fine-Grained Classification of Objects from Aerial Imagery](https://competitions.codalab.org/competitions/19854)** | CodaLab             | Dec 01, 2018                 | **$30,000** |
 | **[SemEval 2019 Task 9](https://competitions.codalab.org/competitions/19955)** | CodaLab             | Jan 31, 2019                 |             |
 | **[League of Nations Archives Digitization Challenge](https://www.crowdai.org/challenges/league-of-nations-archives-digitization-challenge)** | crowdAI             | Oct 31th                     |             |
+| **[海洋研究開発機構 熱帯低気圧（台風等）検出アルゴリズム作成](https://signate.jp/competitions/134#abstract)** | SIGNATE             | Oct 26th                     | ¥1,000,000  |
 | [AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018) | **NIPS**            | Sep 24th                     | ~$15,000    |
 | [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct. 10th                    |             |
 | [The Conversational Intelligence Challenge 2 (ConvAI2)](http://convai.io/ ) | **NIPS**            | Sep 30th                     | ~$20,000    |
@@ -82,10 +93,17 @@
 | **[GeekPwn2018国际安全极客大赛](http://2018.geekpwn.org/zh/index.html)** | GEEKPWN             | 10.10                        | ~￥500W     |
 | **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W      |
 | [ATEC人工智能大赛 - 蚂蚁金服](https://dc.cloud.alipay.com/index#/compet/topics) | 蚂蚁金融            | 2018-9-1                     | ￥60,000x2  |
+| [观点性问题阅读理解](https://challenger.ai/competition/oqmrc2018) | 创新工场 | 11.4 | ¥400,000 |
+| [细粒度用户评价情感分析](https://challenger.ai/competition/fsauor2018) | 创新工场 | 10.13 | ¥400,000 |
+| [英中文本机器翻译](https://challenger.ai/competition/ect2018) | 创新工场 | 11.4 | ¥400,000 |
+| [短视频实时分类](https://challenger.ai/competition/mlsv2018) | 创新工场 | 11.4 | ¥400,000 |
+| [无人驾驶视觉感知](https://challenger.ai/competition/adp2018) | 创新工场 | 10.13 | ¥400,000 |
+| [天气预报](https://challenger.ai/competition/wf2018)         | 创新工场 | 11.4 | ¥50,000 |
+| [农作物病害检测](https://challenger.ai/competition/pdr2018)  | 创新工场 | 11.4 | ¥50,000 |
+| [眼底水肿病变区域自动分割](https://challenger.ai/competition/fl2018) | 创新工场 | 10.7  | ¥50,000 |
 | [第二届易观算法大赛](http://ds.analysys.cn/ldjs.html)        | 易观                | 不详                         | ￥5W        |
 | **[京东金融对话语音识别大赛 （ 预热 ）](https://jdder.jd.com/index/jddDetail?matchId=2223f40dcfca4e7da8d4c018b0cd0858)** | JDD空间站           | 2018-09-25                   | ￥5W        |
 | **[A Conversational Question Answering Challenge](https://stanfordnlp.github.io/coqa/)** | CoQA                | NaN                          | NaN         |
-| **[MC挑战赛第四期人脸视线角检测](https://mp.weixin.qq.com/s/ATxEpxSv0CzTUAYaSvOtrA)** | Momenta             | 9月2日                       | \>￥60W     |
 | **[广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682)** | 天池                | 10月8日                      | ￥550000    |
 | [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231677) | 天池                | 2018/9/25                    | ￥2780000   |
 | [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231676) | 天池                | 2018/9/25                    | ￥2780000   |
@@ -101,7 +119,7 @@
 | **[Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/)** | Biendata            | 11月23日                     | $ 20,000    |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN         |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN         |
-| **[2018 中国气象“神气”大数据算法与应用大赛](https://www.datafountain.cn/competitions/307/details)** | DataFountain        | 2018-08-23 - 2018-10-16      | ￥20,000    |
+| [无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro) | DataFountain        | 2018-07-13 - 2018-09-10      | -           |
 | **[BOT新零售技术挑战赛](http://www.datadreams.org/#/raceDetail/raceSummary?raceid=124)** | 数愿                | 2018.10.8                    | ~￥17W      |
 | **[BOT智能汽车技术挑战赛](http://www.datadreams.org/#/raceDetail/raceSummary?raceid=120)** | 数愿                | 2018.9.26                    | ~￥15W      |
 
@@ -127,12 +145,13 @@
 | Competiton                                                   |   Categories    | Submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------: | :---------: |
 | **[RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)** |    Featured     |  October 24, 2018   |   $30,000   |
-| **[New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)** |   Playground    |    Sep. 25, 2018    |      -      |
+| [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) |   Playground    |    Sep. 25, 2018    |      -      |
 | [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge) |    Featured     |  October 19, 2018   |  $100,000   |
 | [Movie Review Sentiment Analysis (Kernels Only)](https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only) |   Playground    |          -          |      -      |
 | [Flavours of Physics: Finding τ → μμμ (Kernels Only)](https://www.kaggle.com/c/flavours-of-physics-kernels-only) |   Playground    |          -          |      -      |
 | [What's Cooking? (Kernels Only)](https://www.kaggle.com/c/whats-cooking-kernels-only) |   Playground    |          -          |      -      |
 | **[Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/demand-forecasting-kernels-only)** |   Playground    |          -          |      -      |
+| **[Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection)** |    Featured     |   October 4, 2018   |   $60,000   |
 | [Forest Cover Type (Kernels Only)](https://www.kaggle.com/c/forest-cover-type-kernels-only) |   Playground    |          -          |      -      |
 | **[Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track)** |    Featured     |    Sep. 3, 2018     |   $30,000   |
 | [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge) |    Featured     |   August 20, 2018   |   $60,000   |
@@ -164,6 +183,46 @@
 | [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) | Getting Started |          -          |      -      |
 | [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge) |    Research     |          -          |      -      |
 | [Invasive Species Monitoring](https://www.kaggle.com/c/invasive-species-monitoring) |   Playground    |          -          |      -      |
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+## DrivenData
+
+> ![](https://i.loli.net/2018/08/29/5b864d371c70a.png)
+>
+> DrivenData works on projects at the intersection of data science and social impact, in areas like international development, health, education, research and conservation, and public services. We want to give more organizations access to the capabilities of data science, and engage more data scientists with social challenges where their skills can make a difference.
+>
+> We’ve worked with more than 35 organizations across 50+ projects, many of these made possible by the amazing efforts of the DrivenData community. Check out some examples below!
+>
+> Official Website: https://www.drivendata.org/competitions/
+
+（这个竞赛平台的 leaderboard 非常好看！~）
+
+Only **active** competitions are collected.
+
+| Competitions                                                 | For... | End Date       | Price   |
+| ------------------------------------------------------------ | ------ | -------------- | ------- |
+| [Power Laws: Cold Start Energy Forecasting](https://www.drivendata.org/competitions/55/schneider-cold-start/) | Prize  | Oct. 31, 2018  | €23,000 |
+| [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) | Glory  | Dec. 22, 2018  |         |
+| [Reboot: Box-Plots for Education](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/) | Glory  | -              |         |
+| [United Nations Millennium Development Goals](https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/) | Glory  | March 21, 2019 |         |
+| [Warm Up: Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/) | Glory  | March 21, 2019 |         |
+| [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) | Glory  | May 28, 2019   |         |
+| [Warm Up: Machine Learning with a Heart](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/) | Glory  | Oct. 30, 2019  |         |
+
+
+
+
+
+
 
 
 
@@ -228,6 +287,38 @@
 > - 3rd - NVIDIA GPU
 
 <br>
+
+<br>
+
+
+
+## SIGNATE
+
+> ![](https://i.loli.net/2018/08/29/5b8646dcc8286.png)
+>
+> - 来自日本的数据科学竞赛/教学/求职平台。
+>
+> - Official Website：https://signate.jp
+
+- **Running Competitions：**
+
+  - [海洋研究開発機構 熱帯低気圧（台風等）検出アルゴリズム作成](https://signate.jp/competitions/134)
+
+    ![](https://i.loli.net/2018/08/29/5b864791543a1.png)
+
+  - Timeline：
+
+    - 2018年08月24日（金）　コンペティション開始 
+    - 2018年10月26日（金）　コンペティション終了 
+    - 2018年11月02日（金）　ソースコードの提出締め切り（※入賞候補連絡を受け取った方）
+
+  - 総額¥1,000,000相当の賞品
+
+<br>
+
+<br>
+
+
 
 ## NIPS 2018 Competition Track
 
@@ -422,7 +513,7 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 
 
-## AI Challenger 全球AI挑战赛
+## AI Challenger 全球AI挑战赛2018
 
 
 ![](https://i.loli.net/2018/04/22/5adb64a67485f.png)
@@ -430,35 +521,51 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 > Official Website：https://challenger.ai
 
-- **零样本学习**（https://challenger.ai/competition/zsl2018）
+![](https://i.loli.net/2018/08/29/5b8655bd52c48.png)
 
-属性种类最丰富、图片量最大的图像属性数据集，包含230个分类，359种属性。
+- 主赛道
 
-冠军奖金：¥30,000
+| 比赛名称                                                     | 截止日期   | 冠军奖金 |
+| ------------------------------------------------------------ | ---------- | -------- |
+| [观点性问题阅读理解](https://challenger.ai/competition/oqmrc2018) | 2018/12/19 | ¥400,000 |
+| [细粒度用户评价情感分析](https://challenger.ai/competition/fsauor2018) | 2018/12/19 | ¥400,000 |
+| [英中文本机器翻译](https://challenger.ai/competition/ect2018) | 2018/12/19 | ¥400,000 |
+| [短视频实时分类](https://challenger.ai/competition/mlsv2018) | 2018/12/19 | ¥400,000 |
+| [无人驾驶视觉感知](https://challenger.ai/competition/adp2018) | 2018/12/19 | ¥400,000 |
 
-报名时间：即日起至4月23日。竞赛报名以及组队队员变更截止时间为4月23日23:59:59。
+- 实验赛道
+
+| 比赛名称                                                     | 截止日期   | 冠军奖金 |
+| ------------------------------------------------------------ | ---------- | -------- |
+| [天气预报](https://challenger.ai/competition/wf2018)         | 2018/12/19 | ¥50,000  |
+| [农作物病害检测](https://challenger.ai/competition/pdr2018)  | 2018/12/19 | ¥50,000  |
+| [眼底水肿病变区域自动分割](https://challenger.ai/competition/fl2018) | 2018/12/19 | ¥50,000  |
+| [零样本学习](https://challenger.ai/competition/zsl2018)      | 2018/04/26 | ¥30,000  |
 
 ---
 
-> 2017年8月14日，创新工场、搜狗和今日头条宣布三方发起首届“AI Challenger全球AI挑战赛”，设立总计200万元的奖金池。赛事将在三年内投入数千万元，建立中国最大的科研数据集与世界级AI竞赛平台。 
+- **2017**
 
-**2017年9月4日**起，首届大赛将开放超过1000万条中英文翻译数据（用于同声传译等自然语言处理的各类应用）、70万个人体动作分析标注数据（用于无人驾驶、安防、体感游戏等场景）、30万张图片场景标注和语义描述数据（用于图像和视频内容理解、图像标题自动生成等各类应用），是国内迄今公开的规模最大的科研数据集。根据大赛官网challenger.ai上的描述，比赛共包含5大“变态”任务，分别为： 
-
-1. **英中机器同声传译**：挑战同声传译中的语料无标点、无断句、口语化、以及夹杂语气词等问题。 
-2. **英中机器文本翻译**：用大规模的数据，提升英中文本机器翻译模型的能力。 
-3. **场景分类**：寻找一个更鲁棒（Robust，意为稳健性）的场景分类模型，解决图片的角度、尺度、和光照的多样性问题。 
-4. **人体骨骼关键点检测**：挑战复杂生活场景中的人体检测，并预测多种复杂动作下的人体骨骼关键点位置。 
-5. **图像中文描述**：用一句话描述给定图像中的主要信息，挑战中文语境下的图像理解问题。尝试自然语言处理与计算机视觉技术结合的力量。 
-6. **虚拟股票趋势预测(实验赛道)：**对股票价格趋势的预测是金融领域极为复杂和极为关键的问题，有效市场假说认为股票价格趋势不可能被预测，然而真实市场由于各种因素的存在并不完全有效，这对于股票市场而言相当于一种“错误”。这里我们为参赛者提供了大规模的股票历史数据，从而可以通过集合大家的智慧来纠正股票市场的这些“错误”。
-
-| 比赛项目                                     |  状态  |               截止日期                |   冠军奖金   |
-| ---------------------------------------- | :--: | :-------------------------------: | :------: |
-| [英中机器同声传译](https://challenger.ai/competition/interpretation) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥400,000 |
-| [英中机器文本翻译](https://challenger.ai/competition/translation) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
-| [场景分类](https://challenger.ai/competition/scene) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥100,000 |
-| [人体骨骼关键点检测](https://challenger.ai)       |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
-| [图像中文描述](https://challenger.ai/competition/caption) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
-| [虚拟股票趋势预测](https://challenger.ai/competition/trendsense) (实验赛道) |  结束  | 2017/9/4 - 2017/10/31 - 2017/12/3 | ¥50,000  |
+> > 2017年8月14日，创新工场、搜狗和今日头条宣布三方发起首届“AI Challenger全球AI挑战赛”，设立总计200万元的奖金池。赛事将在三年内投入数千万元，建立中国最大的科研数据集与世界级AI竞赛平台。 
+>
+> **2017年9月4日**起，首届大赛将开放超过1000万条中英文翻译数据（用于同声传译等自然语言处理的各类应用）、70万个人体动作分析标注数据（用于无人驾驶、安防、体感游戏等场景）、30万张图片场景标注和语义描述数据（用于图像和视频内容理解、图像标题自动生成等各类应用），是国内迄今公开的规模最大的科研数据集。根据大赛官网challenger.ai上的描述，比赛共包含5大“变态”任务，分别为： 
+>
+> 1. **英中机器同声传译**：挑战同声传译中的语料无标点、无断句、口语化、以及夹杂语气词等问题。 
+> 2. **英中机器文本翻译**：用大规模的数据，提升英中文本机器翻译模型的能力。 
+> 3. **场景分类**：寻找一个更鲁棒（Robust，意为稳健性）的场景分类模型，解决图片的角度、尺度、和光照的多样性问题。 
+> 4. **人体骨骼关键点检测**：挑战复杂生活场景中的人体检测，并预测多种复杂动作下的人体骨骼关键点位置。 
+> 5. **图像中文描述**：用一句话描述给定图像中的主要信息，挑战中文语境下的图像理解问题。尝试自然语言处理与计算机视觉技术结合的力量。 
+> 6. **虚拟股票趋势预测(实验赛道)：**对股票价格趋势的预测是金融领域极为复杂和极为关键的问题，有效市场假说认为股票价格趋势不可能被预测，然而真实市场由于各种因素的存在并不完全有效，这对于股票市场而言相当于一种“错误”。这里我们为参赛者提供了大规模的股票历史数据，从而可以通过集合大家的智慧来纠正股票市场的这些“错误”。
+>
+> | 比赛项目                                     |  状态  |               截止日期                |   冠军奖金   |
+> | ---------------------------------------- | :--: | :-------------------------------: | :------: |
+> | [英中机器同声传译](https://challenger.ai/competition/interpretation) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥400,000 |
+> | [英中机器文本翻译](https://challenger.ai/competition/translation) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
+> | [场景分类](https://challenger.ai/competition/scene) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥100,000 |
+> | [人体骨骼关键点检测](https://challenger.ai)       |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
+> | [图像中文描述](https://challenger.ai/competition/caption) |  结束  | 2017/9/4 - 2017/9/24 - 2017/12/3  | ¥300,000 |
+> | [虚拟股票趋势预测](https://challenger.ai/competition/trendsense) (实验赛道) |  结束  | 2017/9/4 - 2017/10/31 - 2017/12/3 | ¥50,000  |
+>
 
 
 
@@ -951,13 +1058,13 @@ Website：http://www.datafountain.cn/
 
 | 比赛项目                                                     |  状态  |         时间轴          | 备注 |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--: |
-| **[2018 中国气象“神气”大数据算法与应用大赛](https://www.datafountain.cn/competitions/307/details)** | 进行中 | 2018-08-23 - 2018-10-19 |      |
+| **[2018 中国气象“神气”大数据算法与应用大赛](https://www.datafountain.cn/competitions/307/details)** |        |                         |      |
 | [“AIIA”杯（航天科工站）-高校挑战赛国际安全事件关系发现](http://www.datafountain.cn/#/competitions/306/intro) | 已结束 | 2018-07-13 - 2018-07-31 |      |
 | [“AIIA”杯（航天科工站）- 高校挑战赛 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/305/intro) | 已结束 | 2018-07-13 - 2018-07-31 |      |
-| [安全帽佩戴识别](http://www.datafountain.cn/#/competitions/304/intro) | 已结束 | 2018-06-29 - 2018-08-20 |      |
-| [光伏电站人工智能运维大数据处理分析](http://www.datafountain.cn/#/competitions/303/intro) | 已结束 | 2018-06-29 - 2018-08-19 |      |
-| [风机叶片开裂故障预警](http://www.datafountain.cn/#/competitions/302/intro) | 已结束 | 2018-06-29 - 2018-08-20 |      |
-| [基于大数据的汽轮机瞬态应力分析与预测](http://www.datafountain.cn/#/competitions/301/intro) | 已结束 | 2018-06-29 - 2018-08-20 |      |
+| [安全帽佩戴识别](http://www.datafountain.cn/#/competitions/304/intro) | 进行中 | 2018-06-29 - 2018-08-20 |      |
+| [光伏电站人工智能运维大数据处理分析](http://www.datafountain.cn/#/competitions/303/intro) | 进行中 | 2018-06-29 - 2018-08-19 |      |
+| [风机叶片开裂故障预警](http://www.datafountain.cn/#/competitions/302/intro) | 进行中 | 2018-06-29 - 2018-08-20 |      |
+| [基于大数据的汽轮机瞬态应力分析与预测](http://www.datafountain.cn/#/competitions/301/intro) | 进行中 | 2018-06-29 - 2018-08-20 |      |
 | [无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro) | 进行中 | 2018-07-13 - 2018-09-10 |      |
 | [“AIIA”杯（航天科工站）- 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/288/intro) | 已结束 | 2018-05-18 - 2018-07-30 |      |
 | [消费金融场景下的用户购买预测](http://www.datafountain.cn/#/competitions/287/intro) | 已结束 | 2018-05-30 - 2018-07-15 |      |
