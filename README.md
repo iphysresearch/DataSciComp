@@ -1,4 +1,4 @@
-## 2018-8-29 Update!
+## 2018-9-3 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -33,9 +33,9 @@
 - [JDD空间站](#jdd空间站)（新）
 - [点石](#点石)
 - [Kesci](#kesci)
-- [DataCastle](#datacastle)
+- **[DataCastle](#datacastle)（新）**
 - [Biendata](#biendata)（新）
-- [DataFountain](#datafountain)
+- **[DataFountain](#datafountain)（新）**
 - [数愿](#数愿)
 
 ---
@@ -59,7 +59,7 @@
 
 ## Active Competitons to join
 
-> 2018-8-29 Update!
+> 2018-9-3 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。(No playground)
 
@@ -76,8 +76,7 @@
 | [Warm Up: Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/) | DrivenData | March 21, 2019 |         |
 | [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) | DrivenData | May 28, 2019   |         |
 | [Warm Up: Machine Learning with a Heart](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/) | DrivenData | Oct. 30, 2019  |         |
-| **[MAFAT Challenge - Fine-Grained Classification of Objects from Aerial Imagery](https://competitions.codalab.org/competitions/19854)** | CodaLab             | Dec 01, 2018                 | **$30,000** |
-| **[SemEval 2019 Task 9](https://competitions.codalab.org/competitions/19955)** | CodaLab             | Jan 31, 2019                 |             |
+| **[2018 Open AI Tanzania Building Footprint Segmentation Challenge](https://competitions.codalab.org/competitions/20100)** | CodaLab             | Oct. 1, 2018     |             |
 | **[League of Nations Archives Digitization Challenge](https://www.crowdai.org/challenges/league-of-nations-archives-digitization-challenge)** | crowdAI             | Oct 31th                     |             |
 | **[海洋研究開発機構 熱帯低気圧（台風等）検出アルゴリズム作成](https://signate.jp/competitions/134#abstract)** | SIGNATE             | Oct 26th                     | ¥1,000,000  |
 | [AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018) | **NIPS**            | Sep 24th                     | ~$15,000    |
@@ -92,7 +91,6 @@
 | [EndoVis](https://endovis.grand-challenge.org/)              | **Grand-challenge** | Sept. 10th<br />(Submission) |             |
 | **[GeekPwn2018国际安全极客大赛](http://2018.geekpwn.org/zh/index.html)** | GEEKPWN             | 10.10                        | ~￥500W     |
 | **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W      |
-| [ATEC人工智能大赛 - 蚂蚁金服](https://dc.cloud.alipay.com/index#/compet/topics) | 蚂蚁金融            | 2018-9-1                     | ￥60,000x2  |
 | [观点性问题阅读理解](https://challenger.ai/competition/oqmrc2018) | 创新工场 | 11.4 | ¥400,000 |
 | [细粒度用户评价情感分析](https://challenger.ai/competition/fsauor2018) | 创新工场 | 10.13 | ¥400,000 |
 | [英中文本机器翻译](https://challenger.ai/competition/ect2018) | 创新工场 | 11.4 | ¥400,000 |
@@ -108,8 +106,9 @@
 | [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231677) | 天池                | 2018/9/25                    | ￥2780000   |
 | [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231676) | 天池                | 2018/9/25                    | ￥2780000   |
 | [全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.2b54d780zoWNMQ&raceId=231662) | 天池                | 2018-09-10                   | $31000      |
-| [CAINIAO MSOM data-driven research competition](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231623) | 天池                | 2018-09-01                   | $ 0         |
-| [西南财经大学“新网银行杯”大数据竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"大数据竞赛_竞赛信息.html) | DataCastle          | 暂无                         | 暂无        |
+| **[2018科大讯飞AI营销算法大赛](http://www.dcjingsai.com/common/cmpt/2018科大讯飞AI营销算法大赛_竞赛信息.html)** | DataCastle | 2018.10.08 | 60000 |
+| **[“神策杯”2018高校算法大师赛](http://www.dcjingsai.com/common/cmpt/"神策杯"2018高校算法大师赛_竞赛信息.html)** | DataCastle | 2018.10.11 | MacBook Pro |
+| [西南财经大学“新网银行杯”大数据竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"大数据竞赛_竞赛信息.html) | DataCastle          | 2018.10.21                 | 31000   |
 | **[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/"达观杯"文本智能处理挑战赛_竞赛信息.html)** | DataCastle          | 2018.9.12                    | ￥50000     |
 | [游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html) | DataCastle          | 2018.08.31                   | ￥100000    |
 | [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000 |
@@ -119,7 +118,7 @@
 | **[Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/)** | Biendata            | 11月23日                     | $ 20,000    |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN         |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN         |
-| [无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro) | DataFountain        | 2018-07-13 - 2018-09-10      | -           |
+| **[CCF 大数据与计算智能大赛](https://www.datafountain.cn/projects/2018CCF/index.html)** | DataFountain | 2018-10-19 | \>￥1,000,000 |
 | **[BOT新零售技术挑战赛](http://www.datadreams.org/#/raceDetail/raceSummary?raceid=124)** | 数愿                | 2018.10.8                    | ~￥17W      |
 | **[BOT智能汽车技术挑战赛](http://www.datadreams.org/#/raceDetail/raceSummary?raceid=120)** | 数愿                | 2018.9.26                    | ~￥15W      |
 
@@ -251,12 +250,9 @@ Only **active** competitions are collected.
 >
 > 仅给出最新上线的赛题题目3个：
 
-- [MAFAT Challenge - Fine-Grained Classification of Objects from Aerial Imagery](https://competitions.codalab.org/competitions/19854)
-- [SemEval 2019](https://competitions.codalab.org/competitions/?q=SemEval) 1, 3, 5, 8, 9
+- [2018 Open AI Tanzania Building Footprint Segmentation Challenge](https://competitions.codalab.org/competitions/20100)
 
-   ![](https://i.loli.net/2018/08/23/5b7e6242cc120.png)
-
-   ![](https://i.loli.net/2018/08/23/5b7e622019ce6.png)
+   ![](https://i.loli.net/2018/09/03/5b8d51ec898e9.png)
 
 
 
@@ -960,42 +956,46 @@ http://www.pkbigdata.com
 
 注：下表按照截止时间排序，不包含已完结竞赛或创意竞赛，详细信息以官方竞赛网页为准。
 
-| 比赛项目                                                     |  状态  |         时间轴          |    备注    |
-| ------------------------------------------------------------ | :----: | :---------------------: | :--------: |
-| **[西南财经大学“新网银行杯”数据科学竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学“新网银行杯”数据科学竞赛_竞赛信息.html)** | 进行中 |  2018.8.1 - 2018.11.13  |  ￥31000   |
-| **[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/“达观杯”文本智能处理挑战赛_竞赛信息.html)** | 进行中 |  2018.7.2 - 2018.9.19   |  ￥50000   |
-| [抢占C位，燃情世界杯](http://www.dcjingsai.com/common/cmpt/抢占C位，燃情世界杯_竞赛信息.html) | 可参加 |      同世界杯进度       |   10800    |
-| [游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html) | 进行中 | 2018.6.19 - 2018.08.31  |   100000   |
-| [政府治理大数据应用算法大赛](http://www.dcjingsai.com/common/cmpt/政府治理大数据应用算法大赛_竞赛信息.html) | 进行中 |   2018.5.22 - 2018.08   |   140000   |
-| [物联网黑客马拉松-互联交通](http://www.dcjingsai.com/common/cmpt/物联网黑客马拉松-互联交通_竞赛信息.html) | 可参加 | 2018.5.17 - 2018.07.20  |            |
-| [交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html) | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W   |
-| [公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html) | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W   |
-| [2018腾讯广告算法大赛](http://www.dcjingsai.com/common/cmpt/2018腾讯广告算法大赛_竞赛信息.html) | 可参加 |  2018.3.15 - 2018.6.13  | ~￥450,000 |
-| [基于人工智能的药物分子筛选](http://www.dcjingsai.com/common/cmpt/基于人工智能的药物分子筛选_竞赛信息.html) | 可参加 |  2018.4.9 - 2018.5.21   |  ￥ 50000  |
-| [“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/“量子杯”全国高校量化大赛_竞赛信息.html) | 进行中 |  2018.4.16 - 2018.9.21  |            |
-| [凤凰金融量化投资大赛](http://www.dcjingsai.com/common/cmpt/凤凰金融量化投资大赛_竞赛信息.html) | 可参加 |  2018.3.28 - 2018.7.8   |            |
-| [精品旅行服务成单预测](http://www.dcjingsai.com/common/cmpt/精品旅行服务成单预测_竞赛信息.html) | 可参加 |  2017.12.20 - 2018.2.7  |            |
-| [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | 进行中 | 2017.9.19 -  2020.12.31 |            |
-| [员工离职预测训练赛](http://www.pkbigdata.com/common/cmpt/员工离职预测训练赛_竞赛信息.html) | 进行中 |  2017.8.2 - 2020.12.31  |   练习赛   |
-| [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | 进行中 | 2017.7.31 - 2020.12.31  |   练习赛   |
-| [大师赛](http://www.pkbigdata.com/common/cmpt/大师赛_竞赛信息.html) | 可参加 | 2017.6.13 - 2017.10.15  |            |
-| [食品安全国家标准的精准化提取](http://www.pkbigdata.com/common/cmpt/食品安全国家标准的精准化提取_竞赛信息.html) | 可参加 |  2017.6.1 - 2017.7.10   |            |
-| [大学生助学金精准资助预测](http://www.pkbigdata.com/common/cmpt/大学生助学金精准资助预测_竞赛信息.html) | 可参加 |  2016.11.3 - 2017.5.10  |            |
-| [用户贷款风险预测](http://www.pkbigdata.com/common/cmpt/用户贷款风险预测_竞赛信息.html) | 可参加 |  2016.11.3 - 2017.5.10  |            |
-| [交通线路通达时间预测](http://www.pkbigdata.com/common/cmpt/交通线路通达时间预测_竞赛信息.html) | 可参加 |  2016.11.3 - 2017.5.10  |            |
-| [地点推荐系统](http://www.pkbigdata.com/common/cmpt/地点推荐系统_竞赛信息.html) | 可参加 | 2016.10.9 - 2016.11.30  |            |
-| [微博热度预测](http://www.pkbigdata.com/common/cmpt/微博热度预测_竞赛信息.html) | 可参加 | 2016.8.26 - 2016.11.25  |            |
-| [猜你喜欢](http://www.pkbigdata.com/common/cmpt/猜你喜欢_竞赛信息.html) | 可参加 |  2016.5.17 - 2016.7.18  |            |
-| [猫狗大战](http://www.pkbigdata.com/common/cmpt/猫狗大战_竞赛信息.html) | 可参加 |   2016.4.1 - 2016.7.1   |            |
-| [Identify the error connections in the network](http://www.pkbigdata.com/common/cmpt/Identify%20the%20error%20connections%20in%20the%20network_竞赛信息.html) | 可参加 | 2015.12.5 - 2015.12.14  |            |
-| [微额借款用户人品预测大赛](http://www.pkbigdata.com/common/cmpt/微额借款用户人品预测大赛_竞赛信息.html) | 可参加 | 2015.11.26 - 2016.2.29  |            |
-| [职位预测竞赛](http://www.pkbigdata.com/common/cmpt/职位预测竞赛_竞赛信息.html) | 可参加 | 2015.9.23 - 2015.12.20  |            |
-| [矛与盾](http://www.pkbigdata.com/common/cmpt/矛与盾_竞赛信息.html) | 可参加 | 2015.9.22 - 2015.12.10  |            |
-| [验证码识别竞赛](http://www.pkbigdata.com/common/cmpt/验证码识别竞赛_竞赛信息.html) | 可参加 | 2015.7.20 - 2015.10.12  |            |
-| [成电大数据培训实践](http://www.pkbigdata.com/common/cmpt/成电大数据培训实践_竞赛信息.html) | 可参加 |  2015.7.17 - 2015.8.17  |   练习赛   |
-| [图像搜索竞赛](http://www.pkbigdata.com/common/cmpt/图像搜索竞赛_竞赛信息.html) | 可参加 | 2014.12.11 - 2015.3.12  |            |
-| [学生成绩排名预测](http://www.pkbigdata.com/common/cmpt/学生成绩排名预测_竞赛信息.html) | 可参加 | 2014.12.11 - 2015.3.12  |            |
-| [CCF大数据竞赛](http://www.pkbigdata.com/common/cmpt/CCF大数据竞赛_竞赛信息.html) | 可参加 |  2014.9.1 - 2014.11.15  |            |
+| 比赛项目                                                     |  状态  |         时间轴          |    备注     |
+| ------------------------------------------------------------ | :----: | :---------------------: | :---------: |
+| [BOT智能汽车技术挑战赛——机器学习预测汽车流量](http://www.dcjingsai.com/common/cmpt/BOT智能汽车技术挑战赛——机器学习预测汽车流量_竞赛信息.html) | 进行中 |  2018.7.3 - 2018.10.16  |   150000    |
+| [BOT新零售技术挑战赛——图像识别分析导购行为](http://www.dcjingsai.com/common/cmpt/BOT新零售技术挑战赛——图像识别分析导购行为_竞赛信息.html) | 进行中 | 2018.7.17 - 2018.10.16  |   170000    |
+| **[2018科大讯飞AI营销算法大赛](http://www.dcjingsai.com/common/cmpt/2018科大讯飞AI营销算法大赛_竞赛信息.html)** | 进行中 |  2018.9.1 - 2018.10.25  |    60000    |
+| **[“神策杯”2018高校算法大师赛](http://www.dcjingsai.com/common/cmpt/"神策杯"2018高校算法大师赛_竞赛信息.html)** | 进行中 | 2018.8.30 - 2018.10.25  | MacBook Pro |
+| [西南财经大学“新网银行杯”数据科学竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"数据科学竞赛_竞赛信息.html) | 进行中 |  2018.8.1 - 2018.11.13  |   ￥31000   |
+| [“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/"达观杯"文本智能处理挑战赛_竞赛信息.html) | 进行中 |  2018.7.2 - 2018.9.19   |   ￥50000   |
+| [抢占C位，燃情世界杯](http://www.dcjingsai.com/common/cmpt/抢占C位，燃情世界杯_竞赛信息.html) | 可参加 |      同世界杯进度       |    10800    |
+| [游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html) | 可参加 | 2018.6.19 - 2018.08.31  |   100000    |
+| [政府治理大数据应用算法大赛](http://www.dcjingsai.com/common/cmpt/政府治理大数据应用算法大赛_竞赛信息.html) | 可参加 |   2018.5.22 - 2018.08   |   140000    |
+| [物联网黑客马拉松-互联交通](http://www.dcjingsai.com/common/cmpt/物联网黑客马拉松-互联交通_竞赛信息.html) | 可参加 | 2018.5.17 - 2018.07.20  |             |
+| [交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html) | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W    |
+| [公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html) | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W    |
+| [2018腾讯广告算法大赛](http://www.dcjingsai.com/common/cmpt/2018腾讯广告算法大赛_竞赛信息.html) | 可参加 |  2018.3.15 - 2018.6.13  | ~￥450,000  |
+| [基于人工智能的药物分子筛选](http://www.dcjingsai.com/common/cmpt/基于人工智能的药物分子筛选_竞赛信息.html) | 可参加 |  2018.4.9 - 2018.5.21   |  ￥ 50000   |
+| [“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/“量子杯”全国高校量化大赛_竞赛信息.html) | 进行中 |  2018.4.16 - 2018.9.21  |             |
+| [凤凰金融量化投资大赛](http://www.dcjingsai.com/common/cmpt/凤凰金融量化投资大赛_竞赛信息.html) | 可参加 |  2018.3.28 - 2018.7.8   |             |
+| [精品旅行服务成单预测](http://www.dcjingsai.com/common/cmpt/精品旅行服务成单预测_竞赛信息.html) | 可参加 |  2017.12.20 - 2018.2.7  |             |
+| [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | 进行中 | 2017.9.19 -  2020.12.31 |             |
+| [员工离职预测训练赛](http://www.pkbigdata.com/common/cmpt/员工离职预测训练赛_竞赛信息.html) | 进行中 |  2017.8.2 - 2020.12.31  |   练习赛    |
+| [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | 进行中 | 2017.7.31 - 2020.12.31  |   练习赛    |
+| [大师赛](http://www.pkbigdata.com/common/cmpt/大师赛_竞赛信息.html) | 可参加 | 2017.6.13 - 2017.10.15  |             |
+| [食品安全国家标准的精准化提取](http://www.pkbigdata.com/common/cmpt/食品安全国家标准的精准化提取_竞赛信息.html) | 可参加 |  2017.6.1 - 2017.7.10   |             |
+| [大学生助学金精准资助预测](http://www.pkbigdata.com/common/cmpt/大学生助学金精准资助预测_竞赛信息.html) | 可参加 |  2016.11.3 - 2017.5.10  |             |
+| [用户贷款风险预测](http://www.pkbigdata.com/common/cmpt/用户贷款风险预测_竞赛信息.html) | 可参加 |  2016.11.3 - 2017.5.10  |             |
+| [交通线路通达时间预测](http://www.pkbigdata.com/common/cmpt/交通线路通达时间预测_竞赛信息.html) | 可参加 |  2016.11.3 - 2017.5.10  |             |
+| [地点推荐系统](http://www.pkbigdata.com/common/cmpt/地点推荐系统_竞赛信息.html) | 可参加 | 2016.10.9 - 2016.11.30  |             |
+| [微博热度预测](http://www.pkbigdata.com/common/cmpt/微博热度预测_竞赛信息.html) | 可参加 | 2016.8.26 - 2016.11.25  |             |
+| [猜你喜欢](http://www.pkbigdata.com/common/cmpt/猜你喜欢_竞赛信息.html) | 可参加 |  2016.5.17 - 2016.7.18  |             |
+| [猫狗大战](http://www.pkbigdata.com/common/cmpt/猫狗大战_竞赛信息.html) | 可参加 |   2016.4.1 - 2016.7.1   |             |
+| [Identify the error connections in the network](http://www.pkbigdata.com/common/cmpt/Identify%20the%20error%20connections%20in%20the%20network_竞赛信息.html) | 可参加 | 2015.12.5 - 2015.12.14  |             |
+| [微额借款用户人品预测大赛](http://www.pkbigdata.com/common/cmpt/微额借款用户人品预测大赛_竞赛信息.html) | 可参加 | 2015.11.26 - 2016.2.29  |             |
+| [职位预测竞赛](http://www.pkbigdata.com/common/cmpt/职位预测竞赛_竞赛信息.html) | 可参加 | 2015.9.23 - 2015.12.20  |             |
+| [矛与盾](http://www.pkbigdata.com/common/cmpt/矛与盾_竞赛信息.html) | 可参加 | 2015.9.22 - 2015.12.10  |             |
+| [验证码识别竞赛](http://www.pkbigdata.com/common/cmpt/验证码识别竞赛_竞赛信息.html) | 可参加 | 2015.7.20 - 2015.10.12  |             |
+| [成电大数据培训实践](http://www.pkbigdata.com/common/cmpt/成电大数据培训实践_竞赛信息.html) | 可参加 |  2015.7.17 - 2015.8.17  |   练习赛    |
+| [图像搜索竞赛](http://www.pkbigdata.com/common/cmpt/图像搜索竞赛_竞赛信息.html) | 可参加 | 2014.12.11 - 2015.3.12  |             |
+| [学生成绩排名预测](http://www.pkbigdata.com/common/cmpt/学生成绩排名预测_竞赛信息.html) | 可参加 | 2014.12.11 - 2015.3.12  |             |
+| [CCF大数据竞赛](http://www.pkbigdata.com/common/cmpt/CCF大数据竞赛_竞赛信息.html) | 可参加 |  2014.9.1 - 2014.11.15  |             |
 
 <br>
 
@@ -1058,12 +1058,13 @@ Website：http://www.datafountain.cn/
 
 | 比赛项目                                                     |  状态  |         时间轴          | 备注 |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--: |
-| **[2018 中国气象“神气”大数据算法与应用大赛](https://www.datafountain.cn/competitions/307/details)** |        |                         |      |
+| **[CCF 大数据与计算智能大赛](https://www.datafountain.cn/projects/2018CCF/index.html)** | 进行中 | 2018-8-29 - 2018-11-23  |      |
+| **[2018 中国气象“神气”大数据算法与应用大赛](https://www.datafountain.cn/competitions/307/details)** | 进行中 | 2018-8-23 - 2018-10-19  |      |
 | [“AIIA”杯（航天科工站）-高校挑战赛国际安全事件关系发现](http://www.datafountain.cn/#/competitions/306/intro) | 已结束 | 2018-07-13 - 2018-07-31 |      |
 | [“AIIA”杯（航天科工站）- 高校挑战赛 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/305/intro) | 已结束 | 2018-07-13 - 2018-07-31 |      |
-| [安全帽佩戴识别](http://www.datafountain.cn/#/competitions/304/intro) | 进行中 | 2018-06-29 - 2018-08-20 |      |
-| [光伏电站人工智能运维大数据处理分析](http://www.datafountain.cn/#/competitions/303/intro) | 进行中 | 2018-06-29 - 2018-08-19 |      |
-| [风机叶片开裂故障预警](http://www.datafountain.cn/#/competitions/302/intro) | 进行中 | 2018-06-29 - 2018-08-20 |      |
+| [安全帽佩戴识别](http://www.datafountain.cn/#/competitions/304/intro) | 已结束 | 2018-06-29 - 2018-08-20 |      |
+| [光伏电站人工智能运维大数据处理分析](http://www.datafountain.cn/#/competitions/303/intro) | 已结束 | 2018-06-29 - 2018-08-19 |      |
+| [风机叶片开裂故障预警](http://www.datafountain.cn/#/competitions/302/intro) | 已结束 | 2018-06-29 - 2018-08-20 |      |
 | [基于大数据的汽轮机瞬态应力分析与预测](http://www.datafountain.cn/#/competitions/301/intro) | 进行中 | 2018-06-29 - 2018-08-20 |      |
 | [无人车集群协同控制竞赛](http://www.datafountain.cn/#/competitions/299/intro) | 进行中 | 2018-07-13 - 2018-09-10 |      |
 | [“AIIA”杯（航天科工站）- 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/288/intro) | 已结束 | 2018-05-18 - 2018-07-30 |      |
