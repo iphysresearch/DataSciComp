@@ -1,8 +1,8 @@
-## 2018-9-3 Update!
+## 2018-9-8 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
-> 欢迎关注微博更新：[IPhysResearch](http://weibo.com/IPhysresearch) . Made by 土豆 in spare time.
+> 欢迎关注微博更新：[IPhysResearch](http://weibo.com/IPhysresearch) . Collected by 土豆 in spare time.
 
 #### Table of contents
 
@@ -11,37 +11,39 @@
 ---
 
 - **[Kaggle](#kaggle)（新）**
-- **[DrivenData](#drivendata)（新）**
+- [DrivenData](#drivendata)（新）
 - [CodaLab](#codalab)（新）
 - [crowdAI](#crowdai)（新）
-- **[SIGNATE](#signate)（新）**
+- [SIGNATE](#signate)（新）
 - [NIPS 2018 Competition Track](#nips-2018-competition-track)
 - [GECCO 2018 Competition](#gecco-2018-competition)
 - [Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)
 - [GeekPwn 2018 国际安全极客大赛](#geekpwn2018国际安全极客大赛)
 - [对抗样本攻防赛CAAD](#对抗样本攻防赛caad)
+- **[A Conversational Question Answering Challenge (CoQA)](#a-conversational-question-answering-challenge)（新）**
+- **[The Scene Understanding and Modeling Challenge (SUMO)](#the-scene-understanding-and-modeling-challenge)（新）**
 - [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛---蚂蚁金服)
 - **[AI Challenger 全球AI挑战赛2018](#ai-challenger-全球ai挑战赛2018)（新）**
-- [中国法研杯司法人工智能挑战赛](#中国法研杯司法人工智能挑战赛)
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
 - [第二届易观算法大赛](#第二届易观算法大赛)
 - [深圳医疗健康大数据创新应用国际大赛](#深圳医疗健康大数据创新应用国际大赛)
-- **[A Conversational Question Answering Challenge(CoQA)](#a-conversational-question-answering-challenge)（新）**
-- **[MC挑战赛第四期人脸视线角检测](#mc挑战赛第四期人脸视线角检测)（新）**
-- [天池](#天池)（新）
+- [MC挑战赛第四期人脸视线角检测](#mc挑战赛第四期人脸视线角检测)
+- [天池](#天池)
 - [JData](#jdata)
-- [JDD空间站](#jdd空间站)（新）
+- [JDD空间站](#jdd空间站)
 - [点石](#点石)
+- [TinyMind](#tinymind)（新）
 - [Kesci](#kesci)
-- **[DataCastle](#datacastle)（新）**
-- [Biendata](#biendata)（新）
-- **[DataFountain](#datafountain)（新）**
+- [DataCastle](#datacastle)
+- [Biendata](#biendata)
+- [DataFountain](#datafountain)
 - [数愿](#数愿)
 
 ---
 
 **Overdued:**
 
+- [中国法研杯司法人工智能挑战赛](#中国法研杯司法人工智能挑战赛)
 - [Visual Dialog Challenge 2018](#visual-dialog-challenge-2018)
 - [The FashionGen Challenge](#the-fashiongen-challenge)
 - [京东AI时尚挑战赛](#京东ai时尚挑战赛)
@@ -49,7 +51,7 @@
 - [COLIEE-2018](#coliee-2018)
 - [第三届魔镜杯大赛](#第三届魔镜杯大赛) [CoNaLa: The Code/Natural Language Challenge](#conala:-the-code/natural-language-challenge) 
 - [Momenta Car Detection Challenge (MCDC) ](#momenta-car-detection-challenge)  [北京市高校校园大数据竞赛](#北京市高校校园大数据竞赛)
-- [TinyMind](#tinymind)  [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)  [CoNLL–SIGMORPHON 2018 Shared Task](#conll–sigmorphon-2018-shared-task)
+- [OpenAI 迁移学习竞赛](#openai-迁移学习竞赛)  [CoNLL–SIGMORPHON 2018 Shared Task](#conll–sigmorphon-2018-shared-task)
 - [智慧金融马上AI全球挑战者大赛](#智慧金融马上ai全球挑战者大赛)  [第六届-泰迪杯数据挖掘挑战赛](#第六届-泰迪杯数据挖掘挑战赛) 
 - [CCDM-2018](#ccdm-2018)   [2018机器阅读理解技术竞赛](#2018机器阅读理解技术竞赛)   [第二届"讯飞杯"中文机器阅读理解评测](#第二届讯飞杯中文机器阅读理解评测)
 - [SODA](#soda)  [数据嗨客](#数据嗨客)  [竞技乎](#竞技乎)   [知数学院](#知数学院)   [第三届数据新闻比赛](#第三届数据新闻比赛)
@@ -59,12 +61,13 @@
 
 ## Active Competitons to join
 
-> 2018-9-3 Update!
+> 2018-9-8 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。(No playground)
 
 | Active Competitons to join                                   | From..              | Entry deadline               | Prize Money |
 | ------------------------------------------------------------ | ------------------- | ---------------------------- | ----------- |
+| **[Inclusive Images Challenge](https://www.kaggle.com/c/inclusive-images-challenge)** | Kaggle | Oct. 29, 2018 | $25,000 |
 | **[RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)** | Kaggle              | Oct. 17, 2018                | $30,000     |
 | **[Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection)** | Kaggle | Sep. 27, 2018                | $60,000     |
 | [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) | Kaggle              | Sep. 25, 2018                | -           |
@@ -91,6 +94,8 @@
 | [EndoVis](https://endovis.grand-challenge.org/)              | **Grand-challenge** | Sept. 10th<br />(Submission) |             |
 | **[GeekPwn2018国际安全极客大赛](http://2018.geekpwn.org/zh/index.html)** | GEEKPWN             | 10.10                        | ~￥500W     |
 | **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W      |
+| **[A Conversational Question Answering Challenge (CoQA)](https://stanfordnlp.github.io/coqa/)** | Stanford U.     | NaN                          | NaN         |
+| **[The Scene Understanding and Modeling Challenge (SUMO)](https://sumochallenge.org)** | Facebook | Nov. 16 2018 | NaN |
 | [观点性问题阅读理解](https://challenger.ai/competition/oqmrc2018) | 创新工场 | 11.4 | ¥400,000 |
 | [细粒度用户评价情感分析](https://challenger.ai/competition/fsauor2018) | 创新工场 | 10.13 | ¥400,000 |
 | [英中文本机器翻译](https://challenger.ai/competition/ect2018) | 创新工场 | 11.4 | ¥400,000 |
@@ -101,7 +106,9 @@
 | [眼底水肿病变区域自动分割](https://challenger.ai/competition/fl2018) | 创新工场 | 10.7  | ¥50,000 |
 | [第二届易观算法大赛](http://ds.analysys.cn/ldjs.html)        | 易观                | 不详                         | ￥5W        |
 | **[京东金融对话语音识别大赛 （ 预热 ）](https://jdder.jd.com/index/jddDetail?matchId=2223f40dcfca4e7da8d4c018b0cd0858)** | JDD空间站           | 2018-09-25                   | ￥5W        |
-| **[A Conversational Question Answering Challenge](https://stanfordnlp.github.io/coqa/)** | CoQA                | NaN                          | NaN         |
+| [第二届易观算法大赛——性别年龄预测](https://www.tinymind.cn/competitions/43) | TinyMind | 2018.10.16 | ￥50000 |
+| [TinyMind 多标签图像分类竞赛（中级难度）](https://www.tinymind.cn/competitions/42) | TinyMind | 2018.09.29 |    -    |
+| [TinyMind 汉字书法识别自由练习赛（初级难度）](http://www.tinymind.cn/competitions/41) | TinyMind | 2018.12.31 |    -    |
 | **[广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682)** | 天池                | 10月8日                      | ￥550000    |
 | [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231677) | 天池                | 2018/9/25                    | ￥2780000   |
 | [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231676) | 天池                | 2018/9/25                    | ￥2780000   |
@@ -110,7 +117,6 @@
 | **[“神策杯”2018高校算法大师赛](http://www.dcjingsai.com/common/cmpt/"神策杯"2018高校算法大师赛_竞赛信息.html)** | DataCastle | 2018.10.11 | MacBook Pro |
 | [西南财经大学“新网银行杯”大数据竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"大数据竞赛_竞赛信息.html) | DataCastle          | 2018.10.21                 | 31000   |
 | **[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/"达观杯"文本智能处理挑战赛_竞赛信息.html)** | DataCastle          | 2018.9.12                    | ￥50000     |
-| [游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html) | DataCastle          | 2018.08.31                   | ￥100000    |
 | [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000 |
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
@@ -143,6 +149,7 @@
 
 | Competiton                                                   |   Categories    | Submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------: | :---------: |
+| **[Inclusive Images Challenge](https://www.kaggle.com/c/inclusive-images-challenge)** |    Research     |  November 12, 2018  |   $25,000   |
 | **[RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)** |    Featured     |  October 24, 2018   |   $30,000   |
 | [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) |   Playground    |    Sep. 25, 2018    |      -      |
 | [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge) |    Featured     |  October 19, 2018   |  $100,000   |
@@ -168,7 +175,6 @@
 | [iNaturalist Challenge at FGVC5](https://www.kaggle.com/c/inaturalist-2018) |    Research     |      2018.6.4       |      -      |
 | [iMaterialist Challenge (Furniture) at FGVC5](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018#Timeline) |    Research     |      2018.5.30      |   $2,500    |
 | [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) |    Featured     |      2018.4.16      |  $100,000   |
-| [IEEE's Signal Processing Society - Camera Model Identification](https://www.kaggle.com/c/sp-society-camera-model-identification) |    Featured     |      2018.2.8       |   $25,000   |
 | [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) |    Featured     |      2018.5.20      |   $35,000   |
 | [**TrackML Particle Tracking Challenge**](https://www.kaggle.com/c/trackml-particle-identification#Prizes) |    Featured     |      2018.8.13      |   $25,000   |
 | [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) |   Playground    |          -          |      -      |
@@ -446,12 +452,73 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 > - **对抗防御**，此项比赛的目标是生成基于机器学习的分类器，对对抗样本有强的防御力，也即能够正确地把对抗样本进行分类。
 >
 > ![](https://i.loli.net/2018/06/23/5b2dc70b4c43e.png)
+> 
+
 
 <br>
 
 <br>
 
+## A Conversational Question Answering Challenge
 
+> ![](https://i.loli.net/2018/08/23/5b7e70dc1631f.png)
+>
+> CoQA is a large-scale dataset for building **Co**nversational **Q**uestion **A**nswering systems. The goal of the CoQA challenge is to measure the ability of machines to understand a text passage and answer a series of interconnected questions that appear in a conversation. CoQA is pronounced as [coca](https://en.wikipedia.org/wiki/Coca).
+>
+> Related paper: https://arxiv.org/abs/1808.07042 
+>
+> Official website: https://stanfordnlp.github.io/coqa/
+>
+> 新闻报道：[CoQA！斯坦福召开新一轮QA比赛，剑指对话问答！](https://mp.weixin.qq.com/s/gfvW9gTEK2I8IyQQsfsVFw)
+>
+> > 【导读】斯坦福的上一轮阅读理解问答比赛 SQUAD1.1，于今年1月13日被阿里团队成功突破，算法的效果已经可以击败人类。如今，斯坦福又卷土重来了新的问答比赛，不同于 SQUAD的阅读理解问答，本次的 CoQA是对话式问答。相信这次比赛，又将会带领算法突破人类，达到前所未有的成就。目前网站刚刚上线， 只有发布比赛的文章里给出的 baseline 和 人类的结果。 趁着还没人提交，不考虑刷一下么？
+> >
+> > 比赛同时发布了同名的大型数据集：CoQA，用于建立会话问答系统。CoQA比赛的目标是测试机器理解文本段落和回答对话中出现的一系列相互关联的问题的能力。CoQA的发音是coca.
+> >
+> > CoQA包含127000多个问题和回答，它们采集自8000多个对话。每个对话都是由两位众筹人员，以问答的形式就给定的一段文本进行交谈得到的。
+> >
+> > CoQA的独特之处在于：
+> >
+> > - 问题是对话式的
+> > - 答案是自由格式的文本
+> > - 每个答案都能在文本中找到高亮的证据序列
+> > - 有7个不同的领域
+> >
+> > 跟现有的阅读理解问答数据集相比，CoQA有许多新挑战，如共指、语用推理等。
+
+<br>
+
+<br>
+
+## The Scene Understanding and Modeling Challenge
+
+> ![](https://i.loli.net/2018/09/08/5b932539c12a2.png)
+>
+> - Website: https://sumochallenge.org
+>
+> - News:
+>
+>   - 【Facebook场景理解与建模(SUMO)挑战】
+>
+>     《Facebook Reality Labs Launches the Scene Understanding and Modeling (SUMO) Challenge | Facebook Research》 <http://t.cn/RFf3lql> 
+>
+> - Important Dates:
+>
+> | June 22, 2018     | SUMO Announced at CVPR                    |
+> | ----------------- | ----------------------------------------- |
+> | August 29, 2018   | SUMO Launch - API and data to be released |
+> | November 16, 2018 | Final submission deadline                 |
+> | December 3, 2018  | SUMO Workshop (ACCV 2018)                 |
+>
+> - Data: 
+>
+>   ![](https://i.loli.net/2018/09/08/5b932628a3438.png)
+
+
+
+<br>
+
+<br>
 
 ## ATEC人工智能大赛 - 蚂蚁金服
 
@@ -569,31 +636,6 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 <br>
 
-## 中国法研杯司法人工智能挑战赛
-
-![](https://i.loli.net/2018/05/18/5afe4675468ad.png)
-
-> 为了促进法律智能相关技术的发展，在最高人民法院信息中心、共青团中央青年发展部的指导下，中国司法大数据研究院、中国中文信息学会、中电科系统团委联合清华大学、北京大学、中国科学院软件研究所共同举办“2018中国‘法研杯’法律智能挑战赛（CAIL2018）”。
->
-> 挑战赛将提供海量的刑事法律文书数据作为数据集，旨在为研究者提供学术交流平台，推动语言理解和人工智能领域技术在法律领域的应用，促进法律人工智能事业的发展。每年比赛结束后将举办技术交流和颁奖活动。诚邀学术界和工业界的研究者和开发者积极参与该挑战赛！
-
-- Website：[http://cail.cipsc.org.cn/](http://cail.cipsc.org.cn/)
-
-> - 挑战赛任务：
->
-> 任务一  罪名预测：根据刑事法律文书中的案情描述和事实部分，预测被告人被判的罪名；
->
-> 任务二  法条推荐：根据刑事法律文书中的案情描述和事实部分，预测本案涉及的相关法条；
->
-> 任务三  刑期预测：根据刑事法律文书中的案情描述和事实部分，预测被告人的刑期长短。
->
-> ![](https://i.loli.net/2018/08/28/5b84b50e068d4.png)
->
-> ![](https://i.loli.net/2018/05/18/5afe471b2223b.png)
-
-<br>
-
-<br>
 
 ## 2018年国际大学生类脑计算创新应用大赛
 
@@ -669,36 +711,6 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 
 
-<br>
-
-<br>
-
-## A Conversational Question Answering Challenge
-
-> ![](https://i.loli.net/2018/08/23/5b7e70dc1631f.png)
->
-> CoQA is a large-scale dataset for building **Co**nversational **Q**uestion **A**nswering systems. The goal of the CoQA challenge is to measure the ability of machines to understand a text passage and answer a series of interconnected questions that appear in a conversation. CoQA is pronounced as [coca](https://en.wikipedia.org/wiki/Coca).
->
-> Related paper: https://arxiv.org/abs/1808.07042 
->
-> Official website: https://stanfordnlp.github.io/coqa/
->
-> 新闻报道：[CoQA！斯坦福召开新一轮QA比赛，剑指对话问答！](https://mp.weixin.qq.com/s/gfvW9gTEK2I8IyQQsfsVFw)
->
-> > 【导读】斯坦福的上一轮阅读理解问答比赛 SQUAD1.1，于今年1月13日被阿里团队成功突破，算法的效果已经可以击败人类。如今，斯坦福又卷土重来了新的问答比赛，不同于 SQUAD的阅读理解问答，本次的 CoQA是对话式问答。相信这次比赛，又将会带领算法突破人类，达到前所未有的成就。目前网站刚刚上线， 只有发布比赛的文章里给出的 baseline 和 人类的结果。 趁着还没人提交，不考虑刷一下么？
-> >
-> > 比赛同时发布了同名的大型数据集：CoQA，用于建立会话问答系统。CoQA比赛的目标是测试机器理解文本段落和回答对话中出现的一系列相互关联的问题的能力。CoQA的发音是coca.
-> >
-> > CoQA包含127000多个问题和回答，它们采集自8000多个对话。每个对话都是由两位众筹人员，以问答的形式就给定的一段文本进行交谈得到的。
-> >
-> > CoQA的独特之处在于：
-> >
-> > - 问题是对话式的
-> > - 答案是自由格式的文本
-> > - 每个答案都能在文本中找到高亮的证据序列
-> > - 有7个不同的领域
-> >
-> > 跟现有的阅读理解问答数据集相比，CoQA有许多新挑战，如共指、语用推理等。
 
 
 
@@ -753,12 +765,12 @@ Website: https://tianchi.aliyun.com/
 | **[广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682)** |    进行中    |    2018-10-9     | ￥550000  |
 | [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231677) |    进行中    |    2018-9-25     | ￥2780000 |
 | [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231676) |    进行中    |    2018-9-25     | ￥2780000 |
-| [第三届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231668) |    进行中    |    2018-08-15    | ￥300000  |
+| [第三届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231668) |    已结束    |    2018-08-15    | ￥300000  |
 | [阿里巴巴大数据智能云上编程大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231669) |    已结束    |    2018/08/03    | ￥300000  |
 | [雪浪制造AI挑战赛—视觉计算辅助良品检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231666) |    已结束    |    2018-08-02    | ￥370000  |
 | [AI Word Cup - 2018世界杯新闻智能创作极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231664) |    进行中    |    2018-07-02    | ￥200000  |
-| [阿里巴巴全球调度算法大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231663) |    进行中    |    2018-08-14    | ￥200000  |
-| [IEEE ICDM 2018 全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231662) |    进行中    |    2018-09-10    |  $31000   |
+| [阿里巴巴全球调度算法大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231663) |    已结束    |    2018-08-14    | ￥200000  |
+| [IEEE ICDM 2018 全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231662) |    已结束    |    2018-09-10    |  $31000   |
 | [CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661) |    已结束    |    2018/07/30    |   €7500   |
 | [FDDC2018金融算法挑战赛－A股主板上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231660) |    已结束    |    2018/08/03    | ￥840000  |
 | [FDDC2018金融算法挑战赛－A股主板上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231659) | 已结束已结束 |    2018/07/08    | ￥840000  |
@@ -880,6 +892,20 @@ Website: https://tianchi.aliyun.com/
 > | [【邀请赛】人工智能加速器应用与设计](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=20) | 2018/4/10 - 2018/8/9  |        |
 > | [充电桩故障分类与检测](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=19) | 2018/4/20 - 2018/7/13 | 练习赛 |
 > | [用户评论情感极性判别](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=18) | 2018/4/20 - 2018/7/13 | 练习赛 |
+
+<br>
+
+<br>
+
+## TinyMind
+
+来自 CSDN。
+
+|                           比赛项目                           |  状态  |    第一赛季截止时间     | 总奖池  |
+| :----------------------------------------------------------: | :----: | :---------------------: | :-----: |
+| [第二届易观算法大赛——性别年龄预测](https://www.tinymind.cn/competitions/43) | 进行中 | 2018.08.29 - 2018.10.16 | ￥50000 |
+| [TinyMind 多标签图像分类竞赛（中级难度）](https://www.tinymind.cn/competitions/42) | 进行中 | 2018.08.06 - 2018.09.29 |    -    |
+| [TinyMind 汉字书法识别自由练习赛（初级难度）](http://www.tinymind.cn/competitions/41) | 进行中 | 2018.04.02 - 2018.12.31 |    -    |
 
 <br>
 
@@ -1129,6 +1155,36 @@ Website：http://www.datafountain.cn/
 <br>
 
 ---
+**Overdued:**
+
+
+## 中国法研杯司法人工智能挑战赛
+
+![](https://i.loli.net/2018/05/18/5afe4675468ad.png)
+
+> 为了促进法律智能相关技术的发展，在最高人民法院信息中心、共青团中央青年发展部的指导下，中国司法大数据研究院、中国中文信息学会、中电科系统团委联合清华大学、北京大学、中国科学院软件研究所共同举办“2018中国‘法研杯’法律智能挑战赛（CAIL2018）”。
+>
+> 挑战赛将提供海量的刑事法律文书数据作为数据集，旨在为研究者提供学术交流平台，推动语言理解和人工智能领域技术在法律领域的应用，促进法律人工智能事业的发展。每年比赛结束后将举办技术交流和颁奖活动。诚邀学术界和工业界的研究者和开发者积极参与该挑战赛！
+
+- Website：[http://cail.cipsc.org.cn/](http://cail.cipsc.org.cn/)
+
+> - 挑战赛任务：
+>
+> 任务一  罪名预测：根据刑事法律文书中的案情描述和事实部分，预测被告人被判的罪名；
+>
+> 任务二  法条推荐：根据刑事法律文书中的案情描述和事实部分，预测本案涉及的相关法条；
+>
+> 任务三  刑期预测：根据刑事法律文书中的案情描述和事实部分，预测被告人的刑期长短。
+>
+> ![](https://i.loli.net/2018/08/28/5b84b50e068d4.png)
+>
+> ![](https://i.loli.net/2018/05/18/5afe471b2223b.png)
+
+<br>
+
+<br>
+
+
 
 ## Visual Dialog Challenge 2018
 
@@ -1309,21 +1365,6 @@ Website：http://www.datafountain.cn/
 > Official Wechat post: https://mp.weixin.qq.com/s/f9KHJl-nd9fKW5B8gorfrQ
 
 ![](https://i.loli.net/2018/05/09/5af2730343eb2.png)
-
-<br>
-
-<br>
-
-
-
-## TinyMind
-
-来自 CSDN。
-
-|                           比赛项目                           |  状态  |    第一赛季截止时间     | 总奖池 |
-| :----------------------------------------------------------: | :----: | :---------------------: | :----: |
-| [TinyMind第一届汉字书法识别挑战赛](http://www.tinymind.cn/competitions/41) | 进行中 | 2018.04.02 - 2018.06.08 |   -    |
-|                                                              |        |                         |        |
 
 <br>
 
