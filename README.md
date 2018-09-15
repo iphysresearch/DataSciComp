@@ -31,6 +31,7 @@
 - [天池](#天池)
 - [JData](#jdata)
 - [JDD空间站](#jdd空间站)
+- **[第3届 融360金融算法挑战赛](#第3届-融360金融算法挑战赛)（新）**
 - **[点石](#点石)（新）**
 - [TinyMind](#tinymind)
 - [Kesci](#kesci)
@@ -112,6 +113,7 @@
 | **[广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682)** | 天池                | 10月8日                      | ￥550000    |
 | [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231677) | 天池                | 2018/9/25                    | ￥2780000   |
 | [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231676) | 天池                | 2018/9/25                    | ￥2780000   |
+| **[融360天机智能金融算法挑战赛](http://openresearch.rong360.com/#/home)** | 融360天机 | 2018-11-10 | ￥30W |
 | **[“探寻地球密码”天宫数据利用大赛](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=22)** | 点石 | 2018-11-04 | ￥60000 |
 | **[2018科大讯飞AI营销算法大赛](http://www.dcjingsai.com/common/cmpt/2018科大讯飞AI营销算法大赛_竞赛信息.html)** | DataCastle | 2018.10.08 | 60000 |
 | **[“神策杯”2018高校算法大师赛](http://www.dcjingsai.com/common/cmpt/"神策杯"2018高校算法大师赛_竞赛信息.html)** | DataCastle | 2018.10.11 | MacBook Pro |
@@ -843,6 +845,32 @@ Website: https://tianchi.aliyun.com/
 | ------------------------------------------------------------ | ------ | ---------- | ------ |
 | [京东金融对话语音识别大赛 （ 预热 ）](https://jdder.jd.com/index/jddDetail?matchId=2223f40dcfca4e7da8d4c018b0cd0858) | 进行中 | 2018-09-25 | ￥5W   |
 |                                                              |        |            |        |
+
+
+
+
+
+<br>
+
+<br>
+
+## 第3届 融360金融算法挑战赛
+
+> ![](https://i.loli.net/2018/09/15/5b9d13e7b3931.png)
+>
+> 第三届融360天机智能金融算法挑战赛于 2018年8月25日正式启动报名，（选手也可在第二届智慧中国杯竞赛单元中报名），邀您一同解决价值百亿的经典风控问题，共同探索人工智能领域知识图谱，文本挖掘等热门技术。本届赛题共有三道，分别是“**拒绝推断**”、“**特征挖掘**”、“**多金融场景下的模型训练**”，总奖金池高达30万。
+>
+> ![](https://i.loli.net/2018/09/15/5b9d1450da166.png)
+>
+> ![](https://i.loli.net/2018/09/15/5b9d14685d1ab.png)
+>
+> - Website: http://openresearch.rong360.com/#/home
+>
+> - 共三个题目：
+>   - 拒绝推断
+>   - 特征挖掘
+>   - 多金融场景下的模型训练
+> - 注：测试集预测结果截止提交时间为11月10日23:00
 
 
 
