@@ -1,4 +1,4 @@
-## 2018-9-15 Update!
+## 2018-9-24 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -20,23 +20,23 @@
 - [Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)
 - [GeekPwn 2018 国际安全极客大赛](#geekpwn2018国际安全极客大赛)
 - [对抗样本攻防赛CAAD](#对抗样本攻防赛caad)
-- **[Unrestricted Adversarial Examples Challenge (不受限对抗样本挑战)](#unrestricted-adversarial-examples-challenge)（新）**
+- [Unrestricted Adversarial Examples Challenge (不受限对抗样本挑战)](#unrestricted-adversarial-examples-challenge)（新）
 - [A Conversational Question Answering Challenge (CoQA)](#a-conversational-question-answering-challenge)（新）
+- [The Stanford Question Answering Dataset (SQuAD2.0)](#the-stanford-question-answering-dataset)（新）
 - [The Scene Understanding and Modeling Challenge (SUMO)](#the-scene-understanding-and-modeling-challenge)（新）
 - [AI Challenger 全球AI挑战赛2018](#ai-challenger-全球ai挑战赛2018)（新）
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
 - [第二届易观算法大赛](#第二届易观算法大赛)
-- [深圳医疗健康大数据创新应用国际大赛](#深圳医疗健康大数据创新应用国际大赛)
-- [MC挑战赛第四期人脸视线角检测](#mc挑战赛第四期人脸视线角检测)
+- [MC挑战赛](#mc挑战赛)（新）
 - [天池](#天池)
 - [JData](#jdata)
 - [JDD空间站](#jdd空间站)
-- **[第3届 融360金融算法挑战赛](#第3届-融360金融算法挑战赛)（新）**
-- **[点石](#点石)（新）**
+- [第3届 融360金融算法挑战赛](#第3届-融360金融算法挑战赛)（新）
+- [点石](#点石)（新）
 - [TinyMind](#tinymind)
 - [Kesci](#kesci)
 - [DataCastle](#datacastle)
-- **[Biendata](#biendata)（新）**
+- [Biendata](#biendata)（新）
 - [DataFountain](#datafountain)
 - [数愿](#数愿)
 
@@ -44,8 +44,8 @@
 
 **Overdued:**
 
+- [深圳医疗健康大数据创新应用国际大赛](#深圳医疗健康大数据创新应用国际大赛)
 - [华为大数据平台](#华为大数据平台)   |   [2018讯飞AI开发者大赛](#2018讯飞ai开发者大赛)
-
 - [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛---蚂蚁金服)
 - [中国法研杯司法人工智能挑战赛](#中国法研杯司法人工智能挑战赛)
 - [Visual Dialog Challenge 2018](#visual-dialog-challenge-2018)
@@ -62,7 +62,7 @@
 
 ## Active Competitons to join
 
-> 2018-9-15 Update!
+> 2018-9-24 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。(No playground)
 
@@ -72,7 +72,6 @@
 | **[Inclusive Images Challenge](https://www.kaggle.com/c/inclusive-images-challenge)** | Kaggle | Oct. 29, 2018 | $25,000 |
 | **[RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)** | Kaggle              | Oct. 17, 2018                | $30,000     |
 | **[Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection)** | Kaggle | Sep. 27, 2018                | $60,000     |
-| [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) | Kaggle              | Sep. 25, 2018                | -           |
 | **[TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge#description)** | Kaggle              | Oct. 12, 2018                | $100,000    |
 | **[Power Laws: Cold Start Energy Forecasting](https://www.drivendata.org/competitions/55/schneider-cold-start/)** | DrivenData | Oct. 31, 2018  | €23,000 |
 | [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) | DrivenData | Dec. 22, 2018  |         |
@@ -81,10 +80,12 @@
 | [Warm Up: Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/) | DrivenData | March 21, 2019 |         |
 | [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) | DrivenData | May 28, 2019   |         |
 | [Warm Up: Machine Learning with a Heart](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/) | DrivenData | Oct. 30, 2019  |         |
-| **[2018 Open AI Tanzania Building Footprint Segmentation Challenge](https://competitions.codalab.org/competitions/20100)** | CodaLab             | Oct. 1, 2018     |             |
+| **[2019 FG Challenge Recognizing Families In the Wild (RFIW19)](https://competitions.codalab.org/competitions/20180)** | CodaLab             | 2019.01.10 |             |
+| **[Competition on Neural Networks, UAB 2018](https://competitions.codalab.org/competitions/19711)** | CodaLab | Dec. 20 | |
+| **[Competition on Data Classification, UAB 2018](https://competitions.codalab.org/competitions/20130)** | CodaLab | Dec. 20 | |
+| **[Competition on Data Regression, UAB 2018](https://competitions.codalab.org/competitions/20122)** | CodaLab | Dec. 20 | |
 | **[League of Nations Archives Digitization Challenge](https://www.crowdai.org/challenges/league-of-nations-archives-digitization-challenge)** | crowdAI             | Oct 31th                     |             |
 | **[海洋研究開発機構 熱帯低気圧（台風等）検出アルゴリズム作成](https://signate.jp/competitions/134#abstract)** | SIGNATE             | Oct 26th                     | ¥1,000,000  |
-| [AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018) | **NIPS**            | Sep 24th                     | ~$15,000    |
 | [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct. 10th                    |             |
 | [The Conversational Intelligence Challenge 2 (ConvAI2)](http://convai.io/ ) | **NIPS**            | Sep 30th                     | ~$20,000    |
 | [Tracking Machine Learning Challenge](https://sites.google.com/site/trackmlparticle/) | **NIPS**            | Oct. 20th                    | ~$15,000    |
@@ -92,10 +93,12 @@
 | [InclusiveImages: A challenge of distributional skew, side information, and global inclusion](https://sites.google.com/view/inclusiveimages/) | **NIPS**            | Nov 9th                      |             |
 | The AI Driving Olympics                                      | **NIPS**            | Dec 7th                      |             |
 | [AI for prosthetics](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge) | **NIPS**            | Sep 30th                     |             |
+| [HC18](https://hc18.grand-challenge.org) | **Grand-challenge** | NaN | |
 | **[PROSTATEx](https://prostatex.grand-challenge.org/)**      | **Grand-challenge** | NaN                          |             |
 | **[GeekPwn2018国际安全极客大赛](http://2018.geekpwn.org/zh/index.html)** | GEEKPWN             | 10.10                        | ~￥500W     |
 | **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W      |
 | **[A Conversational Question Answering Challenge (CoQA)](https://stanfordnlp.github.io/coqa/)** | Stanford U.     | NaN                          | NaN         |
+| **[The Stanford Question Answering Dataset (SQuAD2.0)](https://rajpurkar.github.io/SQuAD-explorer/)** | Stanford U. | NaN | NaN |
 | **[The Scene Understanding and Modeling Challenge (SUMO)](https://sumochallenge.org)** | Facebook | Nov. 16 2018 | NaN |
 | [观点性问题阅读理解](https://challenger.ai/competition/oqmrc2018) | 创新工场 | 11.4 | ¥400,000 |
 | [细粒度用户评价情感分析](https://challenger.ai/competition/fsauor2018) | 创新工场 | 10.13 | ¥400,000 |
@@ -110,9 +113,10 @@
 | [第二届易观算法大赛——性别年龄预测](https://www.tinymind.cn/competitions/43) | TinyMind | 2018.10.16 | ￥50000 |
 | [TinyMind 多标签图像分类竞赛（中级难度）](https://www.tinymind.cn/competitions/42) | TinyMind | 2018.09.29 |    -    |
 | [TinyMind 汉字书法识别自由练习赛（初级难度）](http://www.tinymind.cn/competitions/41) | TinyMind | 2018.12.31 |    -    |
-| **[广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682)** | 天池                | 10月8日                      | ￥550000    |
-| [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231677) | 天池                | 2018/9/25                    | ￥2780000   |
-| [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.456d33afXDrdUc&raceId=231676) | 天池                | 2018/9/25                    | ￥2780000   |
+| **[MC挑战赛第五期 (无人驾驶的决策规划)](https://mp.weixin.qq.com/s/K32SJ6LadFm5AyH8oyTp3g)** | Momenta | 2018.10.19 | ￥~8W |
+| **[瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231687)** | 天池 | 11月12日 | ￥220000 |
+| **[OGeek算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231688)** | 天池 | 11月6日 | ￥1000000 |
+| [广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682) | 天池                | 10月8日                      | ￥550000    |
 | **[融360天机智能金融算法挑战赛](http://openresearch.rong360.com/#/home)** | 融360天机 | 2018-11-10 | ￥30W |
 | **[“探寻地球密码”天宫数据利用大赛](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=22)** | 点石 | 2018-11-04 | ￥60000 |
 | **[2018科大讯飞AI营销算法大赛](http://www.dcjingsai.com/common/cmpt/2018科大讯飞AI营销算法大赛_竞赛信息.html)** | DataCastle | 2018.10.08 | 60000 |
@@ -122,13 +126,11 @@
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
 | **[2018云从人头计数](https://biendata.com/competition/cloudcup2018/prize/)** | Biendata | 2018.12.15 | ~10W |
-| [2018自动驾驶模拟大赛](https://biendata.com/competition/autocar2018/) | Biendata            | 9月25日                      | ~1W         |
 | [Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/) | Biendata            | 11月23日                     | $ 20,000    |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN         |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN         |
 | **[CCF 大数据与计算智能大赛](https://www.datafountain.cn/projects/2018CCF/index.html)** | DataFountain | 2018-10-19 | \>￥1,000,000 |
 | **[BOT新零售技术挑战赛](http://www.datadreams.org/#/raceDetail/raceSummary?raceid=124)** | 数愿                | 2018.10.8                    | ~￥17W      |
-| **[BOT智能汽车技术挑战赛](http://www.datadreams.org/#/raceDetail/raceSummary?raceid=120)** | 数愿                | 2018.9.26                    | ~￥15W      |
 
 
 
@@ -259,9 +261,11 @@ Only **active** competitions are collected.
 >
 > 仅给出最新上线的赛题题目3个：
 
-- [2018 Open AI Tanzania Building Footprint Segmentation Challenge](https://competitions.codalab.org/competitions/20100)
-
-   ![](https://i.loli.net/2018/09/03/5b8d51ec898e9.png)
+- [2019 FG Challenge Recognizing Families In the Wild (RFIW19)](https://competitions.codalab.org/competitions/20180)
+- [Competition on Neural Networks, UAB 2018](https://competitions.codalab.org/competitions/19711)
+- [Competition on Data Classification, UAB 2018](https://competitions.codalab.org/competitions/20130)
+- [Competition on Data Regression, UAB 2018](https://competitions.codalab.org/competitions/20122)
+- ![](https://i.loli.net/2018/09/24/5ba838272f17c.png)
 
 
 
@@ -384,6 +388,7 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 | Competition (2018)                                           | Registration closed          | Workshop      |
 | ------------------------------------------------------------ | ---------------------------- | ------------- |
+| [HC18](https://hc18.grand-challenge.org)                     | -                            | -             |
 | [PROSTATEx](https://prostatex.grand-challenge.org/)          | -                            | -             |
 | [Peripheral Artery:Vein Enhanced Segmentation (PAVES)](https://paves.grand-challenge.org/) | Aug. 19, 2018                | Aug. 29, 2018 |
 | [Multi-Organ Nuclei Segmentation Challenge](https://monuseg.grand-challenge.org/) | Jun. 15th                    | Sept. 20th    |
@@ -513,6 +518,20 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 > > - 有7个不同的领域
 > >
 > > 跟现有的阅读理解问答数据集相比，CoQA有许多新挑战，如共指、语用推理等。
+
+<br>
+
+<br>
+
+## The Stanford Question Answering Dataset
+
+> ![](https://i.loli.net/2018/09/24/5ba84839939ca.png)
+>
+> **S**tanford **Qu**estion **A**nswering **D**ataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or *span*, from the corresponding reading passage, or the question might be unanswerable.
+>
+> Related paper: [SQuAD2.0 paper](http://arxiv.org/abs/1806.03822) [SQuAD1.0 paper](http://arxiv.org/abs/1606.05250)
+>
+> Official website: https://rajpurkar.github.io/SQuAD-explorer/
 
 <br>
 
@@ -648,74 +667,45 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 
 
-
-
 <br>
 
 <br>
 
-
-
-## 深圳医疗健康大数据创新应用国际大赛
-
-> 为贯彻落实“健康中国2030”规划纲要，推动医疗与健康大数据创新应用，促进学术科技创新发展，激发大众创业、万众创新活力，特举办第一届深圳医疗健康大数据创新应用国际大赛。本届大赛是由深圳市发展和改革委员会与深圳市卫生和计划生育委员会联合主办，中国科学院深圳先进技术研究院、深圳国家高技术产业创新中心、深圳市医学信息中心联合承办的全球性的心血管疾病领域的健康大数据挖掘比赛。大赛以“数据驱动·智慧医疗”为主题，涉及临床电子病历、医学影像、生理波形等医疗健康数据，旨在通过挖掘心血管疾病发生发展情况以及发病高危因素，对心血管疾病进行早期防控以及分级干预，打造一个融合院内电子病历、医学影像、生理波形数据的医疗健康大数据系统，推动深圳生命健康战略新兴产业的发展。
->
-> ![](https://i.loli.net/2018/08/12/5b6fcdac567bd.png)
-
-- 大赛整体日程如下： 
-
-  | 时间            | 阶段         | 说明                                                         |
-  | --------------- | ------------ | ------------------------------------------------------------ |
-  | 7月15日-8月10日 | 注册         | 发布竞赛任务，公布样例数据，开启注册通道。                   |
-  | 8月11日-8月24日 | 初赛         | 大赛平台启动，开启电子病历数据库；初赛启动（8月24日前提交竞赛成果） |
-  | 8月25日         | 初赛结果公布 | 公布初赛优胜队伍名单，晋级决赛                               |
-  | 8月26日-9月18日 | 决赛         | 开启影像数据库和波形数据库；决赛启动（9月18日前提交竞赛成果） |
-  | 9月20日         | 颁奖         | BT领袖峰会期间专题论坛与颁奖。                               |
-
-- 奖励形式
-
-  针对决赛两个方向（标准组和创新应用组）分别设置冠军、亚军和季军三个奖项，总奖金28万元人民币：
-
-  冠军：每组1支队伍，奖金50000元人民币，颁发获奖证书；
-
-  亚军：每组2支队伍，奖金30000元人民币，颁发获奖证书；
-
-  季军：每组3支队伍，奖金10000元人民币，颁发获奖证书；
-
-  大赛将于2018年9月20日在深圳BT领袖峰会上进行颁奖并举办医疗健康大数据相关论坛，将邀请风投公司参加大赛颁奖和论坛，并在BT峰会合作媒体上进行宣传推介。
-
-
-
-
-
-
-<br>
-
-<br>
-
-
-
-## MC挑战赛第四期人脸视线角检测
+## MC挑战赛
 
 > ![](https://i.loli.net/2018/08/28/5b84b7eab30cb.png)
 >
 > MC活动全称是Momenta Challenge，作为Momenta主办的系列赛事，MC提供海量数据、强大运算平台支持、mentor点对点指导、参加公司内部各类学习活动以及丰厚大奖，希望更多优秀人才从Momenta Challenge中脱颖而出，成为自动驾驶领域的技术引领者和创新驱动者。
 >
-> **MC挑战赛第四期人脸视线角检测** （Website：[**XXX**](https://mp.weixin.qq.com/s/ATxEpxSv0CzTUAYaSvOtrA)）
+> ---
 >
-> 人脸视线检测是人脸识别领域的一个重要课题，在辅助驾驶、视频监控等领域有重要的应用。
+> L4 和更高级别无人驾驶中的一个核心问题是**如何让自动驾驶车辆在各种路况和情景下都能够进行正确的决策**，“在合适的时候做合适的事情”。（Website：[XXX](https://mp.weixin.qq.com/s/K32SJ6LadFm5AyH8oyTp3g)）
 >
-> 如下是一张人脸视线检测结果的示意图。红点是人脸的关键点，蓝线和绿线组成了头部平面。黄线是预测视线方向，红线是头部朝向向量。这里视线方向定义为注视点和两眼正中连线的方向。
+> 决策、规划、控制是高级别无人驾驶系统中核心的三大模块，分别处理“我应该变道还是继续跟车”、“我应该按照什么轨迹和速度运行”、以及“我应该给出多少油门刹车方向盘的指令”三类问题。同时，这三大模块相互依赖、作为一个系统进行车辆的最终控制，决定了无人驾驶外在表现的性能。
 >
-> ![](https://i.loli.net/2018/08/28/5b84b80c6a1a2.png)
+> ![](https://i.loli.net/2018/09/24/5ba83f3dcc844.png)
 >
-> ![](https://i.loli.net/2018/08/28/5b84b838217e8.png)
+> 在这个比赛中，Momenta 将提供如上图**基于专业物理仿真引擎的环境和车辆仿真系统**，模拟城市道路下的各种动态车、人、自行车场景，要求选手们**设计、实现无人驾驶的决策规划控制系统**，赋予车辆自主行驶能力，通过一系列动态场景的仿真测试，评测不同参赛队伍的系统性能，指标覆盖安全性、舒适性等。
 >
-> 本次MC比赛提供**海量数据集和大计算平台**，在线报名之后通过初步筛选和笔试筛选，确定最终参赛选手。选手们可选择自由组队。
+> ![](https://i.loli.net/2018/09/24/5ba83f6b809c3.png)
 >
-> 比赛自**9月6日**开始，为期**半个月**，**前三名队伍最终可分别获得30000元、20000元、10000元现金大奖，同时还设立了奖金额度6666元的最佳创意奖**，都是税后金额哦。
-
-
+> 比赛为个人报名，入围选手自由组队形式的团队赛。同时，我们鼓励选手寻找队友一起报名，通过率更高哦~
+>
+> **报名时间**：即日起至**10月18日 20:00**
+>
+> Website:[XXX](https://mp.weixin.qq.com/s/K32SJ6LadFm5AyH8oyTp3g)
+>
+> ---
+>
+> 赛题回顾：
+>
+> 第一期：[Momenta Car Detection Challenge(MCDC) 前方车辆跟踪定位](http://mp.weixin.qq.com/s?__biz=MzI0MTcwODI2OQ==&mid=2247484179&idx=1&sn=b5456edb08a6c8f53b91fe1f9f08d2d5&chksm=e9063e91de71b7877387556a0f543070bf17d040a97103e8d9fb56a4701a9d7d870462f15ded&scene=21#wechat_redirect)
+>
+> 第二期：[Momenta Lane Detection Challenge 车道线检测](http://mp.weixin.qq.com/s?__biz=MzI0MTcwODI2OQ==&mid=2247484242&idx=2&sn=d3cc7e6d7a19e31425d24f74ba826ede&chksm=e9063ed0de71b7c6b8a1dd5eb0993db823ff531606d0fa3e4a31af3bfcd4d2928446fc643164&scene=21#wechat_redirect)
+>
+> 第三期：[Momenta Challenge Wourld Cup (MCWC) 无人车足球赛](http://mp.weixin.qq.com/s?__biz=MzI0MTcwODI2OQ==&mid=2247484325&idx=1&sn=b28d619624f62c6e6da8cdceccb500f7&chksm=e9063e27de71b731896a0352aa09717d4fc050a5b5282fedd839b632c89c49ea6873c3235d88&scene=21#wechat_redirect)
+>
+> 第四期：[Momenta Challenge 人脸视线检测](http://mp.weixin.qq.com/s?__biz=MzI0MTcwODI2OQ==&mid=2247484615&idx=1&sn=9347966ff2aa0d43dc080528eac1fe0a&chksm=e9063945de71b053b55d5c0430be4a2d048f112d653035852d1304529ca2175a5189e678a230&scene=21#wechat_redirect)
 
 
 
@@ -737,13 +727,15 @@ Website: https://tianchi.aliyun.com/
 
 | 比赛项目                                                     |     状态     | 第一赛季截止时间 |  总奖池   |
 | ------------------------------------------------------------ | :----------: | :--------------: | :-------: |
-| **[广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682)** |    进行中    |    2018-10-9     | ￥550000  |
+| **[瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231687)** |    进行中    |    2018/11/13    | ￥220000  |
+| **[OGeek算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231688)** |    进行中    |    2018/10/25    | ￥1000000 |
+| [广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682) |    进行中    |    2018-10-9     | ￥550000  |
 | [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231677) |    进行中    |    2018-9-25     | ￥2780000 |
 | [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231676) |    进行中    |    2018-9-25     | ￥2780000 |
 | [第三届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231668) |    已结束    |    2018-08-15    | ￥300000  |
 | [阿里巴巴大数据智能云上编程大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231669) |    已结束    |    2018/08/03    | ￥300000  |
 | [雪浪制造AI挑战赛—视觉计算辅助良品检测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231666) |    已结束    |    2018-08-02    | ￥370000  |
-| [AI Word Cup - 2018世界杯新闻智能创作极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231664) |    进行中    |    2018-07-02    | ￥200000  |
+| [AI Word Cup - 2018世界杯新闻智能创作极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231664) |    已结束    |    2018-07-02    | ￥200000  |
 | [阿里巴巴全球调度算法大赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231663) |    已结束    |    2018-08-14    | ￥200000  |
 | [IEEE ICDM 2018 全球气象AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231662) |    已结束    |    2018-09-10    |  $31000   |
 | [CIKM AnalytiCup 2018](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.1633d780PXkTo5&raceId=231661) |    已结束    |    2018/07/30    |   €7500   |
@@ -928,9 +920,10 @@ https://www.kesci.com/
 | 比赛项目                                                     |  状态  |         时间轴          |                             备注                             |
 | ------------------------------------------------------------ | :----: | :---------------------: | :----------------------------------------------------------: |
 | **[2018 全球（南京）人工智能应用大赛](https://www.kesci.com/apps/home/competition/njai)**（20个题目） | 已结束 |     2018.6 - 2018.8     |                            ¥ 590W                            |
-| **[携程海外酒店房态预测算法大赛](https://www.kesci.com/apps/home/competition/5b18a9d7fe8bc06aa3a937b5)** | 已结束 |  2018.6.23 - 2018.8.3   |                                                              |
-| **[同盾科技——声纹识别建模大赛暑期训练营](https://www.kesci.com/apps/home/competition/5b3b381c71a61726e1382caa)** | 进行中 |  2018.7.16 - 2018.9.1   |                                                              |
-| [首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8) | 进行中 |  2018.6.3 - 2018.9.14   |                                                              |
+| [携程海外酒店房态预测算法大赛](https://www.kesci.com/apps/home/competition/5b18a9d7fe8bc06aa3a937b5) | 已结束 |  2018.6.23 - 2018.8.3   |                                                              |
+| [同盾科技声纹识别建模大赛](https://www.kesci.com/home/competition/5b4eb2cfe87957000f9024a4) | 进行中 |  2018.8.1 - 2018.10.10  |                           ¥ 27.6W                            |
+| [同盾科技——声纹识别建模大赛暑期训练营](https://www.kesci.com/apps/home/competition/5b3b381c71a61726e1382caa) | 已结束 |  2018.7.16 - 2018.9.1   |                                                              |
+| [首届生物特征识别技术开发者大赛 (2018)](https://www.kesci.com/apps/home/competition/5b0cf4c8a8b1fd09d0ba99a8) | 已结束 |  2018.6.3 - 2018.9.14   |                                                              |
 | [用户兴趣建模大赛](https://www.kesci.com/apps/home/competition/5ad306e633a98340e004f8d1)（快手） | 已结束 |   2018.5.7 - 2018.8.6   |                                                              |
 | [PaddlePaddle AI 产业应用赛——汽车大师问答摘要与推理](https://www.kesci.com/apps/home/competition/5aec0eb10739c42faa203931) | 已结束 |  2018.5.11 - 2018.6.22  |                                                              |
 | [2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4) | 已结束 |  2018.5.26 - 2018.8.18  |                            限学生                            |
@@ -988,12 +981,14 @@ http://www.pkbigdata.com
 
 | 比赛项目                                                     |  状态  |         时间轴          |    备注     |
 | ------------------------------------------------------------ | :----: | :---------------------: | :---------: |
+| [住房月租金预测大数据赛（付费竞赛）](http://www.dcjingsai.com/common/cmpt/住房月租金预测大数据赛（付费竞赛）_竞赛信息.html) | 进行中 |  2018.8.28 - 2018.12.3  |  荣誉证书   |
+| [第3届 融360天机智能金融算法挑战赛](http://www.dcjingsai.com/common/cmpt/第3届%20融360天机智能金融算法挑战赛_竞赛信息.html) | 进行中 |   2018.8.25 - 2018.11   |   300000    |
 | [BOT智能汽车技术挑战赛——机器学习预测汽车流量](http://www.dcjingsai.com/common/cmpt/BOT智能汽车技术挑战赛——机器学习预测汽车流量_竞赛信息.html) | 进行中 |  2018.7.3 - 2018.10.16  |   150000    |
 | [BOT新零售技术挑战赛——图像识别分析导购行为](http://www.dcjingsai.com/common/cmpt/BOT新零售技术挑战赛——图像识别分析导购行为_竞赛信息.html) | 进行中 | 2018.7.17 - 2018.10.16  |   170000    |
 | **[2018科大讯飞AI营销算法大赛](http://www.dcjingsai.com/common/cmpt/2018科大讯飞AI营销算法大赛_竞赛信息.html)** | 进行中 |  2018.9.1 - 2018.10.25  |    60000    |
 | **[“神策杯”2018高校算法大师赛](http://www.dcjingsai.com/common/cmpt/"神策杯"2018高校算法大师赛_竞赛信息.html)** | 进行中 | 2018.8.30 - 2018.10.25  | MacBook Pro |
 | [西南财经大学“新网银行杯”数据科学竞赛](http://www.dcjingsai.com/common/cmpt/西南财经大学"新网银行杯"数据科学竞赛_竞赛信息.html) | 进行中 |  2018.8.1 - 2018.11.13  |   ￥31000   |
-| [“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/"达观杯"文本智能处理挑战赛_竞赛信息.html) | 进行中 |  2018.7.2 - 2018.9.19   |   ￥50000   |
+| [“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/"达观杯"文本智能处理挑战赛_竞赛信息.html) | 可参加 |  2018.7.2 - 2018.9.19   |   ￥50000   |
 | [抢占C位，燃情世界杯](http://www.dcjingsai.com/common/cmpt/抢占C位，燃情世界杯_竞赛信息.html) | 可参加 |      同世界杯进度       |    10800    |
 | [游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html) | 可参加 | 2018.6.19 - 2018.08.31  |   100000    |
 | [政府治理大数据应用算法大赛](http://www.dcjingsai.com/common/cmpt/政府治理大数据应用算法大赛_竞赛信息.html) | 可参加 |   2018.5.22 - 2018.08   |   140000    |
@@ -1043,31 +1038,31 @@ http://www.pkbigdata.com
 
 https://biendata.com/competition/
 
-| 比赛项目                                                     |  状态  |         时间轴          | 备注 |
-| ------------------------------------------------------------ | :----: | :---------------------: | :--: |
-| **[2018云从人头计数](https://biendata.com/competition/cloudcup2018/prize/)** | 进行中 | 2018.09.15 - 2018.12.15 |      |
-| [2018自动驾驶模拟大赛](https://biendata.com/competition/autocar2018/) | 进行中 | 2018.08.22 - 2018.10.10 |      |
-| [Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/) | 进行中 | 2018.08.17 - 2018.11.22 |      |
-| [SMP ETST 2018](https://biendata.com/competition/smpetst2018/)（文本溯源竞赛） | 已结束 | 2018.06.01 - 2018.07.02 |      |
-| [SMP EUPT 2018](https://biendata.com/competition/smpeupt2018/)（今日头条作者画像） | 已结束 | 2018.06.01- 2018.07.10  |      |
-| [CCIR 2018](https://biendata.com/competition/CCIR2018/) ( 移动环境下知识分享平台上的内容推荐) | 已结束 |  2018.5.21 - 2018.7.24  |      |
-| [CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/) | 已结束 |   2018.5.9 - 2018-8-5   |      |
-| [CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/) | 已结束 |   2018.4.1 - 2018-8-5   |      |
-| [CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/) | 已结束 |  2018.4.27 - 2018-7-2   |      |
-| [搜狐第二届算法大赛](https://biendata.com/competition/sohu2018/) | 已结束 |  2018.3.19 - 2018.5.21  |      |
-| [KDD CUP of Fresh Air](https://biendata.com/competition/kdd_2018/) | 已结束 |  2018.3.15 - 2018.5.31  |      |
-| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | 进行中 |  2017.5.12 - 2020.1.1   |      |
-| [2017 开放学术精准画像大赛](https://biendata.com/competition/scholar/) | 已结束 |  2017.7.18 - 2017.9.15  |      |
-| [SMP CUP 2017](https://biendata.com/competition/smpcup2017/) | 已结束 |  2017.7.4 - 2017.8.11   |      |
-| [2017 摩拜杯算法挑战赛](https://biendata.com/competition/mobike/) | 已结束 |  2017.6.25 - 2017.9.25  |      |
-| [(练习赛) 2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu_practice/) | 已结束 |  2015.4.4 - 2017.11.16  |      |
-| [2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu/) | 已结束 |  2017.5.15 - 2017.8.15  |      |
-| [CCKS 2017 评测一](https://biendata.com/competition/CCKS2017_1/) | 已结束 |  2017.5.14 - 2017.7.7   |      |
-| [CCKS 2017 评测二](https://biendata.com/competition/CCKS2017_2/) | 已结束 |  2017.5.13 - 2017.7.7   |      |
-| [搜狐图文匹配算法大赛](https://biendata.com/competition/luckydata/) | 已结束 |  2017.3.13 - 2017.6.13  |      |
-| [2016 Byte Cup国际机器学习竞赛](https://biendata.com/competition/bytecup2016/) | 已结束 | 2016.8.15 - 2016.11.20  |      |
-| [SMP CUP 2016](https://biendata.com/competition/smpcup2016/) | 已结束 |  2016.7.20 - 2016.9.21  |      |
-| [KDD Cup 2015](https://biendata.com/competition/kddcup2015/) | 已结束 |  2015.5.1 - 2015.7.12   |      |
+| 比赛项目                                                     |  状态  |         时间轴          |   备注   |
+| ------------------------------------------------------------ | :----: | :---------------------: | :------: |
+| **[2018云从人头计数](https://biendata.com/competition/cloudcup2018/prize/)** | 进行中 | 2018.09.15 - 2018.12.15 | ¥100,000 |
+| [2018自动驾驶模拟大赛](https://biendata.com/competition/autocar2018/) | 进行中 | 2018.08.22 - 2018.10.10 | ¥12,500  |
+| [Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/) | 进行中 | 2018.08.17 - 2018.11.22 | $20,000  |
+| [SMP ETST 2018](https://biendata.com/competition/smpetst2018/)（文本溯源竞赛） | 已结束 | 2018.06.01 - 2018.07.02 |          |
+| [SMP EUPT 2018](https://biendata.com/competition/smpeupt2018/)（今日头条作者画像） | 已结束 | 2018.06.01- 2018.07.10  |          |
+| [CCIR 2018](https://biendata.com/competition/CCIR2018/) ( 移动环境下知识分享平台上的内容推荐) | 已结束 |  2018.5.21 - 2018.7.24  |          |
+| [CCKS 2018 面向音乐领域的命令理解任务](https://biendata.com/competition/CCKS2018_2/) | 已结束 |   2018.5.9 - 2018-8-5   |          |
+| [CCKS 2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/) | 已结束 |   2018.4.1 - 2018-8-5   |          |
+| [CCKS 2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/) | 已结束 |  2018.4.27 - 2018-7-2   |          |
+| [搜狐第二届算法大赛](https://biendata.com/competition/sohu2018/) | 已结束 |  2018.3.19 - 2018.5.21  |          |
+| [KDD CUP of Fresh Air](https://biendata.com/competition/kdd_2018/) | 已结束 |  2018.3.15 - 2018.5.31  |          |
+| [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | 进行中 |  2017.5.12 - 2020.1.1   |          |
+| [2017 开放学术精准画像大赛](https://biendata.com/competition/scholar/) | 已结束 |  2017.7.18 - 2017.9.15  |          |
+| [SMP CUP 2017](https://biendata.com/competition/smpcup2017/) | 已结束 |  2017.7.4 - 2017.8.11   |          |
+| [2017 摩拜杯算法挑战赛](https://biendata.com/competition/mobike/) | 已结束 |  2017.6.25 - 2017.9.25  |          |
+| [(练习赛) 2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu_practice/) | 已结束 |  2015.4.4 - 2017.11.16  |          |
+| [2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu/) | 已结束 |  2017.5.15 - 2017.8.15  |          |
+| [CCKS 2017 评测一](https://biendata.com/competition/CCKS2017_1/) | 已结束 |  2017.5.14 - 2017.7.7   |          |
+| [CCKS 2017 评测二](https://biendata.com/competition/CCKS2017_2/) | 已结束 |  2017.5.13 - 2017.7.7   |          |
+| [搜狐图文匹配算法大赛](https://biendata.com/competition/luckydata/) | 已结束 |  2017.3.13 - 2017.6.13  |          |
+| [2016 Byte Cup国际机器学习竞赛](https://biendata.com/competition/bytecup2016/) | 已结束 | 2016.8.15 - 2016.11.20  |          |
+| [SMP CUP 2016](https://biendata.com/competition/smpcup2016/) | 已结束 |  2016.7.20 - 2016.9.21  |          |
+| [KDD Cup 2015](https://biendata.com/competition/kddcup2015/) | 已结束 |  2015.5.1 - 2015.7.12   |          |
 
 
 
@@ -1161,6 +1156,50 @@ Website：http://www.datafountain.cn/
 
 ---
 **Overdued:**
+
+
+
+
+
+## 深圳医疗健康大数据创新应用国际大赛
+
+> 为贯彻落实“健康中国2030”规划纲要，推动医疗与健康大数据创新应用，促进学术科技创新发展，激发大众创业、万众创新活力，特举办第一届深圳医疗健康大数据创新应用国际大赛。本届大赛是由深圳市发展和改革委员会与深圳市卫生和计划生育委员会联合主办，中国科学院深圳先进技术研究院、深圳国家高技术产业创新中心、深圳市医学信息中心联合承办的全球性的心血管疾病领域的健康大数据挖掘比赛。大赛以“数据驱动·智慧医疗”为主题，涉及临床电子病历、医学影像、生理波形等医疗健康数据，旨在通过挖掘心血管疾病发生发展情况以及发病高危因素，对心血管疾病进行早期防控以及分级干预，打造一个融合院内电子病历、医学影像、生理波形数据的医疗健康大数据系统，推动深圳生命健康战略新兴产业的发展。
+>
+> ![](https://i.loli.net/2018/08/12/5b6fcdac567bd.png)
+
+- 大赛整体日程如下： 
+
+  | 时间            | 阶段         | 说明                                                         |
+  | --------------- | ------------ | ------------------------------------------------------------ |
+  | 7月15日-8月10日 | 注册         | 发布竞赛任务，公布样例数据，开启注册通道。                   |
+  | 8月11日-8月24日 | 初赛         | 大赛平台启动，开启电子病历数据库；初赛启动（8月24日前提交竞赛成果） |
+  | 8月25日         | 初赛结果公布 | 公布初赛优胜队伍名单，晋级决赛                               |
+  | 8月26日-9月18日 | 决赛         | 开启影像数据库和波形数据库；决赛启动（9月18日前提交竞赛成果） |
+  | 9月20日         | 颁奖         | BT领袖峰会期间专题论坛与颁奖。                               |
+
+- 奖励形式
+
+  针对决赛两个方向（标准组和创新应用组）分别设置冠军、亚军和季军三个奖项，总奖金28万元人民币：
+
+  冠军：每组1支队伍，奖金50000元人民币，颁发获奖证书；
+
+  亚军：每组2支队伍，奖金30000元人民币，颁发获奖证书；
+
+  季军：每组3支队伍，奖金10000元人民币，颁发获奖证书；
+
+  大赛将于2018年9月20日在深圳BT领袖峰会上进行颁奖并举办医疗健康大数据相关论坛，将邀请风投公司参加大赛颁奖和论坛，并在BT峰会合作媒体上进行宣传推介。
+
+
+
+
+
+
+<br>
+
+<br>
+
+
+
 
 ## 华为大数据平台
 
