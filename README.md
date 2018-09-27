@@ -15,7 +15,7 @@
 - [CodaLab](#codalab)
 - [Challenge Data](#challenge-data)（新）
 - [crowdAI](#crowdai)
-- [Numer.ai](#numer.ai)（新）
+- [Numer.ai](#numer_ai)（新）
 - **[SIGNATE](#signate)（新）**
 - [NIPS 2018 Competition Track](#nips-2018-competition-track)
 - [GECCO 2018 Competition](#gecco-2018-competition)
@@ -329,7 +329,7 @@ Only **active** competitions are collected.
 
 <br>
 
-## Numer.ai
+## Numer_ai
 
 >![](https://i.loli.net/2018/09/27/5bac6a05e618c.png)
 >
