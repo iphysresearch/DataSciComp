@@ -1,4 +1,4 @@
-## 2018-9-24 Update!
+## 2018-9-27 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -13,8 +13,10 @@
 - **[Kaggle](#kaggle)（新）**
 - [DrivenData](#drivendata)
 - [CodaLab](#codalab)
+- [Challenge Data](#challenge-data)（新）
 - [crowdAI](#crowdai)
-- [SIGNATE](#signate)
+- [Numer.ai](#numer.ai)（新）
+- **[SIGNATE](#signate)（新）**
 - [NIPS 2018 Competition Track](#nips-2018-competition-track)
 - [GECCO 2018 Competition](#gecco-2018-competition)
 - [Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)
@@ -62,16 +64,19 @@
 
 ## Active Competitons to join
 
-> 2018-9-24 Update!
+> 2018-9-27 Update!
 
-根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。(No playground)
+根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
+
+(No playground) (No Challenge Data & Numer.ai)
 
 | Active Competitons to join                                   | From..              | Entry deadline               | Prize Money |
 | ------------------------------------------------------------ | ------------------- | ---------------------------- | ----------- |
+| **[Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news)** | Kaggle | 1/2/2019 | $100,000 |
+| **[Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)** | Kaggle | Nov. 27, 2018 | $25,000 |
 | **[Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/google-analytics-customer-revenue-prediction#Timeline)** | Kaggle | Nov. 8, 2018 | $45,000 |
 | **[Inclusive Images Challenge](https://www.kaggle.com/c/inclusive-images-challenge)** | Kaggle | Oct. 29, 2018 | $25,000 |
 | **[RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)** | Kaggle              | Oct. 17, 2018                | $30,000     |
-| **[Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection)** | Kaggle | Sep. 27, 2018                | $60,000     |
 | **[TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge#description)** | Kaggle              | Oct. 12, 2018                | $100,000    |
 | **[Power Laws: Cold Start Energy Forecasting](https://www.drivendata.org/competitions/55/schneider-cold-start/)** | DrivenData | Oct. 31, 2018  | €23,000 |
 | [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) | DrivenData | Dec. 22, 2018  |         |
@@ -85,6 +90,7 @@
 | **[Competition on Data Classification, UAB 2018](https://competitions.codalab.org/competitions/20130)** | CodaLab | Dec. 20 | |
 | **[Competition on Data Regression, UAB 2018](https://competitions.codalab.org/competitions/20122)** | CodaLab | Dec. 20 | |
 | **[League of Nations Archives Digitization Challenge](https://www.crowdai.org/challenges/league-of-nations-archives-digitization-challenge)** | crowdAI             | Oct 31th                     |             |
+| **[【学生限定】マイナビ × SIGNATE Student Cup 2018: Jリーグの観客動員数予測](https://signate.jp/competitions/137)** | SIGNATE | 2018.11.23 | ~¥1500,000 |
 | **[海洋研究開発機構 熱帯低気圧（台風等）検出アルゴリズム作成](https://signate.jp/competitions/134#abstract)** | SIGNATE             | Oct 26th                     | ¥1,000,000  |
 | [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct. 10th                    |             |
 | [The Conversational Intelligence Challenge 2 (ConvAI2)](http://convai.io/ ) | **NIPS**            | Sep 30th                     | ~$20,000    |
@@ -96,7 +102,6 @@
 | [HC18](https://hc18.grand-challenge.org) | **Grand-challenge** | NaN | |
 | **[PROSTATEx](https://prostatex.grand-challenge.org/)**      | **Grand-challenge** | NaN                          |             |
 | **[GeekPwn2018国际安全极客大赛](http://2018.geekpwn.org/zh/index.html)** | GEEKPWN             | 10.10                        | ~￥500W     |
-| **[对抗样本攻防赛CAAD](https://cn.caad.geekpwn.org)**        | CAAD                | 2018.8.31                    | ~￥20W      |
 | **[A Conversational Question Answering Challenge (CoQA)](https://stanfordnlp.github.io/coqa/)** | Stanford U.     | NaN                          | NaN         |
 | **[The Stanford Question Answering Dataset (SQuAD2.0)](https://rajpurkar.github.io/SQuAD-explorer/)** | Stanford U. | NaN | NaN |
 | **[The Scene Understanding and Modeling Challenge (SUMO)](https://sumochallenge.org)** | Facebook | Nov. 16 2018 | NaN |
@@ -153,9 +158,12 @@
 
 | Competiton                                                   |   Categories    | Submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------: | :---------: |
+| **[Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news)** |    Featured     |      1/8/2019       |  $100,000   |
+| **[Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)** |    Featured     |  December 4, 2018   |   $25,000   |
+| [Costa Rican Household Poverty Level Prediction](https://www.kaggle.com/c/costa-rican-household-poverty-prediction) |   Playground    | September 19, 2018  |             |
 | **[Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/google-analytics-customer-revenue-prediction#Timeline)** |    Featured     |  November 15, 2018  |   $45,000   |
 | **[Inclusive Images Challenge](https://www.kaggle.com/c/inclusive-images-challenge)** |    Research     |  November 12, 2018  |   $25,000   |
-| **[RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)** |    Featured     |  October 24, 2018   |   $30,000   |
+| [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) |    Featured     |  October 24, 2018   |   $30,000   |
 | [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) |   Playground    |    Sep. 25, 2018    |      -      |
 | [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge) |    Featured     |  October 19, 2018   |  $100,000   |
 | [Movie Review Sentiment Analysis (Kernels Only)](https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only) |   Playground    |          -          |      -      |
@@ -271,6 +279,28 @@ Only **active** competitions are collected.
 
 <br><br>
 
+## Challenge Data
+
+> ![](https://i.loli.net/2018/09/27/5bac650b21d83.png)
+>
+> **Challenge Data** 是由巴黎高师（ENS）主持的数据科学竞赛，它主要面向欧洲地区，支持英语和法语。由于巴黎高师在数学领域的一贯坚持，目前它的竞赛方向偏重监督、分类和回归问题。同时也因为各类数据来自创业公司、创新公司、医疗中心、科学实验室，Challenge Data的竞赛题更注重实际应用。
+>
+> 考虑到欧洲，尤其是法国正成为人工智能研究的又一个学术中心，所以Challenge Data可以作为有志于去欧洲发展的同学的另一个选择。
+>
+> > Official Website: https://challengedata.ens.fr
+>
+> 新一期的Challenge Data竞赛时限是 **2017年11月16日至2018年12月27日**，以下是官网上该期的赛题快照：
+>
+> ![](https://i.loli.net/2018/09/27/5bac66b32dc2f.png)![](https://i.loli.net/2018/09/27/5bac66dc10c39.png)
+
+
+
+
+
+
+
+<br><br>
+
 ## crowdAI
 
 ![](https://github.com/crowdAI/crowdai/raw/master/app/assets/images/misc/crowdai-logo-smile.svg?sanitize=true)
@@ -299,6 +329,33 @@ Only **active** competitions are collected.
 
 <br>
 
+## Numer.ai
+
+>![](https://i.loli.net/2018/09/27/5bac6a05e618c.png)
+>
+> > 一个不会同态加密、模型融合、区块链技术的机器学习竞赛网站不是一个好的对冲基金。
+>
+> 如果你没有听说过 Numer.ai，没关系，但是如果你是冲着比赛奖金去的，那你必须知道它是现在最有“钱途”的机器学习竞赛平台——Numer.ai有个别称：**金融市场的Kaggle**。
+>
+> Numer.ai是一个可以向参赛者开放大量加密数据的竞赛，当然，这个开放要加引号，因为这些数据事实上都是经过同台加密处理的，也就是数据科学家根本不知道它们究竟是什么。大家要做的就是在**一堆不明含义的数值型数据或分类型数据**上构建模型，参与排名，并瓜分奖金。
+>
+> 为了激励数据科学家参与竞赛，Numer.ai在除了发放现金鼓励外，还推出了一种名为Numeraire的虚拟货币。模型越好，参与者获得的Numeraire就越多；相反地，如果“后浪”把“前浪”拍死在了沙滩上，参与者已有的Numeraire会被销毁。这种虚拟货币与对冲基金挂钩，基金赚的多，Numeraire 分红也越高。因为基金模型是所有模型结合在一起的产物，因此这从本质上来说就是数据科学家之间的做大饼、分蛋糕。
+>
+> > Offical Website: https://numer.ai/homepage
+>
+>- How numer.ai works: ([learn](https://numer.ai/learn))
+>  - NUMERAI is a **weekly** data science competition.
+>  - Predictions submitted by users steer Numerai's hedge fund together.
+>  - A **weekly prize pool** is paid out to the top performing users who stake.
+
+
+
+
+
+<br>
+
+<br>
+
 
 
 ## SIGNATE
@@ -311,17 +368,12 @@ Only **active** competitions are collected.
 
 - **Running Competitions：**
 
+  - [【学生限定】マイナビ × SIGNATE Student Cup 2018: Jリーグの観客動員数予測](https://signate.jp/competitions/137)
+
   - [海洋研究開発機構 熱帯低気圧（台風等）検出アルゴリズム作成](https://signate.jp/competitions/134)
 
-    ![](https://i.loli.net/2018/08/29/5b864791543a1.png)
+    ![](https://i.loli.net/2018/09/27/5bac61f6b15ce.png)
 
-  - Timeline：
-
-    - 2018年08月24日（金）　コンペティション開始 
-    - 2018年10月26日（金）　コンペティション終了 
-    - 2018年11月02日（金）　ソースコードの提出締め切り（※入賞候補連絡を受け取った方）
-
-  - 総額¥1,000,000相当の賞品
 
 <br>
 
