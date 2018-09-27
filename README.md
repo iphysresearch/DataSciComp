@@ -344,9 +344,12 @@ Only **active** competitions are collected.
 > > Offical Website: https://numer.ai/homepage
 >
 >- How numer.ai works: ([learn](https://numer.ai/learn))
->  - NUMERAI is a **weekly** data science competition.
->  - Predictions submitted by users steer Numerai's hedge fund together.
->  - A **weekly prize pool** is paid out to the top performing users who stake.
+>
+>  > NUMERAI is a **weekly** data science competition.
+>  >
+>  > Predictions submitted by users steer Numerai's hedge fund together.
+>  >
+>  > A **weekly prize pool** is paid out to the top performing users who stake.
 
 
 
