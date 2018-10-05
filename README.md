@@ -1,4 +1,4 @@
-## 2018-9-27 Update!
+## 2018-10-05 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -13,10 +13,13 @@
 - **[Kaggle](#kaggle)（新）**
 - [DrivenData](#drivendata)
 - [CodaLab](#codalab)
-- [Challenge Data](#challenge-data)（新）
+- [Challenge Data](#challenge-data)
 - [crowdAI](#crowdai)
-- [Numer.ai](#numer_ai)（新）
+- [Numer.ai](#numer_ai)
 - **[SIGNATE](#signate)（新）**
+- [Analytics Vidhya](#analytics-vidhya)
+- [TechGig](#techgig)
+- [HackerEarth](#hackerearth)
 - [NIPS 2018 Competition Track](#nips-2018-competition-track)
 - [GECCO 2018 Competition](#gecco-2018-competition)
 - [Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)
@@ -27,18 +30,17 @@
 - [The Stanford Question Answering Dataset (SQuAD2.0)](#the-stanford-question-answering-dataset)（新）
 - [The Scene Understanding and Modeling Challenge (SUMO)](#the-scene-understanding-and-modeling-challenge)（新）
 - [AI Challenger 全球AI挑战赛2018](#ai-challenger-全球ai挑战赛2018)（新）
-- [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
 - [第二届易观算法大赛](#第二届易观算法大赛)
 - [MC挑战赛](#mc挑战赛)（新）
 - [天池](#天池)
 - [JData](#jdata)
 - [JDD空间站](#jdd空间站)
-- [第3届 融360金融算法挑战赛](#第3届-融360金融算法挑战赛)（新）
-- [点石](#点石)（新）
+- [第3届 融360金融算法挑战赛](#第3届-融360金融算法挑战赛)
+- [点石](#点石)
 - [TinyMind](#tinymind)
 - [Kesci](#kesci)
 - [DataCastle](#datacastle)
-- [Biendata](#biendata)（新）
+- [Biendata](#biendata)
 - [DataFountain](#datafountain)
 - [数愿](#数愿)
 
@@ -46,6 +48,7 @@
 
 **Overdued:**
 
+- [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)
 - [深圳医疗健康大数据创新应用国际大赛](#深圳医疗健康大数据创新应用国际大赛)
 - [华为大数据平台](#华为大数据平台)   |   [2018讯飞AI开发者大赛](#2018讯飞ai开发者大赛)
 - [ATEC人工智能大赛（蚂蚁金服）](#atec人工智能大赛---蚂蚁金服)
@@ -64,7 +67,7 @@
 
 ## Active Competitons to join
 
-> 2018-9-27 Update!
+> 2018-10-05 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
@@ -72,6 +75,9 @@
 
 | Active Competitons to join                                   | From..              | Entry deadline               | Prize Money |
 | ------------------------------------------------------------ | ------------------- | ---------------------------- | ----------- |
+| **[PLAsTiCC Astronomical Classification](https://www.kaggle.com/c/PLAsTiCC-2018)** | Kaggle | Dec. 10, 2018 | $25,000 |
+| **[Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)** | Kaggle | Jan. 3, 2019 | $37,000 |
+| **[PUBG Finish Placement Prediction (Kernels Only)](https://www.kaggle.com/c/pubg-finish-placement-prediction)** | Kaggle | 1/30/2019 | Swag |
 | **[Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news)** | Kaggle | 1/2/2019 | $100,000 |
 | **[Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)** | Kaggle | Nov. 27, 2018 | $25,000 |
 | **[Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/google-analytics-customer-revenue-prediction#Timeline)** | Kaggle | Nov. 8, 2018 | $45,000 |
@@ -90,15 +96,14 @@
 | **[Competition on Data Classification, UAB 2018](https://competitions.codalab.org/competitions/20130)** | CodaLab | Dec. 20 | |
 | **[Competition on Data Regression, UAB 2018](https://competitions.codalab.org/competitions/20122)** | CodaLab | Dec. 20 | |
 | **[League of Nations Archives Digitization Challenge](https://www.crowdai.org/challenges/league-of-nations-archives-digitization-challenge)** | crowdAI             | Oct 31th                     |             |
+| [The 4th Big Data Analysis Contest](https://signate.jp/competitions/136) | SIGNATE | Jan. 10, 2019 | ¥2,400,000+ |
 | **[【学生限定】マイナビ × SIGNATE Student Cup 2018: Jリーグの観客動員数予測](https://signate.jp/competitions/137)** | SIGNATE | 2018.11.23 | ~¥1500,000 |
 | **[海洋研究開発機構 熱帯低気圧（台風等）検出アルゴリズム作成](https://signate.jp/competitions/134#abstract)** | SIGNATE             | Oct 26th                     | ¥1,000,000  |
 | [Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge) | **NIPS**            | Oct. 10th                    |             |
-| [The Conversational Intelligence Challenge 2 (ConvAI2)](http://convai.io/ ) | **NIPS**            | Sep 30th                     | ~$20,000    |
 | [Tracking Machine Learning Challenge](https://sites.google.com/site/trackmlparticle/) | **NIPS**            | Oct. 20th                    | ~$15,000    |
 | [Pommerman](https://www.pommerman.com/)                      | **NIPS**            | Nov 26th                     | TBA         |
 | [InclusiveImages: A challenge of distributional skew, side information, and global inclusion](https://sites.google.com/view/inclusiveimages/) | **NIPS**            | Nov 9th                      |             |
 | The AI Driving Olympics                                      | **NIPS**            | Dec 7th                      |             |
-| [AI for prosthetics](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge) | **NIPS**            | Sep 30th                     |             |
 | [HC18](https://hc18.grand-challenge.org) | **Grand-challenge** | NaN | |
 | **[PROSTATEx](https://prostatex.grand-challenge.org/)**      | **Grand-challenge** | NaN                          |             |
 | **[GeekPwn2018国际安全极客大赛](http://2018.geekpwn.org/zh/index.html)** | GEEKPWN             | 10.10                        | ~￥500W     |
@@ -114,9 +119,7 @@
 | [农作物病害检测](https://challenger.ai/competition/pdr2018)  | 创新工场 | 11.4 | ¥50,000 |
 | [眼底水肿病变区域自动分割](https://challenger.ai/competition/fl2018) | 创新工场 | 10.7  | ¥50,000 |
 | [第二届易观算法大赛](http://ds.analysys.cn/ldjs.html)        | 易观                | 不详                         | ￥5W        |
-| **[京东金融对话语音识别大赛 （ 预热 ）](https://jdder.jd.com/index/jddDetail?matchId=2223f40dcfca4e7da8d4c018b0cd0858)** | JDD空间站           | 2018-09-25                   | ￥5W        |
 | [第二届易观算法大赛——性别年龄预测](https://www.tinymind.cn/competitions/43) | TinyMind | 2018.10.16 | ￥50000 |
-| [TinyMind 多标签图像分类竞赛（中级难度）](https://www.tinymind.cn/competitions/42) | TinyMind | 2018.09.29 |    -    |
 | [TinyMind 汉字书法识别自由练习赛（初级难度）](http://www.tinymind.cn/competitions/41) | TinyMind | 2018.12.31 |    -    |
 | **[MC挑战赛第五期 (无人驾驶的决策规划)](https://mp.weixin.qq.com/s/K32SJ6LadFm5AyH8oyTp3g)** | Momenta | 2018.10.19 | ￥~8W |
 | **[瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231687)** | 天池 | 11月12日 | ￥220000 |
@@ -148,16 +151,27 @@
 > 由墨尔本大学的Anthony Goldbloom创办，是最早的大数据竞赛平台，拥有庞大的技术分享社区和众多开元代码，面向全球用户；产品2010年上线，累计举办竞赛260+个（含练习赛和自办赛），注册用户数20W+。
 
 - 官方网址：https://www.kaggle.com/
+
 - 开放数据集：https://www.kaggle.com/datasets
+
 - 《[Kaggle Competition Past Solutions](http://www.chioka.in/kaggle-competition-solutions/)》by log0
+
 - 《[Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)》by SRK 
+
 - [Kaggle 项目实战（教程）](https://github.com/apachecn/kaggle) by [ApacheCN](http://www.apachecn.org)
+
+- **[Kaggle Past Solutions](http://ndres.me/kaggle-past-solutions/)**
+
+  > Sortable and searchable compilation of solutions to past Kaggle competitions.
 
 
 下表只列出过去半年内active的competitons，并且按照recently created排序。
 
 | Competiton                                                   |   Categories    | Submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------: | :---------: |
+| **[PLAsTiCC Astronomical Classification](https://www.kaggle.com/c/PLAsTiCC-2018)** |    Featured     |    Dec. 17, 2018    |   $25,000   |
+| **[Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)** |    Featured     |    Jan. 10, 2019    |   $37,000   |
+| **[PUBG Finish Placement Prediction (Kernels Only)](https://www.kaggle.com/c/pubg-finish-placement-prediction)** |   Playground    |      1/30/2019      |    Swag     |
 | **[Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news)** |    Featured     |      1/8/2019       |  $100,000   |
 | **[Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)** |    Featured     |  December 4, 2018   |   $25,000   |
 | [Costa Rican Household Poverty Level Prediction](https://www.kaggle.com/c/costa-rican-household-poverty-prediction) |   Playground    | September 19, 2018  |             |
@@ -371,18 +385,63 @@ Only **active** competitions are collected.
 
 - **Running Competitions：**
 
+  - [The 4th Big Data Analysis Contest](https://signate.jp/competitions/136)
+
   - [【学生限定】マイナビ × SIGNATE Student Cup 2018: Jリーグの観客動員数予測](https://signate.jp/competitions/137)
 
   - [海洋研究開発機構 熱帯低気圧（台風等）検出アルゴリズム作成](https://signate.jp/competitions/134)
 
-    ![](https://i.loli.net/2018/09/27/5bac61f6b15ce.png)
+    ![](https://i.loli.net/2018/10/05/5bb6e051a655f.png)
+
+<br>
+
+<br>
+
+
+
+## Analytics Vidhya
+
+> ![](https://i.loli.net/2018/10/05/5bb6eb4eb7785.png)
+>
+> Analytics Vidhya brings you the power of community that comprises of data practitioners, thought leaders and corporates leveraging data to generate value for their businesses. Learn from the resources developed by experts at AnalyticsVidhya, participate in **<u>hackathons</u>**, master your skills with latest **<u>data science problems</u>** and showcase your skills to the world.
+>
+> Website:https://datahack.analyticsvidhya.com/contest/all/
+
+<br>
+
+<br>
+
+## TechGig
+
+> ![](https://i.loli.net/2018/10/05/5bb6e9f06c7cf.png)
+>
+> TechGig.com是Times Internet旗下的竞争性编程和技术社区网站。
+>
+> At TechGig, we have always strived to give our community members an unmatched learning experience where they can take part in exciting <u>**challenges**</u> and <u>**hackathons**</u> and grow in the process. You can use this section to test your current skills, learn and improve in the process. These smart challenges have been designed by experts to test how familiar you are with various technologies and platforms.
+>
+> Website：https://www.techgig.com/challenge
+
 
 
 <br>
 
 <br>
 
+## HackerEarth
 
+> ![](https://i.loli.net/2018/10/05/5bb6e7d40b89d.png)
+>
+> HackerEarth提供企业软件解决方案，帮助组织实现创新管理和技术招聘需求。到目前为止，HackerEarth已经进行了1000多次黑客马拉松和10,000多次编程挑战。自成立以来，HackerEarth已经建立了超过200万+的开发人员基础。 HackerEarth已经在三轮融资中筹集了近500万美元的资金。
+>
+> Website：https://www.hackerearth.com/zh/challenges/
+>
+> （Hackathons, Programming Challenges & Coding Competitions）
+
+
+
+<br>
+
+<br>
 
 ## NIPS 2018 Competition Track
 
@@ -679,22 +738,6 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 > | [虚拟股票趋势预测](https://challenger.ai/competition/trendsense) (实验赛道) |  结束  | 2017/9/4 - 2017/10/31 - 2017/12/3 | ¥50,000  |
 >
 
-
-
-<br>
-
-<br>
-
-
-## 2018年国际大学生类脑计算创新应用大赛
-
-官方网址：https://contest.cbicr.org
-
-> 竞赛题目：本赛事采用开放式命题。作品需以类脑通用智能系统为主题，作品可以是面向市场的创新应用或者是具有先进性的科研突破，其表现形式包括但不限于：机器人、无人机、智能可穿戴设备、自然语言处理系统、人机交互系统、智能手机APP等理论、算法、软件、硬件或系统。特别鼓励新创意、新算法、新应用。作品要体现通用性、实用价值和应用前景。
->
-> ![](https://i.loli.net/2018/06/23/5b2dc894b995a.png)
->
-> 大赛**总奖金100万元**
 
 
 
@@ -1214,6 +1257,22 @@ Website：http://www.datafountain.cn/
 
 
 
+
+
+## 2018年国际大学生类脑计算创新应用大赛
+
+官方网址：https://contest.cbicr.org
+
+> 竞赛题目：本赛事采用开放式命题。作品需以类脑通用智能系统为主题，作品可以是面向市场的创新应用或者是具有先进性的科研突破，其表现形式包括但不限于：机器人、无人机、智能可穿戴设备、自然语言处理系统、人机交互系统、智能手机APP等理论、算法、软件、硬件或系统。特别鼓励新创意、新算法、新应用。作品要体现通用性、实用价值和应用前景。
+>
+> ![](https://i.loli.net/2018/06/23/5b2dc894b995a.png)
+>
+> 大赛**总奖金100万元**
+
+
+<br>
+
+<br>
 
 
 ## 深圳医疗健康大数据创新应用国际大赛
