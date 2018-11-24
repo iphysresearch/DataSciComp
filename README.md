@@ -1,4 +1,4 @@
-## 2018-11-18 Update!
+## 2018-11-24 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -12,14 +12,14 @@
 
 ---
 
-- **[Kaggle](#kaggle)（新）**
+- [Kaggle](#kaggle)（新）
 - [DrivenData](#drivendata)
-- **[CodaLab](#codalab)（新）**
+- [CodaLab](#codalab)（新）
 - [Challenge Data](#challenge-data)
-- **[crowdAI](#crowdai)（新）**
+- [crowdAI](#crowdai)（新）
 - [Numer.ai](#numer_ai)
-- [SIGNATE](#signate)（新）
-- **[Unearthed](#unearthed)（新）**
+- **[SIGNATE](#signate)（新）**
+- [Unearthed](#unearthed)（新）
 - [Analytics Vidhya](#analytics-vidhya)
 - [TechGig](#techgig)
 - [HackerEarth](#hackerearth)
@@ -35,25 +35,25 @@
 - [The SpaceNet Challenge Round 4](#the-spacenet-challenge-round-4)
 - [Online Data-Driven Multi-Objective Optimization](#online-data-driven-multi-objective-optimization)
 - [AI Challenger 全球AI挑战赛2018](#ai-challenger-全球ai挑战赛2018)
+- **[IDAO.world – International Data Analysis Olympiad 全球数据分析大赛](#idao)（新）**
 - [MC挑战赛](#mc挑战赛)
-- [NIST: Differential Privacy Synthetic Data Challenge (NIST: 综合数据差分隐私挑战)](#differential-privacy-synthetic-data-challenge)（新）
-- [Yaw Alignment Marathon Challenge (风力涡轮机偏航失准角挑战)](#yaw-alignment-marathon-challenge)（新）
-- **[天池](#天池)（新）**
+- [NIST: Differential Privacy Synthetic Data Challenge (NIST: 综合数据差分隐私挑战)](#differential-privacy-synthetic-data-challenge)
+- [Yaw Alignment Marathon Challenge (风力涡轮机偏航失准角挑战)](#yaw-alignment-marathon-challenge)
+- [天池](#天池)（新）
 - [JData](#jdata)
-- [JDD空间站](#jdd空间站)
-- [第3届 融360金融算法挑战赛](#第3届-融360金融算法挑战赛)
-- **[点石](#点石)（新）**
+- **[JDDiscovery](#jddiscovery)（新）**
+- [点石](#点石)（新）
 - [TinyMind](#tinymind)
 - [Kesci](#kesci)
-- [DataCastle](#datacastle)（新）
-- [Biendata](#biendata)（新）
+- **[DataCastle](#datacastle)（新）**
+- [Biendata](#biendata)
 - [DataFountain](#datafountain)
 
 ---
 
 **Overdued:**
 
-- [第二届易观算法大赛](#第二届易观算法大赛)  |  [数愿](#数愿)
+- [第二届易观算法大赛](#第二届易观算法大赛)  |  [数愿](#数愿) | [第3届 融360金融算法挑战赛](#第3届-融360金融算法挑战赛)
 - [GeekPwn 2018 国际安全极客大赛](#geekpwn2018国际安全极客大赛)  |  [对抗样本攻防赛CAAD](#对抗样本攻防赛caad)
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)  |  [深圳医疗健康大数据创新应用国际大赛](#深圳医疗健康大数据创新应用国际大赛)
 - [华为大数据平台](#华为大数据平台)   |   [2018讯飞AI开发者大赛](#2018讯飞ai开发者大赛)
@@ -73,7 +73,7 @@
 
 ## Active Competitons to join
 
-> 2018-11-18 Update!
+> 2018-11-24 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
@@ -81,13 +81,15 @@
 
 | Active Competitons to join                                   | From..              | Entry deadline               | Prize Money |
 | ------------------------------------------------------------ | ------------------- | ---------------------------- | ----------- |
+| **[Traveling Santa 2018 - Prime Paths](https://www.kaggle.com/c/traveling-santa-2018-prime-paths)** | Kaggle | Jan. 10, 2019 | $25,000 |
+| [Don't call me turkey!](https://www.kaggle.com/c/dont-call-me-turkey) | Kaggle | 11/26/2018 | Swag |
 | [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection) | Kaggle | March 30, 2019 | Swag |
 | [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification) | Kaggle | Jan. 29, 2019 | $25,000 |
 | [PLAsTiCC Astronomical Classification](https://www.kaggle.com/c/PLAsTiCC-2018) | Kaggle | Dec. 10, 2018 | $25,000 |
-| **[Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)** | Kaggle | Jan. 3, 2019 | $37,000 |
-| **[PUBG Finish Placement Prediction (Kernels Only)](https://www.kaggle.com/c/pubg-finish-placement-prediction)** | Kaggle | 1/30/2019 | Swag |
-| **[Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news)** | Kaggle | 1/2/2019 | $100,000 |
-| **[Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)** | Kaggle | Nov. 27, 2018 | $25,000 |
+| [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification) | Kaggle | Jan. 3, 2019 | $37,000 |
+| [PUBG Finish Placement Prediction (Kernels Only)](https://www.kaggle.com/c/pubg-finish-placement-prediction) | Kaggle | 1/30/2019 | Swag |
+| [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news) | Kaggle | 1/2/2019 | $100,000 |
+| [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition) | Kaggle | Nov. 27, 2018 | $25,000 |
 | [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) | DrivenData | Dec. 22, 2018  |         |
 | [Reboot: Box-Plots for Education](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/) | DrivenData | -              |         |
 | [United Nations Millennium Development Goals](https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/) | DrivenData | March 21, 2019 |         |
@@ -100,9 +102,11 @@
 | **[Contest SERFA 2018](https://competitions.codalab.org/competitions/20148)** | CodaLab | Dec. 9 | |
 | **[IWCS-2019 shared task: DRS Parsing](https://competitions.codalab.org/competitions/20220)** | CodaLab | 2019.02.25 | |
 | [Spotify Sequential Skip Prediction Challenge](https://www.crowdai.org/challenges/spotify-sequential-skip-prediction-challenge) | CrowdAI | Jan. 11, 2019 | AUD2000 |
-| [**Tourism Demand Modeling Challenge: The Case of National Parks in Japan**](https://signate.jp/competitions/141) | SIGNATE | Dec 17, 2018 | a free trip |
-| **[The 1st Tellus Satellite Challenge](https://signate.jp/competitions/110)** | SIGNATE | Dec 7, 2018 | ¥2,000,000 |
-| **[Identify depth measurements in core images](https://unearthed.solutions/u/challenge/identify-depth-measurements-core-images)** | Unearthed | Dec 4. 2018 | $20,000 |
+| **[Algorithmic Trading Challenge (1st stage)](https://signate.jp/competitions/146)** | SIGNATE | Feb. 20, 2019 | ¥ 2,000,000 |
+| **[AI Edge Contest](https://signate.jp/competitions/138#schedule)** | SIGNATE | Jan. 27, 2019 | 2,000,000 yen |
+| [Tourism Demand Modeling Challenge: The Case of National Parks in Japan](https://signate.jp/competitions/141) | SIGNATE | Dec 17, 2018 | a free trip |
+| [The 1st Tellus Satellite Challenge](https://signate.jp/competitions/110) | SIGNATE | Dec 7, 2018 | ¥2,000,000 |
+| [Identify depth measurements in core images](https://unearthed.solutions/u/challenge/identify-depth-measurements-core-images) | Unearthed | Dec 4. 2018 | $20,000 |
 | [Pommerman](https://www.pommerman.com/)                      | **NIPS**            | Nov 26th                     | TBA         |
 | The AI Driving Olympics                                      | **NIPS**            | Dec 7th                      |             |
 | [C-NMC 2019](https://all-challange.grand-challenge.org/) | **Grand-challenge** | April 8, 2019 |  |
@@ -117,17 +121,20 @@
 | [TinyMind 汉字书法识别自由练习赛（初级难度）](http://www.tinymind.cn/competitions/41) | TinyMind | 2018.12.31 |    -    |
 | [NIST: Differential Privacy Synthetic Data Challenge](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&compid=71282&rd=17319) | topcoder | 2018.11.30 | $25,000 |
 | [Yaw Alignment Marathon Challenge](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17323&pm=15155) | topcoder | 12.03.2018 | $31,000 |
-| **[Alibaba Cloud German AI Challenge 2018](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231683)** | 天池 | 2018-1-8 | $31000 |
+| **[【全球数据分析大赛】“IDAO.world – International Data Analysis Olympiad”](https://idao.world)** | IDAO | Jan. 28, 2019 | Valuable prizes |
+| **[Alibaba Cloud German AI Challenge 2018](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231683)** | 天池 | 2019-1-8 | $31000 |
+| [人口动态普查与预测](https://jdder.jd.com/index/jddDetail?matchId=3dca1a91ad2a4a6da201f125ede9601a) | JDD | 2018-12-13 | ￥1100000 |
+| [自动驾驶地图优化与传感器融合赛题](https://jdder.jd.com/index/jddDetail?matchId=dfd52315a801423590efbfb47b962ad3) | JDD | 2018-12-13 | ￥1100000 |
 | [Retention Rate of Baidu Hao Kan APP Users](http://dianshi.baidu.com/dianshi/pc/competition/24/rule) | 点石 | 2018-12-13 | $AUD3000 |
 | [The Intelligent Decision of Flights Adjusting](http://dianshi.baidu.com/dianshi/pc/competition/25/rule) | 点石 | 2018/12/18 | $AUD3000 |
+| **[TOP高校创新科技大赛](http://www.dcjingsai.com/common/cmpt/TOP高校创新科技大赛_竞赛信息.html)** | DataCastle | 2019.1.5 | 1,000,000 |
 | [2018年甜橙金融杯大数据建模大赛](http://www.dcjingsai.com/common/cmpt/2018年甜橙金融杯大数据建模大赛_竞赛信息.html) | DataCastle | 2018.12.10 | ￥80000 |
 | [汽车目的地智能预测大赛](http://www.dcjingsai.com/common/cmpt/汽车目的地智能预测大赛_竞赛信息.html) | DataCastle | 2018.12.07 | ￥20000 |
 | [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000 |
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
-| **[2018开放学术数据挖掘大赛](https://biendata.com/competition/scholar2018/)** | Biendata | 2018.12.01 | ￥160,000 |
-| **[2018云从人头计数](https://biendata.com/competition/cloudcup2018/prize/)** | Biendata | 2018.12.15 | ~10W |
-| [Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/) | Biendata            | 11月23日                     | $ 20,000    |
+| [2018开放学术数据挖掘大赛](https://biendata.com/competition/scholar2018/) | Biendata | 2018.12.01 | ￥160,000 |
+| [2018云从人头计数](https://biendata.com/competition/cloudcup2018/prize/) | Biendata | 2018.12.15 | ~10W |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN         |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN         |
 
@@ -160,6 +167,8 @@
 
 | Competiton                                                   |   Categories    | Submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------: | :---------: |
+| [Traveling Santa 2018 - Prime Paths](https://www.kaggle.com/c/traveling-santa-2018-prime-paths) |    Featured     |  January 10, 2019   |   $25,000   |
+| [Don't call me turkey!](https://www.kaggle.com/c/dont-call-me-turkey) |   Playground    |     11/26/2018      |    Swag     |
 | [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection) |   Playground    |   March 30, 2019    |    Swag     |
 | [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification) |    Featured     |    Feb. 5, 2019     |   $25,000   |
 | **[PLAsTiCC Astronomical Classification](https://www.kaggle.com/c/PLAsTiCC-2018)** |    Featured     |    Dec. 17, 2018    |   $25,000   |
@@ -364,15 +373,17 @@ Only **active** competitions are collected.
 
 - **Running Competitions：**
 
+  - [Algorithmic Trading Challenge (1st stage)](https://signate.jp/competitions/146)
+
+  - [AI Edge Contest](https://signate.jp/competitions/138)
+
   - [Tourism Demand Modeling Challenge: The Case of National Parks in Japan](https://signate.jp/competitions/141)
 
   - [The 1st Tellus Satellite Challenge](https://signate.jp/competitions/110)
 
   - [The 4th Big Data Analysis Contest](https://signate.jp/competitions/136)
 
-  - [【学生限定】マイナビ × SIGNATE Student Cup 2018: Jリーグの観客動員数予測](https://signate.jp/competitions/137)
-
-    ![](https://i.loli.net/2018/10/29/5bd67216f0d68.png)
+    ![](https://i.loli.net/2018/11/24/5bf926cd8b11f.png)
 
 <br>
 
@@ -703,6 +714,31 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 
 
+
+<br>
+
+<br>
+
+## IDAO
+
+> ![](https://i.loli.net/2018/11/24/5bf92ad40ab76.png)
+>
+> **【全球数据分析大赛】“IDAO.world – International Data Analysis Olympiad”**
+>
+> The event aims to bridge the gap between the all-increasing complexity of Machine Learning models and performance bottlenecks of the industry. The participants will strive not only to maximize the quality of their predictions, but also to devise resource-efficient algorithms.
+>
+> - Official Website: https://idao.world
+>
+> - [Register ](http://www.cs.hse.ru/en/expresspolls/poll/225123174.html)your team for IDAO 2019. Registration is open until **January 28, 2019**
+> - For winners, **valuable prizes** will be awarded. All members of the winning team will receive **laptops** as prizes.
+
+
+
+
+
+
+
+
 <br>
 
 <br>
@@ -884,7 +920,7 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 Website: https://tianchi.aliyun.com/
 
-开放数据集：[XX](https://tianchi.aliyun.com/datalab/index.htm?spm=5176.100066.0.0.5908a1093yCaP2)
+[【天池大赛】历届比赛资料](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.100066.5610000.1.341933afnwmqil&raceId=&postsId=3192) | 开放数据集：[XX](https://tianchi.aliyun.com/datalab/index.htm?spm=5176.100066.0.0.5908a1093yCaP2)
 
 以下仅收集“算法大赛”类别。
 
@@ -991,42 +1027,19 @@ Website: https://tianchi.aliyun.com/
 
 
 
-##  JDD空间站
+##  JDDiscovery
 
 > ![](https://i.loli.net/2018/09/15/5b9d0fb9316b9.png)
 >
 > Official website: https://jdder.jd.com
 
-| 赛题名称                                                     | 状态   | 截止日期   | 总奖池 |
-| ------------------------------------------------------------ | ------ | ---------- | ------ |
-| [京东金融对话语音识别大赛 （ 预热 ）](https://jdder.jd.com/index/jddDetail?matchId=2223f40dcfca4e7da8d4c018b0cd0858) | 已结束 | 2018-09-25 | ￥5W   |
-|                                                              |        |            |        |
+| 赛题名称                                                     | 状态   | 截止日期   | 总奖池    |
+| ------------------------------------------------------------ | ------ | ---------- | --------- |
+| [人口动态普查与预测](https://jdder.jd.com/index/jddDetail?matchId=3dca1a91ad2a4a6da201f125ede9601a) | 进行中 | 2018-12-21 | ￥1100000 |
+| [自动驾驶地图优化与传感器融合赛题](https://jdder.jd.com/index/jddDetail?matchId=dfd52315a801423590efbfb47b962ad3) | 进行中 | 2018-12-21 | ￥1100000 |
+| [京东金融对话语音识别大赛 （ 预热 ）](https://jdder.jd.com/index/jddDetail?matchId=2223f40dcfca4e7da8d4c018b0cd0858) | 已结束 | 2018-09-25 | ￥5W      |
+|                                                              |        |            |           |
 
-
-
-
-
-<br>
-
-<br>
-
-## 第3届 融360金融算法挑战赛
-
-> ![](https://i.loli.net/2018/09/15/5b9d13e7b3931.png)
->
-> 第三届融360天机智能金融算法挑战赛于 2018年8月25日正式启动报名，（选手也可在第二届智慧中国杯竞赛单元中报名），邀您一同解决价值百亿的经典风控问题，共同探索人工智能领域知识图谱，文本挖掘等热门技术。本届赛题共有三道，分别是“**拒绝推断**”、“**特征挖掘**”、“**多金融场景下的模型训练**”，总奖金池高达30万。
->
-> ![](https://i.loli.net/2018/09/15/5b9d1450da166.png)
->
-> ![](https://i.loli.net/2018/09/15/5b9d14685d1ab.png)
->
-> - Website: http://openresearch.rong360.com/#/home
->
-> - 共三个题目：
->   - 拒绝推断
->   - 特征挖掘
->   - 多金融场景下的模型训练
-> - 注：测试集预测结果截止提交时间为11月10日23:00
 
 
 
@@ -1147,6 +1160,7 @@ http://www.pkbigdata.com
 
 | 比赛项目                                                     |  状态  |         时间轴          |    备注     |
 | ------------------------------------------------------------ | :----: | :---------------------: | :---------: |
+| [TOP高校创新科技大赛](http://www.dcjingsai.com/common/cmpt/TOP高校创新科技大赛_竞赛信息.html) | 可参加 | 2018.11.21 - 2019.3.15  |  1,000,000  |
 | [ANZ Chengdu Data Science Competition](http://www.dcjingsai.com/common/cmpt/ANZ%20Chengdu%20Data%20Science%20Competition_竞赛信息.html?lang=en_US) | 可参加 | 2018.11.07 - 2018.11.18 |    20000    |
 | [2018年甜橙金融杯大数据建模大赛](http://www.dcjingsai.com/common/cmpt/2018年甜橙金融杯大数据建模大赛_竞赛信息.html) | 进行中 | 2018.10.20 - 2018.12.10 |    80000    |
 | [汽车目的地智能预测大赛](http://www.dcjingsai.com/common/cmpt/汽车目的地智能预测大赛_竞赛信息.html) | 进行中 | 2018.10.12 - 2018.12.07 |    20000    |
@@ -1164,8 +1178,8 @@ http://www.pkbigdata.com
 | [游戏玩家付费金额预测大赛](http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html) | 可参加 | 2018.6.19 - 2018.08.31  |   100000    |
 | [政府治理大数据应用算法大赛](http://www.dcjingsai.com/common/cmpt/政府治理大数据应用算法大赛_竞赛信息.html) | 可参加 |   2018.5.22 - 2018.08   |   140000    |
 | [物联网黑客马拉松-互联交通](http://www.dcjingsai.com/common/cmpt/物联网黑客马拉松-互联交通_竞赛信息.html) | 可参加 | 2018.5.17 - 2018.07.20  |             |
-| [交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html) | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W    |
-| [公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html) | 进行中 | 2018.5.15 - 2018.11.20  |   ~￥60W    |
+| [交通卡口车辆信息精准识别](http://www.dcjingsai.com/common/cmpt/交通卡口车辆信息精准识别_竞赛信息.html) | 可参加 | 2018.5.15 - 2018.11.20  |   ~￥60W    |
+| [公交线路准点预测](http://www.dcjingsai.com/common/cmpt/公交线路准点预测_竞赛信息.html) | 可参加 | 2018.5.15 - 2018.11.20  |   ~￥60W    |
 | [2018腾讯广告算法大赛](http://www.dcjingsai.com/common/cmpt/2018腾讯广告算法大赛_竞赛信息.html) | 可参加 |  2018.3.15 - 2018.6.13  | ~￥450,000  |
 | [基于人工智能的药物分子筛选](http://www.dcjingsai.com/common/cmpt/基于人工智能的药物分子筛选_竞赛信息.html) | 可参加 |  2018.4.9 - 2018.5.21   |  ￥ 50000   |
 | [“量子杯”全国高校量化大赛](http://www.dcjingsai.com/common/cmpt/“量子杯”全国高校量化大赛_竞赛信息.html) | 可参加 |  2018.4.16 - 2018.9.21  |             |
@@ -1212,10 +1226,10 @@ https://biendata.com/competition/
 | 比赛项目                                                     |  状态  |         时间轴          |   备注    |
 | ------------------------------------------------------------ | :----: | :---------------------: | :-------: |
 | [CHIP 2018](https://biendata.com/competition/chip2018/)      | 进行中 | 2018-11-02 - 2018-11-30 |     -     |
-| **[2018开放学术数据挖掘大赛](https://biendata.com/competition/scholar2018/)** | 进行中 | 2018.10.29 - 2018.12.01 | ￥160,000 |
-| **[2018云从人头计数](https://biendata.com/competition/cloudcup2018/prize/)** | 进行中 | 2018.09.15 - 2018.12.15 | ¥100,000  |
+| [2018开放学术数据挖掘大赛](https://biendata.com/competition/scholar2018/) | 进行中 | 2018.10.29 - 2018.12.01 | ￥160,000 |
+| [2018云从人头计数](https://biendata.com/competition/cloudcup2018/prize/) | 进行中 | 2018.09.15 - 2018.12.15 | ¥100,000  |
 | [2018自动驾驶模拟大赛](https://biendata.com/competition/autocar2018/) | 已结束 | 2018.08.22 - 2018.10.10 |  ¥12,500  |
-| [Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/) | 进行中 | 2018.08.17 - 2018.11.22 |  $20,000  |
+| [Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/) | 已结束 | 2018.08.17 - 2018.11.22 |  $20,000  |
 | [SMP ETST 2018](https://biendata.com/competition/smpetst2018/)（文本溯源竞赛） | 已结束 | 2018.06.01 - 2018.07.02 |           |
 | [SMP EUPT 2018](https://biendata.com/competition/smpeupt2018/)（今日头条作者画像） | 已结束 | 2018.06.01- 2018.07.10  |           |
 | [CCIR 2018](https://biendata.com/competition/CCIR2018/) ( 移动环境下知识分享平台上的内容推荐) | 已结束 |  2018.5.21 - 2018.7.24  |           |
@@ -1308,6 +1322,34 @@ Website：http://www.datafountain.cn/
 
 ---
 **Overdued:**
+
+
+
+
+<br>
+
+<br>
+
+## 第3届 融360金融算法挑战赛
+
+> ![](https://i.loli.net/2018/09/15/5b9d13e7b3931.png)
+>
+> 第三届融360天机智能金融算法挑战赛于 2018年8月25日正式启动报名，（选手也可在第二届智慧中国杯竞赛单元中报名），邀您一同解决价值百亿的经典风控问题，共同探索人工智能领域知识图谱，文本挖掘等热门技术。本届赛题共有三道，分别是“**拒绝推断**”、“**特征挖掘**”、“**多金融场景下的模型训练**”，总奖金池高达30万。
+>
+> ![](https://i.loli.net/2018/09/15/5b9d1450da166.png)
+>
+> ![](https://i.loli.net/2018/09/15/5b9d14685d1ab.png)
+>
+> - Website: http://openresearch.rong360.com/#/home
+>
+> - 共三个题目：
+>   - 拒绝推断
+>   - 特征挖掘
+>   - 多金融场景下的模型训练
+> - 注：测试集预测结果截止提交时间为11月10日23:00
+
+
+
 
 
 ## 数愿
