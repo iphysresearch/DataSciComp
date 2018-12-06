@@ -5,6 +5,7 @@
 > 欢迎关注微博更新：[IPhysResearch](http://weibo.com/IPhysresearch) . Collected by 土豆 in spare time.
 >
 > - [Data competition Top Solution 数据竞赛top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+> - Issues【help wanted】: <http://t.cn/E2Z6N5U>
 
 #### Table of contents
 
