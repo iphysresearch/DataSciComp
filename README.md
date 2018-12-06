@@ -1,4 +1,4 @@
-## 2018-11-24 Update!
+## 2018-12-6 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -12,11 +12,11 @@
 
 ---
 
-- [Kaggle](#kaggle)（新）
+- **[Kaggle](#kaggle)（新）**
 - [DrivenData](#drivendata)
-- [CodaLab](#codalab)（新）
+- **[CodaLab](#codalab)（新）**
 - [Challenge Data](#challenge-data)
-- [crowdAI](#crowdai)（新）
+- **[crowdAI](#crowdai)（新）**
 - [Numer.ai](#numer_ai)
 - **[SIGNATE](#signate)（新）**
 - [Unearthed](#unearthed)（新）
@@ -25,24 +25,22 @@
 - [HackerEarth](#hackerearth)
 - [NIPS 2018 Competition Track](#nips-2018-competition-track)
 - [GECCO 2018 Competition](#gecco-2018-competition)
-- **[Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)**
+- **[Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)（新）**
 - [Kelvins](#kelvins)
 - [Unrestricted Adversarial Examples Challenge (不受限对抗样本挑战)](#unrestricted-adversarial-examples-challenge)
 - [A Conversational Question Answering Challenge (CoQA)](#a-conversational-question-answering-challenge)
 - [The Stanford Question Answering Dataset (SQuAD2.0)](#the-stanford-question-answering-dataset)
 - [The Scene Understanding and Modeling Challenge (SUMO)](#the-scene-understanding-and-modeling-challenge)
-- [Open MIC](#open-mic)
 - [The SpaceNet Challenge Round 4](#the-spacenet-challenge-round-4)
 - [Online Data-Driven Multi-Objective Optimization](#online-data-driven-multi-objective-optimization)
+- **[Fashion-Gen: The Generative Fashion Dataset and Challenge](#fashion-gen)（新）**
 - [AI Challenger 全球AI挑战赛2018](#ai-challenger-全球ai挑战赛2018)
-- **[IDAO.world – International Data Analysis Olympiad 全球数据分析大赛](#idao)（新）**
+- [IDAO.world – International Data Analysis Olympiad 全球数据分析大赛](#idao)（新）
 - [MC挑战赛](#mc挑战赛)
-- [NIST: Differential Privacy Synthetic Data Challenge (NIST: 综合数据差分隐私挑战)](#differential-privacy-synthetic-data-challenge)
-- [Yaw Alignment Marathon Challenge (风力涡轮机偏航失准角挑战)](#yaw-alignment-marathon-challenge)
-- [天池](#天池)（新）
+- [天池](#天池)
 - [JData](#jdata)
-- **[JDDiscovery](#jddiscovery)（新）**
-- [点石](#点石)（新）
+- [JDDiscovery](#jddiscovery)（新）
+- **[点石](#点石)（新）**
 - [TinyMind](#tinymind)
 - [Kesci](#kesci)
 - **[DataCastle](#datacastle)（新）**
@@ -53,6 +51,8 @@
 
 **Overdued:**
 
+- [Yaw Alignment Marathon Challenge (风力涡轮机偏航失准角挑战)](#yaw-alignment-marathon-challenge)
+- [Open MIC](#open-mic)  |  [NIST: Differential Privacy Synthetic Data Challenge (NIST: 综合数据差分隐私挑战)](#differential-privacy-synthetic-data-challenge)
 - [第二届易观算法大赛](#第二届易观算法大赛)  |  [数愿](#数愿) | [第3届 融360金融算法挑战赛](#第3届-融360金融算法挑战赛)
 - [GeekPwn 2018 国际安全极客大赛](#geekpwn2018国际安全极客大赛)  |  [对抗样本攻防赛CAAD](#对抗样本攻防赛caad)
 - [2018年国际大学生类脑计算创新应用大赛](#2018年国际大学生类脑计算创新应用大赛)  |  [深圳医疗健康大数据创新应用国际大赛](#深圳医疗健康大数据创新应用国际大赛)
@@ -73,7 +73,7 @@
 
 ## Active Competitons to join
 
-> 2018-11-24 Update!
+> 2018-12-6 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
@@ -81,6 +81,9 @@
 
 | Active Competitons to join                                   | From..              | Entry deadline               | Prize Money |
 | ------------------------------------------------------------ | ------------------- | ---------------------------- | ----------- |
+| [NFL Punt Analytics Competition](https://www.kaggle.com/c/NFL-Punt-Analytics-Competition) | Kaggle | Jan. 9, 2019 | $80,000 |
+| [Humpback Whale Identification](https://www.kaggle.com/c/humpback-whale-identification) | Kaggle | Feb. 21, 2019 | $25,000 |
+| [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation) | Kaggle | Feb. 19, 2019 | $50,000 |
 | **[Traveling Santa 2018 - Prime Paths](https://www.kaggle.com/c/traveling-santa-2018-prime-paths)** | Kaggle | Jan. 10, 2019 | $25,000 |
 | [Don't call me turkey!](https://www.kaggle.com/c/dont-call-me-turkey) | Kaggle | 11/26/2018 | Swag |
 | [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection) | Kaggle | March 30, 2019 | Swag |
@@ -89,26 +92,22 @@
 | [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification) | Kaggle | Jan. 3, 2019 | $37,000 |
 | [PUBG Finish Placement Prediction (Kernels Only)](https://www.kaggle.com/c/pubg-finish-placement-prediction) | Kaggle | 1/30/2019 | Swag |
 | [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news) | Kaggle | 1/2/2019 | $100,000 |
-| [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition) | Kaggle | Nov. 27, 2018 | $25,000 |
 | [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) | DrivenData | Dec. 22, 2018  |         |
 | [Reboot: Box-Plots for Education](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/) | DrivenData | -              |         |
 | [United Nations Millennium Development Goals](https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/) | DrivenData | March 21, 2019 |         |
 | [Warm Up: Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/) | DrivenData | March 21, 2019 |         |
 | [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) | DrivenData | May 28, 2019   |         |
 | [Weeds Detection in Dense Cultures](https://competitions.codalab.org/competitions/20075) | CodaLab | Jan. 7, 2019 | |
-| [Huawei Image Denoising](https://competitions.codalab.org/competitions/20179) | CodaLab | Nov. 30, 2018 | GBP 15,000 |
 | **[Weeds Detection in Dense Cultures](https://competitions.codalab.org/competitions/20075)** | CodaLab             | 2019.01.07 |             |
 | **[Classification of Normal vs Malignant Cells in B-ALL White Blood Cancer Microscopic Images:ISBI 2019](https://competitions.codalab.org/competitions/20429)** | CodaLab | 2019.03.18 | |
 | **[Contest SERFA 2018](https://competitions.codalab.org/competitions/20148)** | CodaLab | Dec. 9 | |
 | **[IWCS-2019 shared task: DRS Parsing](https://competitions.codalab.org/competitions/20220)** | CodaLab | 2019.02.25 | |
-| [Spotify Sequential Skip Prediction Challenge](https://www.crowdai.org/challenges/spotify-sequential-skip-prediction-challenge) | CrowdAI | Jan. 11, 2019 | AUD2000 |
+| [ImageCLEF 2019](https://www.crowdai.org/organizers/imageclef) | CrowdAI | May. 1, 2019 |  |
 | **[Algorithmic Trading Challenge (1st stage)](https://signate.jp/competitions/146)** | SIGNATE | Feb. 20, 2019 | ¥ 2,000,000 |
 | **[AI Edge Contest](https://signate.jp/competitions/138#schedule)** | SIGNATE | Jan. 27, 2019 | 2,000,000 yen |
 | [Tourism Demand Modeling Challenge: The Case of National Parks in Japan](https://signate.jp/competitions/141) | SIGNATE | Dec 17, 2018 | a free trip |
 | [The 1st Tellus Satellite Challenge](https://signate.jp/competitions/110) | SIGNATE | Dec 7, 2018 | ¥2,000,000 |
-| [Identify depth measurements in core images](https://unearthed.solutions/u/challenge/identify-depth-measurements-core-images) | Unearthed | Dec 4. 2018 | $20,000 |
-| [Pommerman](https://www.pommerman.com/)                      | **NIPS**            | Nov 26th                     | TBA         |
-| The AI Driving Olympics                                      | **NIPS**            | Dec 7th                      |             |
+| [ABCD](https://sibis.sri.com/abcd-np-challenge/) | **Grand-challenge** | January 15, 2019 | - |
 | [C-NMC 2019](https://all-challange.grand-challenge.org/) | **Grand-challenge** | April 8, 2019 |  |
 | [EAD2019](https://ead2019.grand-challenge.org) | **Grand-challenge** | April 8, 2019 |  |
 | [SegTHOR](https://segthor.grand-challenge.org) | **Grand-challenge** | April 8, 2019 |  |
@@ -118,18 +117,17 @@
 | **[The Stanford Question Answering Dataset (SQuAD2.0)](https://rajpurkar.github.io/SQuAD-explorer/)** | Stanford U. | NaN | NaN |
 | **[The SpaceNet Challenge Round 4](https://www.topcoder.com/spacenet)** | SpaceNet | 12/21/18 | $50,000 |
 | **[Online Data-Driven Multi-Objective Optimization](https://handingwang.github.io/DDMOP/)** | CEC2019 | 2019.4.30 | - |
+| [Fashion-Gen: The Generative Fashion Dataset and Challenge](https://www.fashion-gen.com) | Fashion-Gen | - | - |
 | [TinyMind 汉字书法识别自由练习赛（初级难度）](http://www.tinymind.cn/competitions/41) | TinyMind | 2018.12.31 |    -    |
-| [NIST: Differential Privacy Synthetic Data Challenge](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&compid=71282&rd=17319) | topcoder | 2018.11.30 | $25,000 |
-| [Yaw Alignment Marathon Challenge](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17323&pm=15155) | topcoder | 12.03.2018 | $31,000 |
 | **[【全球数据分析大赛】“IDAO.world – International Data Analysis Olympiad”](https://idao.world)** | IDAO | Jan. 28, 2019 | Valuable prizes |
 | **[Alibaba Cloud German AI Challenge 2018](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231683)** | 天池 | 2019-1-8 | $31000 |
 | [人口动态普查与预测](https://jdder.jd.com/index/jddDetail?matchId=3dca1a91ad2a4a6da201f125ede9601a) | JDD | 2018-12-13 | ￥1100000 |
 | [自动驾驶地图优化与传感器融合赛题](https://jdder.jd.com/index/jddDetail?matchId=dfd52315a801423590efbfb47b962ad3) | JDD | 2018-12-13 | ￥1100000 |
+| [第二场-用户评论情感极性判别](https://dianshi.baidu.com/competition/26/rule) | 点石 | 2019/2/28 | 百度周边礼品一份 |
 | [Retention Rate of Baidu Hao Kan APP Users](http://dianshi.baidu.com/dianshi/pc/competition/24/rule) | 点石 | 2018-12-13 | $AUD3000 |
 | [The Intelligent Decision of Flights Adjusting](http://dianshi.baidu.com/dianshi/pc/competition/25/rule) | 点石 | 2018/12/18 | $AUD3000 |
 | **[TOP高校创新科技大赛](http://www.dcjingsai.com/common/cmpt/TOP高校创新科技大赛_竞赛信息.html)** | DataCastle | 2019.1.5 | 1,000,000 |
 | [2018年甜橙金融杯大数据建模大赛](http://www.dcjingsai.com/common/cmpt/2018年甜橙金融杯大数据建模大赛_竞赛信息.html) | DataCastle | 2018.12.10 | ￥80000 |
-| [汽车目的地智能预测大赛](http://www.dcjingsai.com/common/cmpt/汽车目的地智能预测大赛_竞赛信息.html) | DataCastle | 2018.12.07 | ￥20000 |
 | [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000 |
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
@@ -167,6 +165,9 @@
 
 | Competiton                                                   |   Categories    | Submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------: | :---------: |
+| [NFL Punt Analytics Competition](https://www.kaggle.com/c/NFL-Punt-Analytics-Competition) |    Analytics    |    Jan. 9, 2019     |   $80,000   |
+| [Humpback Whale Identification](https://www.kaggle.com/c/humpback-whale-identification) |    Featured     |    Feb. 28, 2019    |   $25,000   |
+| [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation) |    Featured     |    Feb. 26, 2019    |   $50,000   |
 | [Traveling Santa 2018 - Prime Paths](https://www.kaggle.com/c/traveling-santa-2018-prime-paths) |    Featured     |  January 10, 2019   |   $25,000   |
 | [Don't call me turkey!](https://www.kaggle.com/c/dont-call-me-turkey) |   Playground    |     11/26/2018      |    Swag     |
 | [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection) |   Playground    |   March 30, 2019    |    Swag     |
@@ -195,11 +196,8 @@
 | [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging) |    Research     |      2018.7.24      |      -      |
 | [CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving) |    Research     |                     |   $2,500    |
 | [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) |   Playground    |          -          |      -      |
-| [Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction) |    Featured     |      2018.6.27      |   $25,000   |
-| [iNaturalist Challenge at FGVC5](https://www.kaggle.com/c/inaturalist-2018) |    Research     |      2018.6.4       |      -      |
 | [**TrackML Particle Tracking Challenge**](https://www.kaggle.com/c/trackml-particle-identification#Prizes) |    Featured     |      2018.8.13      |   $25,000   |
 | [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification) |   Playground    |          -          |      -      |
-| [Google Landmark Recognition Challenge](https://www.kaggle.com/c/landmark-recognition-challenge) |    Research     |      2018.5.22      |   $2,500    |
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) |   Playground    |          -          |      -      |
 | [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) |   Playground    |          -          |      -      |
 | [ImageNet Object Detection from Video Challenge](https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge) |    Research     |          -          |      -      |
@@ -277,9 +275,8 @@ Only **active** competitions are collected.
 >
 > 仅给出最新上线的赛题题目1个：
 
-- [Weeds Detection in Dense Cultures](https://competitions.codalab.org/competitions/20075)
+- [ChaLearn Face Spoofing Attack Detection Challenge-ajliu](https://competitions.codalab.org/competitions/20756)
 
-  ![](https://i.loli.net/2018/11/18/5bf0fbf064182.png)
 
 
 
@@ -319,13 +316,11 @@ Only **active** competitions are collected.
 
 赛题非常多，无意一一列举，详情请直接关注官方网址。
 
-仅给出最新可参与的赛题题目2个：[All  35](https://www.crowdai.org/challenges?challenge_filter=all) [Active 2](https://www.crowdai.org/challenges?challenge_filter=active) [Completed 33](https://www.crowdai.org/challenges?challenge_filter=completed)
+仅给出最新可参与的赛题题目13个：[All  48](https://www.crowdai.org/challenges?challenge_filter=all) [Active 15](https://www.crowdai.org/challenges?challenge_filter=active) [Completed 33](https://www.crowdai.org/challenges?challenge_filter=completed)
 
--  [Spotify Sequential Skip Prediction Challenge](https://www.crowdai.org/challenges/spotify-sequential-skip-prediction-challenge)
+-  [ImageCLEF 2019](https://www.crowdai.org/organizers/imageclef)
 
-  ![](https://i.loli.net/2018/11/18/5bf0fdd90710b.png)
-
-> - The prizes will be administered as part of the 2019 WSDM Cup. The winning team will be awarded **AUD2000**, the second placed team will be awarded **AUD750**, and the third placed team will be awarded **AUD250**. All prizes are in Australian Dollars.
+  ![](https://i.loli.net/2018/12/06/5c08aa9fd6365.png)
 
 <br>
 
@@ -383,7 +378,7 @@ Only **active** competitions are collected.
 
   - [The 4th Big Data Analysis Contest](https://signate.jp/competitions/136)
 
-    ![](https://i.loli.net/2018/11/24/5bf926cd8b11f.png)
+    ![](https://i.loli.net/2018/12/06/5c08ac3c3bf2b.png)
 
 <br>
 
@@ -498,6 +493,8 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 | [Internet of Things: Online Anomaly Detection for Drinking Water Quality](http://www.spotseven.de/gecco/gecco-challenge/) | June 30, 2018       |
 | [Virtual Creatures Competition](https://virtualcreatures.github.io/vc2018/) | June 22, 2018       |
 
+GECCO 2019: https://gecco-2019.sigevo.org/index.html/tiki-index.php
+
 <br>
 
 <br>
@@ -512,15 +509,16 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 - Website：[https://grand-challenge.org/All_Challenges/](https://grand-challenge.org/All_Challenges/)
 
-| Competition (2019)                                           | Registration closed | Workshop      |
-| ------------------------------------------------------------ | ------------------- | ------------- |
-| [C-NMC 2019](https://all-challange.grand-challenge.org/)     | -                   | April 8, 2019 |
-| [EAD2019](https://ead2019.grand-challenge.org)               | -                   | April 8, 2019 |
-| [SegTHOR](https://segthor.grand-challenge.org)               | -                   | April 8, 2019 |
-| [CHAOS](https://chaos.grand-challenge.org)                   | -                   | April 9, 2019 |
-| [BreastPathQ](https://breastpathq.grand-challenge.org)       | -                   | Feb. 16, 2019 |
-| [ANHIR](https://anhir.grand-challenge.org)                   | -                   | Aug. 4, 2019  |
-| [Cell Tracking...](http://www.celltrackingchallenge.net/index.html) | -                   | April 8, 2019 |
+| Competition (2019)                                       | Registration closed | Workshop       |
+| -------------------------------------------------------- | ------------------- | -------------- |
+| [C-NMC 2019](https://all-challange.grand-challenge.org/) | -                   | April 8, 2019  |
+| [EAD2019](https://ead2019.grand-challenge.org)           | -                   | April 8, 2019  |
+| [SegTHOR](https://segthor.grand-challenge.org)           | -                   | April 8, 2019  |
+| [CHAOS](https://chaos.grand-challenge.org)               | -                   | April 9, 2019  |
+| [BreastPathQ](https://breastpathq.grand-challenge.org)   | -                   | Feb. 16, 2019  |
+| [ABCD](https://sibis.sri.com/abcd-np-challenge/)         | -                   | March 10, 2019 |
+| [ANHIR](https://anhir.grand-challenge.org)               | -                   | Aug. 4, 2019   |
+| [CTC19](http://www.celltrackingchallenge.net/index.html) | -                   | April 8, 2019  |
 
 | Competition (2018)                                           | Registration closed | Workshop      |
 | ------------------------------------------------------------ | ------------------- | ------------- |
@@ -654,8 +652,24 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 <br>
 
+## Fashion-Gen
+
+> ![](https://i.loli.net/2018/12/06/5c08b3f8264e2.png)
+>
+> - **Fashion-Gen: The Generative Fashion Dataset and Challenge**
+>
+> - Official Website：https://www.fashion-gen.com
+> - The [paper](https://arxiv.org/abs/1806.08317)! 
+>
+> ![](https://i.loli.net/2018/12/06/5c08b4d551d1e.png)
 
 
+
+
+
+<br>
+
+<br>
 
 ## AI Challenger 全球AI挑战赛2018
 
@@ -743,30 +757,7 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 <br>
 
-## Open MIC
 
-> ![](https://i.loli.net/2018/10/29/5bd67d21e947a.png)
->
-> 【开放式博物馆识别挑战(ACCV 2018)】**“Open MIC (Open Museum Identification Challenge)”** 
->
-> - Official Website：http://users.cecs.anu.edu.au/~koniusz/openmic-accv18/
->
-> - dataset：http://users.cecs.anu.edu.au/~koniusz/openmic-dataset/
->
-> - Ref paper:《[Museum Exhibit Identification Challenge for the Supervised Domain Adaptation and Beyond](http://claret.wdfiles.com/local--files/start/OpenMIC.pdf)》
->
-> - IMPORTANT DATES
->   - Submission Deadline: 15th of November, 2018
->   - Decision to Authors: 20th of November, 2018
->   - Camera Ready: TBD
->   - OpenMIC Workshop: 2nd of December, 2018
-
-
-
-
-<br>
-
-<br>
 
 ## The SpaceNet Challenge Round 4
 
@@ -850,67 +841,7 @@ The Website：http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Compet
 
 <br>
 
-## Differential Privacy Synthetic Data Challenge
 
-> ![](https://i.loli.net/2018/11/12/5be99c028cf91.png)
->
-> 【NIST：综合数据差分隐私挑战】NIST: Differential Privacy Synthetic Data Challenge
->
-> [Official Website](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&compid=71282&rd=17319) or [Challenge.gov](https://challenge.gov/a/buzz/nist-pscr/differential-privacy-synthetic-data-challenge)
-
-| Timeline    | **Registration & Submission** |
-| ----------- | ----------------------------- |
-| **Opens:**  | **10.31.2018** 16:00 EDT      |
-| **Closes:** | **11.30.2018** 15:00 EST      |
-
-**Prizes**
-
-1-st Place: $10,000
-
-2-nd Place: $7,000
-
-3-rd Place: $5,000
-
-4-th place: $2,000
-
-5-th place: $1,000
-
-<br>
-
-<br>
-
-## Yaw Alignment Marathon Challenge
-
-> ![](https://i.loli.net/2018/11/12/5be9999ab0152.png)
->
-> 【风力涡轮机偏航失准角挑战】“Yaw Alignment Marathon Challenge”
->
-> [Official Website](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&compid=72253&rd=17323)
->
-> We are looking for solutions that can compute yaw misalignment angle of wind turbines from analysis of Supervisory Control and Data Acquisition (SCADA) data. The submitted solutions will be validated using yaw misalignment values obtained from another data source. We hope to receive wonderful solutions. Good Luck!
-
-**Important Notes**: in order to avoid overfitting the provisional test, we will only provide the leaderboard after **Nov 12, 2018 EDT**.
-
-| Timeline:   | **Registration & Submission** |
-| ----------- | ----------------------------- |
-| **Opens:**  | **11.03.2018** 21:00 EDT      |
-| **Closes:** | **12.03.2018** 20:00 EST      |
-
-**Prize Distribution**
-
-1st place - $17,000
-
-2nd place - $7,000
-
-3rd place - $4,000
-
-4th place - $2,000
-
-5th place - $1,000
-
-<br>
-
-<br>
 
 ## 天池
 
@@ -927,8 +858,8 @@ Website: https://tianchi.aliyun.com/
 | 比赛项目                                                     |  状态  | 第一赛季截止时间 |  总奖池   |
 | ------------------------------------------------------------ | :----: | :--------------: | :-------: |
 | [Alibaba Cloud German AI Challenge 2018](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231683) | 进行中 |     2018-1-8     |  $31000   |
-| **[瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231687)** | 进行中 |    2018/11/13    | ￥220000  |
-| [OGeek算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231688) | 进行中 |    2018/10/25    | ￥1000000 |
+| **[瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231687)** | 已结束 |    2018/11/13    | ￥220000  |
+| [OGeek算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231688) | 已结束 |    2018/10/25    | ￥1000000 |
 | [广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682) | 已结束 |    2018-10-9     | ￥550000  |
 | [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231677) | 已结束 |    2018-9-25     | ￥2780000 |
 | [2018之江杯全球人工智能大赛：视频识别&问答](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231676) | 已结束 |    2018-9-25     | ￥2780000 |
@@ -1057,6 +988,7 @@ Website: https://tianchi.aliyun.com/
 >
 > | 比赛题目                                                     |         时间轴          |  备注  |
 > | ------------------------------------------------------------ | :---------------------: | :----: |
+> | [第二场-用户评论情感极性判别](https://dianshi.baidu.com/competition/26/rule) |  2018/11/29 - 2019/3/5  |        |
 > | **[Retention Rate of Baidu Hao Kan APP Users](http://dianshi.baidu.com/dianshi/pc/competition/24/rule)** | 2018/10/31 - 2018/12/19 |        |
 > | **[The Intelligent Decision of Flights Adjusting](http://dianshi.baidu.com/dianshi/pc/competition/25/rule)** | 2018/11/17 - 2019/1/15  |        |
 > | [“探寻地球密码”天宫数据利用大赛](http://dianshi.baidu.com/gemstone/competitions/detail?raceId=22) | 2018/9/15 - 2018/11/16  |        |
@@ -1225,9 +1157,9 @@ https://biendata.com/competition/
 
 | 比赛项目                                                     |  状态  |         时间轴          |   备注    |
 | ------------------------------------------------------------ | :----: | :---------------------: | :-------: |
-| [CHIP 2018](https://biendata.com/competition/chip2018/)      | 进行中 | 2018-11-02 - 2018-11-30 |     -     |
-| [2018开放学术数据挖掘大赛](https://biendata.com/competition/scholar2018/) | 进行中 | 2018.10.29 - 2018.12.01 | ￥160,000 |
-| [2018云从人头计数](https://biendata.com/competition/cloudcup2018/prize/) | 进行中 | 2018.09.15 - 2018.12.15 | ¥100,000  |
+| [CHIP 2018](https://biendata.com/competition/chip2018/)      | 已结束 | 2018-11-02 - 2018-11-30 |     -     |
+| [2018开放学术数据挖掘大赛](https://biendata.com/competition/scholar2018/) | 已结束 | 2018.10.29 - 2018.12.01 | ￥160,000 |
+| [2018云从人头计数](https://biendata.com/competition/cloudcup2018/prize/) | 进行中 |  2018.09.15 - 2019.1.8  | ¥100,000  |
 | [2018自动驾驶模拟大赛](https://biendata.com/competition/autocar2018/) | 已结束 | 2018.08.22 - 2018.10.10 |  ¥12,500  |
 | [Byte Cup 2018 国际机器学习竞赛](https://biendata.com/competition/bytecup2018/) | 已结束 | 2018.08.17 - 2018.11.22 |  $20,000  |
 | [SMP ETST 2018](https://biendata.com/competition/smpetst2018/)（文本溯源竞赛） | 已结束 | 2018.06.01 - 2018.07.02 |           |
@@ -1271,7 +1203,7 @@ Website：http://www.datafountain.cn/
 
 | 比赛项目                                                     |  状态  |         时间轴          | 备注 |
 | ------------------------------------------------------------ | :----: | :---------------------: | :--: |
-| **[CCF 大数据与计算智能大赛](https://www.datafountain.cn/projects/2018CCF/index.html)** | 进行中 | 2018-8-29 - 2018-11-23  |      |
+| **[CCF 大数据与计算智能大赛](https://www.datafountain.cn/projects/2018CCF/index.html)** | 进行中 | 2018-8-29 - 2018-12-31  |      |
 | [2018 中国气象“神气”大数据算法与应用大赛](https://www.datafountain.cn/competitions/307/details) | 已结束 | 2018-8-23 - 2018-10-19  |      |
 | [“AIIA”杯（航天科工站）-高校挑战赛国际安全事件关系发现](http://www.datafountain.cn/#/competitions/306/intro) | 已结束 | 2018-07-13 - 2018-07-31 |      |
 | [“AIIA”杯（航天科工站）- 高校挑战赛 小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/305/intro) | 已结束 | 2018-07-13 - 2018-07-31 |      |
@@ -1326,9 +1258,99 @@ Website：http://www.datafountain.cn/
 
 
 
+
 <br>
 
 <br>
+
+
+
+## Yaw Alignment Marathon Challenge
+
+> ![](https://i.loli.net/2018/11/12/5be9999ab0152.png)
+>
+> 【风力涡轮机偏航失准角挑战】“Yaw Alignment Marathon Challenge”
+>
+> [Official Website](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&compid=72253&rd=17323)
+>
+> We are looking for solutions that can compute yaw misalignment angle of wind turbines from analysis of Supervisory Control and Data Acquisition (SCADA) data. The submitted solutions will be validated using yaw misalignment values obtained from another data source. We hope to receive wonderful solutions. Good Luck!
+
+**Important Notes**: in order to avoid overfitting the provisional test, we will only provide the leaderboard after **Nov 12, 2018 EDT**.
+
+| Timeline:   | **Registration & Submission** |
+| ----------- | ----------------------------- |
+| **Opens:**  | **11.03.2018** 21:00 EDT      |
+| **Closes:** | **12.03.2018** 20:00 EST      |
+
+**Prize Distribution**
+
+1st place - $17,000
+
+2nd place - $7,000
+
+3rd place - $4,000
+
+4th place - $2,000
+
+5th place - $1,000
+
+<br>
+
+<br>
+
+
+
+## Differential Privacy Synthetic Data Challenge
+
+> ![](https://i.loli.net/2018/11/12/5be99c028cf91.png)
+>
+> 【NIST：综合数据差分隐私挑战】NIST: Differential Privacy Synthetic Data Challenge
+>
+> [Official Website](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&compid=71282&rd=17319) or [Challenge.gov](https://challenge.gov/a/buzz/nist-pscr/differential-privacy-synthetic-data-challenge)
+
+| Timeline    | **Registration & Submission** |
+| ----------- | ----------------------------- |
+| **Opens:**  | **10.31.2018** 16:00 EDT      |
+| **Closes:** | **11.30.2018** 15:00 EST      |
+
+**Prizes**
+
+1-st Place: $10,000
+
+2-nd Place: $7,000
+
+3-rd Place: $5,000
+
+4-th place: $2,000
+
+5-th place: $1,000
+
+<br>
+
+<br>
+
+## Open MIC
+
+> ![](https://i.loli.net/2018/10/29/5bd67d21e947a.png)
+>
+> 【开放式博物馆识别挑战(ACCV 2018)】**“Open MIC (Open Museum Identification Challenge)”** 
+>
+> - Official Website：http://users.cecs.anu.edu.au/~koniusz/openmic-accv18/
+> - dataset：http://users.cecs.anu.edu.au/~koniusz/openmic-dataset/
+> - Ref paper:《[Museum Exhibit Identification Challenge for the Supervised Domain Adaptation and Beyond](http://claret.wdfiles.com/local--files/start/OpenMIC.pdf)》
+> - IMPORTANT DATES
+>   - Submission Deadline: 15th of November, 2018
+>   - Decision to Authors: 20th of November, 2018
+>   - Camera Ready: TBD
+>   - OpenMIC Workshop: 2nd of December, 2018
+
+
+
+<br>
+
+<br>
+
+
 
 ## 第3届 融360金融算法挑战赛
 
