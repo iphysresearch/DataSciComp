@@ -1,4 +1,4 @@
-## 2018-12-6 Update!
+## 2018-12-16 Update!
 
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
@@ -17,16 +17,16 @@
 - [DrivenData](#drivendata)
 - **[CodaLab](#codalab)（新）**
 - [Challenge Data](#challenge-data)
-- **[crowdAI](#crowdai)（新）**
+- [crowdAI](#crowdai)（新）
 - [Numer.ai](#numer_ai)
-- **[SIGNATE](#signate)（新）**
-- [Unearthed](#unearthed)（新）
+- [SIGNATE](#signate)（新）
+- [Unearthed](#unearthed)
 - [Analytics Vidhya](#analytics-vidhya)
 - [TechGig](#techgig)
 - [HackerEarth](#hackerearth)
 - [NIPS 2018 Competition Track](#nips-2018-competition-track)
 - [GECCO 2018 Competition](#gecco-2018-competition)
-- **[Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)（新）**
+- [Grand Challenges in Biomedical Image Analysis](#grand-challenges-in-biomedical-image-analysis)（新）
 - [Kelvins](#kelvins)
 - [Unrestricted Adversarial Examples Challenge (不受限对抗样本挑战)](#unrestricted-adversarial-examples-challenge)
 - [A Conversational Question Answering Challenge (CoQA)](#a-conversational-question-answering-challenge)
@@ -34,17 +34,17 @@
 - [The Scene Understanding and Modeling Challenge (SUMO)](#the-scene-understanding-and-modeling-challenge)
 - [The SpaceNet Challenge Round 4](#the-spacenet-challenge-round-4)
 - [Online Data-Driven Multi-Objective Optimization](#online-data-driven-multi-objective-optimization)
-- **[Fashion-Gen: The Generative Fashion Dataset and Challenge](#fashion-gen)（新）**
+- [Fashion-Gen: The Generative Fashion Dataset and Challenge](#fashion-gen)（新）
 - [AI Challenger 全球AI挑战赛2018](#ai-challenger-全球ai挑战赛2018)
-- [IDAO.world – International Data Analysis Olympiad 全球数据分析大赛](#idao)（新）
+- [IDAO.world – International Data Analysis Olympiad 全球数据分析大赛](#idao)
 - [MC挑战赛](#mc挑战赛)
-- [天池](#天池)
+- **[天池](#天池)（新）**
 - [JData](#jdata)
 - [JDDiscovery](#jddiscovery)（新）
-- **[点石](#点石)（新）**
+- [点石](#点石)（新）
 - [TinyMind](#tinymind)
 - [Kesci](#kesci)
-- **[DataCastle](#datacastle)（新）**
+- [DataCastle](#datacastle)（新）
 - [Biendata](#biendata)
 - [DataFountain](#datafountain)
 
@@ -74,7 +74,7 @@
 
 ## Active Competitons to join
 
-> 2018-12-6 Update!
+> 2018-12-16 Update!
 
 根据各竞赛的报名/组队截止日期，顺次罗列所有当前可报名参加的赛题题目。
 
@@ -82,14 +82,14 @@
 
 | Active Competitons to join                                   | From..              | Entry deadline               | Prize Money |
 | ------------------------------------------------------------ | ------------------- | ---------------------------- | ----------- |
+| [20 Newsgroups Ciphertext Challenge](https://www.kaggle.com/c/20-newsgroups-ciphertext-challenge) | Kaggle | Jan. 16th, 2019 | Swag |
+| [Microsoft Malware Prediction](https://www.kaggle.com/c/microsoft-malware-prediction) | Kaggle | Mar. 6, 2019 | $25,000 |
 | [NFL Punt Analytics Competition](https://www.kaggle.com/c/NFL-Punt-Analytics-Competition) | Kaggle | Jan. 9, 2019 | $80,000 |
 | [Humpback Whale Identification](https://www.kaggle.com/c/humpback-whale-identification) | Kaggle | Feb. 21, 2019 | $25,000 |
 | [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation) | Kaggle | Feb. 19, 2019 | $50,000 |
 | **[Traveling Santa 2018 - Prime Paths](https://www.kaggle.com/c/traveling-santa-2018-prime-paths)** | Kaggle | Jan. 10, 2019 | $25,000 |
-| [Don't call me turkey!](https://www.kaggle.com/c/dont-call-me-turkey) | Kaggle | 11/26/2018 | Swag |
 | [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection) | Kaggle | March 30, 2019 | Swag |
 | [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification) | Kaggle | Jan. 29, 2019 | $25,000 |
-| [PLAsTiCC Astronomical Classification](https://www.kaggle.com/c/PLAsTiCC-2018) | Kaggle | Dec. 10, 2018 | $25,000 |
 | [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification) | Kaggle | Jan. 3, 2019 | $37,000 |
 | [PUBG Finish Placement Prediction (Kernels Only)](https://www.kaggle.com/c/pubg-finish-placement-prediction) | Kaggle | 1/30/2019 | Swag |
 | [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news) | Kaggle | 1/2/2019 | $100,000 |
@@ -98,16 +98,15 @@
 | [United Nations Millennium Development Goals](https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/) | DrivenData | March 21, 2019 |         |
 | [Warm Up: Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/) | DrivenData | March 21, 2019 |         |
 | [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) | DrivenData | May 28, 2019   |         |
+| [AutoML](https://competitions.codalab.org/competitions/20927) | CodaLab | Dec. 25, 2018 | |
+| [First TextWorld Problems](https://competitions.codalab.org/competitions/20865) | CodaLab | Feb. 4, 2019 | |
 | [Weeds Detection in Dense Cultures](https://competitions.codalab.org/competitions/20075) | CodaLab | Jan. 7, 2019 | |
 | **[Weeds Detection in Dense Cultures](https://competitions.codalab.org/competitions/20075)** | CodaLab             | 2019.01.07 |             |
 | **[Classification of Normal vs Malignant Cells in B-ALL White Blood Cancer Microscopic Images:ISBI 2019](https://competitions.codalab.org/competitions/20429)** | CodaLab | 2019.03.18 | |
-| **[Contest SERFA 2018](https://competitions.codalab.org/competitions/20148)** | CodaLab | Dec. 9 | |
 | **[IWCS-2019 shared task: DRS Parsing](https://competitions.codalab.org/competitions/20220)** | CodaLab | 2019.02.25 | |
 | [ImageCLEF 2019](https://www.crowdai.org/organizers/imageclef) | CrowdAI | May. 1, 2019 |  |
 | **[Algorithmic Trading Challenge (1st stage)](https://signate.jp/competitions/146)** | SIGNATE | Feb. 20, 2019 | ¥ 2,000,000 |
 | **[AI Edge Contest](https://signate.jp/competitions/138#schedule)** | SIGNATE | Jan. 27, 2019 | 2,000,000 yen |
-| [Tourism Demand Modeling Challenge: The Case of National Parks in Japan](https://signate.jp/competitions/141) | SIGNATE | Dec 17, 2018 | a free trip |
-| [The 1st Tellus Satellite Challenge](https://signate.jp/competitions/110) | SIGNATE | Dec 7, 2018 | ¥2,000,000 |
 | [ABCD](https://sibis.sri.com/abcd-np-challenge/) | **Grand-challenge** | January 15, 2019 | - |
 | [C-NMC 2019](https://all-challange.grand-challenge.org/) | **Grand-challenge** | April 8, 2019 |  |
 | [EAD2019](https://ead2019.grand-challenge.org) | **Grand-challenge** | April 8, 2019 |  |
@@ -121,19 +120,16 @@
 | [Fashion-Gen: The Generative Fashion Dataset and Challenge](https://www.fashion-gen.com) | Fashion-Gen | - | - |
 | [TinyMind 汉字书法识别自由练习赛（初级难度）](http://www.tinymind.cn/competitions/41) | TinyMind | 2018.12.31 |    -    |
 | **[【全球数据分析大赛】“IDAO.world – International Data Analysis Olympiad”](https://idao.world)** | IDAO | Jan. 28, 2019 | Valuable prizes |
+| [津南数字制造算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231695) | 天池 | 2019-01-31 | ￥300000 |
 | **[Alibaba Cloud German AI Challenge 2018](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231683)** | 天池 | 2019-1-8 | $31000 |
-| [人口动态普查与预测](https://jdder.jd.com/index/jddDetail?matchId=3dca1a91ad2a4a6da201f125ede9601a) | JDD | 2018-12-13 | ￥1100000 |
-| [自动驾驶地图优化与传感器融合赛题](https://jdder.jd.com/index/jddDetail?matchId=dfd52315a801423590efbfb47b962ad3) | JDD | 2018-12-13 | ￥1100000 |
 | [第二场-用户评论情感极性判别](https://dianshi.baidu.com/competition/26/rule) | 点石 | 2019/2/28 | 百度周边礼品一份 |
 | [Retention Rate of Baidu Hao Kan APP Users](http://dianshi.baidu.com/dianshi/pc/competition/24/rule) | 点石 | 2018-12-13 | $AUD3000 |
 | [The Intelligent Decision of Flights Adjusting](http://dianshi.baidu.com/dianshi/pc/competition/25/rule) | 点石 | 2018/12/18 | $AUD3000 |
 | **[TOP高校创新科技大赛](http://www.dcjingsai.com/common/cmpt/TOP高校创新科技大赛_竞赛信息.html)** | DataCastle | 2019.1.5 | 1,000,000 |
-| [2018年甜橙金融杯大数据建模大赛](http://www.dcjingsai.com/common/cmpt/2018年甜橙金融杯大数据建模大赛_竞赛信息.html) | DataCastle | 2018.12.10 | ￥80000 |
 | [第二届智慧中国杯](http://www.dcjingsai.com/static_page/wisdom2.html) | DataCastle          | Long term                    | ￥1,000,000 |
 | [北京PM2.5浓度回归分析训练赛](http://www.dcjingsai.com/common/cmpt/北京PM2.5浓度回归分析训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
 | [美国King County房价预测训练赛](http://www.pkbigdata.com/common/cmpt/美国King%20County房价预测训练赛_竞赛信息.html) | DataCastle          | 2020.12.31                   | NaN         |
 | [2018开放学术数据挖掘大赛](https://biendata.com/competition/scholar2018/) | Biendata | 2018.12.01 | ￥160,000 |
-| [2018云从人头计数](https://biendata.com/competition/cloudcup2018/prize/) | Biendata | 2018.12.15 | ~10W |
 | [2017 nlpcc 任务3](https://biendata.com/competition/nlptask03/) | Biendata            | 2020.1.1                     | NaN         |
 | [金融行业数据算法训练营](https://www.kesci.com/apps/home/competition/59c1db9b2110010662384477) | Kesci               | Always                       | NaN         |
 
@@ -166,6 +162,8 @@
 
 | Competiton                                                   |   Categories    | Submission deadline | Prize Money |
 | ------------------------------------------------------------ | :-------------: | :-----------------: | :---------: |
+| [20 Newsgroups Ciphertext Challenge](https://www.kaggle.com/c/20-newsgroups-ciphertext-challenge) |   Playground    |   Jan. 16th, 2019   |    Swag     |
+| [Microsoft Malware Prediction](https://www.kaggle.com/c/microsoft-malware-prediction) |    Research     |    Mar. 13, 2019    |   $25,000   |
 | [NFL Punt Analytics Competition](https://www.kaggle.com/c/NFL-Punt-Analytics-Competition) |    Analytics    |    Jan. 9, 2019     |   $80,000   |
 | [Humpback Whale Identification](https://www.kaggle.com/c/humpback-whale-identification) |    Featured     |    Feb. 28, 2019    |   $25,000   |
 | [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation) |    Featured     |    Feb. 26, 2019    |   $50,000   |
@@ -274,12 +272,12 @@ Only **active** competitions are collected.
 
 > 赛题非常多，当前可参加的赛题和 long term 题目也非常丰富，无意一一列举，详情请直接关注官方网址。
 >
-> 仅给出最新上线的赛题题目1个：
+> 仅给出最新上线的赛题题目3个：
 
-- [ChaLearn Face Spoofing Attack Detection Challenge-ajliu](https://competitions.codalab.org/competitions/20756)
+- [AutoML](https://competitions.codalab.org/competitions/20927)
+- [First TextWorld Problems](https://competitions.codalab.org/competitions/20865)
 
-
-
+![](https://i.loli.net/2018/12/16/5c16662615c8b.png)
 
 <br><br>
 
@@ -373,13 +371,8 @@ Only **active** competitions are collected.
 
   - [AI Edge Contest](https://signate.jp/competitions/138)
 
-  - [Tourism Demand Modeling Challenge: The Case of National Parks in Japan](https://signate.jp/competitions/141)
 
-  - [The 1st Tellus Satellite Challenge](https://signate.jp/competitions/110)
-
-  - [The 4th Big Data Analysis Contest](https://signate.jp/competitions/136)
-
-    ![](https://i.loli.net/2018/12/06/5c08ac3c3bf2b.png)
+  ![](https://i.loli.net/2018/12/16/5c16687bc1fe7.png)
 
 <br>
 
@@ -858,8 +851,9 @@ Website: https://tianchi.aliyun.com/
 
 | 比赛项目                                                     |  状态  | 第一赛季截止时间 |  总奖池   |
 | ------------------------------------------------------------ | :----: | :--------------: | :-------: |
-| [Alibaba Cloud German AI Challenge 2018](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231683) | 进行中 |     2018-1-8     |  $31000   |
-| **[瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231687)** | 已结束 |    2018/11/13    | ￥220000  |
+| [津南数字制造算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231695) | 进行中 |    2019-02-01    | ￥300000  |
+| [Alibaba Cloud German AI Challenge 2018](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231683) | 进行中 |     2019-1-8     |  $31000   |
+| [瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231687) | 已结束 |    2018/11/13    | ￥220000  |
 | [OGeek算法挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.470933afixAjy5&raceId=231688) | 已结束 |    2018/10/25    | ￥1000000 |
 | [广东工业智造大数据创新大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231682) | 已结束 |    2018-10-9     | ￥550000  |
 | [2018之江杯全球人工智能大赛：零样本图像目标识别](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231677) | 已结束 |    2018-9-25     | ￥2780000 |
