@@ -616,7 +616,7 @@
         var url = new URL(window.location);
         var subs = url.searchParams.get('sub');
         if (subs == undefined) {
-           subs = store.get('/');
+           subs = store.get('/DataSciComp/build/');
         } else {
            subs = subs.toUpperCase().split(',');
         }
@@ -637,7 +637,7 @@
             $('.' + all_subs[i] + '-comp').hide();
           }
         }
-        store.set('/', subs);
+        store.set('/DataSciComp/build/', subs);
         window.history.pushState('', '', '/?sub=' + subs.join());
 
         // Event handler on checkbox change
@@ -667,7 +667,7 @@
           }
         }
           console.log(subs);
-          store.set('/', subs);
+          store.set('/DataSciComp/build/', subs);
           window.history.pushState('', '', '/?sub=' + subs.join());
         });
     });
