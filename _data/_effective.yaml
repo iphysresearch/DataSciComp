@@ -1,0 +1,194 @@
+
+
+# - title: LANL Earthquake Prediction
+#   year: 2019
+#   id: LANL-Earthquake-Prediction
+#   link: https://www.kaggle.com/c/LANL-Earthquake-Prediction
+#   deadline: 2019-05-27 23:59:59
+#   timezone: Etc/GMT+10
+#   price: $50000
+#   type: Research
+
+
+# - title: VSB Power Line Fault Detection
+#   year: 2019
+#   id: vsb-power-line-fault-detection
+#   link: https://www.kaggle.com/c/vsb-power-line-fault-detection
+#   deadline: 2019-05-14 23:59:59
+#   timezone: Etc/GMT+10
+#   price: $25000
+#   type: Featured
+
+
+
+# deadtime 日期请严格采用复合 ISO8601 格式的年、月、日、时、分、秒表示。
+# （注意！deadtime 内容一定要双引号括起来，强制成 string，不然 pyyaml 读 yaml 会按照本地系统所在的 timezone 读入解析，无限期的就内容为'No deadline'）
+# （注意！deadtime 的 timezone 信息请另外标明！可选的 timezone 可见 ./timezone。）
+
+# Kaggle ##
+
+- id: LANL
+  type: 
+    - PF
+    - AC
+  title: LANL Earthquake Prediction
+  url: https://www.kaggle.com/c/LANL-Earthquake-Prediction#description
+  from: Kaggle
+  from_url: https://www.kaggle.com/
+  range: May 27 - June 3 2019
+  deadtime: "2019-05-27 23:59:59"
+  timezone: UTC
+  note: 'Can you predict upcoming laboratory earthquakes?'
+  price: $50,000
+
+- id: PetFinder_my-Adoption-Prediction
+  type: 
+    - PF
+  title: PetFinder.my Adoption Prediction
+  url: https://www.kaggle.com/c/petfinder-adoption-prediction
+  from: Kaggle
+  from_url: https://www.kaggle.com/
+  range: March 21 - March 28 2019
+  deadtime: "2019-03-21 23:59:59"
+  timezone: UTC
+  note: 'How cute is that doggy in the shelter?'
+  price: $25,000
+  
+- id: VSB_Power_Line_Fault_Detection
+  type: 
+    - PF
+  title: VSB Power Line Fault Detection
+  url: https://www.kaggle.com/c/vsb-power-line-fault-detection
+  from: Kaggle
+  from_url: https://www.kaggle.com/
+  range: March 14 - 21 2019
+  deadtime: "2019-03-14 23:59:59"
+  timezone: UTC
+  note: 'Can you detect faults in above-ground electrical lines?'
+  price: $25,000
+
+- id: Reducing_Commercial_Aviation_Fatalities
+  type: 
+    - PF
+  title: Reducing Commercial Aviation Fatalities
+  url: https://www.kaggle.com/c/reducing-commercial-aviation-fatalities
+  from: Kaggle
+  from_url: https://www.kaggle.com/
+  range: February 5 - 12 2019
+  deadtime: "2019-02-05 23:59:59"
+  timezone: UTC
+  note: 'Can you tell when a pilot is heading for trouble?'
+  price: Kaggle Swag
+
+- id: Microsoft_Malware_Prediction
+  type: 
+    - PF
+    - AC
+  title: Microsoft Malware Prediction
+  url: https://www.kaggle.com/c/microsoft-malware-prediction
+  from: Kaggle
+  from_url: https://www.kaggle.com/
+  range: March 6 - 13 2019
+  deadtime: "2019-03-06 23:59:59"
+  timezone: UTC
+  note: 'Can you predict if a machine will soon be hit with malware?'
+  price: $25,000
+
+
+- id: Sustainable_Industry_Rinse_Over_Run
+  type: 
+    - PF
+  title: "Sustainable Industry: Rinse Over Run"
+  url: https://www.drivendata.org/competitions/56/predict-cleaning-time-series/
+  from: DrivenData
+  from_url: https://www.drivendata.org
+  range: Now - March 18 2019
+  deadtime: "2019-03-18 23:59:59"
+  timezone: UTC
+  note: 
+  price: €20,000
+
+
+# - id: Warm_Up_Machine_Learning_with_a_Heart
+#   type: 
+#     - PF
+#   title: "Warm Up: Machine Learning with a Heart"
+#   url: https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/
+#   from: DrivenData
+#   from_url: https://www.drivendata.org
+#   range: Now - Oct. 30 2019
+#   deadtime: "2019-10-30 12:12:00"
+#   timezone: UTC
+#   note: 'This competition is for learning and exploring, so the deadline may be extended in the future.'
+#   price: Glory!
+
+
+# - id: Pump_it_Up_Data_Mining_the_Water_Table
+#   type: 
+#     - PF
+#   title: "Pump it Up: Data Mining the Water Table"
+#   url: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+#   from: DrivenData
+#   from_url: https://www.drivendata.org
+#   range: Now - June. 28 2019
+#   deadtime: "2019-06-28 23:59:59"
+#   timezone: UTC
+#   note: 'This competition is for learning and exploring, so the deadline may be extended in the future.'
+#   price: Glory!
+
+- id: SQuAD
+  type: 
+    - AC
+  title: 'SQuAD2.0'
+  url: https://rajpurkar.github.io/SQuAD-explorer/
+  from: Stanford University
+  from_url: 'https://www.drivendata.org'
+  range: 'No deadline'
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 'SQuAD2.0 - The Stanford Question Answering Dataset'
+  price: Glory!
+
+- id: CoQA
+  type: 
+    - AC
+  title: CoQA
+  url: https://stanfordnlp.github.io/coqa/
+  from: Stanford University
+  from_url: ''
+  range: 'No deadline'
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 'COQA - A Conversational Question Answering Challenge'
+  price: Glory!
+
+
+
+
+# - id: de2018 
+#   type: 
+#     - PF
+#   title: 'DengAI: Predicting Disease Spread'
+#   url: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+#   from: DrivenData
+#   from_url: https://www.kaggle.com/
+#   range: June 10-15 2019
+#   deadtime: "2019-05-03 13:40:00"
+#   timezone: Etc/GMT-8
+#   note: This competition is for learning and exploring so the deadline may be extended in the future.
+#   price: Glory! 
+
+
+# - id: ren2018 
+#   type: 
+#     - IT
+#     - PF
+#   title: 人口动态普查与预测
+#   url: https://jdder.jd.com/index/jddDetail?matchId=3dca1a91ad2a4a6da201f125ede9601a
+#   from: JD
+#   from_url: https://www.kaggle.com/
+#   range: Nov 20 - Dec 21 2019
+#   deadtime: "2019-12-14 21:59:43"
+#   timezone: Asia/Shanghai
+#   note: 
+#   price: CNY 1,100,000 

@@ -1,0 +1,1182 @@
+0: "Africa/Abidjan"
+​​
+1: "Africa/Accra"
+​​
+2: "Africa/Addis_Ababa"
+​​
+3: "Africa/Algiers"
+​​
+4: "Africa/Asmara"
+​​
+5: "Africa/Asmera"
+​​
+6: "Africa/Bamako"
+​​
+7: "Africa/Bangui"
+​​
+8: "Africa/Banjul"
+​​
+9: "Africa/Bissau"
+​​
+10: "Africa/Blantyre"
+​​
+11: "Africa/Brazzaville"
+​​
+12: "Africa/Bujumbura"
+​​
+13: "Africa/Cairo"
+​​
+14: "Africa/Casablanca"
+​​
+15: "Africa/Ceuta"
+​​
+16: "Africa/Conakry"
+​​
+17: "Africa/Dakar"
+​​
+18: "Africa/Dar_es_Salaam"
+​​
+19: "Africa/Djibouti"
+​​
+20: "Africa/Douala"
+​​
+21: "Africa/El_Aaiun"
+​​
+22: "Africa/Freetown"
+​​
+23: "Africa/Gaborone"
+​​
+24: "Africa/Harare"
+​​
+25: "Africa/Johannesburg"
+​​
+26: "Africa/Juba"
+​​
+27: "Africa/Kampala"
+​​
+28: "Africa/Khartoum"
+​​
+29: "Africa/Kigali"
+​​
+30: "Africa/Kinshasa"
+​​
+31: "Africa/Lagos"
+​​
+32: "Africa/Libreville"
+​​
+33: "Africa/Lome"
+​​
+34: "Africa/Luanda"
+​​
+35: "Africa/Lubumbashi"
+​​
+36: "Africa/Lusaka"
+​​
+37: "Africa/Malabo"
+​​
+38: "Africa/Maputo"
+​​
+39: "Africa/Maseru"
+​​
+40: "Africa/Mbabane"
+​​
+41: "Africa/Mogadishu"
+​​
+42: "Africa/Monrovia"
+​​
+43: "Africa/Nairobi"
+​​
+44: "Africa/Ndjamena"
+​​
+45: "Africa/Niamey"
+​​
+46: "Africa/Nouakchott"
+​​
+47: "Africa/Ouagadougou"
+​​
+48: "Africa/Porto-Novo"
+​​
+49: "Africa/Sao_Tome"
+​​
+50: "Africa/Timbuktu"
+​​
+51: "Africa/Tripoli"
+​​
+52: "Africa/Tunis"
+​​
+53: "Africa/Windhoek"
+​​
+54: "America/Adak"
+​​
+55: "America/Anchorage"
+​​
+56: "America/Anguilla"
+​​
+57: "America/Antigua"
+​​
+58: "America/Araguaina"
+​​
+59: "America/Argentina/Buenos_Aires"
+​​
+60: "America/Argentina/Catamarca"
+​​
+61: "America/Argentina/ComodRivadavia"
+​​
+62: "America/Argentina/Cordoba"
+​​
+63: "America/Argentina/Jujuy"
+​​
+64: "America/Argentina/La_Rioja"
+​​
+65: "America/Argentina/Mendoza"
+​​
+66: "America/Argentina/Rio_Gallegos"
+​​
+67: "America/Argentina/Salta"
+​​
+68: "America/Argentina/San_Juan"
+​​
+69: "America/Argentina/San_Luis"
+​​
+70: "America/Argentina/Tucuman"
+​​
+71: "America/Argentina/Ushuaia"
+​​
+72: "America/Aruba"
+​​
+73: "America/Asuncion"
+​​
+74: "America/Atikokan"
+​​
+75: "America/Atka"
+​​
+76: "America/Bahia"
+​​
+77: "America/Bahia_Banderas"
+​​
+78: "America/Barbados"
+​​
+79: "America/Belem"
+​​
+80: "America/Belize"
+​​
+81: "America/Blanc-Sablon"
+​​
+82: "America/Boa_Vista"
+​​
+83: "America/Bogota"
+​​
+84: "America/Boise"
+​​
+85: "America/Buenos_Aires"
+​​
+86: "America/Cambridge_Bay"
+​​
+87: "America/Campo_Grande"
+​​
+88: "America/Cancun"
+​​
+89: "America/Caracas"
+​​
+90: "America/Catamarca"
+​​
+91: "America/Cayenne"
+​​
+92: "America/Cayman"
+​​
+93: "America/Chicago"
+​​
+94: "America/Chihuahua"
+​​
+95: "America/Coral_Harbour"
+​​
+96: "America/Cordoba"
+​​
+97: "America/Costa_Rica"
+​​
+98: "America/Creston"
+​​
+99: "America/Cuiaba"
+​​
+100: "America/Curacao"
+​​
+101: "America/Danmarkshavn"
+​​
+102: "America/Dawson"
+​​
+103: "America/Dawson_Creek"
+​​
+104: "America/Denver"
+​​
+105: "America/Detroit"
+​​
+106: "America/Dominica"
+​​
+107: "America/Edmonton"
+​​
+108: "America/Eirunepe"
+​​
+109: "America/El_Salvador"
+​​
+110: "America/Ensenada"
+​​
+111: "America/Fort_Nelson"
+​​
+112: "America/Fort_Wayne"
+​​
+113: "America/Fortaleza"
+​​
+114: "America/Glace_Bay"
+​​
+115: "America/Godthab"
+​​
+116: "America/Goose_Bay"
+​​
+117: "America/Grand_Turk"
+​​
+118: "America/Grenada"
+​​
+119: "America/Guadeloupe"
+​​
+120: "America/Guatemala"
+​​
+121: "America/Guayaquil"
+​​
+122: "America/Guyana"
+​​
+123: "America/Halifax"
+​​
+124: "America/Havana"
+​​
+125: "America/Hermosillo"
+​​
+126: "America/Indiana/Indianapolis"
+​​
+127: "America/Indiana/Knox"
+​​
+128: "America/Indiana/Marengo"
+​​
+129: "America/Indiana/Petersburg"
+​​
+130: "America/Indiana/Tell_City"
+​​
+131: "America/Indiana/Vevay"
+​​
+132: "America/Indiana/Vincennes"
+​​
+133: "America/Indiana/Winamac"
+​​
+134: "America/Indianapolis"
+​​
+135: "America/Inuvik"
+​​
+136: "America/Iqaluit"
+​​
+137: "America/Jamaica"
+​​
+138: "America/Jujuy"
+​​
+139: "America/Juneau"
+​​
+140: "America/Kentucky/Louisville"
+​​
+141: "America/Kentucky/Monticello"
+​​
+142: "America/Knox_IN"
+​​
+143: "America/Kralendijk"
+​​
+144: "America/La_Paz"
+​​
+145: "America/Lima"
+​​
+146: "America/Los_Angeles"
+​​
+147: "America/Louisville"
+​​
+148: "America/Lower_Princes"
+​​
+149: "America/Maceio"
+​​
+150: "America/Managua"
+​​
+151: "America/Manaus"
+​​
+152: "America/Marigot"
+​​
+153: "America/Martinique"
+​​
+154: "America/Matamoros"
+​​
+155: "America/Mazatlan"
+​​
+156: "America/Mendoza"
+​​
+157: "America/Menominee"
+​​
+158: "America/Merida"
+​​
+159: "America/Metlakatla"
+​​
+160: "America/Mexico_City"
+​​
+161: "America/Miquelon"
+​​
+162: "America/Moncton"
+​​
+163: "America/Monterrey"
+​​
+164: "America/Montevideo"
+​​
+165: "America/Montreal"
+​​
+166: "America/Montserrat"
+​​
+167: "America/Nassau"
+​​
+168: "America/New_York"
+​​
+169: "America/Nipigon"
+​​
+170: "America/Nome"
+​​
+171: "America/Noronha"
+​​
+172: "America/North_Dakota/Beulah"
+​​
+173: "America/North_Dakota/Center"
+​​
+174: "America/North_Dakota/New_Salem"
+​​
+175: "America/Ojinaga"
+​​
+176: "America/Panama"
+​​
+177: "America/Pangnirtung"
+​​
+178: "America/Paramaribo"
+​​
+179: "America/Phoenix"
+​​
+180: "America/Port-au-Prince"
+​​
+181: "America/Port_of_Spain"
+​​
+182: "America/Porto_Acre"
+​​
+183: "America/Porto_Velho"
+​​
+184: "America/Puerto_Rico"
+​​
+185: "America/Rainy_River"
+​​
+186: "America/Rankin_Inlet"
+​​
+187: "America/Recife"
+​​
+188: "America/Regina"
+​​
+189: "America/Resolute"
+​​
+190: "America/Rio_Branco"
+​​
+191: "America/Rosario"
+​​
+192: "America/Santa_Isabel"
+​​
+193: "America/Santarem"
+​​
+194: "America/Santiago"
+​​
+195: "America/Santo_Domingo"
+​​
+196: "America/Sao_Paulo"
+​​
+197: "America/Scoresbysund"
+​​
+198: "America/Shiprock"
+​​
+199: "America/Sitka"
+​
+200: "America/St_Barthelemy"
+​​
+201: "America/St_Johns"
+​​
+202: "America/St_Kitts"
+​​
+203: "America/St_Lucia"
+​​
+204: "America/St_Thomas"
+​​
+205: "America/St_Vincent"
+​​
+206: "America/Swift_Current"
+​​
+207: "America/Tegucigalpa"
+​​
+208: "America/Thule"
+​​
+209: "America/Thunder_Bay"
+​​
+210: "America/Tijuana"
+​​
+211: "America/Toronto"
+​​
+212: "America/Tortola"
+​​
+213: "America/Vancouver"
+​​
+214: "America/Virgin"
+​​
+215: "America/Whitehorse"
+​​
+216: "America/Winnipeg"
+​​
+217: "America/Yakutat"
+​​
+218: "America/Yellowknife"
+​​
+219: "Antarctica/Casey"
+​​
+220: "Antarctica/Davis"
+​​
+221: "Antarctica/DumontDUrville"
+​​
+222: "Antarctica/Macquarie"
+​​
+223: "Antarctica/Mawson"
+​​
+224: "Antarctica/McMurdo"
+​​
+225: "Antarctica/Palmer"
+​​
+226: "Antarctica/Rothera"
+​​
+227: "Antarctica/South_Pole"
+​​
+228: "Antarctica/Syowa"
+​​
+229: "Antarctica/Troll"
+​​
+230: "Antarctica/Vostok"
+​​
+231: "Arctic/Longyearbyen"
+​​
+232: "Asia/Aden"
+​​
+233: "Asia/Almaty"
+​​
+234: "Asia/Amman"
+​​
+235: "Asia/Anadyr"
+​​
+236: "Asia/Aqtau"
+​​
+237: "Asia/Aqtobe"
+​​
+238: "Asia/Ashgabat"
+​​
+239: "Asia/Ashkhabad"
+​​
+240: "Asia/Baghdad"
+​​
+241: "Asia/Bahrain"
+​​
+242: "Asia/Baku"
+​​
+243: "Asia/Bangkok"
+​​
+244: "Asia/Barnaul"
+​​
+245: "Asia/Beirut"
+​​
+246: "Asia/Bishkek"
+​​
+247: "Asia/Brunei"
+​​
+248: "Asia/Calcutta"
+​​
+249: "Asia/Chita"
+​​
+250: "Asia/Choibalsan"
+​​
+251: "Asia/Chongqing"
+​​
+252: "Asia/Chungking"
+​​
+253: "Asia/Colombo"
+​​
+254: "Asia/Dacca"
+​​
+255: "Asia/Damascus"
+​​
+256: "Asia/Dhaka"
+​​
+257: "Asia/Dili"
+​​
+258: "Asia/Dubai"
+​​
+259: "Asia/Dushanbe"
+​​
+260: "Asia/Famagusta"
+​​
+261: "Asia/Gaza"
+​​
+262: "Asia/Harbin"
+​​
+263: "Asia/Hebron"
+​​
+264: "Asia/Ho_Chi_Minh"
+​​
+265: "Asia/Hong_Kong"
+​​
+266: "Asia/Hovd"
+​​
+267: "Asia/Irkutsk"
+​​
+268: "Asia/Istanbul"
+​​
+269: "Asia/Jakarta"
+​​
+270: "Asia/Jayapura"
+​​
+271: "Asia/Jerusalem"
+​​
+272: "Asia/Kabul"
+​​
+273: "Asia/Kamchatka"
+​​
+274: "Asia/Karachi"
+​​
+275: "Asia/Kashgar"
+​​
+276: "Asia/Kathmandu"
+​​
+277: "Asia/Katmandu"
+​​
+278: "Asia/Khandyga"
+​​
+279: "Asia/Kolkata"
+​​
+280: "Asia/Krasnoyarsk"
+​​
+281: "Asia/Kuala_Lumpur"
+​​
+282: "Asia/Kuching"
+​​
+283: "Asia/Kuwait"
+​​
+284: "Asia/Macao"
+​​
+285: "Asia/Macau"
+​​
+286: "Asia/Magadan"
+​​
+287: "Asia/Makassar"
+​​
+288: "Asia/Manila"
+​​
+289: "Asia/Muscat"
+​​
+290: "Asia/Nicosia"
+​​
+291: "Asia/Novokuznetsk"
+​​
+292: "Asia/Novosibirsk"
+​​
+293: "Asia/Omsk"
+​​
+294: "Asia/Oral"
+​​
+295: "Asia/Phnom_Penh"
+​​
+296: "Asia/Pontianak"
+​​
+297: "Asia/Pyongyang"
+​​
+298: "Asia/Qatar"
+​​
+299: "Asia/Qyzylorda"
+​​
+300: "Asia/Rangoon"
+​​
+301: "Asia/Riyadh"
+​​
+302: "Asia/Saigon"
+​​
+303: "Asia/Sakhalin"
+​​
+304: "Asia/Samarkand"
+​​
+305: "Asia/Seoul"
+​​
+306: "Asia/Shanghai"
+​​
+307: "Asia/Singapore"
+​​
+308: "Asia/Srednekolymsk"
+​​
+309: "Asia/Taipei"
+​​
+310: "Asia/Tashkent"
+​​
+311: "Asia/Tbilisi"
+​​
+312: "Asia/Tehran"
+​​
+313: "Asia/Tel_Aviv"
+​​
+314: "Asia/Thimbu"
+​​
+315: "Asia/Thimphu"
+​​
+316: "Asia/Tokyo"
+​​
+317: "Asia/Tomsk"
+​​
+318: "Asia/Ujung_Pandang"
+​​
+319: "Asia/Ulaanbaatar"
+​​
+320: "Asia/Ulan_Bator"
+​​
+321: "Asia/Urumqi"
+​​
+322: "Asia/Ust-Nera"
+​​
+323: "Asia/Vientiane"
+​​
+324: "Asia/Vladivostok"
+​​
+325: "Asia/Yakutsk"
+​​
+326: "Asia/Yangon"
+​​
+327: "Asia/Yekaterinburg"
+​​
+328: "Asia/Yerevan"
+​​
+329: "Atlantic/Azores"
+​​
+330: "Atlantic/Bermuda"
+​​
+331: "Atlantic/Canary"
+​​
+332: "Atlantic/Cape_Verde"
+​​
+333: "Atlantic/Faeroe"
+​​
+334: "Atlantic/Faroe"
+​​
+335: "Atlantic/Jan_Mayen"
+​​
+336: "Atlantic/Madeira"
+​​
+337: "Atlantic/Reykjavik"
+​​
+338: "Atlantic/South_Georgia"
+​​
+339: "Atlantic/St_Helena"
+​​
+340: "Atlantic/Stanley"
+​​
+341: "Australia/ACT"
+​​
+342: "Australia/Adelaide"
+​​
+343: "Australia/Brisbane"
+​​
+344: "Australia/Broken_Hill"
+​​
+345: "Australia/Canberra"
+​​
+346: "Australia/Currie"
+​​
+347: "Australia/Darwin"
+​​
+348: "Australia/Eucla"
+​​
+349: "Australia/Hobart"
+​​
+350: "Australia/LHI"
+​​
+351: "Australia/Lindeman"
+​​
+352: "Australia/Lord_Howe"
+​​
+353: "Australia/Melbourne"
+​​
+354: "Australia/NSW"
+​​
+355: "Australia/North"
+​​
+356: "Australia/Perth"
+​​
+357: "Australia/Queensland"
+​​
+358: "Australia/South"
+​​
+359: "Australia/Sydney"
+​​
+360: "Australia/Tasmania"
+​​
+361: "Australia/Victoria"
+​​
+362: "Australia/West"
+​​
+363: "Australia/Yancowinna"
+​​
+364: "Brazil/Acre"
+​​
+365: "Brazil/DeNoronha"
+​​
+366: "Brazil/East"
+​​
+367: "Brazil/West"
+​​
+368: "CET"
+​​
+369: "CST6CDT"
+​​
+370: "Canada/Atlantic"
+​​
+371: "Canada/Central"
+​​
+372: "Canada/East-Saskatchewan"
+​​
+373: "Canada/Eastern"
+​​
+374: "Canada/Mountain"
+​​
+375: "Canada/Newfoundland"
+​​
+376: "Canada/Pacific"
+​​
+377: "Canada/Saskatchewan"
+​​
+378: "Canada/Yukon"
+​​
+379: "Chile/Continental"
+​​
+380: "Chile/EasterIsland"
+​​
+381: "Cuba"
+​​
+382: "EET"
+​​
+383: "EST"
+​​
+384: "EST5EDT"
+​​
+385: "Egypt"
+​​
+386: "Eire"
+​​
+387: "Etc/GMT"
+​​
+388: "Etc/GMT+0"
+​​
+389: "Etc/GMT+1"
+​​
+390: "Etc/GMT+10"
+​​
+391: "Etc/GMT+11"
+​​
+392: "Etc/GMT+12"
+​​
+393: "Etc/GMT+2"
+​​
+394: "Etc/GMT+3"
+​​
+395: "Etc/GMT+4"
+​​
+396: "Etc/GMT+5"
+​​
+397: "Etc/GMT+6"
+​​
+398: "Etc/GMT+7"
+​​
+399: "Etc/GMT+8"
+​​
+400: "Etc/GMT+9"
+​​
+401: "Etc/GMT-0"
+​​
+402: "Etc/GMT-1"
+​​
+403: "Etc/GMT-10"
+​​
+404: "Etc/GMT-11"
+​​
+405: "Etc/GMT-12"
+​​
+406: "Etc/GMT-13"
+​​
+407: "Etc/GMT-14"
+​​
+408: "Etc/GMT-2"
+​​
+409: "Etc/GMT-3"
+​​
+410: "Etc/GMT-4"
+​​
+411: "Etc/GMT-5"
+​​
+412: "Etc/GMT-6"
+​​
+413: "Etc/GMT-7"
+​​
+414: "Etc/GMT-8"
+​​
+415: "Etc/GMT-9"
+​​
+416: "Etc/GMT0"
+​​
+417: "Etc/Greenwich"
+​​
+418: "Etc/UCT"
+​​
+419: "Etc/UTC"
+​​
+420: "Etc/Universal"
+​​
+421: "Etc/Zulu"
+​​
+422: "Europe/Amsterdam"
+​​
+423: "Europe/Andorra"
+​​
+424: "Europe/Astrakhan"
+​​
+425: "Europe/Athens"
+​​
+426: "Europe/Belfast"
+​​
+427: "Europe/Belgrade"
+​​
+428: "Europe/Berlin"
+​​
+429: "Europe/Bratislava"
+​​
+430: "Europe/Brussels"
+​​
+431: "Europe/Bucharest"
+​​
+432: "Europe/Budapest"
+​​
+433: "Europe/Busingen"
+​​
+434: "Europe/Chisinau"
+​​
+435: "Europe/Copenhagen"
+​​
+436: "Europe/Dublin"
+​​
+437: "Europe/Gibraltar"
+​​
+438: "Europe/Guernsey"
+​​
+439: "Europe/Helsinki"
+​​
+440: "Europe/Isle_of_Man"
+​​
+441: "Europe/Istanbul"
+​​
+442: "Europe/Jersey"
+​​
+443: "Europe/Kaliningrad"
+​​
+444: "Europe/Kiev"
+​​
+445: "Europe/Kirov"
+​​
+446: "Europe/Lisbon"
+​​
+447: "Europe/Ljubljana"
+​​
+448: "Europe/London"
+​​
+449: "Europe/Luxembourg"
+​​
+450: "Europe/Madrid"
+​​
+451: "Europe/Malta"
+​​
+452: "Europe/Mariehamn"
+​​
+453: "Europe/Minsk"
+​​
+454: "Europe/Monaco"
+​​
+455: "Europe/Moscow"
+​​
+456: "Europe/Nicosia"
+​​
+457: "Europe/Oslo"
+​​
+458: "Europe/Paris"
+​​
+459: "Europe/Podgorica"
+​​
+460: "Europe/Prague"
+​​
+461: "Europe/Riga"
+​​
+462: "Europe/Rome"
+​​
+463: "Europe/Samara"
+​​
+464: "Europe/San_Marino"
+​​
+465: "Europe/Sarajevo"
+​​
+466: "Europe/Simferopol"
+​​
+467: "Europe/Skopje"
+​​
+468: "Europe/Sofia"
+​​
+469: "Europe/Stockholm"
+​​
+470: "Europe/Tallinn"
+​​
+471: "Europe/Tirane"
+​​
+472: "Europe/Tiraspol"
+​​
+473: "Europe/Ulyanovsk"
+​​
+474: "Europe/Uzhgorod"
+​​
+475: "Europe/Vaduz"
+​​
+476: "Europe/Vatican"
+​​
+477: "Europe/Vienna"
+​​
+478: "Europe/Vilnius"
+​​
+479: "Europe/Volgograd"
+​​
+480: "Europe/Warsaw"
+​​
+481: "Europe/Zagreb"
+​​
+482: "Europe/Zaporozhye"
+​​
+483: "Europe/Zurich"
+​​
+484: "GB"
+​​
+485: "GB-Eire"
+​​
+486: "GMT"
+​​
+487: "GMT+0"
+​​
+488: "GMT-0"
+​​
+489: "GMT0"
+​​
+490: "Greenwich"
+​​
+491: "HST"
+​​
+492: "Hongkong"
+​​
+493: "Iceland"
+​​
+494: "Indian/Antananarivo"
+​​
+495: "Indian/Chagos"
+​​
+496: "Indian/Christmas"
+​​
+497: "Indian/Cocos"
+​​
+498: "Indian/Comoro"
+​​
+499: "Indian/Kerguelen"
+​​
+500: "Indian/Mahe"
+​​
+501: "Indian/Maldives"
+​​
+502: "Indian/Mauritius"
+​​
+503: "Indian/Mayotte"
+​​
+504: "Indian/Reunion"
+​​
+505: "Iran"
+​​
+506: "Israel"
+​​
+507: "Jamaica"
+​​
+508: "Japan"
+​​
+509: "Kwajalein"
+​​
+510: "Libya"
+​​
+511: "MET"
+​​
+512: "MST"
+​​
+513: "MST7MDT"
+​​
+514: "Mexico/BajaNorte"
+​​
+515: "Mexico/BajaSur"
+​​
+516: "Mexico/General"
+​​
+517: "NZ"
+​​
+518: "NZ-CHAT"
+​​
+519: "Navajo"
+​​
+520: "PRC"
+​​
+521: "PST8PDT"
+​​
+522: "Pacific/Apia"
+​​
+523: "Pacific/Auckland"
+​​
+524: "Pacific/Bougainville"
+​​
+525: "Pacific/Chatham"
+​​
+526: "Pacific/Chuuk"
+​​
+527: "Pacific/Easter"
+​​
+528: "Pacific/Efate"
+​​
+529: "Pacific/Enderbury"
+​​
+530: "Pacific/Fakaofo"
+​​
+531: "Pacific/Fiji"
+​​
+532: "Pacific/Funafuti"
+​​
+533: "Pacific/Galapagos"
+​​
+534: "Pacific/Gambier"
+​​
+535: "Pacific/Guadalcanal"
+​​
+536: "Pacific/Guam"
+​​
+537: "Pacific/Honolulu"
+​​
+538: "Pacific/Johnston"
+​​
+539: "Pacific/Kiritimati"
+​​
+540: "Pacific/Kosrae"
+​​
+541: "Pacific/Kwajalein"
+​​
+542: "Pacific/Majuro"
+​​
+543: "Pacific/Marquesas"
+​​
+544: "Pacific/Midway"
+​​
+545: "Pacific/Nauru"
+​​
+546: "Pacific/Niue"
+​​
+547: "Pacific/Norfolk"
+​​
+548: "Pacific/Noumea"
+​​
+549: "Pacific/Pago_Pago"
+​​
+550: "Pacific/Palau"
+​​
+551: "Pacific/Pitcairn"
+​​
+552: "Pacific/Pohnpei"
+​​
+553: "Pacific/Ponape"
+​​
+554: "Pacific/Port_Moresby"
+​​
+555: "Pacific/Rarotonga"
+​​
+556: "Pacific/Saipan"
+​​
+557: "Pacific/Samoa"
+​​
+558: "Pacific/Tahiti"
+​​
+559: "Pacific/Tarawa"
+​​
+560: "Pacific/Tongatapu"
+​​
+561: "Pacific/Truk"
+​​
+562: "Pacific/Wake"
+​​
+563: "Pacific/Wallis"
+​​
+564: "Pacific/Yap"
+​​
+565: "Poland"
+​​
+566: "Portugal"
+​​
+567: "ROC"
+​​
+568: "ROK"
+​​
+569: "Singapore"
+​​
+570: "Turkey"
+​​
+571: "UCT"
+​​
+572: "US/Alaska"
+​​
+573: "US/Aleutian"
+​​
+574: "US/Arizona"
+​​
+575: "US/Central"
+​​
+576: "US/East-Indiana"
+​​
+577: "US/Eastern"
+​​
+578: "US/Hawaii"
+​​
+579: "US/Indiana-Starke"
+​​
+580: "US/Michigan"
+​​
+581: "US/Mountain"
+​​
+582: "US/Pacific"
+​​
+583: "US/Pacific-New"
+​​
+584: "US/Samoa"
+​​
+585: "UTC"
+​​
+586: "Universal"
+​​
+587: "W-SU"
+​​
+588: "WET"
+​​
+589: "Zulu"
+​
+length: 590
+​ref: https://momentjs.com/timezone/
