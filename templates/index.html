@@ -235,7 +235,7 @@
       ga('send', 'pageview');
 
 
-
+      // https://blog.csdn.net/dcb_ripple/article/details/54347339
       var Cookie = {  
         setCookie:function(name,value,option){  
             var str = name + "=" + escape(value);  
@@ -268,10 +268,10 @@
     }  
     window.onload=function(){  
         if("1"==Cookie.getCookie("diffmaker")){  
-            alert("找到Cookie，我将不再刷新页面，并删除Cookie");  
+            //alert("找到Cookie，我将不再刷新页面，并删除Cookie");  
             Cookie.delCookie("diffmaker");  
         }else{  
-            alert("没有找到Cookie，我将刷新页面!");  
+            //alert("没有找到Cookie，我将刷新页面!");  
             Cookie.setCookie("diffmaker","1",null);  
             window.location.reload(true);  
         }  
