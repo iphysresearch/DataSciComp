@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% block head %}
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Data Science Competitions Deadlines</title>
+        <meta name="description" content="Countdowns to popular Data Science Competitions deadlines">
+        <meta name="author" content="Herb">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap-4.2.1-dist/css/bootstrap.min.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='deadlines_css/deadlines.css') }}" media="screen,projection">
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.countdown.min.js') }}"></script>    
+        <script src="{{ url_for('static', filename='js/moment.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/moment-timezone-with-data.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/store.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/ouical.min.js') }}"></script>
+        {% endblock %}
+    </head>
+    <body>
+
+        <div class="container">
+            <!-- <a href="https://github.com/iphysresearch/DataSciComp" style="position: absolute; top: 0; right: 0; border: 0;"><img width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_red_aa0000.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a> -->
+            
+            {% block container %}
+
+            {% endblock %}
+        </div>
+
+
+        {% block script_js %}
+
+        {% endblock %}
+    </body>
+</html>

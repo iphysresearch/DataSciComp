@@ -1,0 +1,244 @@
+{% extends 'base.html' %}
+
+
+
+
+{% block container %}
+{{ super() }}
+<div class="page-header">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12">
+            <h1>Data Science Challenge / Competition
+                <iframe src="https://ghbtns.com/github-btn.html?user=iphysresearch&repo=DataSciComp&type=star&count=true" scrolling="0" width="170px" height="20px" frameborder="0"></iframe>
+            </h1>
+        </div>
+        <div class="meta col-xs-12">
+            Countdowns to <b>ENTRY DEADLINE</b> of popular Data Science Challenges/Competitions.
+            To add/update a challenge, 
+            <a target="_blank" href="//">send in a pull request</a>
+        </div>
+    </div>
+
+    <br>
+
+    <div class="row">
+        <div class="col-xs-12">
+            <form class="form-horizontal">
+                <div class="form-group">
+                    {% for id_checkbox in id_name_checkboxs %}
+                    <div class="col-md-4 col-xs-5">
+                        <div class="checkbox">
+                            <label><input id="{{ id_checkbox.id }}" class="" type="checkbox"></input>
+                                {{ id_checkbox.name }}
+                            </label>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="row">
+        <div class="meta col-xs-12">
+            Export all deadlines to
+            <a href="https://calendar.google.com/calendar/r?cid=http://aideadlin.es/ai-deadlines.ics">Google Calendar</a>
+             .<p id="system-time"></p>
+        </div>
+    </div>
+</div>
+
+{% for Comp in competitions %}
+<div id="{{ Comp.id }}" class="{{ '-comp '.join(Comp.type) }}-comp">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="{{ Comp.url }}"><b>{{ Comp.title }}</b></a>
+            <div class="meta">{{ Comp.range }}
+                 // Host by
+                 {% if Comp.from_url %}
+                <a href="{{ Comp.from_url }}">{{ Comp.from }}</a>
+                 {% else %}
+                 {{ Comp.from }}
+                 {% endif %} // Price: {{ Comp.price }}</div>
+            {% if Comp.note %}
+            <div class="note"><b>Note</b>: {{ Comp.note }} 
+            <!-- More info <a href="http://baidu.com">here</a> -->
+            </div>
+            {% endif %}
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            {% if Comp.deadtime != 'No deadline' %}
+            <span class="timer"></span>
+            <div class="deadline">
+                <div>Entry Deadline:<span class="deadline-time"></span></div>
+            </div>
+            <div class="calendar"></div>
+            {% else %}
+            <div>No Deadline.</div>
+            {% endif %}                      
+        </div>
+    </div>
+    <hr>
+</div>
+{% endfor %}
+<footer>
+    <a href="/">DataSciComp</a>
+    is maintained by
+    <a href="//twitter.com">@Herb</a>
+    .
+</footer>
+<hr>
+{% endblock %}
+
+
+
+{% block script_js %}
+{{ super() }}
+<script type="text/javascript" charset="utf-8">
+    $(function() {
+        // https://github.com/carlsednaoui/add-to-calendar-buttons
+        {% for Comp in competitions %}
+            {% if Comp.deadtime != 'No deadline' %}
+          // adjust date according to deadline timezone
+        //   var timezone = "Etc/GMT-8" ;
+        //   var timezone = "Asia/Shanghai" ;
+          var timezone = "{{ Comp.timezone }}" ;
+          var compDate = moment.tz("{{ Comp.deadtime }}", timezone);
+
+          // render countdown timer
+          $('#{{ Comp.id }} .timer').countdown(compDate.toDate(), function(event) {
+            $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+          });
+          $('#{{ Comp.id }} .deadline-time').html(compDate.toString());
+
+          // add calendar button
+          var myCalendar = createCalendar({
+            options: {
+              class: 'calendar-obj',
+
+              // You can pass an ID. If you don't, one will be generated for you
+              id: '{{ Comp.id }}'
+            },
+            data: {
+              // Event title
+              title: '[Entry Deadline] {{ Comp.title }}',
+
+              // Event start date
+              start: compDate.toDate(), 
+              end: compDate.toDate(), 
+                // You can also choose to set an end time
+                // If an end time is set, this will take precedence over duration
+                // end: new Date('June 15, 2013 23:00'),                   
+
+              // Event duration (IN MINUTES)
+              duration: 60,
+
+                // Event Description
+                description: '{{ Comp.note }}'
+            }
+          });
+          document.querySelector('#{{ Comp.id }} .calendar').appendChild(myCalendar);
+
+          // check if date has passed, add 'past' class to it
+          var today = moment();
+          if (today.diff(compDate) > 0)
+            $('#{{ Comp.id }}').addClass('past');
+            {% endif %}
+        {% endfor %}
+        
+
+        // Set checkboxes
+        var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Industry","sub":"IT"},{"name":"Academia","sub":"AC"}];
+        var all_subs = [];
+        for (var i = 0; i < comp_type_data.length; i++) {
+          all_subs[i] = comp_type_data[i]['sub'];
+        }
+
+        // Get subjects from URL
+        var url = new URL(window.location);
+        var subs = url.searchParams.get('sub');
+        if (subs == undefined) {
+           subs = store.get('/');
+        } else {
+           subs = subs.toUpperCase().split(',');
+        }
+        // Get subjects from browser cache
+        if (subs === undefined) {
+          subs = all_subs;
+          for (var i = 0; i < subs.length; i++) {
+            $('#' + subs[i] + '-checkbox').prop('checked', true);
+          }
+        } else {
+          for (var i = 0; i < subs.length; i++) {
+            $('#' + subs[i] + '-checkbox').prop('checked', true);
+          }
+        }
+        // Hide unchecked subs
+        for (var i = 0; i < all_subs.length; i++) {
+          if (subs.indexOf(all_subs[i]) < 0) {
+            $('.' + all_subs[i] + '-comp').hide();
+          }
+        }
+        store.set('aideadlin.es', subs);
+        window.history.pushState('', '', '/?sub=' + subs.join());
+
+        // Event handler on checkbox change
+        $('form :checkbox').change(function(e) {
+          var checked = $(this).is(':checked');
+          var cid = $(this).prop('id');
+          var csub = cid.substring(0, cid.length - 9);
+          if (checked == true) {
+            // $('.' + csub + '-comp').show();
+            if (subs.indexOf(csub) < 0)
+              subs.push(csub);
+          }
+          else {
+            // $('.' + csub + '-comp').hide();
+            var idx = subs.indexOf(csub);
+            if (idx >= 0)
+              subs.splice(idx, 1);
+          }
+        // First, hide all
+        for (var i = 0; i < all_subs.length; i++) {
+            $('.' + all_subs[i] + '-comp').hide();
+        }
+        // Then, show the one with checked subs
+        for (var i = 0; i < all_subs.length; i++) {
+          if (subs.indexOf(all_subs[i]) >= 0) {
+            $('.' + all_subs[i] + '-comp').show();
+          }
+        }
+          console.log(subs);
+          store.set('/', subs);
+          window.history.pushState('', '', '/?sub=' + subs.join());
+        });
+    });
+    
+        // Your system time
+        var t = null;
+    t = setTimeout(showTime,1000);//开始执行
+    function showTime()
+    {
+       clearTimeout(t);//清除定时器
+       dt = new Date();
+       document.getElementById("system-time").innerHTML = 'Your system time: '+dt;
+       t = setTimeout(showTime,1000); //设定定时器，循环执行             
+    } 
+    // <!-- Google analytics -->
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-36274081-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+{% endblock %}
+
+
+<!-- 完整的 JavaScript 参考手册：http://www.w3school.com.cn/jsref/index.asp
+- JavaScript 本地对象和内置对象
+- Browser 对象（BOM）
+- HTML DOM 对象 -->
+
+<!-- HTML DOM Style 对象参考手册：http://www.w3school.com.cn/jsref/dom_obj_style.asp -->
+
+<!-- $() = document.getElementById() -->

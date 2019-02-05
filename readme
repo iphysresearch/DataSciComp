@@ -1,0 +1,36 @@
+
+# Using this to develop
+pipenv install --dev
+
+如何 built：
+frozen-flask
+
+描述：
+三个 TAG 是如何定义的
+倒计时的时间是如何定义的
+Price means total price
+
+社区：
+微信群；
+
+TODO：
+add favicon.ico https://www.cnblogs.com/mingjixiaohui/p/5381541.html
+双语？
+更新推送？
+对赛题和平台的介绍
+增加历史赛题集锦
+动态 website + 固定站点的定期爬虫自动更新
+
+Update Log：
+
+如何贡献：
+在 issues 中发帖贡献，提供建设性意见，欢迎指出错误
+PR 直接修改 YAML
+
+FAQ：
+为什么如此设计（三个TAG）
+最后一次 README.md 的 commit 记录在哪里？
+
+鸣谢：
+flask
+http://aideadlin.es

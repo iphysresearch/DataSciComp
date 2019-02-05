@@ -1,0 +1,5 @@
+# FLASK
+
+FLASK_ENV=development
+# FLASK_DEBUG=0
+FLASK_APP=run
