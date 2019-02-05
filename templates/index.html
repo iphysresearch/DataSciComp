@@ -163,6 +163,7 @@
            subs = subs.toUpperCase().split(',');
         }
         // Get subjects from browser cache
+        window.parent.window.location.reload();
         if (subs === undefined) {
           subs = all_subs;
           for (var i = 0; i < subs.length; i++) {
@@ -184,6 +185,7 @@
 
         // Event handler on checkbox change
         $('form :checkbox').change(function(e) {
+        window.parent.window.location.reload();
           var checked = $(this).is(':checked');
           var cid = $(this).prop('id');
           var csub = cid.substring(0, cid.length - 9);
@@ -214,8 +216,8 @@
         });
     });
     
-        // Your system time
-        var t = null;
+    // Your system time
+    var t = null;
     t = setTimeout(showTime,1000);//开始执行
     function showTime()
     {
