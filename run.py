@@ -26,4 +26,4 @@ def index(id_name_checkboxs = id_name_checkboxs, competitions = competitions):
 
 if __name__ == '__main__':
     # freezer.freeze()
-    freezer.run(debug=True)
+    freezer.run(debug=False)

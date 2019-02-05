@@ -40,9 +40,10 @@
     </div>
     <div class="row">
         <div class="meta col-xs-12">
-            Export all deadlines to
+            <!-- Export all deadlines to
             <a href="https://calendar.google.com/calendar/r?cid=http://aideadlin.es/ai-deadlines.ics">Google Calendar</a>
-             .<p id="system-time"></p>
+             . -->
+             <p id="system-time"></p>
         </div>
     </div>
 </div>
@@ -157,7 +158,7 @@
         var url = new URL(window.location);
         var subs = url.searchParams.get('sub');
         if (subs == undefined) {
-           subs = store.get('//iphysresearch.github.io/DataSciComp/build/');
+           subs = store.get('/');
         } else {
            subs = subs.toUpperCase().split(',');
         }
@@ -178,7 +179,7 @@
             $('.' + all_subs[i] + '-comp').hide();
           }
         }
-        store.set('//iphysresearch.github.io/DataSciComp/build/', subs);
+        store.set('/', subs);
         window.history.pushState('', '', '/?sub=' + subs.join());
 
         // Event handler on checkbox change
