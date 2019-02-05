@@ -180,7 +180,7 @@
           }
         }
         store.set('/DataSciComp/build/', subs);
-        window.history.pushState('', '/DataSciComp/build/', '/?sub=' + subs.join());
+        window.history.pushState('', '', '/DataSciComp/build/?sub=' + subs.join());
 
         // Event handler on checkbox change
         $('form :checkbox').change(function(e) {
@@ -210,7 +210,7 @@
         }
           console.log(subs);
           store.set('/DataSciComp/build/', subs);
-          window.history.pushState('', '/DataSciComp/build/', '/?sub=' + subs.join());
+          window.history.pushState('', '', '/DataSciComp/build/?sub=' + subs.join());
         });
     });
     
