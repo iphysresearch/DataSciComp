@@ -25,7 +25,7 @@
         <div class="col-xs-12">
             <form class="form-horizontal">
                 <div class="form-group">
-                    {% for id_checkbox in id_name_checkboxs %}
+                    {% for id_checkbox in id_type_checkboxs %}
                     <div class="col-md-4 col-xs-5">
                         <div class="checkbox">
                             <label><input id="{{ id_checkbox.id }}" class="" type="checkbox"></input>
@@ -36,6 +36,20 @@
                     {% endfor %}
                 </div>
             </form>
+            <hr>
+            <form class="form-horizontal">
+                <div class="form-group">
+                    {% for id_checkbox in id_type2_checkboxs %}
+                    <div class="col-md-4 col-xs-5">
+                        <div class="checkbox">
+                            <label><input id="{{ id_checkbox.id }}" class="" type="checkbox"></input>
+                                {{ id_checkbox.name }}
+                            </label>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </form>            
         </div>
     </div>
     <div class="row">
@@ -49,7 +63,7 @@
 </div>
 
 {% for Comp in competitions %}
-<div id="{{ Comp.id }}" class="{{ '-comp '.join(Comp.type) }}-comp">
+<div id="{{ Comp.id }}" class="{{ '-comp '.join(Comp.type1) }}-comp {{ '-comp '.join(Comp.type2) }}-comp">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="{{ Comp.url }}"><b>{{ Comp.title }}</b></a>
@@ -59,9 +73,9 @@
                 <a href="{{ Comp.from_url }}">{{ Comp.from }}</a>
                  {% else %}
                  {{ Comp.from }}
-                 {% endif %} // Price: {{ Comp.price }}</div>
+                 {% endif %} // Prize: {{ Comp.prize }}</div>
             {% if Comp.note %}
-            <div class="note"><b>Note</b>: {{ Comp.note }} 
+            <div class="note"><b>Note</b>: {{ Comp.note | safe }} 
             <!-- More info <a href="http://baidu.com">here</a> -->
             </div>
             {% endif %}
@@ -70,7 +84,7 @@
             {% if Comp.deadtime != 'No deadline' %}
             <span class="timer"></span>
             <div class="deadline">
-                <div>Entry Deadline:<span class="deadline-time"></span></div>
+                <div>Entry Deadline: <span class="deadline-time"></span></div>
             </div>
             <div class="calendar"></div>
             {% else %}
@@ -148,11 +162,20 @@
         
 
         // Set checkboxes
-        var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Industry","sub":"IT"},{"name":"Academia","sub":"AC"}];
+        var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Industry","sub":"IT"},{"name":"Academia","sub":"AC"},{"name":"Data Mining","sub":"DM"},{"name":"Computer Vision","sub":"CV"},{"name":"Natural Language Processing","sub":"NLP"},{"name":"Reinforcement Learning/Robotics","sub":"RL"},{"name":"Speech/Signal Proccessing","sub":"SP"}];
         var all_subs = [];
+        var type1_subs = [];
+        var type2_subs = [];
         for (var i = 0; i < comp_type_data.length; i++) {
           all_subs[i] = comp_type_data[i]['sub'];
+          if (i <= 2) {
+            type1_subs[i] = comp_type_data[i]['sub'];
+          }
+          else {
+            type2_subs[i] = comp_type_data[i]['sub'];
+          }
         }
+
 
         // Get subjects from URL
         var url = new URL(window.location);
@@ -204,10 +227,14 @@
         for (var i = 0; i < all_subs.length; i++) {
             $('.' + all_subs[i] + '-comp').hide();
         }
-        // Then, show the one with checked subs
-        for (var i = 0; i < all_subs.length; i++) {
-          if (subs.indexOf(all_subs[i]) >= 0) {
-            $('.' + all_subs[i] + '-comp').show();
+        // Then, show the one with checked subs within PF/IT/AC
+        for (var i = 0; i < type1_subs.length; i++) {
+          if (subs.indexOf(type1_subs[i]) >= 0) {
+            for (var j = 0; j < type2_subs.length; j++) {
+              if (subs.indexOf(type2_subs[j]) >= 0) {
+                $('.' + type1_subs[i] + '-comp'+''+'.' + type2_subs[j] + '-comp').show();
+              }
+            }
           }
         }
           console.log(subs);
@@ -223,7 +250,7 @@
     {
        clearTimeout(t);//清除定时器
        dt = new Date();
-       document.getElementById("system-time").innerHTML = 'Your system time: '+dt;
+       document.getElementById("system-time").innerHTML = 'Your current server time: '+dt;
        t = setTimeout(showTime,1000); //设定定时器，循环执行             
     } 
     // <!-- Google analytics -->
