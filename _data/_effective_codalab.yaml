@@ -1,0 +1,373 @@
+
+# CadaLab ##
+
+- id: Evaluating_grammatical_error_corrections
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: Evaluating grammatical error corrections
+  url: https://competitions.codalab.org/competitions/15475
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+  range: Nov. 23, 2016 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 
+  prize: NaN
+
+- id: IEEE_2019_GRSS_Data_Fusion_Contest
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 2019 IEEE GRSS Data Fusion Contest
+  url: http://www.grss-ieee.org/community/technical-committees/data-fusion/
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - IEEE GRSS: http://www.grss-ieee.org
+  range: January 9 - March 29, 2019
+  deadtime: "2019-03-22 23:59:59"
+  timezone: UTC
+  note: "4 Tracks:<br>Single-view semantic 3D;<br>Pairwise semantic stereo;<br>Multi-view semantic stereo;<br>3D point cloud classification"
+  prize: NaN
+
+- id: NTIRE_2019_image_restoration_and_enhancement_challenges
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: NTIRE 2019 image restoration and enhancement challenges
+  url: http://www.vision.ee.ethz.ch/ntire19/
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - NTIRE 2019: http://www.vision.ee.ethz.ch/ntire19/
+  range: December 20, 2018 - March 20, 2019
+  deadtime: "2019-03-01 23:59:59"
+  timezone: UTC
+  note: "<br><a href='https://competitions.codalab.org/competitions/21163'>Image Dehazing Challenge</a> based on a novel dataset with pairs of real dense hazy and corresponding ground truth haze-free images;
+  <br><a href='https://competitions.codalab.org/competitions/21258'>Image denoising challenge: Track 1 rawRGB</a>;
+  <br><a href='https://competitions.codalab.org/competitions/21266'>Image Super-Resolution Challenge: Track 2 sRGB</a>;
+  <br><a href='https://competitions.codalab.org/competitions/21439'>Image Enhancement Challenge</a>based on a novel dataset with pairs of real low and corresponding high resolution images;
+  <br><a href='https://competitions.codalab.org/competitions/21471'>Image Colorization Challenge</a>;
+  <br><a href='https://competitions.codalab.org/competitions/21473'>Video Deblurring Challenge: Track 1 no guidance</a>;
+  <br><a href='https://competitions.codalab.org/competitions/21474'>Video Super-Resolution Challenge: Track 2 with guidance</a>;"
+  prize: NaN
+
+- id: Shared_Task_on_Hierarchical_Classification_of_Blurbs
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: Shared Task on Hierarchical Classification of Blurbs
+  url: https://competitions.codalab.org/competitions/21226
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - KONVENS 2019: https://dgfs.de/en/cl/konvens.html
+  range: Feb. 1 - Aug, 2019
+  deadtime: "2019-07-15 23:59:59"
+  timezone: UTC
+  note: "This task is focusing on classifying <b>German</b> books into their respective hierarchically structured writing genres using short advertisement texts (Blurbs) and further meta information such as author, page number, release date, etc."
+  prize: NaN
+
+- id: Segmentation_of_THoracic_Organs_at_Risk_in_CT_images
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: Segmentation of THoracic Organs at Risk in CT images (SegTHOR)
+  url: https://competitions.codalab.org/competitions/21012
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+  range: Jan. 5 - Aug 8, 2019
+  deadtime: "2019-08-08 23:59:59"
+  timezone: UTC
+  note: "The goal of the SegTHOR challenge is to automatically segment 4 OAR: heart, aorta, trachea, esophagus. Participants will be provided with a training set 40 CT scans with manual segmentation. The test set will include 20 CT scans."
+  prize: NaN
+
+- id: MADAR_Shared_Task_on_Arabic_Fine-Grained_Dialect_Identification
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: MADAR Shared Task on Arabic Fine-Grained Dialect Identification
+  url: https://sites.google.com/view/madar-shared-task/home
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - WANLP 2019: https://sites.google.com/view/wanlp-2019/home
+  range: Jan. 7 - Aug 1, 2019
+  deadtime: "2019-04-29 23:59:59"
+  timezone: UTC
+  note: "<b>Subtask 1</b>: MADAR Travel Domain Dialect Identification.<br><b>Subtask 2</b>: MADAR Twitter User Dialect Identification."
+  prize: NaN
+ 
+
+- id: Zero_Resource_Speech_Challenge_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - SP
+  title: Zero Resource Speech Challenge 2019
+  url: https://zerospeech.com/2019/news.html
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - ZeroSpeech 2019: https://zerospeech.com/index.html
+  range: Feb. 4 - April 5, 2019
+  deadtime: "2019-03-15 23:59:59"
+  timezone: UTC
+  note: "The ZeroSpeech 2019 challenge addresses this problem by proposing to <b>build a speech synthesizer without any text</b> or phonetic labels, hence TTS without T (text-to-speech without text)."
+  prize: NaN
+
+- id: "AutoML_for_Lifelong_Machine_Learning"
+  type1: 
+    - PF
+    - IT
+    - AC
+  type2:
+    - ML
+    - RL
+    - CV
+  title: "The 4th AutoML Challenge (AutoML3+): AutoML for Lifelong Machine Learning"
+  url: https://competitions.codalab.org/competitions/20675
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - AutoML: http://automl.chalearn.org
+    - PAKDD 2019: https://www.4paradigm.com/competition/pakdd2019
+  range: Dec. 25, 2018 - April 30, 2019
+  deadtime: "2019-03-07 23:59:59"
+  timezone: UTC
+  note: "The goal of this challenge is to expose the research community to real world datasets exhibiting the concept drift phenomenon, and under a lifelong ML evaluation scenario. Participants must develop AutoML solutions for dealing with these problems."
+  prize: $2,000
+
+- id: ChaLearn_Face_Anti-spoofing_Attack_Detection_Challenge
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: ChaLearn Face Anti-spoofing Attack Detection Challenge@CVPR2019
+  url: https://competitions.codalab.org/competitions/20853
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - CVPR 2019: http://chalearnlap.cvc.uab.es/workshop/32/description/
+  range: December 22, 2018 - March 10, 2019
+  deadtime: "2019-03-10 23:59:59"
+  timezone: UTC
+  note: '<a href="https://arxiv.org/abs/1812.00408">"CASIA-SURF: A Dataset and Benchmark for Large-scale Multi-modal Face Anti-spoofing"</a>(arXiv:1812.00408)'
+  prize: NaN
+
+
+- id: First_TextWorld_Problems
+  type1: 
+    - PF
+  type2:
+    - RL
+    - NLP
+  title: "First TextWorld Problems: A Reinforcement and Language Learning Challenge"
+  url: https://competitions.codalab.org/competitions/20865
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+  range: Dec. 8, 2018 - June 1, 2019
+  deadtime: "2019-05-31 23:59:59"
+  timezone: UTC
+  note: 'The challenge consists in building an AI agent that can play efficiently and win simplified text-based games using <a href="https://github.com/Microsoft/TextWorld">TextWorld</a>.'
+  prize: NaN
+
+  
+- id: ACRV_Robotic_Vision_Challenge
+  type1: 
+    - PF
+  type2:
+    - RL
+    - CV
+  title: "The First Australian Centre for Robotic Vision (ACRV) Challenge"
+  url: https://competitions.codalab.org/competitions/20940
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+  range: Dec. 1, 2018 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 'The challenge consists in building an AI agent that can play efficiently and win simplified text-based games using <a href="https://github.com/Microsoft/TextWorld">TextWorld</a>.'
+  prize: NaN
+
+
+- id: Microsoft_AI_Challenge_India_2018
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: Microsoft AI Challenge India 2018
+  url: https://competitions.codalab.org/competitions/20616
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+  range: Nov. 19, 2018 - July 1, 2019
+  deadtime: "2019-07-01 18:59:59"
+  timezone: UTC
+  note: 'The Microsoft AI Challenge India 2018 is over now. The page is active for learning purposes only. Problem statement:<br>"Given a user query and candidate passages corresponding to each, the task is to mark the most relevant passage which contains the answer to the user query."'
+  prize: NaN
+
+- id: TVQA_Test_Public_Evaluation_w_timestamp_Beta
+  type1: 
+    - PF
+  type2:
+    - CV
+    - NLP
+  title: TVQA Test Public Evaluation (w/timestamp) Beta
+  url: https://competitions.codalab.org/competitions/20686
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - TVQA: http://tvqa.cs.unc.edu/index.html
+  range: Nov. 16, 2018 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: "This portal is only used for models that used 'ts' (timestamp annotations)<br>TVQA is a large-scale video QA dataset based on 6 popular TV shows (Friends, The Big Bang Theory, How I Met Your Mother, House M.D., Grey's Anatomy, Castle)."
+  prize: NaN
+
+
+- id: "IWCS-2019_shared_task_DRS_Parsing"
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: "IWCS-2019 shared task: DRS Parsing"
+  url: https://competitions.codalab.org/competitions/20220
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - IWCS-2019: https://sites.google.com/view/iwcs2019
+  range: Feb. 25, 2018 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: "The shared task on DRS parsing will be co-located with IWCS-2019 held in Gothenburg, Sweden on 23-27 May."
+  prize: NaN
+
+
+- id: Intuitive_Physics_Challenge_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: Intuitive Physics Challenge 2019
+  url: https://competitions.codalab.org/competitions/20574
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - IntPhys: http://www.intphys.com/challenge.html
+  range: Oct. 1, 2018 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 
+  prize: NaN
+
+
+- id: TrackML_Throughput_Phase
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+    - CV
+  title: TrackML Throughput Phase
+  url: https://competitions.codalab.org/competitions/20574
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - NeurIPS 2018: https://nips.cc/Conferences/2018/CompetitionTrack
+  range: Sept. 7, 2018 - March 12, 2019
+  deadtime: "2019-03-12 23:59:59"
+  timezone: UTC
+  note: 'The overall TrackML challenge web site is <a href="https://sites.google.com/site/trackmlparticle/">there</a>.'
+  prize: $15,000
+
+- id: SemEval-2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: SemEval-2019
+  url: http://alt.qcri.org/semeval2019/index.php?id=tasks
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - SemEval-2019: http://alt.qcri.org/semeval2019/
+  range: Now - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: '<br><b>Frame semantics and semantic parsing:</b>
+  <br><a href="https://competitions.codalab.org/competitions/19160">Task 1: Cross-lingual Semantic Parsing with UCCA</a>
+  <br><a href="https://competitions.codalab.org/competitions/19159">Task 2: Unsupervised Lexical Semantic Frame Induction</a>
+  <br><b>Opinion, emotion and abusive language detection</b>
+  <br><a href="https://www.humanizing-ai.com/emocontext.html">Task 3: EmoContext: Contextual Emotion Detection in Text</a>
+  <br><a href="http://www.webis.de/events/semeval-19">Task 4: Hyperpartisan News Detection</a>
+  <br><a href="https://competitions.codalab.org/competitions/19935">Task 5: HatEval: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter</a>
+  <br><a href="https://competitions.codalab.org/competitions/20011">Task 6: OffensEval: Identifying and Categorizing Offensive Language in Social Media<\a>
+  <br><b>Fact vs fiction</b>
+  <br><a href="https://competitions.codalab.org/competitions/19938">Task 7: RumourEval 2019: Determining Rumour Veracity and Support for Rumours</a>
+  <br><a href="https://competitions.codalab.org/competitions/20022">Task 8: Fact Checking in Community Question Answering Forums</a>
+  <br><b>Information extraction and question answering</b>
+  <br><a href="https://competitions.codalab.org/competitions/19955">Task 9: Suggestion Mining from Online Reviews and Forums</a>
+  <br><a href="https://competitions.codalab.org/competitions/20013">Task 10: Math Question Answering</a>
+  <br><b>NLP for scientific applications</b>
+  <br><a href="https://competitions.codalab.org/competitions/19948">Task 12: Toponym Resolution in Scientific Papers</a>'
+  prize: NaN
+
+- id: WiC_competition
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: WiC_competition
+  url: https://competitions.codalab.org/competitions/20010
+  hostby:
+    - CodaLab: https://competitions.codalab.org  
+  range: Aug. 18, 2018 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 'You can get all the information and data at <a href="https://pilehvar.github.io/wic">https://pilehvar.github.io/wic</a>'
+  prize: NaN
+
+
+- id: EPIC_Kitchens_Action_Anticipation
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: EPIC-Kitchens Action Anticipation
+  url: https://competitions.codalab.org/competitions/20115
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - EPIC-KITCHENS 2018: https://epic-kitchens.github.io/2018
+  range: Aug. 1, 2018 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: "The <b>largest dataset in first-person (egocentric) vision</b>; multi-faceted <b>non-scripted</b> recordings in native environments - i.e. the wearers' homes, capturing all daily activities in the kitchen over multiple days.
+  <br><a href='https://competitions.codalab.org/competitions/20115'>Action-Recognition Challenge</a>
+  <br><a href='https://competitions.codalab.org/competitions/20071'>Action-Anticipation Challenge</a>
+  <br><a href='https://competitions.codalab.org/competitions/20111'>Object-Detection Challenge</a>"
+  prize: NaN
+
+
+- id: OxUvA_Long_Term_Tracking_Challenge
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: OxUvA Long-Term Tracking Challenge
+  url: https://competitions.codalab.org/competitions/19529
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - ECCV 2018: https://oxuva.github.io/long-term-tracking-benchmark/
+  range: July 1, 2018 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: '"We introduce a new video dataset and benchmark to assess single-object tracking algorithms."'
+  prize: NaN

@@ -1,0 +1,35 @@
+
+# Unearthed ##
+
+
+- id: Predicting_zinc_recovery_at_McArthur_River_Mine
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: Predicting zinc recovery at McArthur River Mine
+  url: https://unearthed.solutions/u/competitions/turn-zinc
+  hostby:
+    - Unearthed: https://unearthed.solutions
+  range: 31 Jan - 05 Mar, 2019
+  deadtime: '2019-03-05 23:59:59'
+  timezone: UTC
+  note: 'As part of this competition, we ask you to build a model to accurately predict the rougher zinc recovery and the final zinc recovery for each hourly interval in the data set.'
+  prize: A$ 6,000
+
+
+
+# - id: A$1 Million in prizes on a journey to discovery with data
+#   type1: 
+#     - PF
+#   type2:
+#     - DM
+#   title: A$1 Million in prizes on a journey to discovery with data
+#   url: 
+#   from: Unearthed
+#   from_url: 'https://unearthed.solutions'
+#   range: 
+#   deadtime: 
+#   timezone: UTC
+#   note: 
+#   prize: 

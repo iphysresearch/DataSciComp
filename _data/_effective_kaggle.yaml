@@ -1,0 +1,188 @@
+# Kaggle ##
+
+- id: TMDB_Box_Office_Prediction
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: TMDB Box Office Prediction
+  url: https://www.kaggle.com/c/gendered-pronoun-resolution
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - May 30 2019
+  deadtime: "2019-05-30 23:59:59"
+  timezone: UTC
+  note: "Can you predict a movie's worldwide box office revenue?"
+  prize: Kaggle Swag
+
+- id: Gendered_Pronoun_Resolution
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: Gendered Pronoun Resolution
+  url: https://www.kaggle.com/c/gendered-pronoun-resolution
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: April 8 - August 2 2019
+  deadtime: "2019-04-08 23:59:59"
+  timezone: UTC
+  note: 'Pair pronouns to their correct entities'
+  prize: $25,000
+
+- id: LANL
+  type1: 
+    - PF
+    - AC
+  type2:
+    - SP
+  title: LANL Earthquake Prediction
+  url: https://www.kaggle.com/c/LANL-Earthquake-Prediction
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: May 27 - June 3 2019
+  deadtime: "2019-05-27 23:59:59"
+  timezone: UTC
+  note: 'Can you predict upcoming laboratory earthquakes?'
+  prize: $50,000
+
+- id: PetFinder_my-Adoption-Prediction
+  type1: 
+    - PF
+  type2:
+    - DM
+    - CV
+    - NLP
+  title: PetFinder.my Adoption Prediction
+  url: https://www.kaggle.com/c/petfinder-adoption-prediction
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: March 21 - March 28 2019
+  deadtime: "2019-03-21 23:59:59"
+  timezone: UTC
+  note: 'How cute is that doggy in the shelter?'
+  prize: $25,000
+  
+- id: VSB_Power_Line_Fault_Detection
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: VSB Power Line Fault Detection
+  url: https://www.kaggle.com/c/vsb-power-line-fault-detection
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: March 14 - 21 2019
+  deadtime: "2019-03-14 23:59:59"
+  timezone: UTC
+  note: 'Can you detect faults in above-ground electrical lines?'
+  prize: $25,000
+
+- id: Reducing_Commercial_Aviation_Fatalities
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: Reducing Commercial Aviation Fatalities
+  url: https://www.kaggle.com/c/reducing-commercial-aviation-fatalities
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: February 5 - 12 2019
+  deadtime: "2019-02-05 23:59:59"
+  timezone: UTC
+  note: 'Can you tell when a pilot is heading for trouble?'
+  prize: Kaggle Swag
+
+- id: Microsoft_Malware_Prediction
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+  title: Microsoft Malware Prediction
+  url: https://www.kaggle.com/c/microsoft-malware-prediction
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: March 6 - 13 2019
+  deadtime: "2019-03-06 23:59:59"
+  timezone: UTC
+  note: 'Can you predict if a machine will soon be hit with malware?'
+  prize: $25,000
+
+- id: Elo_Merchant_Category_Recommendation
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: Elo Merchant Category Recommendation
+  url: https://www.kaggle.com/c/elo-merchant-category-recommendation
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: February 19 - 26 2019
+  deadtime: "2019-02-19 23:59:59"
+  timezone: UTC
+  note: 'Help understand customer loyalty'
+  prize: $50,000
+
+- id: Humpback_Whale_Identification
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: Humpback Whale Identification
+  url: https://www.kaggle.com/c/humpback-whale-identification
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: February 21 - 28 2019
+  deadtime: "2019-02-21 23:59:59"
+  timezone: UTC
+  note: 'Can you identify a whale by its tail?'
+  prize: $25,000
+
+- id: ImageNet_Object_Localization_Challenge
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: ImageNet Object Localization Challenge
+  url: https://www.kaggle.com/c/imagenet-object-localization-challenge
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - December 31 2029
+  deadtime: "2029-12-31 23:59:59"
+  timezone: UTC
+  note: 'Identify the objects in images'
+  prize: NaN
+
+- id: Predict_Future_Sales
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: Predict Future Sales
+  url: https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: 'No deadline'
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 'Final project for "How to win a data science competition" Coursera course'
+  prize: NaN
+
+- id: Histopathologic_Cancer_Detection
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: Histopathologic Cancer Detection
+  url: https://www.kaggle.com/c/histopathologic-cancer-detection
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Novenber 16, 2018 - March 30, 2019
+  deadtime: "2019-03-30 23:59:59"
+  timezone: UTC
+  note: 'Identify metastatic tissue in histopathologic scans of lymph node sections'
+  prize: Kaggle Swag

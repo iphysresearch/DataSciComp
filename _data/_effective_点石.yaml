@@ -1,0 +1,20 @@
+
+
+
+# 点石 ##
+
+- id: meilixiangcun
+  type1: 
+    - PF
+    - IT
+  type2:
+    - CV
+  title: '第二届中国“高分杯”美丽乡村大赛'
+  url: https://dianshi.baidu.com/competition/28/rule
+  hostby: 
+    - 点石: https://dianshi.baidu.com/competition/28/rule
+  range: 1月23日 - 3月5日, 2019
+  deadtime: "2019-02-28 23:59:59"
+  timezone: "Asia/Shanghai"
+  note: '要求参赛队利用深度学习等智能算法自动识别出所给图像对应的农作物，包括<b>玉米、大豆、水稻三种农作物区块和其他区块共四种区块</b>，根据参赛团队对场景的识别准确度和时效性进行评分。'
+  prize: 85000RMB

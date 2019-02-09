@@ -1,0 +1,65 @@
+
+# Signate ##
+
+
+- id: Algorithmic_Trading_Challenge_1st_stage
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: Algorithmic Trading Challenge (1st stage)
+  url: https://signate.jp/competitions/146
+  hostby:
+    - SIGNATE: https://signate.jp/
+  range: 11月20日2018年 - 2月28日2019年
+  deadtime: "2019-02-20 23:59:59"
+  timezone: UTC
+  note: '本コンペではマーケットのヒストリカルデータを用いて実運用を想定したシミュレータを作成いただき、バックテストの結果を競い合っていただきます。'
+  prize: ¥2,000,000
+
+- id: NTT_Corevo_Challenge
+  type1: 
+    - PF
+  type2:
+    - SP
+  title: NTT Corevo Challenge
+  url: https://signate.jp/competitions/154
+  hostby:
+    - SIGNATE: https://signate.jp/
+  range: 12月17日2018年 - 2月28日2019年
+  deadtime: "2019-02-20 23:59:59"
+  timezone: UTC
+  note: 'In this competition, NTT asks you to create a model which classifies voice data recorded by smart phones into 6 classes (gender x age). '
+  prize: ¥2,000,000
+
+- id: The_2nd_Tellus_Satellite_Challenge
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: The 2nd Tellus Satellite Challenge
+  url: https://signate.jp/competitions/153
+  hostby:
+    - SIGNATE: https://signate.jp/
+  range: 1月18日 - 2月18日2019年
+  deadtime: "2019-02-14 23:59:59"
+  timezone: UTC
+  note: 'In this competition, you are required to locate ships in images and classify them into 3 categories {ship_moving, ship_not_moving, barge}.'
+  prize: ¥2,000,000
+
+
+- id: signate_jp_153
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 【招待制】糖尿病患者の検査項目データにおける臨床検査項目分類コード推定
+  url: https://signate.jp/competitions/153
+  hostby:
+    - SIGNATE: https://signate.jp/
+  range: Now - 2月28日2019年
+  deadtime: "2019-02-28 23:59:59"
+  timezone: UTC
+  note: '本コンペティションは招待制となっております。'
+  prize: ¥1,000,000
+

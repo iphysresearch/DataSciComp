@@ -1,5 +1,18 @@
 {% extends 'base.html' %}
 
+{% block head %}
+{{ super() }}
+<style type="text/css">
+    a:hover{color:#0099CC}
+    
+    /*.row:hover{border-style: None solid;
+        border-color:#666666;
+        border-width:1px;
+    }*/
+
+
+</style>
+{% endblock %}
 
 
 
@@ -69,11 +82,15 @@
             <a href="{{ Comp.url }}"><b>{{ Comp.title }}</b></a>
             <div class="meta">{{ Comp.range }}
                  // Host by
-                 {% if Comp.from_url %}
-                <a href="{{ Comp.from_url }}">{{ Comp.from }}</a>
-                 {% else %}
-                 {{ Comp.from }}
-                 {% endif %} // Prize: {{ Comp.prize }}</div>
+                 {% for host in Comp.hostby %}
+                 {% if loop.index > 1 %}
+                 &
+                 {% endif %}
+                 {% for item in host.items() %}
+                 <a href="{{ item[1] }}" style="background-color:#CCFF66">{{ item[0] }}</a>
+                 {% endfor %}
+                 {% endfor %}
+                 // Prize: {{ Comp.prize }}</div>
             {% if Comp.note %}
             <div class="note"><b>Note</b>: {{ Comp.note | safe }} 
             <!-- More info <a href="http://baidu.com">here</a> -->
@@ -296,7 +313,7 @@
     window.onload=function(){  
         if("1"==Cookie.getCookie("diffmaker")){  
             //alert("找到Cookie，我将不再刷新页面，并删除Cookie");  
-            //Cookie.delCookie("diffmaker");  
+            Cookie.delCookie("diffmaker");  
         }else{  
             //alert("没有找到Cookie，我将刷新页面!");  
             Cookie.setCookie("diffmaker","1",null);  

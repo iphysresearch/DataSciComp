@@ -1,0 +1,107 @@
+
+
+# datafountain ##
+
+- id: zhinengpandian
+  type1: 
+    - PF
+    - IT
+  type2:
+    - CV
+  title: '智能盘点—钢筋数量AI识别'
+  url: https://www.datafountain.cn/competitions/332/details
+  hostby: 
+    - DataFountain: https://www.datafountain.cn/
+  range: 1月10日-4月, 2019
+  deadtime: "2019-03-16 23:59:59"
+  timezone: "Asia/Shanghai"
+  note: '本赛题基于广联达公司提供的钢筋进场现场的图片和标注，希望参赛者综合运用计算机视觉和机器学习/深度学习等技术，实现拍照即可完成钢筋点根任务，大幅度提升建筑行业关键物料的进场效率和盘点准确性，将建筑工人从这项极其枯燥繁重的工作中解脱出来。'
+  prize: '￥1,000,000'
+
+
+- id: haishangfengchang
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: '海上风场SCADA数据缺失智能修复'
+  url: https://www.datafountain.cn/competitions/333/details
+  hostby: 
+    - DataFountain: https://www.datafountain.cn/
+  range: 1月10日-4月, 2019
+  deadtime: "2019-03-16 23:59:59"
+  timezone: "Asia/Shanghai"
+  note: '本赛题使用的数据来源于实际海上风电场运营期间产生的远程监控数据（也称SCADA数据），包含机组运行状态密切相关的传感器数据和报警信息等，每隔一定时间周期（大约为7秒）记录一次。该数据主要用于机组的运行状态监控、故障诊断分析以及机组性能优化等方面。'
+  prize: '￥1,000,000'
+
+
+
+- id: hunningtu
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: '混凝土泵车砼活塞故障预警'
+  url: https://www.datafountain.cn/competitions/336/details
+  hostby: 
+    - DataFountain: https://www.datafountain.cn/
+  range: 1月10日-4月, 2019
+  deadtime: "2019-03-24 23:59:59"
+  timezone: "Asia/Shanghai"
+  note: '本赛题的数据来源，主要是通过安装在混凝土泵车上的工业物联网边缘计算盒子，采集上传至云端的工况数据。'
+  prize: '￥1,000,000'
+
+
+
+- id: xiaofeizhe
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: '消费者人群画像—信用智能评分'
+  url: https://www.datafountain.cn/competitions/337/details
+  hostby: 
+    - DataFountain: https://www.datafountain.cn/
+  range: 1月10日-4月, 2019
+  deadtime: "2019-03-24 23:59:59"
+  timezone: "Asia/Shanghai"
+  note: '中国移动福建公司提供2018年x月份的样本数据（脱敏），包括客户的各类通信支出、欠费情况、出行情况、消费场所、社交、个人兴趣等丰富的多维度数据。'
+  prize: '￥1,000,000'
+
+
+- id: wenhuachuancheng
+  type1: 
+    - PF
+    - IT
+  type2:
+    - CV
+  title: '文化传承—汉字书法多场景识别'
+  url: https://www.datafountain.cn/competitions/334/details
+  hostby: 
+    - DataFountain: https://www.datafountain.cn/
+  range: 1月10日-4月, 2019
+  deadtime: "2019-03-24 23:59:59"
+  timezone: "Asia/Shanghai"
+  note: '首批提供的数据集为包含多种背景、多种字体的书法图片及对应的label，使参赛团队在挑战之余感受中国传统文化。'
+  prize: '￥1,000,000'
+
+
+- id: dashujuyiliao
+  type1: 
+    - PF
+    - IT
+  type2:
+    - CV
+  title: '大数据医疗——肝癌影像AI诊断'
+  url: https://www.datafountain.cn/competitions/335/details
+  hostby: 
+    - DataFountain: https://www.datafountain.cn/
+  range: 1月10日-4月, 2019
+  deadtime: "2019-03-24 23:59:59"
+  timezone: "Asia/Shanghai"
+  note: '赛题共包含数据近7600例肝癌病例影像，其中3600例作为训练，3974例作为测试。影像数据层厚分布为0.6mm-7.5mm。'
+  prize: '￥1,000,000'
+

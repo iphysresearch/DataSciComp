@@ -1,0 +1,247 @@
+
+
+# Challenge data ##
+
+- id: Optimizing_well_being_at_work
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Optimizing well-being at work
+  url: https://challengedata.ens.fr/challenges/15
+  hostby: 
+    - Challenge data: https://challengedata.ens.fr
+    - Oze Energies: https://www.optimzen.com
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: "This challenge proposes to develop machine learning based approaches so as to predict individuals' comfort model using several <b>time series</b> of environmental data obtained from sensors in a large building. The objective is to learn a classifier that uses these time series as inputs to predict the associated comfort class computed as an average of the comfort classes of all individuals in the building, assumed to experience the same environmental conditions."
+  prize: NaN
+
+- id: Drug_related_questions_classification
+  type1: 
+    - PF
+    - IT
+  type2:
+    - NLP
+  title: Drug-related questions classification
+  url: https://challengedata.ens.fr/challenges/17
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - Posos: https://www.posos.fr
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: "The goal of Posos challenge is to predict for each question the associated intent."
+  prize: NaN
+
+
+- id: Detecting_breast_cancer_metastases
+  type1: 
+    - PF
+    - IT
+    - AC
+  type2:
+    - CV
+  title: Detecting breast cancer metastases 
+  url: https://challengedata.ens.fr/challenges/18
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - OWKIN: https://owkin.com
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: 'The challenge proposed by Owkin is a <b>weakly-supervised binary classification problem</b> : predict whether a patient has any metastase in its lymph node or not, given its slide.'
+  prize: NaN
+
+- id: Building_Claim_Prediction 
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Building Claim Prediction 
+  url: https://challengedata.ens.fr/challenges/19
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - Generali: https://institutionnel.generali.fr/liste-des-offres
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: 'The goal of the challenge is to predict if a building will have an insurance claim during a certain period. You will have to predict a probability of having at least one claim over the insured period of a building.'
+  prize: NaN
+
+- id: Crack_the_neural_code_of_the_brain
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+    - SP
+  title: Crack the neural code of the brain
+  url: https://challengedata.ens.fr/challenges/14
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - GNT ENS: https://lnc2.dec.ens.fr/en
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: 'The challenge goal is to classify the brain activity state of an animal based on spiking activity patterns of its individual neurons.'
+  prize: NaN
+
+- id: Prediction_of_Sharpe_ratio_for_blends_of_quantitative_strategies
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Prediction of Sharpe ratio for blends of quantitative strategies 
+  url: https://challengedata.ens.fr/challenges/13
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - Napoleon X: https://www.napoleonx.ai
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: 'The problem is a prediction challenge that aims at helping the Company to build an optimal blend of quantitative strategies, given a set of such strategies.'
+  prize: NaN
+
+
+- id: Historical_consumption_regression_for_electricity_supply_pricing 
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Historical consumption regression for electricity supply pricing
+  url: https://challengedata.ens.fr/challenges/12
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - BCM Energy: https://www.planete-oui.fr/particuliers
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: 'The goal of the challenge is to predict, based on the analysis of the correlation of a year of consumption and weather training data, the electricity consumption of two given sites for a test year.' 
+  prize: NaN  
+
+- id: Predict_brain_deep_sleep_slow_oscillation 
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Predict brain deep sleep slow oscillation 
+  url: https://challengedata.ens.fr/challenges/10
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - Dreem: https://dreem.com
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: 'In this dataset, we try to predict whether or not a slow oscillation will be followed by another one in sham condition, i.e. without any stimulation.'
+  prize: NaN  
+
+- id: Spatiotemporal_PM10_concentration_prediction 
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Spatiotemporal PM10 concentration prediction 
+  url: https://challengedata.ens.fr/challenges/7
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - Plume Labs: https://plumelabs.com/en/
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: 'In order to provide air quality forecasts, Plume Labs has built a unique database with readings collected by monitoring stations all over the world. The problem we submit consists in predicting the PM10 readings of some air quality monitoring stations using the readings provided by the monitoring stations nearby as well as urban features.'
+  prize: NaN  
+
+
+- id: Dynamic_Profile_Forecasting
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Dynamic Profile Forecasting
+  url: https://challengedata.ens.fr/challenges/6
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - Enedis: https://www.enedis.fr
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: 'This challenge is about forecasting dynamic profiles values from their past values and all the components of <a href="https://data.enedis.fr/explore/dataset/bilan-electrique-demi-heure/information/">Enedis’ Half hourly Electrical Balancing</a>.'
+  prize: NaN  
+
+
+- id: Solve_2x2x2_Rubiks_cube
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Solve 2x2x2 Rubik's cube
+  url: https://challengedata.ens.fr/challenges/20
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - LumenAI: http://www.lumenai.fr
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: "The goal is to design an automatic Rubik's analyzer that estimates the current length of the shortest path to the solution."
+  prize: NaN    
+
+- id: Exotic_pricing_with_multidimensional_non_linear_interpolation 
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Exotic pricing with multidimensional non-linear interpolation 
+  url: https://challengedata.ens.fr/challenges/9
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - Natixis: http://www.natixis.com
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: "The purpose of the challenge is to use a training set of 1 million prices to learn how to price a specific type of instruments described by 23 parameters by nonlinear interpolation on these prices."
+  prize: NaN    
+
+- id: Screening_and_Diagnosis_of_esophageal_cancer_from_in_vivo_microscopy_images
+  type1: 
+    - PF
+    - IT
+  type2:
+    - CV
+  title: Screening and Diagnosis of esophageal cancer from in-vivo microscopy images 
+  url: https://challengedata.ens.fr/challenges/11
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - Mauna Kea Technologies: https://www.maunakeatech.com
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: "The goal of this challenge is to build an image classifier to assist physicians in the screening and diagnosis of esophageal cancer."
+  prize: NaN    
+
+- id: Prediction_of_daily_stock_movements_on_the_US_market 
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Prediction of daily stock movements on the US market 
+  url: https://challengedata.ens.fr/challenges/16
+  hostby:
+    - Challenge data: https://challengedata.ens.fr
+    - CFM: http://cfm.fr
+  range: Jan. 1, 2019 - Jan. 1, 2020
+  deadtime: "2020-01-01 23:59:59"
+  timezone: UTC
+  note: "The <b>goal</b> of this challenge is to <b>predict the sign of the returns</b> (= price change over some time interval) <b>at the end of about 700 days for about 700 stocks</b>."
+  prize: NaN

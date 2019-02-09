@@ -1,0 +1,278 @@
+
+
+# grand-challenge ##
+
+
+- id: LYON19
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: Lymphocyte Detection
+  url: https://lyon19.grand-challenge.org
+  hostby: 
+    - Grand Challenges: https://grand-challenge.org/challenges/
+  range: under construction
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 'Dataset contains manual annotations as a ground truth data.'
+  prize: NaN
+
+- id: CTC
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: The Cell Tracking Challenge (CTC)
+  url: http://celltrackingchallenge.net
+  hostby:
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+    - Grand Challenges: https://grand-challenge.org/challenges/
+  range: Now - April 8, 2019
+  deadtime: '2019-03-01 23:59:59'
+  timezone: UTC
+  note: 'In 2012, Cell Tracking Challenge (CTC) was launched to objectively compare and evaluate state-of-the-art whole-cell and nucleus segmentation and tracking methods using both real (2D and 3D) time-lapse microscopy videos of cells and nuclei, along with computer generated (2D and 3D) video sequences simulating nuclei moving in realistic environments. To address numerous requests for benchmarking only cell segmentation methods (without tracking), we are launching now a new time-lapse cell segmentation benchmark on the same datasets (plus one new dataset).'
+  prize: NaN
+  
+
+
+- id: Classification_of_Normal_vs_Malignant_Cells_in_B_ALL_White_Blood_Cancer_Microscopic_Images_ISBI_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: Classification of Normal vs Malignant Cells in B-ALL White Blood Cancer Microscopic Images:ISBI 2019
+  url: https://competitions.codalab.org/competitions/20429
+  hostby:
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+    - Grand Challenges: https://grand-challenge.org/challenges/
+    - CodaLab: https://competitions.codalab.org/
+  range: Now - April 11, 2019
+  deadtime: '2019-04-11 23:59:59'
+  timezone: UTC
+  note: 'Computer assisted tools can provide cost effective and easily deployable solutions for cancer diagnostics. The aim of this challenge is to build a classifier for the identification of leukemic versus normal immature cells for while blood cancer, namely, B-ALL diagnostics. A dataset of cells with class labels, marked by the expert based on the domain knowledge, will be provided at the subject-level to train the classifier. This problem is interesting because the two cell types appear similar under the microscope and subject-level variability plays a key role. Hence, it is challenging to build a classifier that can yield good results on prospective data.'
+  prize: NaN
+
+
+
+- id: SPIE_AAPM_NCI_BreastPathQ_Cancer_Cellularity_Challenge_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'SPIE-AAPM-NCI BreastPathQ: Cancer Cellularity Challenge 2019'
+  url: http://spiechallenges.cloudapp.net/competitions/14
+  hostby:
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+    - Grand Challenges: https://grand-challenge.org/challenges/
+    - cloudapp.net: http://spiechallenges.cloudapp.net/competitions/
+  range: Oct. 15, 2018 - Dec. 31, 2019
+  deadtime: '2019-12-31 23:59:59'
+  timezone: UTC
+  note: 'Participants will be tasked to develop an automated method for analyzing histology patches extracted from whole slide images and assign a score reflecting cancer cellularity in each.'
+  prize: NaN
+
+
+- id: Histopathologic_Cancer_Detection
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: Histopathologic Cancer Detection
+  url: https://www.kaggle.com/c/histopathologic-cancer-detection
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - Grand Challenges: https://grand-challenge.org/challenges/
+  range: Now - March 30, 2019
+  deadtime: '2019-03-30 23:59:59'
+  timezone: UTC
+  note: 'Identify metastatic tissue in histopathologic scans of lymph node sections'
+  prize: NaN
+
+
+- id: ABCD
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: ABCD NEUROCOGNITIVE PREDICTION CHALLENGE
+  url: https://sibis.sri.com/abcd-np-challenge/
+  hostby:
+    - Grand Challenges: https://grand-challenge.org/challenges/
+  range: December 17, 2018 - March 17, 2019
+  deadtime: '2019-02-15 23:59:59'
+  timezone: UTC
+  note: 'Determining the neural mechanisms underlying general intelligence is fundamental to understanding cognitive development, how this relates to real-world health outcomes, and how interventions (education, environment) might improve outcomes through adolescence and into adulthood. '
+  prize: NaN
+
+
+- id: SegTHOR
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'SegTHOR: Segmentation of THoracic Organs at Risk in CT images'
+  url: https://competitions.codalab.org/competitions/21012
+  hostby:
+    - CodaLab: https://competitions.codalab.org/
+    - Grand Challenges: https://grand-challenge.org/challenges/
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+  range: Jan. 5, 2018 - Apr. 8, 2019
+  deadtime: '2019-03-30 23:59:59'
+  timezone: UTC
+  note: 'Our challenge addresses the problem of organs at risk segmentation in Computed Tomography (CT) images.'
+  prize: NaN
+
+
+
+- id: CheXpert
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'CheXpert: A Large Chest X-Ray Dataset And Competition'
+  url: https://stanfordmlgroup.github.io/competitions/chexpert/
+  hostby:
+    - Stanford ML Group: https://stanfordmlgroup.github.io
+    - Grand Challenges: https://grand-challenge.org/challenges/
+  range: Jan. 5, 2018 - Apr. 8, 2019
+  deadtime: '2019-03-30 23:59:59'
+  timezone: UTC
+  note: 'CheXpert is a large dataset of chest X-rays and competition for automated chest x-ray interpretation, which features uncertainty labels and radiologist-labeled reference standard evaluation sets. Develop an algorithm to determine the presence of 14 different abnormalities given a chest radiograph.'
+  prize: NaN
+
+
+- id: DRIVE
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'DRIVE: Digital Retinal Images for Vessel Extraction'
+  url: https://drive.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://grand-challenge.org/challenges/
+  range: 'No deadline'
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 'The DRIVE database has been established to enable comparative studies on segmentation of blood vessels in retinal images. Develop a system to automatically segment vessels in human retina fundus images.'
+  prize: NaN
+
+
+- id: ANHIR
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'ANHIR: Automatic Non-rigid Histological Image Registration'
+  url: https://anhir.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://grand-challenge.org/challenges/
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+  range: December 2018 - April 11, 2019
+  deadtime: '2019-03-20 23:59:59'
+  timezone: UTC
+  note: 'The challenge focuses on comparing the accuracy (using manually annotated landmarks) and the approximate speed of automatic non-linear registration methods for aligning microscopy images of multi-stained histology tissue samples.'
+  prize: NaN
+
+
+- id: CHAOS
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'CHAOS - Combined (CT-MR) Healthy Abdominal Organ Segmentation'
+  url: https://chaos.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://grand-challenge.org/challenges/
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+  range: Now - April 11, 2019
+  deadtime: '2019-04-11 23:59:59'
+  timezone: UTC
+  note: 'In this challenge, you segment the liver in CT data, and segment liver, spleen, and kidneys in MRI data.'
+  prize: NaN
+
+- id: EAD2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'EAD2019: Multi-class artefact detection in video endoscopy'
+  url: https://ead2019.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://grand-challenge.org/challenges/
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+  range: February 12 - April 8, 2019
+  deadtime: '2019-03-20 23:59:59'
+  timezone: UTC
+  note: 'Endoscopic Artefact Detection (EAD) is a core problem and needed for realising robust computer-assisted tools. The EAD challenge has 3 tasks: 1) Multi-class artefact detection, 2) Region segmentation, 3) Detection generalisation.'
+  prize: NaN
+
+- id: ACDC-LungHP
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'ACDC-LungHP: Automatic Cancer Detection and Classification in Whole-slide Lung Histopathology (ACDC@LUNGHP) challenge'
+  url: https://acdc-lunghp.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://grand-challenge.org/challenges/
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+  range: January 5 - April 8, 2019
+  deadtime: '2019-03-05 23:59:59'
+  timezone: UTC
+  note: 'Automatic Cancer Detection and Classification in Whole-slide Lung Histopathology'
+  prize: NaN
+
+
+- id: PALM
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'PALM: Pathologic Myopia Challenge'
+  url: https://palm.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://grand-challenge.org/challenges/
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+    - ichallenge@baidu: http://ichallenge.baidu.com
+  range: Oct. 1, 2018 - April 8, 2019
+  deadtime: '2019-02-28 23:59:59'
+  timezone: UTC
+  note: 'The PALM challenge focuses on investigation and development of algorithms associated with diagnosis of Pathologic Myopia (PM) and segmentation of lesions in fundus photos from PM patients.
+  <br>Tasks:
+  <br>1 Classification of normal and myopia fundus;
+  <br>2 Segmentation of typical lesions (retinal atrophy, hemorrhage, macular lesion) in pathologic myopia.'
+  prize: NaN
+
+- id: MEMENTO
+  type1: 
+    - AC
+  type2:
+    - CV
+  title: 'MEMENTO: MRI White Matter Reconstruction'
+  url: https://my.vanderbilt.edu/memento/
+  hostby:
+    - ISBI 2019: https://biomedicalimaging.org/2019/challenges/
+  range: March 7, 2019 - March 4, 2020
+  deadtime: '2020-03-04 23:59:59'
+  timezone: UTC
+  note: '<b>This will be a 2-year challenge.</b>
+  <br>We aim to host 3 sub-challenges evaluating our current ability to:
+  <br>(1) predict unseen signal (signal representation; <a href="https://my.vanderbilt.edu/memento/sample-page/">sub-challenge #1</a>)
+  <br>(2) estimate microstructural measures (signal modeling; <a href="https://my.vanderbilt.edu/memento/sub-challenge-2/">sub-challenge #2</a>)
+  <br>(3) evaluate sensitivity and specificity of potential biomarkers (biomarker evaluation; <a href="https://my.vanderbilt.edu/memento/sub-challenge-3/">sub-challenge #3</a>).'
+  prize: NaN

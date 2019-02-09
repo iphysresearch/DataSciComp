@@ -1,0 +1,39 @@
+
+
+# Kelvins ##
+
+
+- id: PROBA_V_Super_Resolution
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'PROBA-V Super Resolution'
+  url: https://kelvins.esa.int/proba-v-super-resolution/
+  hostby:
+    - Kelvins: https://kelvins.esa.int
+  range: Nov. 1, 2018 - June 1, 2019
+  deadtime: '2019-06-01 03:59:59'
+  timezone: UTC
+  note: '<b>Enhance the vegetation payload performances.</b>
+  <br>In this competition you are given multiple images of each of 78 Earth locations and you are asked to develop an algorithm to fuse them together into a single one. The result will be a "super-resolved" image that is checked against a high resolution image taken from the same satellite, PROBA-V. The "V" stands for Vegetation, which is the main focus of the on-board instruments. Can you enhance the vision of PROBA-V and help us advance the accuracy on monitoring earths vegetation growth?'
+  prize: NaN
+
+
+- id: Pose_Estimation_Challenge
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Pose Estimation Challenge'
+  url: https://kelvins.esa.int/satellite-pose-estimation-challenge/
+  hostby:
+    - Kelvins: https://kelvins.esa.int
+  range: Feb. 1, 2019 - July 1, 2019
+  deadtime: '2019-07-01 03:59:59'
+  timezone: UTC
+  note: '<b>One camera, one image, one pose.</b>
+  <br>In this challenge, you are tasked to estimate the pose of the Tango spacecraft from its synthetic and real images captured using computer graphics and a robotic testbed, respectively. '
+  prize: NaN

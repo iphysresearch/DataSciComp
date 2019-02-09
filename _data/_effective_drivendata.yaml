@@ -1,0 +1,17 @@
+
+# DrivenData ##
+
+- id: Sustainable_Industry_Rinse_Over_Run
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: "Sustainable Industry: Rinse Over Run"
+  url: https://www.drivendata.org/competitions/56/predict-cleaning-time-series/
+  hostby:
+    - DrivenData: https://www.drivendata.org
+  range: Now - March 18 2019
+  deadtime: "2019-03-18 23:59:59"
+  timezone: UTC
+  note: 
+  prize: €20,000

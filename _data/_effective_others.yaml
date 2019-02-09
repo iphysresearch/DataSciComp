@@ -1,0 +1,110 @@
+
+
+# - title: LANL Earthquake Prediction
+#   year: 2019
+#   id: LANL-Earthquake-Prediction
+#   link: https://www.kaggle.com/c/LANL-Earthquake-Prediction
+#   deadline: 2019-05-27 23:59:59
+#   timezone: Etc/GMT+10
+#   prize: $50000
+#   type1: Research
+
+
+# - title: VSB Power Line Fault Detection
+#   year: 2019
+#   id: vsb-power-line-fault-detection
+#   link: https://www.kaggle.com/c/vsb-power-line-fault-detection
+#   deadline: 2019-05-14 23:59:59
+#   timezone: Etc/GMT+10
+#   prize: $25000
+#   type1: Featured
+
+
+
+# deadtime 日期请严格采用复合 ISO8601 格式的年、月、日、时、分、秒表示。
+# （注意！deadtime 内容一定要双引号括起来，强制成 string，不然 pyyaml 读 yaml 会按照本地系统所在的 timezone 读入解析，无限期的就内容为'No deadline'）
+# （注意！deadtime 的 timezone 信息请另外标明！可选的 timezone 可见 ./timezone。）
+
+
+  
+- id: SQuAD
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: 'SQuAD2.0: The Stanford Question Answering Dataset'
+  url: https://rajpurkar.github.io/SQuAD-explorer/
+  hostby: 
+    - Stanford University: '#'
+  range: 'No deadline'
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: '<b>S</b>tanford <b>Q</b>uestion <b>A</b>nswering <b>D</b>ataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.'
+  prize: NaN
+
+- id: CoQA
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: 'CoQA: A Conversational Question Answering Challenge'
+  url: https://stanfordnlp.github.io/coqa/
+  hostby: 
+    - Stanford University: '#'
+  range: 'No deadline'
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 'CoQA is a large-scale dataset for building <b>Co</b>nversational <b>Q</b>uestion <b>A</b>nswering systems. The goal of the CoQA challenge is to measure the ability of machines to understand a text passage and answer a series of interconnected questions that appear in a conversation. 
+  CoQA is pronounced as <a href="https://en.wikipedia.org/wiki/Coca">coca</a>.'
+  prize: NaN
+
+- id: Unrestricted_Adversarial_Examples_Challenge
+  type1: 
+    - AC
+  type2:
+    - CV
+  title: 'Unrestricted Adversarial Examples Challenge'
+  url: https://ai.googleblog.com/2018/09/introducing-unrestricted-adversarial.html
+  hostby: 
+    - Google Brain Team: '#'
+  range: 'No deadline'
+  deadtime: 'No deadline'
+  timezone: UTC
+  note: 'A community-based challenge to incentivize and measure progress towards the goal of zero confident classification errors in machine learning models.
+  <br>(不受限对抗样本挑战) <a href="https://github.com/google/unrestricted-adversarial-examples">The project on Github</a>'
+  prize: NaN
+
+
+
+
+
+###
+
+
+# - id: de2018 
+#   type1: 
+#     - PF
+#   title: 'DengAI: Predicting Disease Spread'
+#   url: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+#   from: DrivenData
+#   from_url: https://www.kaggle.com/
+#   range: June 10-15 2019
+#   deadtime: "2019-05-03 13:40:00"
+#   timezone: Etc/GMT-8
+#   note: This competition is for learning and exploring so the deadline may be extended in the future.
+#   prize: Glory! 
+
+
+# - id: ren2018 
+#   type1: 
+#     - IT
+#     - PF
+#   title: 人口动态普查与预测
+#   url: https://jdder.jd.com/index/jddDetail?matchId=3dca1a91ad2a4a6da201f125ede9601a
+#   from: JD
+#   from_url: https://www.kaggle.com/
+#   range: Nov 20 - Dec 21 2019
+#   deadtime: "2019-12-14 21:59:43"
+#   timezone: Asia/Shanghai
+#   note: 
+#   prize: CNY 1,100,000 

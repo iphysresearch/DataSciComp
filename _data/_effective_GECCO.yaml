@@ -1,0 +1,131 @@
+
+
+# GECCO 2019 ##
+
+- id: _100_Digit_Challengeand_Four_Other_Numerical_Optimization_Competitions
+  type1: 
+    - AC
+  type2:
+    - DM
+  title: "100-Digit Challenge, and Four Other Numerical Optimization Competitions"
+  url: http://www3.ntu.edu.sg/home/epnsugan/index_files/GECCO2019/GECCO2019.htm
+  hostby:
+    - GECCO 2019: https://gecco-2019.sigevo.org/index.html/HomePage
+  range: Now - April 03, 2019
+  deadtime: '2019-04-03 23:59:59'
+  timezone: UTC
+  note: 'Like the SIAM version, our competition has 10 problems, which in our case are 10 functions to optimize, and the goal is to compute each function’s minimum value to 10 digits of accuracy without being limited by time.'
+  prize: NaN
+
+- id: AI_Competition_for_the_Legends_of_the_Three_Kingdoms_Game
+  type1: 
+    - AC
+  type2:
+    - RL
+  title: 'AI Competition for the Legends of the Three Kingdoms Game (三国杀)'
+  url: 'https://gecco-2019.sigevo.org/index.html/tiki-index.php?page=Competitions#id_AI%20Competition%20for%20the%20Legends%20of%20the%20Three%20Kingdoms%20Game%20(三国杀)'
+  hostby:
+    - GECCO 2019: https://gecco-2019.sigevo.org/index.html/HomePage  
+  range: Now - April 03, 2019
+  deadtime: '2019-04-03 23:59:59'
+  timezone: UTC
+  note: 'In this competition, we offer a programming-language-free competition system, where agent receive and send data according to the JSON format. Thus, competition teams can develop AI algorithms via any programming language with a JSON parser support.'
+  prize: NaN
+
+
+- id: Bi_Objective_Optimisation_for_the_Travelling_Thief_Problem
+  type1: 
+    - AC
+  type2:
+    - DM
+  title: 'Bi-Objective Optimisation for the Travelling Thief Problem'
+  url: https://www.egr.msu.edu/coinlab/blankjul/gecco19-thief/
+  hostby:
+    - GECCO 2019: https://gecco-2019.sigevo.org/index.html/HomePage
+  range: Now - June 30, 2019
+  deadtime: '2019-06-30 23:59:59'
+  timezone: "Etc/GMT-12"
+  note: 'The goal of this competition is to provide a platform for researchers in computational intelligence working on multi-component optimization problems.'
+  prize: NaN
+
+
+- id: Black_Box_Optimization_Competition
+  type1: 
+    - AC
+  type2:
+    - DM
+  title: 'Black Box Optimization Competition (BBComp)'
+  url: https://bbcomp.ini.rub.de
+  hostby:
+    - GECCO 2019: https://gecco-2019.sigevo.org/index.html/HomePage
+  range: February 4 - June 30, 2019
+  deadtime: '2019-06-30 23:59:59'
+  timezone: UTC
+  note: 'The Black Box Optimization Competition is the first competition platform in the continuous domain where test problems are truly black boxes to participants. The only information known to optimizer and participant is the dimension of the problem, bounds on all variables, and a budget of black box queries. The competition covers single- and multi-objective optimization.'
+  prize: NaN
+
+
+
+- id: Competition_on_Niching_Methods_for_Multimodal_Optimization
+  type1: 
+    - AC
+  type2:
+    - DM
+  title: Competition on Niching Methods for Multimodal Optimization
+  url: http://www.epitropakis.co.uk/gecco2019/
+  hostby:
+    - GECCO 2019: https://gecco-2019.sigevo.org/index.html/HomePage
+  range: Now - July 13 2019
+  deadtime: '2019-04-03 23:59:59'
+  timezone: UTC
+  note: 'The aim of the competition is to provide a common platform that encourages fair and easy comparisons across different niching algorithms.'
+  prize: NaN
+
+
+- id: Evolutionary_Computation_in_Uncertain_Environments_A_Smart_Grid_Application
+  type1: 
+    - AC
+  type2:
+    - DM
+  title: 'Evolutionary Computation in Uncertain Environments: A Smart Grid Application'
+  url: http://www.gecad.isep.ipp.pt/ERM2019-Competition/
+  hostby:
+    - GECCO 2019: https://gecco-2019.sigevo.org/index.html/HomePage
+  range: Now - April 30, 2019
+  deadtime: '2019-04-30 23:59:59'
+  timezone: UTC
+  note: 'The competition provides a coherent framework where participants and practitioners of CI can test their algorithms to solve a real-world optimization problem in the energy domain with uncertainty consideration, which makes the problem more challenging and worth to explore.'
+  prize: NaN
+
+
+- id: Internet_of_Things_Online_Event_Detection_for_Drinking_Water_Quality_Control
+  type1: 
+    - AC
+  type2:
+    - DM
+  title: 'Internet of Things: Online Event Detection for Drinking Water Quality Control'
+  url: http://www.spotseven.de/gecco/gecco-challenge/ 
+  hostby:
+    - GECCO 2019: https://gecco-2019.sigevo.org/index.html/HomePage
+  range: End of January/Start of February - June 30, 2019
+  deadtime: '2019-06-30 23:59:59'
+  timezone: UTC
+  note: 'The task of this years competition is to develop an anomaly detection algorithm for the water- and environmental data set. Early identification of anomalies in water quality data is a challenging task.'
+  prize: NaN
+
+
+- id: Virtual_Creatures_Competition
+  type1: 
+    - AC
+  type2:
+    - RL
+  title: Virtual Creatures Competition
+  url: https://virtualcreatures.github.io
+  hostby:
+    - GECCO 2019: https://gecco-2019.sigevo.org/index.html/HomePage
+  range: Now - June 23, 2019
+  deadtime: '2019-06-23 23:59:59'
+  timezone: UTC
+  note: 'The purpose of the contest is not to build a system to solve a task better than any other system; rather, the goal is to engage our imagination and creativity---to expand our conception of life and intelligence, and how these things might materialize.'
+  prize: NaN
+  

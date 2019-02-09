@@ -1,0 +1,49 @@
+
+# CrowdAI ##
+
+
+
+
+- id: ImageCLEF_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+    - CV
+  title: ImageCLEF 2019
+  url: https://www.imageclef.org/2019
+  hostby:
+    - crowdAI: https://www.crowdai.org/organizers/imageclef
+    - ImageCLEF 2019: https://www.imageclef.org
+  range: November 12, 2018 - May 24, 2019
+  deadtime: '2019-04-26 23:59:59'
+  timezone: UTC
+  note: 'ImageCLEF 2019 proposes 4 main tasks:
+  <br><a href="https://www.imageclef.org/2019/coral">ImageCLEFcoral</a>: The task addresses the problem of automatically segmenting and labeling a collection of images of an underwater environment for the monitoring of coral reef structure and composition.
+  <br><a href="https://www.imageclef.org/2019/lifelog">ImageCLEFlifelog</a>: The task addresses the problems of lifelogging data retrieval and summarization.
+  <br><a href="https://www.imageclef.org/2019/medical">ImageCLEFmedical</a>: The task addresses the challenge of automatically predicting tuberculosis type from 3D chest CT scans and mapping of visual information to textual descriptions.
+  <br><a href="https://www.imageclef.org/2019/security">ImageCLEFsecurity</a>: The task addresses the problems of automatically identifying forged content and retrieve hidden information.'
+  prize: NaN
+
+- id: LifeCLEF_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+    - CV
+  title: LifeCLEF 2019
+  url: https://www.imageclef.org/lifeclef2019
+  hostby:
+    - crowdAI: https://www.crowdai.org/organizers/lifeclef
+    - LifeCLEF 2019: https://www.imageclef.org/
+  range: Dec. 2018 - May 24, 2019
+  deadtime: '2019-05-01 23:59:59'
+  timezone: UTC
+  note: 'LifeCLEF 2019 proposes 3 main tasks:
+  <br><a href="https://www.imageclef.org/GeoLifeCLEF2019">GeoLifeCLEF 2019</a>: The aim of the challenge is to predict the list of species that are the most likely to be observed at a given location.
+  <br><a href="https://www.imageclef.org/PlantCLEF2019">PlantCLEF 2019</a>: The goal of the task is return the most likely species for each observation of the test set (an observation being a set of images of the same individual plant and the associated metadata such as date, gps, author).
+  <br><a href="https://www.imageclef.org/BirdCLEF2019">BirdCLEF 2019</a>: The goal of the task is to localize and identify all audible birds within the provided soundscape recordings.'
+  prize: NaN
+

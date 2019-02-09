@@ -1,0 +1,39 @@
+
+# 天池 ##
+
+
+
+- id: Gridlock_Prediction_Challenge
+  type1: 
+    - PF
+    - IT
+  type2:
+    - DM
+  title: Gridlock Prediction Challenge
+  url: https://tianchi.aliyun.com/competition/entrance/231698/introduction?spm=5176.12281949.0.0.422976d8ArSxx6
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: March 1-31, 2019
+  deadtime: "2019-03-31 05:59:59"
+  timezone: "Asia/Shanghai"
+  note: 'Task: To estimate the average travel time from designated intersections to tollgates'
+  prize: iPhone/iPad/AirPods
+
+
+- id: IJCAI_19
+  type1: 
+    - PF
+    - IT
+  type2:
+    - CV
+  title: 'IJCAI-19 阿里巴巴人工智能对抗算法竞赛'
+  url: https://tianchi.aliyun.com/competition/entrance/231701/introduction?spm=5176.12281949.0.0.422976d8ArSxx6
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: 3月4日 - 6月10日, 2019
+  deadtime: "2019-04-20 09:59:59"
+  timezone: "Asia/Shanghai"
+  note: 'IJCAI-19 阿里巴巴人工智能对抗算法竞赛的目的是对AI模型的安全性进行探索。这个比赛主要针对图像分类任务，包括模型攻击与模型防御。参赛选手既可以作为攻击方，对图片进行轻微扰动生成对抗样本，使模型识别错误；也可以作为防御方，通过构建一个更加鲁棒的模型，准确识别对抗样本。'
+  prize: USD 10,000
+
+

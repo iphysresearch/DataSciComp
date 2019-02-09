@@ -1,0 +1,21 @@
+
+
+
+# dcjingsai ##
+
+- id: diqiuwuhou
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '地球物候的深度学习预测'
+  url: 'http://www.dcjingsai.com/common/cmpt/地球物候的深度学习预测_竞赛信息.html'
+  hostby: 
+    - DC 竞赛: 'http://www.dcjingsai.com'
+  range: 1月21日-5月24日, 2019
+  deadtime: "2019-03-17 15:59:59"
+  timezone: "Asia/Shanghai"
+  note: '使用植被指数的过往数据记录来预测未来几期的植被指数。'
+  prize: '实习机会'
+
+

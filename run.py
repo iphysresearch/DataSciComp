@@ -4,10 +4,30 @@ from flask_frozen import Freezer
 import os, sys, yaml
 import click
 
-with open('./_data/_effective.yaml', 'r', encoding='utf-8') as f:
-    cfg = f.read()
-    competitions = yaml.load(cfg)
-    competitions.sort(key=lambda x: x['deadtime'])
+add_datas = ['./_data/_effective_kaggle.yaml',
+            './_data/_effective_drivendata.yaml',
+            './_data/_effective_codalab.yaml',
+            './_data/_effective_challengedata.yaml',
+            './_data/_effective_crowdai.yaml',
+            './_data/_effective_signate.yaml',
+            './_data/_effective_unearthed.yaml',
+            './_data/_effective_analyticsvidhya.yaml',
+            './_data/_effective_GECCO.yaml',
+            './_data/_effective_grand_challenge.yaml',
+            './_data/_effective_kelvins.yaml',
+            './_data/_effective_天池.yaml',
+            './_data/_effective_点石.yaml',
+            './_data/_effective_kesci.yaml',
+            './_data/_effective_dcjingsai.yaml',
+            './_data/_effective_datafountain.yaml',
+            './_data/_effective_others.yaml']
+
+competitions = []
+for add_data in add_datas:
+    with open(add_data, 'r', encoding='utf-8') as f:
+        cfg = f.read()
+        competitions.extend(yaml.load(cfg))
+competitions.sort(key=lambda x: x['deadtime'])
 
 app = Flask(__name__)
 freezer = Freezer(app)
