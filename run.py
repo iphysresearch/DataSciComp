@@ -32,7 +32,7 @@ competitions.sort(key=lambda x: x['deadtime'])
 
 app = Flask(__name__)
 
-app.config['FREEZER_DESTINATION'] = 'docs'
+# app.config['FREEZER_DESTINATION'] = 'docs'
 
 freezer = Freezer(app)
 
