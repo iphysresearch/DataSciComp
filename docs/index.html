@@ -7274,6 +7274,7 @@
         var subs = url.searchParams.get('sub');
         if (subs == undefined) {
            subs = store.get('/');
+           console.log(subs);
         } else {
            subs = subs.toUpperCase().split(',');
         }
@@ -7296,7 +7297,7 @@
           }
         }
         store.set('/', subs);
-        window.history.pushState('', '', '/DataSciComp/build/?sub=' + subs.join());
+        window.history.pushState('', '', '/DataSciComp/?sub=' + subs.join());
 
         // Event handler on checkbox change
         $('form :checkbox').change(function(e) {
@@ -7331,7 +7332,7 @@
         }
           console.log(subs);
           store.set('/', subs);
-          window.history.pushState('', '', '/DataSciComp/build/?sub=' + subs.join());
+          window.history.pushState('', '', '/DataSciComp/?sub=' + subs.join());
         });
     });
     
