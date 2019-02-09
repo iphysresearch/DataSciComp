@@ -29,7 +29,11 @@ for add_data in add_datas:
         competitions.extend(yaml.load(cfg))
 competitions.sort(key=lambda x: x['deadtime'])
 
+
 app = Flask(__name__)
+
+app.config['FREEZER_DESTINATION'] = 'docs'
+
 freezer = Freezer(app)
 
 id_type_checkboxs = [
