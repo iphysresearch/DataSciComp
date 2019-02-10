@@ -75,6 +75,8 @@
 
 - Where is the last `markdown` version?
   - see `README_old.md`
+- 第一次打开站点发现所有赛题显示不正常，看到满眼 `Entry Deadline:` 的话，请科学上网后再试一次:joy: ​。
+- 如果还有某种页面显示不正常的问题，请清空 cookies 和缓存再试一次:sob: 。
 
 
 
