@@ -76,4 +76,4 @@ def hostby(id_type_checkboxs = id_type_checkboxs, hosts = hosts):
 
 if __name__ == '__main__':
     # freezer.freeze()
-    freezer.run(debug=False)
+    freezer.run(debug=True)

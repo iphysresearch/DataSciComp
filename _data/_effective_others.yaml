@@ -1,31 +1,5 @@
 
 
-# - title: LANL Earthquake Prediction
-#   year: 2019
-#   id: LANL-Earthquake-Prediction
-#   link: https://www.kaggle.com/c/LANL-Earthquake-Prediction
-#   deadline: 2019-05-27 23:59:59
-#   timezone: Etc/GMT+10
-#   prize: $50000
-#   type1: Research
-
-
-# - title: VSB Power Line Fault Detection
-#   year: 2019
-#   id: vsb-power-line-fault-detection
-#   link: https://www.kaggle.com/c/vsb-power-line-fault-detection
-#   deadline: 2019-05-14 23:59:59
-#   timezone: Etc/GMT+10
-#   prize: $25000
-#   type1: Featured
-
-
-
-# deadtime 日期请严格采用复合 ISO8601 格式的年、月、日、时、分、秒表示。
-# （注意！deadtime 内容一定要双引号括起来，强制成 string，不然 pyyaml 读 yaml 会按照本地系统所在的 timezone 读入解析，无限期的就内容为'No deadline'）
-# （注意！deadtime 的 timezone 信息请另外标明！可选的 timezone 可见 ./timezone。）
-
-
   
 - id: SQuAD
   type1: 
@@ -74,38 +48,4 @@
   <br>(不受限对抗样本挑战) <a href="https://github.com/google/unrestricted-adversarial-examples">The project on Github</a>'
   prize: NaN
 
-
-
-
-
-
-###
-
-
-# - id: de2018 
-#   type1: 
-#     - PF
-#   title: 'DengAI: Predicting Disease Spread'
-#   url: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
-#   from: DrivenData
-#   from_url: https://www.kaggle.com/
-#   range: June 10-15 2019
-#   deadtime: "2019-05-03 13:40:00"
-#   timezone: Etc/GMT-8
-#   note: This competition is for learning and exploring so the deadline may be extended in the future.
-#   prize: Glory! 
-
-
-# - id: ren2018 
-#   type1: 
-#     - IT
-#     - PF
-#   title: 人口动态普查与预测
-#   url: https://jdder.jd.com/index/jddDetail?matchId=3dca1a91ad2a4a6da201f125ede9601a
-#   from: JD
-#   from_url: https://www.kaggle.com/
-#   range: Nov 20 - Dec 21 2019
-#   deadtime: "2019-12-14 21:59:43"
-#   timezone: Asia/Shanghai
-#   note: 
-#   prize: CNY 1,100,000 
+# http://spiechallenges.cloudapp.net/competitions/

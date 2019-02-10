@@ -1,0 +1,17 @@
+
+
+- id 唯一编码，可随意指定，但建议根据 title 的内容书写。
+    -（注意！不可数字开头）
+
+- type1 只有三个选项 PF, IT，AC
+- type2 有五个选项 DM, CV, NLP, RL, SP
+    -（可多选，但不可不选）
+
+- hostby 的内容必须指定
+
+- deadtime 日期请严格采用复合 ISO8601 格式的年、月、日、时、分、秒表示（我这里必须引号）。
+    - （注意！deadtime 内容一定要双引号括起来，强制成 string，不然 pyyaml 读 yaml 会按照本地系统所在的 timezone 读入解析，无限期的就内容为'No deadline'）
+    - （注意！deadtime 的 timezone 信息请另外标明！可选的 timezone 可见 ./timezone。）
+    - （注意！对于没有 deadtime 的题目，内容必须指定为"No deadline"，才不会判断报错~）
+
+- note 的内容是可以直接上 html 标记语言的。
