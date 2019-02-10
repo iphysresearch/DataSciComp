@@ -16,6 +16,18 @@
         <script src=".{{ url_for('static', _external = False, filename='js/moment-timezone-with-data.min.js') }}"></script>
         <script src=".{{ url_for('static', _external = False, filename='js/store.min.js') }}"></script>
         <script src=".{{ url_for('static', _external = False, filename='js/ouical.min.js') }}"></script>
+        <!-- icon -->
+        <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
+        <!-- <link rel="shortcut icon" href="#" /> -->
+        <!-- <link href="./static/img/favicon.ico" rel="shortcut icon">
+        <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png">
+        <link rel="manifest" href="./static/img/site.webmanifest">
+        <link rel="mask-icon" href="./static/img/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#00aba9">
+        <meta name="msapplication-TileImage" content="./static/img/mstile-144x144.png">
+        <meta name="theme-color" content="#ffffff"> -->
         {% endblock %}
     </head>
     <body>
@@ -30,7 +42,15 @@
 
 
         {% block script_js %}
-
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134245065-1"></script>
+     <script>
+       window.dataLayer = window.dataLayer || [];
+       function gtag(){dataLayer.push(arguments);}
+       gtag('js', new Date());
+     
+       gtag('config', 'UA-134245065-1');
+     </script>
         {% endblock %}
     </body>
 </html>
