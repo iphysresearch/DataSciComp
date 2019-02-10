@@ -68,7 +68,7 @@ with open('./_data/_hosts.yaml', 'r', encoding='utf-8') as f:
     cfg = f.read()
     hosts = yaml.load(cfg)
 
-@app.route('/hostby')
+@app.route('/hostby.html')
 def hostby(id_type_checkboxs = id_type_checkboxs, hosts = hosts):
 
     return render_template('hostby.html', id_type_checkboxs=id_type_checkboxs, hosts = hosts)
