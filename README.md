@@ -18,9 +18,9 @@
 >
 > 欢迎关注微博更新：[IPhysResearch](http://weibo.com/IPhysresearch) . Collected by 土豆 (Herb) in spare time.
 
+---
 
-
-> ###### [Description](#description) | [How to Contribute](#how-to-Contribute) | [To-Do](#to-do) | [FAQ](#faq) | [Acknowledgments & other useful listings](#acknowledgments-&-other-useful-listings) | [License](#license)
+> ###### [Description](#description) | [How to Contribute](#how-to-Contribute) | [To-Do](#to-do) | [FAQ](#faq) | [Acknowledgments & other useful listings](#acknowledgments-and-other-useful-listings) | [License](#license)
 
 ---
 
@@ -74,11 +74,11 @@
 ## FAQ
 
 - Where is the last `markdown` version?
-  - see ``README_old.md`
+  - see `README_old.md`
 
 
 
-## Acknowledgments & other useful listings
+## Acknowledgments and other useful listings
 
 - [Flask](http://flask.pocoo.org) - *a microframework for Python based on Werkzeug, Jinja 2 and good intentions.*
 - Thanks to Abhishek Das for building the original site, [ai-deadlin.es](http://aideadlin.es)!
