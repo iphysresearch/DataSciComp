@@ -36,7 +36,7 @@ app = Flask(__name__)
 
 app.config['FREEZER_DESTINATION'] = 'docs'
 # https://stackoverflow.com/questions/11577147/how-to-fix-page-404-on-github-page
-app.config['FREEZER_DESTINATION_IGNORE'] = ['.git*', 'CNAME']
+app.config['FREEZER_DESTINATION_IGNORE'] = ['.git*', 'CNAME','favicon.ico']
 
 freezer = Freezer(app)
 
