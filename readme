@@ -25,6 +25,7 @@ add favicon.ico https://www.cnblogs.com/mingjixiaohui/p/5381541.html
 Update Log：
 
 如何贡献：
+if you encounter bugs or issues on the website,
 在 issues 中发帖贡献，提供建设性意见，欢迎指出错误
 PR 直接修改 YAML
 欢迎合作洽谈
@@ -36,34 +37,17 @@ FAQ：
 鸣谢：
 flask
 http://aideadlin.es
-
-
+https://www.codeply.com
+https://bootstrapdocs.com/v3.3.6/docs/css/
 
 
 Host sources:
-Kaggle
-DrivenData
-CodaLab
-crowdAI
-ChallengeData
-GECCO
-Analytics vidhya
-Grand-Challenge
-Signate
-Unearthed
-http://spiechallenges.cloudapp.net
-Stanford ML Group
-https://biomedicalimaging.org/2019/challenges/
-http://ichallenge.baidu.com
-https://kelvins.esa.int
-https://challenger.ai
-http://cec2019.org/programs/competitions.html
-天池
-https://jdata.jd.com/html/list.html
-https://jdder.jd.com/jdd
-https://dianshi.baidu.com/competition
-https://www.tinymind.cn/competitions
-http://www.dcjingsai.com/static_page/cmpList.html
+
+http://spiechallenges.cloudapp.net/competitions/
+
+
 others
 
 访问地图
+订阅
+fav

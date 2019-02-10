@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Data Science Competitions Deadlines</title>
+        <meta name="description" content="Countdowns to popular Data Science Competitions deadlines">
+        <meta name="author" content="Herb">
+        <link rel="stylesheet" type="text/css" href="./static/bootstrap-4.2.1-dist/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="./static/deadlines_css/deadlines.css" media="screen,projection">
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <!-- <script type="text/javascript" src="./static/js/jquery.min.js"></script> -->
+        <script type="text/javascript" src="./static/js/jquery.countdown.min.js"></script>    
+        <script src="./static/js/moment.min.js"></script>
+        <script src="./static/js/moment-timezone-with-data.min.js"></script>
+        <script src="./static/js/store.min.js"></script>
+        <script src="./static/js/ouical.min.js"></script>
+        
+<style type="text/css">
+    a:hover{color:#0099CC}
+    
+    /*.row:hover{border-style: None solid;
+        border-color:#666666;
+        border-width:1px;
+    }*/
+
+</style>
+
+    </head>
+    <body>
+
+        <div class="container">
+            <!-- <a href="https://github.com/iphysresearch/DataSciComp" style="position: absolute; top: 0; right: 0; border: 0;"><img width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_red_aa0000.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a> -->
+            
+            
+
+
+            
+<div class="page-header">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12">
+            <h1>Data Science Challenge / Competition
+                <iframe src="https://ghbtns.com/github-btn.html?user=iphysresearch&repo=DataSciComp&type=star&count=true" scrolling="0" width="170px" height="20px" frameborder="0"></iframe>
+            </h1>
+        </div>
+        <div class="meta col-xs-12">
+            Countdowns to <b>ENTRY DEADLINE</b> of popular Data Science Challenges/Competitions.
+            To add/update a challenge, 
+            <a target="_blank" href="//">send in a pull request</a>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-xs-12">
+            <form class="form-horizontal">
+                <div class="form-group">
+                    
+                    <div class="col-md-4 col-xs-5">
+                        <div class="checkbox">
+                            <label><input id="PF-checkbox" class="" type="checkbox"></input>
+                                Platform
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 col-xs-5">
+                        <div class="checkbox">
+                            <label><input id="IT-checkbox" class="" type="checkbox"></input>
+                                Industry
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 col-xs-5">
+                        <div class="checkbox">
+                            <label><input id="AC-checkbox" class="" type="checkbox"></input>
+                                Academia
+                            </label>
+                        </div>
+                    </div>
+                    
+                </div>
+            </form>
+            <!-- <hr>   -->
+        </div>
+    </div>
+</div>
+
+
+<div id="kaggle" class="PF-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://www.kaggle.com/"><b>Kaggle</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">Kaggle is an online community of data scientists and machine learners, owned by Google, Inc. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. Kaggle got its start by offering machine learning competitions and now also offers a public data platform, a cloud-based workbench for data science, and short form AI education. On 8 March 2017, Google announced that they were acquiring Kaggle. <br>(from <a href="https://en.wikipedia.org/wiki/Kaggle">wiki</a>) 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5f9169b0a87.png" alt="Kaggle" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="drivendata" class="PF-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://www.drivendata.org/"><b>DrivenData</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">DrivenData works on projects at the intersection of data science and social impact, in areas like international development, health, education, research and conservation, and public services. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5f97c5a9518.png" alt="DrivenData" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="codalab" class="PF-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://competitions.codalab.org"><b>CodaLab</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">CodaLab is an open-source web-based platform that enables researchers, developers, and data scientists to collaborate, with the goal of advancing research fields where machine learning and advanced computation is used. CodaLab helps to solve many common problems in the arena of data-oriented research through its online community where people can share worksheets and participate in competitions. <br>Documentation: <a href='https://github.com/codalab/codalab/wiki'>CodaLab Wiki</a> from <a href='https://github.com/codalab/codalab-competitions'>Github</a> 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5f997e9679d.png" alt="CodaLab" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="challenge_Data" class="PF-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://challengedata.ens.fr"><b>Challenge Data</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">The Challenge Data platform hosts machine learning challenges, based on data provided by large groups, start-ups or research labs. They are addressed to students, data scientists and researchers in machine learning and statistics. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5faa6962bce.png" alt="Challenge Data" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="crowdai" class="PF-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://www.crowdai.org"><b>crowdAI</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">crowdAI is a platform for open data science challenges. crowdAI helps universities, government agencies, NGOs, or businesses to run and manage their data challenges. The crowdAI platform is a non-profit, open source infrastructure that can immediately reach thousands of data scientists around the world to work on interesting data problems. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fab0aa7cc0.png" alt="crowdAI" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="numerai" class="PF-host IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://numer.ai/homepage"><b>Numerai</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">(<b>Untapped</b>) The stock market is inefficient with respect to new developments in machine learning — only a fraction of the world's data scientists have access to its data. Numerai is changing this. Because Numerai abstracts its financial data, data scientists do not know what the data represents and human biases and overfitting are overcome. (<a href='https://numer.ai/learn'>How Numerai works</a>) 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fad07b9ed7.png" alt="Numerai" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="signate" class="PF-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://signate.jp"><b>Signate</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">SIGNATEには様々な分野の優秀なデータサイエンティストが登録しています。AI開発やデータ分析のテーマごとに多数のデータサイエンティストが精度やアイデアを競うコンペティションにより、最高品質のAIを開発することができます。コンペを通じて人材採用、人材育成、ベンダー評価など、様々な課題のソリューションが可能となります。 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fbb19110f7.png" alt="Signate" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="unearthed" class="PF-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://unearthed.solutions/u/"><b>Unearthed</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">We believe in the power of entrepreneurship to transform individuals and communities, to create economic opportunities, and to address global challenges. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fb3de35c83.png" alt="Unearthed" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="analyticsvidhya" class="PF-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://datahack.analyticsvidhya.com/contest/all/"><b>Analytics Vidhya</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">Analytics Vidhya brings you the power of community that comprises of data practitioners, thought leaders and corporates leveraging data to generate value for their businesses. Learn from the resources developed by experts at AnalyticsVidhya, participate in hackathons, master your skills with latest data science problems and showcase your skills to the world. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fb4df4523f.png" alt="Analytics Vidhya" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="techgig" class="PF-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://www.techgig.com/challenge"><b>TechGig</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">(<b>Untapped</b>) TechGig.com是Times Internet旗下的竞争性编程和技术社区网站。 <br>At TechGig, we have always strived to give our community members an unmatched learning experience where they can take part in exciting <b>challenges</b> and <b>hackathons</b> and grow in the process. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fbc25e7b6a.png" alt="TechGig" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="hackerearth" class="PF-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://www.hackerearth.com/zh/challenges/"><b>HackerEarch</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">(<b>Untapped</b>) HackerEarth提供企业软件解决方案，帮助组织实现创新管理和技术招聘需求。到目前为止，HackerEarth已经进行了1000多次黑客马拉松和10,000多次编程挑战。自成立以来，HackerEarth已经建立了超过200万+的开发人员基础。 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fbd0c34178.png" alt="HackerEarch" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="gecco_2019" class="AC-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://gecco-2019.sigevo.org/index.html/HomePage"><b>GECCO 2019</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">The Genetic and Evolutionary Computation Conference (GECCO) presents the latest high-quality results in genetic and evolutionary computation since 1999. Topics include: genetic algorithms, genetic programming, ant colony optimization and swarm intelligence, complex systems (artificial life/robotics/evolvable hardware/generative and developmental systems/artificial immune systems), digital entertainment technologies and arts, evolutionary combinatorial optimization and metaheuristics, evolutionary machine learning, evolutionary multiobjective optimization, evolutionary numerical optimization, real world applications, search-based software engineering, theory and more. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fc2fb893d1.png" alt="GECCO 2019" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="grand" class="AC-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://grand-challenge.org/challenges/"><b>Grand Challenges in Biomedical Image Analysis</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">Every year, thousands of papers are published that describe new algorithms to be applied to <b>medical and biomedical images</b>, and various new products appear on the market based on such algorithms. But few papers and products provide a fair and direct comparison of the newly proposed solution with the state-of-the-art. We believe that such comparisons can help the research community and industry to develop better algorithms. We support the organization of these comparative studies and the dissemination of their results. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fc577d84df.png" alt="Grand Challenges in Biomedical Image Analysis" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="Stanford_Machine_Learning_Group" class="AC-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://stanfordmlgroup.github.io"><b>Stanford Machine Learning Group</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">Our mission is to significantly improve people's lives through our work in Artificial Intelligence 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://stanfordmlgroup.github.io/img/stanfordmlgrouplogo.svg" alt="Stanford Machine Learning Group" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="Stanford_NLP_Group" class="AC-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://nlp.stanford.edu/blog/"><b>Stanford Natural Language Processing Group</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">The Natural Language Processing Group at Stanford University is a team of faculty, postdocs, programmers and students who work together on algorithms that allow computers to process and understand human languages. <br><a href='https://stanfordnlp.github.io/coqa/'>CoQA: A Conversational Question Answering Challenge</a> <br><a href='https://rajpurkar.github.io/SQuAD-explorer/'>SQuAD2.0: The Stanford Question Answering Dataset</a> <br>... 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fcfa3ab644.png" alt="Stanford Natural Language Processing Group" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="kelvins" class="AC-host IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://kelvins.esa.int/"><b>Kelvins</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">This website was created by the <a href='http://www.esa.int/gsp/ACT/index.html'>Advanced Concepts Team</a> of the European Space Agency in 2015. The website's purpose is to serve as a platform for space related competitions. <br>The title Kelvins is at the same time the theme for the website and originates from the unit for temperature named after the physicist <a href='https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin'>William Lord Kelvin</a>. To reach the absolute zero error is the target of many machine learning related competitions.  
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fc70f26608.png" alt="Kelvins" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="google_ai" class="AC-host IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://ai.googleblog.com"><b>Google AI</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">Google AI Blog | The lastest news from Google AI 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fcb0894163.png" alt="Google AI" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="ISBI_2019" class="AC-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://biomedicalimaging.org/2019/challenges/"><b>ISBI 2019</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">The IEEE International Symposium on Biomedical Imaging (ISBI) is a scientific conference dedicated to mathematical, algorithmic, and computational aspects of biological and biomedical imaging, across all scales of observation. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fd2ed2f995.png" alt="ISBI 2019" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="IEEE_CEC_2019" class="AC-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="http://cec2019.org/programs/competitions.html"><b>IEEE CEC 2019</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">(<b>Untapped</b>) 2019 IEEE CONGRESS ON EVOLUTIONARY COMPUTATION 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fd4e198068.png" alt="IEEE CEC 2019" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="ICME2019" class="AC-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="http://www.icme2019.org/conf_challenges"><b>ICME 2019</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">With around 1,000 submissions and 500 participants each year, the IEEE International Conference on Multimedia & Expo (ICME) has been the ﬂagship multimedia conference sponsored by four IEEE societies since 2000. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fe72529c9c.png" alt="ICME 2019" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="tianchi" class="PF-host IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://tianchi.aliyun.com/home/"><b>阿里云|天池</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">天池大数据竞赛是由阿里巴巴集团主办，面向全球科研工作者的高端算法竞赛。通过开放海量数据和分布式计算资源，大赛让所有参与者有机会运用其设计的算法解决各类社会问题或业务问题。特别优秀的解决方案将有机会直接上线阿里巴巴旗下各电商网站（含淘宝、天猫等）或第三方合作伙伴平台，服务中国乃至世界数以亿计的用户。 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fe06648713.png" alt="阿里云|天池" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="DataCastle" class="PF-host IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="http://www.dcjingsai.com"><b>DataCastle</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">DataCastle数据科学学习社区隶属于成都数聚城堡科技有限公司，是由周涛堡主创建的数据极客圈，聚集了全球数据精英、领先的数据科学思维与智慧以及各行业领域优质数据资源， 在大数据产业价值链的关键环节不断输出优质的大数据人才、大数据解决方案以及数据科学核心技术知识。 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fdefe4627f.png" alt="DataCastle" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="kesci" class="PF-host IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://www.kesci.com"><b>和鲸 HeyWhale (Kesci)</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">和鲸隶属于上海和今信息科技有限公司，2015年创始于上海，是中国领先的数据智能化转型、升级解决方案提供商。旗下拥有聚集了超过50,000+数据智能人才的专业第三方数据科学社区kesci(科赛网）、具备国际领先水平的数据分析及AI开发协作工具kescilab（简称“K-Lab”）以及企业数据智能化发展联盟数据商业家。 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fe23d009d7.png" alt="和鲸 HeyWhale (Kesci)" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="Biendata" class="PF-host IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://biendata.com/"><b>Biendata</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">Biendata.com is a platform for providing data science competitions to meet different enterprises and organizations needs. We are committed to helping you solve challenging data related problems in order to make your business more smart. 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fe79890a7a.png" alt="Biendata" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="datafountain" class="PF-host IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://www.datafountain.cn"><b>DataFountain</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">DF通过“众包”模式汇集各类大数据资源；以“众筹”模式汇集行业需求，形成大数据问题求解、科学发现、人工智能、商业智能、情报挖掘、大数据分析和大数据管理等挑战问题集合；以“众创”模式吸引全国最大规模的数据创新创业人才和最优秀的数据科学家共同解决复杂的大问题；通过创意大赛挖掘有价值的大数据应用及商业模式。 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fe88c0faf1.png" alt="DataFountain" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="AI_Challenger" class="IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://challenger.ai"><b>AI Challenger 全球AI挑战赛</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">“AI Challenger 全球AI挑战赛”是面向全球人工智能人才的开源数据集和编程竞赛平台，致力于满足AI人才成长对高质量丰富数据集的需求，推动AI在科研与商业领域结合来解决真实世界的问题。AI Challenger以服务、培养AI人才为使命，打造良性可持续的AI科研与应用新生态。 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fd56633682.png" alt="AI Challenger 全球AI挑战赛" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="iChallenge" class="IT-host AC-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="http://ichallenge.baidu.com"><b>iChallenge</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">iChallenge is set up to share high-quality labeled and annotated imaging data of ophthalmology, to enhance communication between different researchers (not only computer scientists but also clinicians) and to promote development of automatic algorithms in <b>diagnosis and image segmentation</b>. <br>Contact: ai@baidu.com 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fd6851c5cf.png" alt="iChallenge" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="jdata" class="IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://jdata.jd.com/html/list.html"><b>JDATA</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">由京东推出的，用于举办各类大数据竞赛、及基于大数据开展各类科研项目的大数据基础设施平台，其域名为 https://jdata.jd.com/（或京东根据业务需要不时调整的域名） 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fd83d8078f.png" alt="JDATA" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="JDDiscovery" class="IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://jdder.jd.com/"><b>JDDiscovery</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">JDD数据实验室是一个在线数据分析平台，提供算法代码开发、数据可视化、算法文档和算法执行环境于一体的数据分析环境。 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fda0786158.png" alt="JDDiscovery" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="dianshi" class="IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://dianshi.baidu.com/"><b>百度|点石</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">百度点石是百度大脑面向企业客户的大数据服务平台,面向个人与企业开发者提供从数据收集、存储、建模、部署上线等全流程的开发与交易服务。 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fdab9c67ca.png" alt="百度|点石" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="tinymind" class="IT-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="https://www.tinymind.cn/"><b>TinyMind.cn</b></a>
+            <div class="meta"></div>
+            
+            <div class="note">TinyMind.CN，CSDN旗下专业AI技术社区 
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="https://i.loli.net/2019/02/10/5c5fdd3104e9e.png" alt="TinyMind.cn" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+
+
+
+
+        </div>
+
+
+        
+
+
+        
+<script>
+            // Set checkboxes
+            var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Industry","sub":"IT"},{"name":"Academia","sub":"AC"}];
+            var all_subs = [];
+            var type1_subs = [];
+            for (var i = 0; i < comp_type_data.length; i++) {
+              all_subs[i] = comp_type_data[i]['sub'];
+              type1_subs[i] = comp_type_data[i]['sub'];
+            }
+    
+    
+            // Get subjects from URL
+            var url = new URL(window.location);
+            var subs = url.searchParams.get('sub');
+            if (subs == undefined) {
+               subs = store.get('/');
+               console.log(subs);
+            } else {
+               subs = subs.toUpperCase().split(',');
+            }
+            // Get subjects from browser cache
+    
+            if (subs === undefined) {
+              subs = all_subs;
+              for (var i = 0; i < subs.length; i++) {
+                $('#' + subs[i] + '-checkbox').prop('checked', true);
+              }
+            } else {
+              for (var i = 0; i < subs.length; i++) {
+                $('#' + subs[i] + '-checkbox').prop('checked', true);
+              }
+            }
+            // Hide unchecked subs
+            for (var i = 0; i < all_subs.length; i++) {
+              if (subs.indexOf(all_subs[i]) < 0) {
+                $('.' + all_subs[i] + '-host').hide();
+              }
+            }
+            store.set('/', subs);
+            window.history.pushState('', '', '/DataSciComp/hostby/?sub=' + subs.join());
+    
+            // Event handler on checkbox change
+            $('form :checkbox').change(function(e) {
+    
+              var checked = $(this).is(':checked');
+              var cid = $(this).prop('id');
+              var csub = cid.substring(0, cid.length - 9);
+              if (checked == true) {
+                // $('.' + csub + '-host').show();
+                if (subs.indexOf(csub) < 0)
+                  subs.push(csub);
+              }
+              else {
+                // $('.' + csub + '-host').hide();
+                var idx = subs.indexOf(csub);
+                if (idx >= 0)
+                  subs.splice(idx, 1);
+              }
+            // First, hide all
+            for (var i = 0; i < all_subs.length; i++) {
+                $('.' + all_subs[i] + '-host').hide();
+            }
+            // Then, show the one with checked subs within PF/IT/AC
+            for (var i = 0; i < type1_subs.length; i++) {
+              if (subs.indexOf(type1_subs[i]) >= 0) {
+                    $('.' + type1_subs[i] + '-host').show();
+              }
+            }
+              console.log(subs);
+              store.set('/', subs);
+              window.history.pushState('', '', '/DataSciComp/hostby/?sub=' + subs.join());
+            });
+
+        
+</script>
+
+    </body>
+</html>

@@ -35,7 +35,7 @@
   title: 'SQuAD2.0: The Stanford Question Answering Dataset'
   url: https://rajpurkar.github.io/SQuAD-explorer/
   hostby: 
-    - Stanford University: '#'
+    - Stanford NLP Group: 'https://nlp.stanford.edu/blog/'
   range: 'No deadline'
   deadtime: 'No deadline'
   timezone: UTC
@@ -50,7 +50,7 @@
   title: 'CoQA: A Conversational Question Answering Challenge'
   url: https://stanfordnlp.github.io/coqa/
   hostby: 
-    - Stanford University: '#'
+    - Stanford NLP Group: 'https://nlp.stanford.edu/blog/'
   range: 'No deadline'
   deadtime: 'No deadline'
   timezone: UTC
@@ -64,15 +64,16 @@
   type2:
     - CV
   title: 'Unrestricted Adversarial Examples Challenge'
-  url: https://ai.googleblog.com/2018/09/introducing-unrestricted-adversarial.html
+  url: https://github.com/google/unrestricted-adversarial-examples
   hostby: 
-    - Google Brain Team: '#'
+    - Google AI: 'https://ai.googleblog.com/2018/09/introducing-unrestricted-adversarial.html'
   range: 'No deadline'
   deadtime: 'No deadline'
   timezone: UTC
   note: 'A community-based challenge to incentivize and measure progress towards the goal of zero confident classification errors in machine learning models.
   <br>(不受限对抗样本挑战) <a href="https://github.com/google/unrestricted-adversarial-examples">The project on Github</a>'
   prize: NaN
+
 
 
 

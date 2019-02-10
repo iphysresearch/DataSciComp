@@ -1,0 +1,72 @@
+
+
+# ICME ##
+
+
+
+- id: Grand_Challenges_of_106_p_Facial_Landmark_Localization
+  type1: 
+    - AC
+  type2:
+    - CV
+  title: 'Grand Challenges of 106-p Facial Landmark Localization'
+  url: https://facial-landmarks-localization-challenge.github.io
+  hostby: 
+    - ICME2019: http://www.icme2019.org/conf_challenges
+  range: November 16, 2018 - April 29, 2019
+  deadtime: "2019-04-08 23:59:59"
+  timezone: UTC
+  note: 'The purpose of this competition is to promote the development of research on face landmark localization, especially dealing with the complex situations, e.g. large face poses, extreme expressions and occlusions.'
+  prize: Cash 2000 USD
+
+
+- id: Learning_Based_Image_Inpainting
+  type1: 
+    - AC
+  type2:
+    - CV
+  title: 'Learning-Based Image Inpainting'
+  url: https://icme19inpainting.github.io
+  hostby: 
+    - ICME2019: http://www.icme2019.org/conf_challenges
+  range: Now - April 29, 2019
+  deadtime: "2019-04-08 23:59:59"
+  timezone: UTC
+  note: 'This challenge is meant to consolidate research efforts about image inpainting using learning, especially deep learning approach. We will prepare two tracks: error concealment (EC) and object removal (OR).'
+  prize: NaN
+
+
+- id: duanshipinneironglijie
+  type1: 
+    - PF
+    - IT
+    - AC
+  type2:
+    - CV
+  title: '短视频内容理解与推荐竞赛'
+  url: https://www.biendata.com/competition/icmechallenge2019/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+    - ICME2019: http://www.icme2019.org/conf_challenges
+    - 字节跳动: https://www.bytedance.com
+  range: 1月10日-4月22日, 2019
+  deadtime: "2019-04-01 23:59:59"
+  timezone: UTC
+  note: '本次竞赛提供多模态的短视频内容特征，包括视觉特征、文本特征和音频特征，同时提供了脱敏后的用户点击、喜爱、关注等交互行为数据。参赛者需要通过一个视频及用户交互行为数据集对用户兴趣进行建模，然后预测该用户在另一视频数据集上的点击行为。'
+  prize: $20,000
+
+
+- id: Saliency4ASD
+  type1: 
+    - AC
+  type2:
+    - CV
+  title: 'Saliency4ASD: Visual attention modeling for Autism Spectrum Disorder'
+  url: https://saliency4asd.ls2n.fr
+  hostby: 
+    - ICME2019: http://www.icme2019.org/conf_challenges
+  range: Now - April 29, 2019
+  deadtime: "2019-04-08 23:59:59"
+  timezone: UTC
+  note: 'The purpose of the Grand Challenge <b>Saliency4ASD</b> is to drive efforts of visual attention modeling community towards a healthcare societal challenge. Gaze features related to saccades and fixations have demonstrated their usefulness in the identification of mental states, cognitive processes and neuropathologies (Tseng et al., 2013; Itti, 2015), notably for people with ASD (Autism Spectrum Disorder).'
+  prize: NaN

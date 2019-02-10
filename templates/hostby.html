@@ -1,0 +1,154 @@
+{% extends 'base.html' %}
+
+{% block head %}
+{{ super() }}
+<style type="text/css">
+    a:hover{color:#0099CC}
+    
+    /*.row:hover{border-style: None solid;
+        border-color:#666666;
+        border-width:1px;
+    }*/
+
+</style>
+{% endblock %}
+
+
+
+{% block container %}
+{{ super() }}
+<div class="page-header">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12">
+            <h1>Data Science Challenge / Competition
+                <iframe src="https://ghbtns.com/github-btn.html?user=iphysresearch&repo=DataSciComp&type=star&count=true" scrolling="0" width="170px" height="20px" frameborder="0"></iframe>
+            </h1>
+        </div>
+        <div class="meta col-xs-12">
+            Countdowns to <b>ENTRY DEADLINE</b> of popular Data Science Challenges/Competitions.
+            To add/update a challenge, 
+            <a target="_blank" href="//">send in a pull request</a>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-xs-12">
+            <form class="form-horizontal">
+                <div class="form-group">
+                    {% for id_checkbox in id_type_checkboxs %}
+                    <div class="col-md-4 col-xs-5">
+                        <div class="checkbox">
+                            <label><input id="{{ id_checkbox.id }}" class="" type="checkbox"></input>
+                                {{ id_checkbox.name }}
+                            </label>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </form>
+            <!-- <hr>   -->
+        </div>
+    </div>
+</div>
+
+{% for host in hosts %}
+<div id="{{ host.id }}" class="{{ '-host '.join(host.type1) }}-host">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="{{ host.url }}"><b>{{ host.title }}</b></a>
+            <div class="meta"></div>
+            {% if host.descri %}
+            <div class="note">{{ host.descri | safe }} 
+            </div>
+            {% endif %}
+        </div>
+        <div class="col-xs-12 col-sm-6 center-block">
+        <img src="{{ host.logo }}" alt="{{ host.title }}" class='img-responsive center-block'>
+        </div>
+    </div>
+    <hr>
+</div>
+{% endfor %}
+
+
+{% endblock %}
+
+
+{% block script_js %}
+{{ super() }}
+<script>
+            // Set checkboxes
+            var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Industry","sub":"IT"},{"name":"Academia","sub":"AC"}];
+            var all_subs = [];
+            var type1_subs = [];
+            for (var i = 0; i < comp_type_data.length; i++) {
+              all_subs[i] = comp_type_data[i]['sub'];
+              type1_subs[i] = comp_type_data[i]['sub'];
+            }
+    
+    
+            // Get subjects from URL
+            var url = new URL(window.location);
+            var subs = url.searchParams.get('sub');
+            if (subs == undefined) {
+               subs = store.get('/');
+               console.log(subs);
+            } else {
+               subs = subs.toUpperCase().split(',');
+            }
+            // Get subjects from browser cache
+    
+            if (subs === undefined) {
+              subs = all_subs;
+              for (var i = 0; i < subs.length; i++) {
+                $('#' + subs[i] + '-checkbox').prop('checked', true);
+              }
+            } else {
+              for (var i = 0; i < subs.length; i++) {
+                $('#' + subs[i] + '-checkbox').prop('checked', true);
+              }
+            }
+            // Hide unchecked subs
+            for (var i = 0; i < all_subs.length; i++) {
+              if (subs.indexOf(all_subs[i]) < 0) {
+                $('.' + all_subs[i] + '-host').hide();
+              }
+            }
+            store.set('/', subs);
+            window.history.pushState('', '', '/DataSciComp/hostby/?sub=' + subs.join());
+    
+            // Event handler on checkbox change
+            $('form :checkbox').change(function(e) {
+    
+              var checked = $(this).is(':checked');
+              var cid = $(this).prop('id');
+              var csub = cid.substring(0, cid.length - 9);
+              if (checked == true) {
+                // $('.' + csub + '-host').show();
+                if (subs.indexOf(csub) < 0)
+                  subs.push(csub);
+              }
+              else {
+                // $('.' + csub + '-host').hide();
+                var idx = subs.indexOf(csub);
+                if (idx >= 0)
+                  subs.splice(idx, 1);
+              }
+            // First, hide all
+            for (var i = 0; i < all_subs.length; i++) {
+                $('.' + all_subs[i] + '-host').hide();
+            }
+            // Then, show the one with checked subs within PF/IT/AC
+            for (var i = 0; i < type1_subs.length; i++) {
+              if (subs.indexOf(type1_subs[i]) >= 0) {
+                    $('.' + type1_subs[i] + '-host').show();
+              }
+            }
+              console.log(subs);
+              store.set('/', subs);
+              window.history.pushState('', '', '/DataSciComp/hostby/?sub=' + subs.join());
+            });
+
+        
+</script>
+{% endblock %}
