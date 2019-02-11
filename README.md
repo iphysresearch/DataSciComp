@@ -20,7 +20,7 @@
 
 ---
 
-> ###### [Description](#description) | [How to Contribute](#how-to-Contribute) | [To-Do](#to-do) | [FAQ](#faq) | [Acknowledgments & other useful listings](#acknowledgments-and-other-useful-listings) | [License](#license)
+> ###### [Description](#description) | [How to Contribute](#how-to-Contribute) | [Data Format](#data-format) | [To-Do](#to-do) | [FAQ](#faq) | [Acknowledgments & other useful listings](#acknowledgments-and-other-useful-listings) | [License](#license)
 
 ---
 
@@ -47,7 +47,7 @@
 
 - To add/update a challenge or any feedbacks to me, please don't hesitate and send in a **pull request**.
 
-  - The easiest way to do that is to directly append the details of challenges/competitions in `_data/_*.yaml` with **YAML** format. (see `_data/readme`)
+  - The easiest way to do that is to directly append the details of challenges/competitions in `./_data/_*.yaml` with **YAML** format. (see [Data Format](#data-format) and  `./_data/readme`)
 
   - Or you can clone the repo and **push** your changes up. Here's how you can build it by your own:
 
@@ -57,6 +57,36 @@
     ```
 
 - A WeChat group have been created: <a target='_blank' href="https://i.loli.net/2019/02/10/5c6036724e632.png">QR code</a> (2月17日前有效)
+
+
+
+## Data Format
+
+The entire dataset is stored in files `./_data/_effective_*.yaml` and `./_data/_hosts.yaml`.
+
+Here is an example:
+
+```yaml
+- id: TrackML_Throughput_Phase
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+    - CV
+  title: TrackML Throughput Phase
+  url: https://competitions.codalab.org/competitions/20574
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - NeurIPS 2018: https://nips.cc/Conferences/2018/CompetitionTrack
+  range: Sept. 7, 2018 - March 12, 2019
+  deadtime: "2019-03-12 23:59:59"
+  timezone: UTC
+  note: 'The overall TrackML challenge web site is <a href="https://sites.google.com/site/trackmlparticle/">there</a>.'
+  prize: $15,000
+```
+
+See more details: `./_data/readme`
 
 
 
