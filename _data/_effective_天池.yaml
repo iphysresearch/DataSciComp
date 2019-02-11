@@ -6,7 +6,6 @@
 - id: Gridlock_Prediction_Challenge
   type1: 
     - PF
-    - IT
   type2:
     - DM
   title: Gridlock Prediction Challenge
@@ -23,7 +22,6 @@
 - id: IJCAI_19
   type1: 
     - PF
-    - IT
   type2:
     - CV
   title: 'IJCAI-19 阿里巴巴人工智能对抗算法竞赛'

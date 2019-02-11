@@ -93,7 +93,7 @@
 {{ super() }}
 <script>
             // Set checkboxes
-            var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Industry","sub":"IT"},{"name":"Academia","sub":"AC"}];
+            var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Academia","sub":"AC"}];
             var all_subs = [];
             var type1_subs = [];
             for (var i = 0; i < comp_type_data.length; i++) {
@@ -153,7 +153,7 @@
             for (var i = 0; i < all_subs.length; i++) {
                 $('.' + all_subs[i] + '-host').hide();
             }
-            // Then, show the one with checked subs within PF/IT/AC
+            // Then, show the one with checked subs within PF/AC
             for (var i = 0; i < type1_subs.length; i++) {
               if (subs.indexOf(type1_subs[i]) >= 0) {
                     $('.' + type1_subs[i] + '-host').show();

@@ -42,7 +42,7 @@ freezer = Freezer(app)
 
 id_type_checkboxs = [
     {'id': 'PF-checkbox', 'name': 'Platform'}
-    ,{'id': 'IT-checkbox', 'name': 'Industry'}
+    # ,{'id': 'IT-checkbox', 'name': 'Industry'}
     ,{'id': 'AC-checkbox', 'name': 'Academia'} 
 ]
 

@@ -26,10 +26,9 @@
 
 ## Description
 
-- First-Class tags: `Platform` / `Industry` / `Academia`
+- First-Class tags: `Platform`  / `Academia`
 
   - `Platform`: Online public communities and platforms containing various challenges/competitions.
-  - `Industry`:  Specified challenges/competitions for industries data.
   - `Academia`: Challenges/competitions for academic research.
 
 - Second-Class tags: `Data Mining` / `Computer Vision` / `Natural Language Processing` / `Reinforcement Learning/Robotics` / `Speech/Signal Proccessing`

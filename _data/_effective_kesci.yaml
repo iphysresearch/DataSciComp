@@ -6,7 +6,6 @@
 - id: erfenlei
   type1: 
     - PF
-    - IT
   type2:
     - DM
   title: '「二分类算法」提供银行精准营销解决方案 | 练习赛'
@@ -22,7 +21,6 @@
 - id: moke
   type1: 
     - PF
-    - IT
   type2:
     - DM
   title: '“默克”杯逆合成反应预测大赛'

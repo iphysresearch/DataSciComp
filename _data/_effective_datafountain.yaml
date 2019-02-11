@@ -5,7 +5,6 @@
 - id: zhinengpandian
   type1: 
     - PF
-    - IT
   type2:
     - CV
   title: '智能盘点—钢筋数量AI识别'
@@ -22,7 +21,6 @@
 - id: haishangfengchang
   type1: 
     - PF
-    - IT
   type2:
     - DM
   title: '海上风场SCADA数据缺失智能修复'
@@ -40,7 +38,6 @@
 - id: hunningtu
   type1: 
     - PF
-    - IT
   type2:
     - DM
   title: '混凝土泵车砼活塞故障预警'
@@ -58,7 +55,6 @@
 - id: xiaofeizhe
   type1: 
     - PF
-    - IT
   type2:
     - DM
   title: '消费者人群画像—信用智能评分'
@@ -75,7 +71,6 @@
 - id: wenhuachuancheng
   type1: 
     - PF
-    - IT
   type2:
     - CV
   title: '文化传承—汉字书法多场景识别'
@@ -92,7 +87,6 @@
 - id: dashujuyiliao
   type1: 
     - PF
-    - IT
   type2:
     - CV
   title: '大数据医疗——肝癌影像AI诊断'

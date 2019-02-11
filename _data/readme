@@ -3,7 +3,7 @@
 - id 唯一编码，可随意指定，但建议根据 title 的内容书写。
     -（注意！不可数字开头）
 
-- type1 只有三个选项 PF, IT，AC
+- type1 只有三个选项 PF，AC
 - type2 有五个选项 DM, CV, NLP, RL, SP
     -（可多选，但不可不选）
 

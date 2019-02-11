@@ -85,14 +85,6 @@
                     
                     <div class="col-md-4 col-xs-5">
                         <div class="checkbox">
-                            <label><input id="IT-checkbox" class="" type="checkbox"></input>
-                                Industry
-                            </label>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4 col-xs-5">
-                        <div class="checkbox">
                             <label><input id="AC-checkbox" class="" type="checkbox"></input>
                                 Academia
                             </label>
@@ -192,7 +184,7 @@
     <hr>
 </div>
 
-<div id="numerai" class="PF-host IT-host">
+<div id="numerai" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://numer.ai/homepage"><b>Numerai</b></a>
@@ -362,7 +354,7 @@
     <hr>
 </div>
 
-<div id="kelvins" class="AC-host IT-host">
+<div id="kelvins" class="AC-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://kelvins.esa.int/"><b>Kelvins</b></a>
@@ -379,7 +371,7 @@
     <hr>
 </div>
 
-<div id="google_ai" class="AC-host IT-host">
+<div id="google_ai" class="AC-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://ai.googleblog.com"><b>Google AI</b></a>
@@ -447,7 +439,7 @@
     <hr>
 </div>
 
-<div id="tianchi" class="PF-host IT-host">
+<div id="tianchi" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://tianchi.aliyun.com/home/"><b>阿里云|天池</b></a>
@@ -464,7 +456,7 @@
     <hr>
 </div>
 
-<div id="DataCastle" class="PF-host IT-host">
+<div id="DataCastle" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="http://www.dcjingsai.com"><b>DataCastle</b></a>
@@ -481,7 +473,7 @@
     <hr>
 </div>
 
-<div id="kesci" class="PF-host IT-host">
+<div id="kesci" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://www.kesci.com"><b>和鲸 HeyWhale (Kesci)</b></a>
@@ -498,7 +490,7 @@
     <hr>
 </div>
 
-<div id="Biendata" class="PF-host IT-host">
+<div id="Biendata" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://biendata.com/"><b>Biendata</b></a>
@@ -515,7 +507,7 @@
     <hr>
 </div>
 
-<div id="datafountain" class="PF-host IT-host">
+<div id="datafountain" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://www.datafountain.cn"><b>DataFountain</b></a>
@@ -532,7 +524,7 @@
     <hr>
 </div>
 
-<div id="AI_Challenger" class="IT-host">
+<div id="AI_Challenger" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://challenger.ai"><b>AI Challenger 全球AI挑战赛</b></a>
@@ -549,7 +541,7 @@
     <hr>
 </div>
 
-<div id="iChallenge" class="IT-host AC-host">
+<div id="iChallenge" class="AC-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="http://ichallenge.baidu.com"><b>iChallenge</b></a>
@@ -566,7 +558,7 @@
     <hr>
 </div>
 
-<div id="jdata" class="IT-host">
+<div id="jdata" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://jdata.jd.com/html/list.html"><b>JDATA</b></a>
@@ -583,7 +575,7 @@
     <hr>
 </div>
 
-<div id="JDDiscovery" class="IT-host">
+<div id="JDDiscovery" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://jdder.jd.com/"><b>JDDiscovery</b></a>
@@ -600,7 +592,7 @@
     <hr>
 </div>
 
-<div id="dianshi" class="IT-host">
+<div id="dianshi" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://dianshi.baidu.com/"><b>百度|点石</b></a>
@@ -617,7 +609,7 @@
     <hr>
 </div>
 
-<div id="tinymind" class="IT-host">
+<div id="tinymind" class="PF-host">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="https://www.tinymind.cn/"><b>TinyMind.cn</b></a>
@@ -663,7 +655,7 @@
         
 <script>
             // Set checkboxes
-            var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Industry","sub":"IT"},{"name":"Academia","sub":"AC"}];
+            var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Academia","sub":"AC"}];
             var all_subs = [];
             var type1_subs = [];
             for (var i = 0; i < comp_type_data.length; i++) {
@@ -723,7 +715,7 @@
             for (var i = 0; i < all_subs.length; i++) {
                 $('.' + all_subs[i] + '-host').hide();
             }
-            // Then, show the one with checked subs within PF/IT/AC
+            // Then, show the one with checked subs within PF/AC
             for (var i = 0; i < type1_subs.length; i++) {
               if (subs.indexOf(type1_subs[i]) >= 0) {
                     $('.' + type1_subs[i] + '-host').show();

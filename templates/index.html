@@ -184,13 +184,13 @@
         
 
         // Set checkboxes
-        var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Industry","sub":"IT"},{"name":"Academia","sub":"AC"},{"name":"Data Mining","sub":"DM"},{"name":"Computer Vision","sub":"CV"},{"name":"Natural Language Processing","sub":"NLP"},{"name":"Reinforcement Learning/Robotics","sub":"RL"},{"name":"Speech/Signal Proccessing","sub":"SP"}];
+        var comp_type_data = [{"name":"Platform","sub":"PF"},{"name":"Academia","sub":"AC"},{"name":"Data Mining","sub":"DM"},{"name":"Computer Vision","sub":"CV"},{"name":"Natural Language Processing","sub":"NLP"},{"name":"Reinforcement Learning/Robotics","sub":"RL"},{"name":"Speech/Signal Proccessing","sub":"SP"}];
         var all_subs = [];
         var type1_subs = [];
         var type2_subs = [];
         for (var i = 0; i < comp_type_data.length; i++) {
           all_subs[i] = comp_type_data[i]['sub'];
-          if (i <= 2) {
+          if (i <= 1) {
             type1_subs[i] = comp_type_data[i]['sub'];
           }
           else {

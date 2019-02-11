@@ -39,7 +39,6 @@
 - id: duanshipinneironglijie
   type1: 
     - PF
-    - IT
     - AC
   type2:
     - CV

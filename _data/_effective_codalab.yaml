@@ -128,7 +128,6 @@
 - id: "AutoML_for_Lifelong_Machine_Learning"
   type1: 
     - PF
-    - IT
     - AC
   type2:
     - ML
