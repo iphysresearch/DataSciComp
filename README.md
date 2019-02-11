@@ -35,6 +35,7 @@
 
   - Note: `Data Mining` for structured data sources, the others for unstructured ones.
 
+- `Rewards filter` tags show you the challenges/competitions offered prizes. 
 - The Countdowns to **ENTRY DEADLINE** with respect to visitor's local time with time zone support.
 - `Prize` for total prize.
 
@@ -52,6 +53,7 @@
 
     ```bash
     $ pipenv install --dev
+    $ export FLASK_APP=run.py
     $ python run.py
     ```
 

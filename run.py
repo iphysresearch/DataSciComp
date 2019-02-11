@@ -59,6 +59,14 @@ def index(id_type_checkboxs = id_type_checkboxs, id_type2_checkboxs = id_type2_c
     # 保证每个 comp 的 type 键的值是 list 类型
     [ comp.update({'type1': [comp['type1']]}) for comp in competitions if not isinstance(comp['type1'], list) ]
     [ comp.update({'type2': [comp['type2']]}) for comp in competitions if not isinstance(comp['type2'], list) ]
+    # 判断 prize
+    for comp in competitions:
+        if (comp['prize'] == 'NaN') or (comp['prize'] == 'Kaggle Swag'):
+            comp.update({'howprize': ['unrewarded']})
+        else:
+            comp.update({'howprize': ['rewarded']}) 
+    # [ comp.update({'howprize': ['unrewarded']}) for comp in competitions if comp['prize'] == 'NaN']
+    # [ comp.update({'howprize': ['rewarded']}) for comp in competitions if comp['prize'] ~= 'NaN']
     return render_template('index.html', id_type_checkboxs=id_type_checkboxs, 
                                          id_type2_checkboxs=id_type2_checkboxs,
                                          competitions=competitions)

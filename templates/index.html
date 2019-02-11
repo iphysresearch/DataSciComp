@@ -64,6 +64,13 @@
                         </div>
                     </div>
                     {% endfor %}
+                    <div class="col-md-4 col-xs-5">
+                            <div class="checkbox">
+                                <label style="color:#FF0033"><input id="rewarded-checkbox" class="" type="checkbox"></input>
+                                    Rewards filter
+                                </label>
+                            </div>
+                        </div>
                 </div>
             </form>            
         </div>
@@ -79,7 +86,7 @@
 </div>
 
 {% for Comp in competitions %}
-<div id="{{ Comp.id }}" class="{{ '-comp '.join(Comp.type1) }}-comp {{ '-comp '.join(Comp.type2) }}-comp">
+<div id="{{ Comp.id }}" class="{{ '-comp '.join(Comp.type1) }}-comp {{ '-comp '.join(Comp.type2) }}-comp {{ '-comp '.join(Comp.howprize) }}-comp">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
             <a href="{{ Comp.url }}"><b>{{ Comp.title }}</b></a>
@@ -227,7 +234,7 @@
           }
         }
         store.set('/', subs);
-        window.history.pushState('', '', '/DataSciComp/?sub=' + subs.join());
+        window.history.pushState('', '', '/DataSciComp?sub=' + subs.join());
 
         // Event handler on checkbox change
         $('form :checkbox').change(function(e) {
@@ -250,19 +257,23 @@
         for (var i = 0; i < all_subs.length; i++) {
             $('.' + all_subs[i] + '-comp').hide();
         }
-        // Then, show the one with checked subs within PF/IT/AC
+        // Then, show the one with checked subs within PF/AC
         for (var i = 0; i < type1_subs.length; i++) {
           if (subs.indexOf(type1_subs[i]) >= 0) {
             for (var j = 0; j < type2_subs.length; j++) {
               if (subs.indexOf(type2_subs[j]) >= 0) {
                 $('.' + type1_subs[i] + '-comp'+''+'.' + type2_subs[j] + '-comp').show();
               }
+              if (subs.indexOf('rewarded') >= 0) {
+                $('.unrewarded-comp').hide();
+              }
             }
           }
         }
           console.log(subs);
+
           store.set('/', subs);
-          window.history.pushState('', '', '/DataSciComp/?sub=' + subs.join());
+          window.history.pushState('', '', '/DataSciComp?sub=' + subs.join());
         });
     });
     
