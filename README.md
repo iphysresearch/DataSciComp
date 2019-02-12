@@ -125,6 +125,13 @@ See more details: `./_data/readme`
 
 
 
+## Stargazers over time
+
+[![Stargazers over time](https://starcharts.herokuapp.com/iphysresearch/DataSciComp.svg)](https://starcharts.herokuapp.com/iphyresearch/DataSciComp)
+
+
+
 ## License
 
 MIT
+
