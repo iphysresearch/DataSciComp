@@ -115,7 +115,7 @@ def products_xml(competitions = competitions):
     for comp, _ in competitions:
         output += '<item>'
         output += '<title>{}</title>'.format(comp['title'])
-        output += '<link>{}</link>'.format(comp['url']+'#'+comp['id'])
+        output += '<link>{}</link>'.format('https://iphysresearch.github.io/DataSciComp?sub=PF,AC,DM,CV,NLP,RL,SP'+'#'+comp['id'])
         output += '<category>{}</category>'.format('/'.join(comp['type1']))
         output += '<category>{}</category>'.format('/'.join(comp['type2']))
         output += '<pubDate>{}</pubDate>'.format(comp['pubtime'])
