@@ -105,23 +105,23 @@ def products_xml(competitions = competitions):
 
     output = '<?xml version="1.0" encoding="UTF-8" ?>'
     output += '<rss version="2.0">'
-    for block in range(num_largest):
-        output += '<channel>'
-        output += '<title>Data Science Challenge / Competition</title>'
-        output += '<link>https://iphysresearch.github.io/DataSciComp</link>'
+    output += '<channel>'
+    output += '<title>Data Science Challenge / Competition</title>'
+    output += '<link>https://iphysresearch.github.io/DataSciComp</link>'
 
-        update_block = datetime.datetime.fromtimestamp(int(datetime.datetime.strptime(str(time_largest[block]), '%Y%m%d').timestamp()), pytz.timezone('Asia/Shanghai')).strftime("%a, %d %b %Y GMT+0800")
-        output += '<description>Update Log at {}</description>'.format(update_block)
-        for comp in [ comp for comp, block_time in competitions if block_time == block ]:
-            output += '<item>'
-            output += '<title>{}</title>'.format(comp['title'])
-            output += '<link>{}</link>'.format(comp['url'])
-            output += '<category>{}</category>'.format('/'.join(comp['type1']))
-            output += '<category>{}</category>'.format('/'.join(comp['type2']))
-            output += '<pubDate>{}</pubDate>'.format(comp['pubtime'])
-            output += '<description>{:s}</description>'.format(comp['note'].replace('<br>',''))
-            output += '</item>'
-        output += '</channel>'
+    update_block = [ datetime.datetime.fromtimestamp(int(datetime.datetime.strptime(str(time_largest[block]), '%Y%m%d').timestamp()), pytz.timezone('Asia/Shanghai')).strftime("%m/%d/%Y") for block in range(num_largest) ]
+    output += '<description>Update Logs for {} and {} (GMT+0800).</description>'.format(update_block[0], update_block[1])
+
+    for comp, _ in competitions:
+        output += '<item>'
+        output += '<title>{}</title>'.format(comp['title'])
+        output += '<link>{}</link>'.format(comp['url']+'#'+comp['id'])
+        output += '<category>{}</category>'.format('/'.join(comp['type1']))
+        output += '<category>{}</category>'.format('/'.join(comp['type2']))
+        output += '<pubDate>{}</pubDate>'.format(comp['pubtime'])
+        output += '<description>{:s}</description>'.format(comp['note'].replace('<br>',''))
+        output += '</item>'
+    output += '</channel>'
     output += '</rss>'
     return Response(output, mimetype='application/xml')
 

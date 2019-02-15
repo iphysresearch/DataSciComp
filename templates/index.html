@@ -123,7 +123,7 @@
 <div id="{{ Comp.id }}" class="{{ '-comp '.join(Comp.type1) }}-comp {{ '-comp '.join(Comp.type2) }}-comp {{ '-comp '.join(Comp.howprize) }}-comp">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
-            <a href="{{ Comp.url }}"><b>{{ Comp.title }}</b></a>
+            <a href="{{ Comp.url }}" name="{{ Comp.id }}"><b>{{ Comp.title }}</b></a>
             <div class="meta">{{ Comp.range }}
                  // Host by
                  {% for host in Comp.hostby %}
