@@ -93,7 +93,7 @@ See more details: `./_data/readme`
 ## To-Do
 
 - [ ] 双语化？
-- [ ] Add subscription / notification?
+- [x] Add subscription / notification?
 - [ ] Add past challenges/competitions?（增加历史赛题集锦？）
 - [ ] Upgrade to a dynamic site. （升级成动态站点）
 - [ ] A more handy way to add/update by any visitors.（更方便的表单填写实现赛题增加/更新）
