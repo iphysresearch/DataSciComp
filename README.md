@@ -12,8 +12,6 @@
   <p>
 </div>
 
-
-
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
 > 欢迎关注微博更新：[IPhysResearch](http://weibo.com/IPhysresearch) . Collected by 土豆 (Herb) in spare time.
@@ -83,6 +81,7 @@ Here is an example:
   range: Sept. 7, 2018 - March 12, 2019
   deadtime: "2019-03-12 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-15'
   note: 'The overall TrackML challenge web site is <a href="https://sites.google.com/site/trackmlparticle/">there</a>.'
   prize: $15,000
 ```

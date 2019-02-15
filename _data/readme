@@ -14,4 +14,6 @@
     - （注意！deadtime 的 timezone 信息请另外标明！可选的 timezone 可见 ./timezone。）
     - （注意！对于没有 deadtime 的题目，内容必须指定为"No deadline"，才不会判断报错~）
 
+- pubtime 用来标记更新时间给 XML，请严格按照格式书写，否则会报错。 'xxxx-xx-xx'
+
 - note 的内容是可以直接上 html 标记语言的。

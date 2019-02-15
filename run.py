@@ -95,7 +95,7 @@ def hostby(id_type_checkboxs = id_type_checkboxs, hosts = hosts):
 
 @app.route("/update_log.xml")
 def products_xml(competitions = competitions):
-    num_largest = 1
+    num_largest = 2
     comps_pubtime = np.array([ int(i['pubtime'].replace('-', '')) for i in competitions ])
     time_largest = heapq.nlargest(num_largest, np.unique(comps_pubtime))
     index_largest = [ np.where(comps_pubtime == largest_value)[0].tolist() for largest_value in time_largest ]
