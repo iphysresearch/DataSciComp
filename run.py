@@ -95,7 +95,7 @@ def hostby(id_type_checkboxs = id_type_checkboxs, hosts = hosts):
 
 @app.route("/update_log.xml")
 def products_xml(competitions = competitions):
-    num_largest = 2
+    num_largest = 1
     comps_pubtime = np.array([ int(i['pubtime'].replace('-', '')) for i in competitions ])
     time_largest = heapq.nlargest(num_largest, np.unique(comps_pubtime))
     index_largest = [ np.where(comps_pubtime == largest_value)[0].tolist() for largest_value in time_largest ]
@@ -110,16 +110,16 @@ def products_xml(competitions = competitions):
     output += '<link>https://iphysresearch.github.io/DataSciComp</link>'
 
     update_block = [ datetime.datetime.fromtimestamp(int(datetime.datetime.strptime(str(time_largest[block]), '%Y%m%d').timestamp()), pytz.timezone('Asia/Shanghai')).strftime("%m/%d/%Y") for block in range(num_largest) ]
-    output += '<description>Update Logs for (GMT+0800)<ul><li>{}</li> <li>{}</li></ul></description>'.format(update_block[0], update_block[1])
+    output += '<description>Update Logs for {} (GMT+0800).</description>'.format(update_block[0])
 
     for comp, _ in competitions:
         output += '<item>'
         output += '<title>{}</title>'.format(comp['title'])
-        output += '<link>{}</link>'.format('https://iphysresearch.github.io/DataSciComp?sub=PF,AC,DM,CV,NLP,RL,SP'+'#'+comp['id'])
+        output += '<link>{}</link>'.format(comp['url'])
         output += '<category>{}</category>'.format('/'.join(comp['type1']))
         output += '<category>{}</category>'.format('/'.join(comp['type2']))
         output += '<pubDate>{}</pubDate>'.format(comp['pubtime'])
-        # output += '<description>{:s}</description>'.format(comp['note'].replace('<br>',''))
+        output += '<description>{:s}</description>'.format(comp['note'].replace('<br>',''))
         output += '</item>'
     output += '</channel>'
     output += '</rss>'
