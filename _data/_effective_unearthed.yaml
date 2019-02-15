@@ -14,6 +14,7 @@
   range: 31 Jan - 05 Mar, 2019
   deadtime: '2019-03-05 23:59:59'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'As part of this competition, we ask you to build a model to accurately predict the rougher zinc recovery and the final zinc recovery for each hourly interval in the data set.'
   prize: A$ 6,000
 
@@ -31,5 +32,6 @@
 #   range: 
 #   deadtime: 
 #   timezone: UTC
-#   note: 
+#   pubtime: '2019-02-01'
+  note: 
 #   prize: 

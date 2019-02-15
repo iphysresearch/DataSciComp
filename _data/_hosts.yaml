@@ -48,6 +48,15 @@
   descri: "crowdAI is a platform for open data science challenges. crowdAI helps universities, government agencies, NGOs, or businesses to run and manage their data challenges. The crowdAI platform is a non-profit, open source infrastructure that can immediately reach thousands of data scientists around the world to work on interesting data problems."
 
 
+- id: EvalAI
+  type1:
+    - PF
+    - AC
+  title: EvalAI
+  url: https://evalai.cloudcv.org
+  logo: https://i.loli.net/2019/02/15/5c668b7559544.png
+  descri: "EvalAI is built by a team of open source enthusiasts working at <a href='http://cloudcv.org'>CloudCV</a>. CloudCV aims to make AI research reproducible and easily accessible. We want to reduce the barrier to entry for doing research and make it easier for researchers, students and developers to develop and use state-of-the-art algorithms as a service."
+
 - id: numerai
   type1: 
     - PF

@@ -19,6 +19,7 @@
   range: November 12, 2018 - May 24, 2019
   deadtime: '2019-04-26 23:59:59'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'ImageCLEF 2019 proposes 4 main tasks:
   <br><a href="https://www.imageclef.org/2019/coral">ImageCLEFcoral</a>: The task addresses the problem of automatically segmenting and labeling a collection of images of an underwater environment for the monitoring of coral reef structure and composition.
   <br><a href="https://www.imageclef.org/2019/lifelog">ImageCLEFlifelog</a>: The task addresses the problems of lifelogging data retrieval and summarization.
@@ -41,6 +42,7 @@
   range: Dec. 2018 - May 24, 2019
   deadtime: '2019-05-01 23:59:59'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'LifeCLEF 2019 proposes 3 main tasks:
   <br><a href="https://www.imageclef.org/GeoLifeCLEF2019">GeoLifeCLEF 2019</a>: The aim of the challenge is to predict the list of species that are the most likely to be observed at a given location.
   <br><a href="https://www.imageclef.org/PlantCLEF2019">PlantCLEF 2019</a>: The goal of the task is return the most likely species for each observation of the test set (an observation being a set of images of the same individual plant and the associated metadata such as date, gps, author).

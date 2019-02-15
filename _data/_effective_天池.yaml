@@ -15,6 +15,7 @@
   range: March 1-31, 2019
   deadtime: "2019-03-31 05:59:59"
   timezone: "Asia/Shanghai"
+  pubtime: '2019-02-01'
   note: 'Task: To estimate the average travel time from designated intersections to tollgates'
   prize: iPhone/iPad/AirPods
 
@@ -31,7 +32,24 @@
   range: 3月4日 - 6月10日, 2019
   deadtime: "2019-04-20 09:59:59"
   timezone: "Asia/Shanghai"
+  pubtime: '2019-02-01'
   note: 'IJCAI-19 阿里巴巴人工智能对抗算法竞赛的目的是对AI模型的安全性进行探索。这个比赛主要针对图像分类任务，包括模型攻击与模型防御。参赛选手既可以作为攻击方，对图片进行轻微扰动生成对抗样本，使模型识别错误；也可以作为防御方，通过构建一个更加鲁棒的模型，准确识别对抗样本。'
   prize: USD 10,000
 
 
+
+- id: 'jinnaner'
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: '津南数字制造算法挑战赛【赛场二】'
+  url: 'https://tianchi.aliyun.com/competition/entrance/231703/introduction?spm=5176.12281949.0.0.21e376d869oWRl'
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: 2月15日-5月16日, 2019
+  deadtime: "2019-03-25 11:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-02-15'
+  note: '2019津南数字制造算法挑战赛，赛场二以物流货物限制品监测为课题，要求选手针对给出的限制品种类，利用X光图像及标注数据，研究开发高效的计算机视觉算法，监测图像是否包含危险品及其大致位置。通过自动化监测包裹携带品算法，降低漏检风险及误报率，提升危险品管理效率。'
+  prize: ￥300,000

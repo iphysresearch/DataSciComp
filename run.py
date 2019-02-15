@@ -1,7 +1,8 @@
-from flask import Flask, render_template, redirect
+from flask import Flask, render_template, redirect, Response
 from flask_frozen import Freezer
 
-import os, sys, yaml
+import os, sys, yaml, pytz, time, datetime, heapq #堆队列
+import numpy as np
 import click
 
 add_datas = ['./_data/_effective_kaggle.yaml',
@@ -21,6 +22,7 @@ add_datas = ['./_data/_effective_kaggle.yaml',
             './_data/_effective_dcjingsai.yaml',
             './_data/_effective_datafountain.yaml',
             './_data/_effective_ICME.yaml',
+            './_data/_effective_EvalAI.yaml',
             './_data/_effective_others.yaml']
 
 competitions = []
@@ -78,9 +80,50 @@ with open('./_data/_hosts.yaml', 'r', encoding='utf-8') as f:
 
 @app.route('/hostby.html')
 def hostby(id_type_checkboxs = id_type_checkboxs, hosts = hosts):
-
     return render_template('hostby.html', id_type_checkboxs=id_type_checkboxs, hosts = hosts)
 
+# @app.route('/rss.xml')
+# def log(competitions = competitions):
+#     num_largest = 2
+#     comps_pubtime = np.array([ int(i['pubtime'].replace('-', '')) for i in competitions ])
+#     index_largest = [ np.where(comps_pubtime == largest_value)[0].tolist() for largest_value in heapq.nlargest(num_largest, np.unique(comps_pubtime)) ]
+#     competitions = [ (competitions[largest_index], block_time) for block_time, largest_time in enumerate(index_largest) for largest_index in largest_time]
+
+#     [ comp.update({'pubtime': datetime.datetime.fromtimestamp(int(datetime.datetime.strptime(comp['pubtime'], '%Y-%m-%d').timestamp()), pytz.timezone('Asia/Shanghai')).strftime("%a, %d %b %Y") }) for comp, _ in competitions ]
+
+#     return render_template('rss.xml', competitions=competitions)
+
+@app.route("/update_log.xml")
+def products_xml(competitions = competitions):
+    num_largest = 2
+    comps_pubtime = np.array([ int(i['pubtime'].replace('-', '')) for i in competitions ])
+    time_largest = heapq.nlargest(num_largest, np.unique(comps_pubtime))
+    index_largest = [ np.where(comps_pubtime == largest_value)[0].tolist() for largest_value in time_largest ]
+    competitions = [ (competitions[largest_index], block_time) for block_time, largest_time in enumerate(index_largest) for largest_index in largest_time]
+
+    [ comp.update({'pubtime': datetime.datetime.fromtimestamp(int(datetime.datetime.strptime(comp['pubtime'], '%Y-%m-%d').timestamp()), pytz.timezone('Asia/Shanghai')).strftime("%a, %d %b %Y") }) for comp, _ in competitions ]
+
+    output = '<?xml version="1.0" encoding="UTF-8" ?>'
+    output += '<rss version="2.0">'
+    for block in range(num_largest):
+        output += '<channel>'
+        output += '<title>Data Science Challenge / Competition</title>'
+        output += '<link>https://iphysresearch.github.io/DataSciComp</link>'
+
+        update_block = datetime.datetime.fromtimestamp(int(datetime.datetime.strptime(str(time_largest[block]), '%Y%m%d').timestamp()), pytz.timezone('Asia/Shanghai')).strftime("%a, %d %b %Y GMT+0800")
+        output += '<description>Update Log at {}</description>'.format(update_block)
+        for comp in [ comp for comp, block_time in competitions if block_time == block ]:
+            output += '<item>'
+            output += '<title>{}</title>'.format(comp['title'])
+            output += '<link>{}</link>'.format(comp['url'])
+            output += '<category>{}</category>'.format('/'.join(comp['type1']))
+            output += '<category>{}</category>'.format('/'.join(comp['type2']))
+            output += '<pubDate>{}</pubDate>'.format(comp['pubtime'])
+            output += '<description>{:s}</description>'.format(comp['note'].replace('<br>',''))
+            output += '</item>'
+        output += '</channel>'
+    output += '</rss>'
+    return Response(output, mimetype='application/xml')
 
 if __name__ == '__main__':
     # freezer.freeze()

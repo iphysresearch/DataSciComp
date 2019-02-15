@@ -14,6 +14,7 @@
   range: 11月20日2018年 - 2月28日2019年
   deadtime: "2019-02-20 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: '本コンペではマーケットのヒストリカルデータを用いて実運用を想定したシミュレータを作成いただき、バックテストの結果を競い合っていただきます。'
   prize: ¥2,000,000
 
@@ -29,6 +30,7 @@
   range: 12月17日2018年 - 2月28日2019年
   deadtime: "2019-02-20 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'In this competition, NTT asks you to create a model which classifies voice data recorded by smart phones into 6 classes (gender x age). '
   prize: ¥2,000,000
 
@@ -44,6 +46,7 @@
   range: 1月18日 - 2月18日2019年
   deadtime: "2019-02-14 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'In this competition, you are required to locate ships in images and classify them into 3 categories {ship_moving, ship_not_moving, barge}.'
   prize: ¥2,000,000
 
@@ -60,6 +63,7 @@
   range: Now - 2月28日2019年
   deadtime: "2019-02-28 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: '本コンペティションは招待制となっております。'
   prize: ¥1,000,000
 

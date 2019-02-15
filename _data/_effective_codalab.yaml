@@ -13,6 +13,7 @@
   range: Nov. 23, 2016 - Never
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 
   prize: NaN
 
@@ -30,6 +31,7 @@
   range: January 9 - March 29, 2019
   deadtime: "2019-03-22 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "4 Tracks:<br>Single-view semantic 3D;<br>Pairwise semantic stereo;<br>Multi-view semantic stereo;<br>3D point cloud classification"
   prize: NaN
 
@@ -47,6 +49,7 @@
   range: December 20, 2018 - March 20, 2019
   deadtime: "2019-03-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "<br><a href='https://competitions.codalab.org/competitions/21163'>Image Dehazing Challenge</a> based on a novel dataset with pairs of real dense hazy and corresponding ground truth haze-free images;
   <br><a href='https://competitions.codalab.org/competitions/21258'>Image denoising challenge: Track 1 rawRGB</a>;
   <br><a href='https://competitions.codalab.org/competitions/21266'>Image Super-Resolution Challenge: Track 2 sRGB</a>;
@@ -70,6 +73,7 @@
   range: Feb. 1 - Aug, 2019
   deadtime: "2019-07-15 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "This task is focusing on classifying <b>German</b> books into their respective hierarchically structured writing genres using short advertisement texts (Blurbs) and further meta information such as author, page number, release date, etc."
   prize: NaN
 
@@ -87,6 +91,7 @@
   range: Jan. 5 - Aug 8, 2019
   deadtime: "2019-08-08 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "The goal of the SegTHOR challenge is to automatically segment 4 OAR: heart, aorta, trachea, esophagus. Participants will be provided with a training set 40 CT scans with manual segmentation. The test set will include 20 CT scans."
   prize: NaN
 
@@ -104,6 +109,7 @@
   range: Jan. 7 - Aug 1, 2019
   deadtime: "2019-04-29 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "<b>Subtask 1</b>: MADAR Travel Domain Dialect Identification.<br><b>Subtask 2</b>: MADAR Twitter User Dialect Identification."
   prize: NaN
  
@@ -122,6 +128,7 @@
   range: Feb. 4 - April 5, 2019
   deadtime: "2019-03-15 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "The ZeroSpeech 2019 challenge addresses this problem by proposing to <b>build a speech synthesizer without any text</b> or phonetic labels, hence TTS without T (text-to-speech without text)."
   prize: NaN
 
@@ -142,6 +149,7 @@
   range: Dec. 25, 2018 - April 30, 2019
   deadtime: "2019-03-07 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "The goal of this challenge is to expose the research community to real world datasets exhibiting the concept drift phenomenon, and under a lifelong ML evaluation scenario. Participants must develop AutoML solutions for dealing with these problems."
   prize: $2,000
 
@@ -159,6 +167,7 @@
   range: December 22, 2018 - March 10, 2019
   deadtime: "2019-03-10 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: '<a href="https://arxiv.org/abs/1812.00408">"CASIA-SURF: A Dataset and Benchmark for Large-scale Multi-modal Face Anti-spoofing"</a>(arXiv:1812.00408)'
   prize: NaN
 
@@ -176,6 +185,7 @@
   range: Dec. 8, 2018 - June 1, 2019
   deadtime: "2019-05-31 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The challenge consists in building an AI agent that can play efficiently and win simplified text-based games using <a href="https://github.com/Microsoft/TextWorld">TextWorld</a>.'
   prize: NaN
 
@@ -193,6 +203,7 @@
   range: Dec. 1, 2018 - Never
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The challenge consists in building an AI agent that can play efficiently and win simplified text-based games using <a href="https://github.com/Microsoft/TextWorld">TextWorld</a>.'
   prize: NaN
 
@@ -209,6 +220,7 @@
   range: Nov. 19, 2018 - July 1, 2019
   deadtime: "2019-07-01 18:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The Microsoft AI Challenge India 2018 is over now. The page is active for learning purposes only. Problem statement:<br>"Given a user query and candidate passages corresponding to each, the task is to mark the most relevant passage which contains the answer to the user query."'
   prize: NaN
 
@@ -226,6 +238,7 @@
   range: Nov. 16, 2018 - Never
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "This portal is only used for models that used 'ts' (timestamp annotations)<br>TVQA is a large-scale video QA dataset based on 6 popular TV shows (Friends, The Big Bang Theory, How I Met Your Mother, House M.D., Grey's Anatomy, Castle)."
   prize: NaN
 
@@ -244,6 +257,7 @@
   range: Feb. 25, 2018 - Never
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "The shared task on DRS parsing will be co-located with IWCS-2019 held in Gothenburg, Sweden on 23-27 May."
   prize: NaN
 
@@ -262,6 +276,7 @@
   range: Oct. 1, 2018 - Never
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 
   prize: NaN
 
@@ -281,6 +296,7 @@
   range: Sept. 7, 2018 - March 12, 2019
   deadtime: "2019-03-12 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The overall TrackML challenge web site is <a href="https://sites.google.com/site/trackmlparticle/">there</a>.'
   prize: $15,000
 
@@ -298,6 +314,7 @@
   range: Now - Never
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: '<br><b>Frame semantics and semantic parsing:</b>
   <br><a href="https://competitions.codalab.org/competitions/19160">Task 1: Cross-lingual Semantic Parsing with UCCA</a>
   <br><a href="https://competitions.codalab.org/competitions/19159">Task 2: Unsupervised Lexical Semantic Frame Induction</a>
@@ -329,6 +346,7 @@
   range: Aug. 18, 2018 - Never
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'You can get all the information and data at <a href="https://pilehvar.github.io/wic">https://pilehvar.github.io/wic</a>'
   prize: NaN
 
@@ -347,6 +365,7 @@
   range: Aug. 1, 2018 - Never
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "The <b>largest dataset in first-person (egocentric) vision</b>; multi-faceted <b>non-scripted</b> recordings in native environments - i.e. the wearers' homes, capturing all daily activities in the kitchen over multiple days.
   <br><a href='https://competitions.codalab.org/competitions/20115'>Action-Recognition Challenge</a>
   <br><a href='https://competitions.codalab.org/competitions/20071'>Action-Anticipation Challenge</a>
@@ -368,5 +387,6 @@
   range: July 1, 2018 - Never
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: '"We introduce a new video dataset and benchmark to assess single-object tracking algorithms."'
   prize: NaN

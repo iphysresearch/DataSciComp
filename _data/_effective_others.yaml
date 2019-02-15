@@ -13,6 +13,7 @@
   range: 'No deadline'
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: '<b>S</b>tanford <b>Q</b>uestion <b>A</b>nswering <b>D</b>ataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.'
   prize: NaN
 
@@ -28,6 +29,7 @@
   range: 'No deadline'
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'CoQA is a large-scale dataset for building <b>Co</b>nversational <b>Q</b>uestion <b>A</b>nswering systems. The goal of the CoQA challenge is to measure the ability of machines to understand a text passage and answer a series of interconnected questions that appear in a conversation. 
   CoQA is pronounced as <a href="https://en.wikipedia.org/wiki/Coca">coca</a>.'
   prize: NaN
@@ -44,9 +46,68 @@
   range: 'No deadline'
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'A community-based challenge to incentivize and measure progress towards the goal of zero confident classification errors in machine learning models.
   <br>(不受限对抗样本挑战) <a href="https://github.com/google/unrestricted-adversarial-examples">The project on Github</a>'
   prize: NaN
 
+
+- id: decaNLP
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: 'The Natural Language Decathlon: A Multitask Challenge for NLP'
+  url: http://decanlp.com
+  hostby: 
+    - salesforce: 'https://github.com/salesforce'
+  range: 'No deadline'
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-02-15'
+  note: 'The Natural Language Decathlon is a multitask challenge that spans ten tasks: question answering (<b>SQuAD</b>), machine translation (<b>IWSLT</b>), summarization (<b>CNN/DM</b>), natural language inference (<b>MNLI</b>), sentiment analysis (<b>SST</b>), semantic role labeling(<b>QA‑SRL</b>), zero-shot relation extraction (<b>QA‑ZRE</b>), goal-oriented dialogue (<b>WOZ</b>), semantic parsing (<b>WikiSQL</b>), and commonsense reasoning (<b>MWSC</b>).'
+  prize: NaN
+
+
+
+- id: ActEV_PC
+  type1: 
+    - AC
+  type2:
+    - CV
+  title: 'Activities in Extended Videos Prize Challenge'
+  url: https://actev.nist.gov/prizechallenge
+  hostby: 
+    - NIST: 'https://www.nist.gov'
+    - IPRPA: 'https://www.iarpa.gov'
+    - CVPR 2019: 'http://cvpr2019.thecvf.com/'
+  range: Nov 08, 2018 - March 21, 2019
+  deadtime: "2019-03-21 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-05'
+  note: '(NIST)视频扩展行为(ActEV)挑战<br>The Activities in Extended Videos Prize Challenge (ActEV-PC) seeks to encourage the development of robust automatic activity detection algorithms for an extended video.'
+  prize: $50,000
+
+
+
+- id: animalaiolympics
+  type1: 
+    - AC
+  type2:
+    - RL
+  title: 'The Animal-AI Olympics'
+  url: http://animalaiolympics.com/
+  hostby: 
+    - NeurIPS 2019: 'https://nips.cc'
+  range: April - December 2019
+  deadtime: "2019-11-15 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-15'
+  note: '基于Unity ML Agents Toolkit的动物认知-AI 挑战<br>This competition pits our best AI approaches against the animal kingdom to determine if the great successes of AI are now ready to compete with the great successes of evolution at their own game.'
+  prize: $10,000+
+
+
+
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org
+# https://evalai.cloudcv.org/

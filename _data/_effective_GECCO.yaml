@@ -14,6 +14,7 @@
   range: Now - April 03, 2019
   deadtime: '2019-04-03 23:59:59'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Like the SIAM version, our competition has 10 problems, which in our case are 10 functions to optimize, and the goal is to compute each function’s minimum value to 10 digits of accuracy without being limited by time.'
   prize: NaN
 
@@ -29,6 +30,7 @@
   range: Now - April 03, 2019
   deadtime: '2019-04-03 23:59:59'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'In this competition, we offer a programming-language-free competition system, where agent receive and send data according to the JSON format. Thus, competition teams can develop AI algorithms via any programming language with a JSON parser support.'
   prize: NaN
 
@@ -45,6 +47,7 @@
   range: Now - June 30, 2019
   deadtime: '2019-06-30 23:59:59'
   timezone: "Etc/GMT-12"
+  pubtime: '2019-02-01'
   note: 'The goal of this competition is to provide a platform for researchers in computational intelligence working on multi-component optimization problems.'
   prize: NaN
 
@@ -61,6 +64,7 @@
   range: February 4 - June 30, 2019
   deadtime: '2019-06-30 23:59:59'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The Black Box Optimization Competition is the first competition platform in the continuous domain where test problems are truly black boxes to participants. The only information known to optimizer and participant is the dimension of the problem, bounds on all variables, and a budget of black box queries. The competition covers single- and multi-objective optimization.'
   prize: NaN
 
@@ -78,6 +82,7 @@
   range: Now - July 13 2019
   deadtime: '2019-04-03 23:59:59'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The aim of the competition is to provide a common platform that encourages fair and easy comparisons across different niching algorithms.'
   prize: NaN
 
@@ -94,6 +99,7 @@
   range: Now - April 30, 2019
   deadtime: '2019-04-30 23:59:59'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The competition provides a coherent framework where participants and practitioners of CI can test their algorithms to solve a real-world optimization problem in the energy domain with uncertainty consideration, which makes the problem more challenging and worth to explore.'
   prize: NaN
 
@@ -110,6 +116,7 @@
   range: End of January/Start of February - June 30, 2019
   deadtime: '2019-06-30 23:59:59'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The task of this years competition is to develop an anomaly detection algorithm for the water- and environmental data set. Early identification of anomalies in water quality data is a challenging task.'
   prize: NaN
 
@@ -126,6 +133,7 @@
   range: Now - June 23, 2019
   deadtime: '2019-06-23 23:59:59'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The purpose of the contest is not to build a system to solve a task better than any other system; rather, the goal is to engage our imagination and creativity---to expand our conception of life and intelligence, and how these things might materialize.'
   prize: NaN
   

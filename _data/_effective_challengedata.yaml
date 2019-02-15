@@ -15,6 +15,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "This challenge proposes to develop machine learning based approaches so as to predict individuals' comfort model using several <b>time series</b> of environmental data obtained from sensors in a large building. The objective is to learn a classifier that uses these time series as inputs to predict the associated comfort class computed as an average of the comfort classes of all individuals in the building, assumed to experience the same environmental conditions."
   prize: NaN
 
@@ -31,6 +32,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "The goal of Posos challenge is to predict for each question the associated intent."
   prize: NaN
 
@@ -50,6 +52,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The challenge proposed by Owkin is a <b>weakly-supervised binary classification problem</b> : predict whether a patient has any metastase in its lymph node or not, given its slide.'
   prize: NaN
 
@@ -67,6 +70,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The goal of the challenge is to predict if a building will have an insurance claim during a certain period. You will have to predict a probability of having at least one claim over the insured period of a building.'
   prize: NaN
 
@@ -85,6 +89,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The challenge goal is to classify the brain activity state of an animal based on spiking activity patterns of its individual neurons.'
   prize: NaN
 
@@ -102,6 +107,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The problem is a prediction challenge that aims at helping the Company to build an optimal blend of quantitative strategies, given a set of such strategies.'
   prize: NaN
 
@@ -119,6 +125,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'The goal of the challenge is to predict, based on the analysis of the correlation of a year of consumption and weather training data, the electricity consumption of two given sites for a test year.' 
   prize: NaN  
 
@@ -135,6 +142,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'In this dataset, we try to predict whether or not a slow oscillation will be followed by another one in sham condition, i.e. without any stimulation.'
   prize: NaN  
 
@@ -151,6 +159,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'In order to provide air quality forecasts, Plume Labs has built a unique database with readings collected by monitoring stations all over the world. The problem we submit consists in predicting the PM10 readings of some air quality monitoring stations using the readings provided by the monitoring stations nearby as well as urban features.'
   prize: NaN  
 
@@ -168,6 +177,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'This challenge is about forecasting dynamic profiles values from their past values and all the components of <a href="https://data.enedis.fr/explore/dataset/bilan-electrique-demi-heure/information/">Enedis’ Half hourly Electrical Balancing</a>.'
   prize: NaN  
 
@@ -185,6 +195,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "The goal is to design an automatic Rubik's analyzer that estimates the current length of the shortest path to the solution."
   prize: NaN    
 
@@ -201,6 +212,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "The purpose of the challenge is to use a training set of 1 million prices to learn how to price a specific type of instruments described by 23 parameters by nonlinear interpolation on these prices."
   prize: NaN    
 
@@ -217,6 +229,7 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "The goal of this challenge is to build an image classifier to assist physicians in the screening and diagnosis of esophageal cancer."
   prize: NaN    
 
@@ -233,5 +246,6 @@
   range: Jan. 1, 2019 - Jan. 1, 2020
   deadtime: "2020-01-01 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "The <b>goal</b> of this challenge is to <b>predict the sign of the returns</b> (= price change over some time interval) <b>at the end of about 700 days for about 700 stocks</b>."
   prize: NaN

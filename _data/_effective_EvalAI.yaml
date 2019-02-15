@@ -1,0 +1,173 @@
+
+
+# EvalAI ##
+
+
+- id: VLN
+  type1: 
+    - PF
+    - AC
+  type2:
+    - RL
+    - NLP
+  title: 'Vision and Language Navigation'
+  url: https://evalai.cloudcv.org/web/challenges/challenge-page/97
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org'
+  range: Mar 13, 2018 - Dec 31, 2099
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-02-05'
+  note: 'The challenge requires an autonomous agent to follow a natural language navigation instruction to navigate to a goal location in a previously unseen real-world building.'
+  prize: NaN
+
+- id: VizWiz
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: 'VizWiz Challenge 2018'
+  url: http://vizwiz.org/data/#challenge
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/102'
+  range: Jun 20, 2018 - Jun 22, 2100
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-02-05'
+  note: 'Our proposed challenge addresses the following two tasks for this dataset: (1) predict the answer to a visual question and (2) predict whether a visual question cannot be answered.'
+  prize: NaN
+
+
+- id: ModaNet
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'ModaNet Fashion Understanding Challenge'
+  url: https://evalai.cloudcv.org/web/challenges/challenge-page/151
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org'
+  range: Oct 1, 2018 - Dec 11, 2019
+  deadtime: "2019-12-11 07:59:59"
+  timezone: UTC
+  pubtime: '2019-02-05'
+  note: 'In this challenge, we evaluate model performance for three tasks, object detection, semantic segmentation and instance segmentation. You can participate all tasks or any one of them by choosing which results to be included in your submission.'
+  prize: NaN
+
+
+- id: fastMRI
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'fastMRI Image Reconstruction'
+  url: https://evalai.cloudcv.org/web/challenges/challenge-page/153
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org'
+    - fastMRI: 'http://fastmri.org'
+  range: Nov 23, 2018 - May 25, 2019
+  deadtime: "2019-05-25 07:59:59"
+  timezone: UTC
+  pubtime: '2019-02-05'
+  note: 'By creating accurate images from under-sampled data, AI image reconstruction could enable faster scanning times, providing an improved experience for patients and potentially making MRIs accessible to more people.'
+  prize: NaN
+
+
+- id: SUMO
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: '2018 SUMO Challenge'
+  url: https://evalai.cloudcv.org/web/challenges/challenge-page/159
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org'
+    - SUMO Team: 'https://sumochallenge.org'
+  range: Jul 1, 2018 - Feb 16, 2019
+  deadtime: "2019-02-16 07:59:59"
+  timezone: UTC
+  pubtime: '2019-02-05'
+  note: 'The Scene Understanding and Modeling (SUMO) Challenge encourages the development of algorithms for complete understanding of 3D indoor scenes from 360 degree RGB-D panoramas with the goal of enabling social AR and VR research and experiences. '
+  prize: NaN
+
+
+
+- id: SIOP2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: '2019 SIOP Machine Learning Competition'
+  url: https://evalai.cloudcv.org/web/challenges/challenge-page/160
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org'
+  range: Jan 23 - Mar 16, 2019
+  deadtime: "2019-05-16 07:59:59"
+  timezone: UTC
+  pubtime: '2019-02-05'
+  note: 'In this competition, you will use unstructured text data to predict self-report personality traits. The top 4 teams with the most accurate predictions (on the Private Leaderboard) will be asked to present at the 2019 SIOP Special Session in April, 2019.'
+  prize: NaN
+
+- id: Visual_Dialo_Challenge_2019   
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: 'Visual Dialog Challenge 2019'
+  url: https://visualdialog.org/challenge/2019
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/161'
+    - CVPR 2019: 'https://visualqa.org/workshop.html'
+  range: 28 Jan - June, 2019
+  deadtime: "2019-05-18 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-05'
+  note: 'Visual Dialog is a novel task that requires an AI agent to hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history (consisting of the image caption and a sequence of previous questions and answers), the agent has to answer a follow-up question in the dialog. To perform well on this task, the agent needs to ground the query not only in the visual content but also in the dialog history.'
+  prize: $10k for Google Cloud Platform
+
+- id: VQA_Challenge_2019 
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: 'Visual Dialog Challenge 2019'
+  url: https://visualqa.org/challenge.html
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/163'
+    - CVPR 2019: 'https://visualqa.org/workshop.html'
+  range: Jan 29, 2019 - May 11, 2019
+  deadtime: "2019-05-10 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-05'
+  note: 'Given an image and a natural language question about the image, the task is to provide an accurate natural language answer.'
+  prize: $10k for Google Cloud Platform
+
+
+- id: GQA
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: 'GQA Real-World Visual Reasoning Challenge 2019'
+  url: https://cs.stanford.edu/people/dorarad/gqa/challenge.html
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/225/leaderboard/733'
+    - Stanford: 'http://www.stanford.edu'
+  range: February 12 - May 3, 2019
+  deadtime: "2019-05-03 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-15'
+  note: '斯坦福新视觉问答(VQA)数据集：GQA真实世界视觉推理数据集 “GQA: a new dataset for compositional question answering over real-world images”<br>Given an image and a natural language question about the image, the task is to provide an accurate natural language answer.'
+  prize: NaN

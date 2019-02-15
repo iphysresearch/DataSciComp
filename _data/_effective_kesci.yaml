@@ -15,6 +15,7 @@
   range: 2018年12月29日 - 2019年12月29日
   deadtime: "2019-12-29 23:59:59"
   timezone: "Asia/Shanghai"
+  pubtime: '2019-02-01'
   note: '本练习赛的数据，选自UCI机器学习库中的「银行营销数据集(Bank Marketing Data Set)」'
   prize: NaN
 
@@ -30,5 +31,6 @@
   range: 2019-01-21 至 2019-04-12
   deadtime: "2019-03-01 23:59:59"
   timezone: "Asia/Shanghai"
+  pubtime: '2019-02-01'
   note: '基于给定的化学反应数据建立模型，从而可对任给定的反应试剂和反应产物数据，模型输出该化学反应的反应物。'
   prize: '￥50,000 + ￥20,000 GPU资源'

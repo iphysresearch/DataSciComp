@@ -12,6 +12,7 @@
   range: Now - May 30 2019
   deadtime: "2019-05-30 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: "Can you predict a movie's worldwide box office revenue?"
   prize: Kaggle Swag
 
@@ -28,6 +29,7 @@
   range: April 8 - August 2 2019
   deadtime: "2019-04-08 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Pair pronouns to their correct entities'
   prize: $25,000
 
@@ -44,6 +46,7 @@
   range: May 27 - June 3 2019
   deadtime: "2019-05-27 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Can you predict upcoming laboratory earthquakes?'
   prize: $50,000
 
@@ -61,6 +64,7 @@
   range: March 21 - March 28 2019
   deadtime: "2019-03-21 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'How cute is that doggy in the shelter?'
   prize: $25,000
   
@@ -76,6 +80,7 @@
   range: March 14 - 21 2019
   deadtime: "2019-03-14 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Can you detect faults in above-ground electrical lines?'
   prize: $25,000
 
@@ -91,6 +96,7 @@
   range: February 5 - 12 2019
   deadtime: "2019-02-05 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Can you tell when a pilot is heading for trouble?'
   prize: Kaggle Swag
 
@@ -107,6 +113,7 @@
   range: March 6 - 13 2019
   deadtime: "2019-03-06 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Can you predict if a machine will soon be hit with malware?'
   prize: $25,000
 
@@ -122,6 +129,7 @@
   range: February 19 - 26 2019
   deadtime: "2019-02-19 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Help understand customer loyalty'
   prize: $50,000
 
@@ -137,6 +145,7 @@
   range: February 21 - 28 2019
   deadtime: "2019-02-21 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Can you identify a whale by its tail?'
   prize: $25,000
 
@@ -153,6 +162,7 @@
   range: Now - December 31 2029
   deadtime: "2029-12-31 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Identify the objects in images'
   prize: NaN
 
@@ -168,6 +178,7 @@
   range: 'No deadline'
   deadtime: 'No deadline'
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Final project for "How to win a data science competition" Coursera course'
   prize: NaN
 
@@ -184,5 +195,6 @@
   range: Novenber 16, 2018 - March 30, 2019
   deadtime: "2019-03-30 23:59:59"
   timezone: UTC
+  pubtime: '2019-02-01'
   note: 'Identify metastatic tissue in histopathologic scans of lymph node sections'
   prize: Kaggle Swag

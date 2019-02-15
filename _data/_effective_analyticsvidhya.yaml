@@ -16,6 +16,7 @@
   range: 24 Jan - 25 July, 2019
   deadtime: '2019-07-25 02:29:00'
   timezone: "Etc/GMT-8"
+  pubtime: '2019-02-01'
   note: 'You are expected to build a high performing recommendation engine using any framework of your choice. You are encouraged to use IBM Watson Studio Apache spark based Jupyter notebook.'
   prize: INR 50,000
 
