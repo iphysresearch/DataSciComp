@@ -110,7 +110,7 @@ def products_xml(competitions = competitions):
     output += '<link>https://iphysresearch.github.io/DataSciComp</link>'
 
     update_block = [ datetime.datetime.fromtimestamp(int(datetime.datetime.strptime(str(time_largest[block]), '%Y%m%d').timestamp()), pytz.timezone('Asia/Shanghai')).strftime("%m/%d/%Y") for block in range(num_largest) ]
-    output += '<description>Update Logs for {} and {} (GMT+0800).</description>'.format(update_block[0], update_block[1])
+    output += '<description>Update Logs for (GMT+0800)<ul><li>{}</li> <li>{}</li></ul></description>'.format(update_block[0], update_block[1])
 
     for comp, _ in competitions:
         output += '<item>'
@@ -119,7 +119,7 @@ def products_xml(competitions = competitions):
         output += '<category>{}</category>'.format('/'.join(comp['type1']))
         output += '<category>{}</category>'.format('/'.join(comp['type2']))
         output += '<pubDate>{}</pubDate>'.format(comp['pubtime'])
-        output += '<description>{:s}</description>'.format(comp['note'].replace('<br>',''))
+        # output += '<description>{:s}</description>'.format(comp['note'].replace('<br>',''))
         output += '</item>'
     output += '</channel>'
     output += '</rss>'
