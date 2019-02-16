@@ -30,6 +30,7 @@ for add_data in add_datas:
     with open(add_data, 'r', encoding='utf-8') as f:
         cfg = f.read()
         competitions.extend(yaml.load(cfg))
+competitions = [c for c in  competitions if c['deadtime'] > datetime.date.today().strftime("%Y-%m-%d") ]
 competitions.sort(key=lambda x: x['deadtime'])
 
 
@@ -110,15 +111,15 @@ def products_xml(competitions = competitions):
     output += '<link>https://iphysresearch.github.io/DataSciComp</link>'
 
     update_block = [ datetime.datetime.fromtimestamp(int(datetime.datetime.strptime(str(time_largest[block]), '%Y%m%d').timestamp()), pytz.timezone('Asia/Shanghai')).strftime("%m/%d/%Y") for block in range(num_largest) ]
-    output += '<description>Update Logs for {} (GMT+0800).</description>'.format(update_block[0])
+    output += '<description>Latest update at {} (GMT+0800).</description>'.format(update_block[0])
 
     for comp, _ in competitions:
         output += '<item>'
-        output += '<title>{}</title>'.format(comp['title'])
-        output += '<link>{}</link>'.format(comp['url'])
-        output += '<category>{}</category>'.format('/'.join(comp['type1']))
-        output += '<category>{}</category>'.format('/'.join(comp['type2']))
-        output += '<pubDate>{}</pubDate>'.format(comp['pubtime'])
+        output += '<title>{:s}</title>'.format(comp['title'])
+        output += '<link>{:s}</link>'.format(comp['url'])
+        output += '<category>{:s}</category>'.format('/'.join(comp['type1']))
+        output += '<category>{:s}</category>'.format('/'.join(comp['type2']))
+        output += '<pubDate>{:s}</pubDate>'.format(comp['pubtime'])
         output += '<description>{:s}</description>'.format(comp['note'].replace('<br>',''))
         output += '</item>'
     output += '</channel>'

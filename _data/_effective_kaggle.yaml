@@ -1,5 +1,77 @@
 # Kaggle ##
 
+
+- id: Google_Cloud_NCAA_ML_Competition_2019_Mens
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+  title: "Google Cloud and NCAA® ML Competition 2019-Men's"
+  url: https://www.kaggle.com/c/mens-machine-learning-competition-2019
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - March 22, 2019
+  deadtime: "2019-03-17 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-16'
+  note: 'Apply Machine Learning to NCAA® March Madness®'
+  prize: $25,000
+
+
+- id: Google_Cloud_NCAA_ML_Competition_2019_Womens
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+  title: "Google Cloud and NCAA® ML Competition 2019-Women's"
+  url: https://www.kaggle.com/c/womens-machine-learning-competition-2019
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - March 22, 2019
+  deadtime: "2019-03-17 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-16'
+  note: 'Apply Machine Learning to NCAA® March Madness®'
+  prize: $25,000
+
+
+
+- id: Santander_Customer_Transaction_Prediction
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: Santander Customer Transaction Prediction
+  url: https://www.kaggle.com/c/santander-customer-transaction-prediction
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - April 10, 2019
+  deadtime: "2019-04-03 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-16'
+  note: 'Can you identify who will make a transaction?'
+  prize: $65,000
+
+
+- id: dontfoverfit
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: "Don't Overfit! II"
+  url: https://www.kaggle.com/c/dont-overfit-ii
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - May 7th, 2019
+  deadtime: "2019-05-07 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-16'
+  note: 'A Fistful of Samples'
+  prize: Kaggle Swag
+
+
 - id: TMDB_Box_Office_Prediction
   type1: 
     - PF
