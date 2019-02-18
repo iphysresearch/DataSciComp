@@ -12,6 +12,7 @@
   <p>
 </div>
 
+
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
 > 欢迎关注微博更新：[IPhysResearch](http://weibo.com/IPhysresearch) . Collected by 土豆 (Herb) in spare time.
@@ -104,7 +105,7 @@ See more details: `./_data/readme`
 ## FAQ
 
 - Where is the last `markdown` version?
-  - see `README_old.md`
+  - see [README_old.md](https://github.com/iphysresearch/DataSciComp/blob/master/README_old.md)
 - 第一次打开站点发现所有赛题显示不正常，看到满眼 `Entry Deadline:` 的话，请科学上网后再试一次:joy: ​。
 - 如果还有某种页面显示不正常的问题，请清空 cookies 和缓存再试一次:sob: 。
 
@@ -121,6 +122,7 @@ See more details: `./_data/readme`
 - [2018-2019 International Conferences in AI, CV, DM, NLP and Robotics](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html) by @JackieTseng
 - [CV-oriented ai-deadlines (with an emphasis on medical images)](https://creedai.github.io/ai-deadlines/) by @duducheng
 - [Data competition Top Solution 数据竞赛top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution) by @[Smilexuhc](https://github.com/Smilexuhc)
+- [ApacheCN 中文开源组织](http://www.apachecn.org) | 专注于优秀项目维护的开源组织 [[Github](https://github.com/apachecn), [Kaggle 项目实战（教程）](https://github.com/apachecn/kaggle)]
 
 
 
