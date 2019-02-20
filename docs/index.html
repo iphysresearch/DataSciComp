@@ -195,77 +195,6 @@
 </div>
 
 
-<div id="SUMO" class="PF-comp AC-comp CV-comp unrewarded-comp">
-    <div class="row">
-        <div class="col-xs-12 col-sm-6">
-            <a href="https://evalai.cloudcv.org/web/challenges/challenge-page/159" name="SUMO"><b>2018 SUMO Challenge</b></a>
-            <div class="meta">Jul 1, 2018 - Feb 16, 2019
-                 // Host by
-                 
-                 
-                 
-                 <a href="https://evalai.cloudcv.org" style="background-color:#CCFF66">EvalAI</a>
-                 
-                 
-                 
-                 &
-                 
-                 
-                 <a href="https://sumochallenge.org" style="background-color:#CCFF66">SUMO Team</a>
-                 
-                 
-                 // Prize: NaN</div>
-            
-            <div class="note"><b>Note</b>: The Scene Understanding and Modeling (SUMO) Challenge encourages the development of algorithms for complete understanding of 3D indoor scenes from 360 degree RGB-D panoramas with the goal of enabling social AR and VR research and experiences.  
-            <!-- More info <a href="http://baidu.com">here</a> -->
-            </div>
-            
-        </div>
-        <div class="col-xs-12 col-sm-6">
-            
-            <span class="timer"></span>
-            <div class="deadline">
-                <div>Entry Deadline: <span class="deadline-time"></span></div>
-            </div>
-            <div class="calendar"></div>
-                                  
-        </div>
-    </div>
-    <hr>
-</div>
-
-<div id="Elo_Merchant_Category_Recommendation" class="PF-comp DM-comp rewarded-comp">
-    <div class="row">
-        <div class="col-xs-12 col-sm-6">
-            <a href="https://www.kaggle.com/c/elo-merchant-category-recommendation" name="Elo_Merchant_Category_Recommendation"><b>Elo Merchant Category Recommendation</b></a>
-            <div class="meta">February 19 - 26 2019
-                 // Host by
-                 
-                 
-                 
-                 <a href="https://www.kaggle.com/" style="background-color:#CCFF66">Kaggle</a>
-                 
-                 
-                 // Prize: $50,000</div>
-            
-            <div class="note"><b>Note</b>: Help understand customer loyalty 
-            <!-- More info <a href="http://baidu.com">here</a> -->
-            </div>
-            
-        </div>
-        <div class="col-xs-12 col-sm-6">
-            
-            <span class="timer"></span>
-            <div class="deadline">
-                <div>Entry Deadline: <span class="deadline-time"></span></div>
-            </div>
-            <div class="calendar"></div>
-                                  
-        </div>
-    </div>
-    <hr>
-</div>
-
 <div id="Algorithmic_Trading_Challenge_1st_stage" class="PF-comp DM-comp rewarded-comp">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
@@ -1636,6 +1565,38 @@
                  // Prize: $20,000</div>
             
             <div class="note"><b>Note</b>: 本次竞赛提供多模态的短视频内容特征，包括视觉特征、文本特征和音频特征，同时提供了脱敏后的用户点击、喜爱、关注等交互行为数据。参赛者需要通过一个视频及用户交互行为数据集对用户兴趣进行建模，然后预测该用户在另一视频数据集上的点击行为。 
+            <!-- More info <a href="http://baidu.com">here</a> -->
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            
+            <span class="timer"></span>
+            <div class="deadline">
+                <div>Entry Deadline: <span class="deadline-time"></span></div>
+            </div>
+            <div class="calendar"></div>
+                                  
+        </div>
+    </div>
+    <hr>
+</div>
+
+<div id="UG2_PRIZE_CHALLENGE" class="AC-comp CV-comp rewarded-comp">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="http://www.ug2challenge.org/index.html" name="UG2_PRIZE_CHALLENGE"><b>UG2+ PRIZE CHALLENGE</b></a>
+            <div class="meta">January 31 - June 18 2019
+                 // Host by
+                 
+                 
+                 
+                 <a href="https://nips.cc" style="background-color:#CCFF66">CVPR 2019</a>
+                 
+                 
+                 // Prize: $60K</div>
+            
+            <div class="note"><b>Note</b>: BRIDGING THE GAP BETWEEN COMPUTATIONAL PHOTOGRAPHY AND VISUAL RECOGNITION: <br>The UG2+ Challenge seeks to advance the analysis of "difficult" imagery by applying image restoration and enhancement algorithms to improve analysis performance. Participants are tasked with developing novel algorithms to improve the analysis of imagery captured under problematic conditions. <br>Track 1: <a href="http://www.ug2challenge.org/track1.html">Video object classification and detection from unconstrained mobility platforms</a> <br>Track 2: <a href="http://www.ug2challenge.org/track2.html">Object Detection in Poor Visibility Environments</a> 
             <!-- More info <a href="http://baidu.com">here</a> -->
             </div>
             
@@ -4149,100 +4110,6 @@
         //   var timezone = "Etc/GMT-8" ;
         //   var timezone = "Asia/Shanghai" ;
           var timezone = "UTC" ;
-          var compDate = moment.tz("2019-02-16 07:59:59", timezone);
-
-          // render countdown timer
-          $('#SUMO .timer').countdown(compDate.toDate(), function(event) {
-            $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
-          });
-          $('#SUMO .deadline-time').html(compDate.toString());
-
-          // add calendar button
-          var myCalendar = createCalendar({
-            options: {
-              class: 'calendar-obj',
-
-              // You can pass an ID. If you don't, one will be generated for you
-              id: 'SUMO'
-            },
-            data: {
-              // Event title
-              title: '[Entry Deadline] 2018 SUMO Challenge',
-
-              // Event start date
-              start: compDate.toDate(), 
-              end: compDate.toDate(), 
-                // You can also choose to set an end time
-                // If an end time is set, this will take precedence over duration
-                // end: new Date('June 15, 2013 23:00'),                   
-
-              // Event duration (IN MINUTES)
-              duration: 60,
-
-                // Event Description
-                description: 'The Scene Understanding and Modeling (SUMO) Challenge encourages the development of algorithms for complete understanding of 3D indoor scenes from 360 degree RGB-D panoramas with the goal of enabling social AR and VR research and experiences. '
-            }
-          });
-          document.querySelector('#SUMO .calendar').appendChild(myCalendar);
-
-          // check if date has passed, add 'past' class to it
-          var today = moment();
-          if (today.diff(compDate) > 0)
-            $('#SUMO').addClass('past');
-            
-        
-            
-          // adjust date according to deadline timezone
-        //   var timezone = "Etc/GMT-8" ;
-        //   var timezone = "Asia/Shanghai" ;
-          var timezone = "UTC" ;
-          var compDate = moment.tz("2019-02-19 23:59:59", timezone);
-
-          // render countdown timer
-          $('#Elo_Merchant_Category_Recommendation .timer').countdown(compDate.toDate(), function(event) {
-            $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
-          });
-          $('#Elo_Merchant_Category_Recommendation .deadline-time').html(compDate.toString());
-
-          // add calendar button
-          var myCalendar = createCalendar({
-            options: {
-              class: 'calendar-obj',
-
-              // You can pass an ID. If you don't, one will be generated for you
-              id: 'Elo_Merchant_Category_Recommendation'
-            },
-            data: {
-              // Event title
-              title: '[Entry Deadline] Elo Merchant Category Recommendation',
-
-              // Event start date
-              start: compDate.toDate(), 
-              end: compDate.toDate(), 
-                // You can also choose to set an end time
-                // If an end time is set, this will take precedence over duration
-                // end: new Date('June 15, 2013 23:00'),                   
-
-              // Event duration (IN MINUTES)
-              duration: 60,
-
-                // Event Description
-                description: 'Help understand customer loyalty'
-            }
-          });
-          document.querySelector('#Elo_Merchant_Category_Recommendation .calendar').appendChild(myCalendar);
-
-          // check if date has passed, add 'past' class to it
-          var today = moment();
-          if (today.diff(compDate) > 0)
-            $('#Elo_Merchant_Category_Recommendation').addClass('past');
-            
-        
-            
-          // adjust date according to deadline timezone
-        //   var timezone = "Etc/GMT-8" ;
-        //   var timezone = "Asia/Shanghai" ;
-          var timezone = "UTC" ;
           var compDate = moment.tz("2019-02-20 23:59:59", timezone);
 
           // render countdown timer
@@ -6069,6 +5936,53 @@
           var today = moment();
           if (today.diff(compDate) > 0)
             $('#duanshipinneironglijie').addClass('past');
+            
+        
+            
+          // adjust date according to deadline timezone
+        //   var timezone = "Etc/GMT-8" ;
+        //   var timezone = "Asia/Shanghai" ;
+          var timezone = "UTC" ;
+          var compDate = moment.tz("2019-04-01 23:59:59", timezone);
+
+          // render countdown timer
+          $('#UG2_PRIZE_CHALLENGE .timer').countdown(compDate.toDate(), function(event) {
+            $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+          });
+          $('#UG2_PRIZE_CHALLENGE .deadline-time').html(compDate.toString());
+
+          // add calendar button
+          var myCalendar = createCalendar({
+            options: {
+              class: 'calendar-obj',
+
+              // You can pass an ID. If you don't, one will be generated for you
+              id: 'UG2_PRIZE_CHALLENGE'
+            },
+            data: {
+              // Event title
+              title: '[Entry Deadline] UG2+ PRIZE CHALLENGE',
+
+              // Event start date
+              start: compDate.toDate(), 
+              end: compDate.toDate(), 
+                // You can also choose to set an end time
+                // If an end time is set, this will take precedence over duration
+                // end: new Date('June 15, 2013 23:00'),                   
+
+              // Event duration (IN MINUTES)
+              duration: 60,
+
+                // Event Description
+                description: 'BRIDGING THE GAP BETWEEN COMPUTATIONAL PHOTOGRAPHY AND VISUAL RECOGNITION: &lt;br&gt;The UG2+ Challenge seeks to advance the analysis of &#34;difficult&#34; imagery by applying image restoration and enhancement algorithms to improve analysis performance. Participants are tasked with developing novel algorithms to improve the analysis of imagery captured under problematic conditions. &lt;br&gt;Track 1: &lt;a href=&#34;http://www.ug2challenge.org/track1.html&#34;&gt;Video object classification and detection from unconstrained mobility platforms&lt;/a&gt; &lt;br&gt;Track 2: &lt;a href=&#34;http://www.ug2challenge.org/track2.html&#34;&gt;Object Detection in Poor Visibility Environments&lt;/a&gt;'
+            }
+          });
+          document.querySelector('#UG2_PRIZE_CHALLENGE .calendar').appendChild(myCalendar);
+
+          // check if date has passed, add 'past' class to it
+          var today = moment();
+          if (today.diff(compDate) > 0)
+            $('#UG2_PRIZE_CHALLENGE').addClass('past');
             
         
             
