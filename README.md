@@ -121,6 +121,7 @@ See more details: `./_data/readme`
 - [ai-challenge-deadlines](https://github.com/dieg0as/ai-challenge-deadlines) by @dieg0as
 - [2018-2019 International Conferences in AI, CV, DM, NLP and Robotics](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html) by @JackieTseng
 - [CV-oriented ai-deadlines (with an emphasis on medical images)](https://creedai.github.io/ai-deadlines/) by @duducheng
+- [A searchable compilation of Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) by @[EliotAndres](https://github.com/EliotAndres)
 - [Data competition Top Solution 数据竞赛top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution) by @[Smilexuhc](https://github.com/Smilexuhc)
 - [ApacheCN 中文开源组织](http://www.apachecn.org) | 专注于优秀项目维护的开源组织 [[Github](https://github.com/apachecn), [Kaggle 项目实战（教程）](https://github.com/apachecn/kaggle)]
 
