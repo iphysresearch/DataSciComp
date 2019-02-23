@@ -1,0 +1,118 @@
+
+
+# ICDAR ##
+# http://rrc.cvc.uab.es/
+
+
+- id: ST_VQA
+  type1: 
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: ICDAR 2019 Robust Reading Challenge on Scene Text Visual Question Answering
+  url: http://rrc.cvc.uab.es/?ch=11
+  hostby: 
+    - ICDAR 2019: 'http://rrc.cvc.uab.es/'
+  range: 12 February - 20-25 September 2019
+  deadtime: "2019-04-30 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-23'
+  note: 'The ICDAR 2019 Robust Reading Challenge on Scene Text Visual Question Answering, focuses on a specific type of Visual Question Answering task, where understanding the textual information in a scene is necessary in order to give an answer.'
+  prize: NaN
+
+
+
+- id: MLT
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: ICDAR 2019 Robust Reading Challenge on Multi-lingual scene text detection and recognition
+  url: http://rrc.cvc.uab.es/?ch=15
+  hostby: 
+    - ICDAR 2019: 'http://rrc.cvc.uab.es/'
+  range: 15 Feb - 1 Oct 2019
+  deadtime: "2019-05-02 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-23'
+  note: 'This new competition aims at assessing the ability of state of the art methods to detect and recognize multi-lingual text. This situation is encountered in modern cities where multiple cultures live and communicate together, where users see various scripts and languages in a way which prevent using much a priori knowledge. Multi-lingual text also poses a problem when analyzing streams of contents gathered on the Internet.'
+  prize: NaN
+
+
+- id: LSVT
+  type1: 
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: ICDAR2019 Robust Reading Challenge on Large-scale Street View Text with Partial Labeling
+  url: http://rrc.cvc.uab.es/?ch=16
+  hostby: 
+    - ICDAR 2019: 'http://rrc.cvc.uab.es/'
+    - Baidu: 'www.baidu.com'
+  range: 1st January - 20th to 25th September 2019
+  deadtime: "2019-04-09 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-23'
+  note: 'This challenge focuses on scene text reading in natural images, which can be broken down into scene text detection and spotting problems, based on the proposed Large-scale Street View Text with Partial Labeling (LSVT) dataset.'
+  prize: $8,700
+
+
+
+- id: ArT
+  type1: 
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text
+  url: http://rrc.cvc.uab.es/?ch=14
+  hostby: 
+    - ICDAR 2019: 'http://rrc.cvc.uab.es/'
+    - Baidu: 'www.baidu.com'
+  range: 1st January - 20th to 25th September 2019
+  deadtime: "2019-04-09 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-23'
+  note: "This is a challenge of scene text understanding, which can be broken down into scene text detection, recognition, and spotting problems. The main novelty of this competition resides in the nature of the competition's dataset - the ArT dataset. "
+  prize: $8,700
+
+
+- id: SROIE
+  type1: 
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: ICDAR 2019 Robust Reading Challenge on Scanned Receipts OCR and Information Extraction
+  url: http://rrc.cvc.uab.es/?ch=13
+  hostby: 
+    - ICDAR 2019: 'http://rrc.cvc.uab.es/'
+    - Baidu: 'www.baidu.com'
+  range: February 10 - April 30 September 2019
+  deadtime: "2019-03-31 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-23'
+  note: 'Scanned receipts OCR and information extraction (SROIE) play critical roles in streamlining document-intensive processes and office automation in many financial, accounting and taxation areas. '
+  prize: NaN
+
+- id: ReCTS
+  type1: 
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: ICDAR 2019 Robust Reading Challenge on Reading Chinese Text on Signboard
+  url: http://rrc.cvc.uab.es/?ch=12
+  hostby: 
+    - ICDAR 2019: 'http://rrc.cvc.uab.es/'
+    - Baidu: 'www.baidu.com'
+  range: 1st January - 20th to 25th September 2019
+  deadtime: "2019-04-09 23:59:59"
+  timezone: UTC
+  pubtime: '2019-02-23'
+  note: 'We collect and construct a practical and challenging multi-orientation natural scene text dataset (TORS-25K) with 25,000 images, which consist of lots of restaurant signboards. TORS dataset includes 25,000 labeled images that are collected in the wild by phone cameras under uncontrolled conditions. It mainly focuses on Chinese text on the restaurant signboards.'
+  prize: $8,700
+
+

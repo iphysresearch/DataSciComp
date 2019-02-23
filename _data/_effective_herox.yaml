@@ -1,0 +1,24 @@
+
+
+# herox ##
+# https://www.herox.com
+
+# demo
+- id: UG2_PRIZE_CHALLENGE
+  type1: 
+    - AC
+  type2:
+    - CV
+  title: 'UG2+ PRIZE CHALLENGE'
+  url: http://www.ug2challenge.org/index.html
+  hostby: 
+    - CVPR 2019: 'https://nips.cc'
+  range: January 31 - June 18 2019
+  deadtime: "2018-04-01 23:59:59"
+  timezone: UTC
+  pubtime: '2019-01-20'
+  note: 'BRIDGING THE GAP BETWEEN COMPUTATIONAL PHOTOGRAPHY AND VISUAL RECOGNITION:
+  <br>The UG2+ Challenge seeks to advance the analysis of "difficult" imagery by applying image restoration and enhancement algorithms to improve analysis performance. Participants are tasked with developing novel algorithms to improve the analysis of imagery captured under problematic conditions.
+  <br>Track 1: <a href="http://www.ug2challenge.org/track1.html">Video object classification and detection from unconstrained mobility platforms</a>
+  <br>Track 2: <a href="http://www.ug2challenge.org/track2.html">Object Detection in Poor Visibility Environments</a>'
+  prize: $60K

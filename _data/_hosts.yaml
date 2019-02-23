@@ -161,6 +161,15 @@
   descri: "This website was created by the <a href='http://www.esa.int/gsp/ACT/index.html'>Advanced Concepts Team</a> of the European Space Agency in 2015. The website's purpose is to serve as a platform for space related competitions.
   <br>The title Kelvins is at the same time the theme for the website and originates from the unit for temperature named after the physicist <a href='https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin'>William Lord Kelvin</a>. To reach the absolute zero error is the target of many machine learning related competitions. "
 
+- id: herox
+  type1: 
+    - AC
+  title: HeroX
+  url: https://www.herox.com
+  logo: https://i.loli.net/2019/02/23/5c70ba610a419.png
+  descri: "HeroX exists to enable anyone, anywhere in the world, to create a challenge that addresses any problem or opportunity, build a community around that challenge and activate the circumstances that can lead to a breakthrough innovation."
+
+
 
 - id: google_ai
   type1: 
@@ -169,6 +178,15 @@
   url: https://ai.googleblog.com
   logo: https://i.loli.net/2019/02/10/5c5fcb0894163.png
   descri: "Google AI Blog | The lastest news from Google AI"
+
+
+- id: ICDAR
+  type1: 
+    - AC
+  title: ICDAR Robust Reading competitions
+  url: http://rrc.cvc.uab.es/
+  logo: https://i.loli.net/2019/02/23/5c70b9e924ac0.png
+  descri: 'The competition is organized around challenges that represent specific application domains for robust reading. Challenges are selected to cover a wide range of real-world situations. Each challenge is set up around different tasks.'
 
 
 - id: ISBI_2019
