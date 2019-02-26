@@ -1,6 +1,6 @@
 
 # Unearthed ##
-
+# https://unearthed.solutions
 
 - id: Predicting_zinc_recovery_at_McArthur_River_Mine
   type1: 
@@ -33,5 +33,5 @@
 #   deadtime: 
 #   timezone: UTC
 #   pubtime: '2019-02-01'
-  note: 
+#  note: 
 #   prize: 

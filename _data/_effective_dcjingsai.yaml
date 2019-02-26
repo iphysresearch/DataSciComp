@@ -2,6 +2,27 @@
 
 
 # dcjingsai ##
+# http://www.dcjingsai.com/
+- id: IEEE_ISI_World_Cup_2019
+  type1: 
+    - AC
+  type2:
+    - DM
+  title: '国际大数据分析竞赛 IEEE ISI-World Cup 2019'
+  url: http://www.linkx.ac.cn/#/competition
+  hostby: 
+    - DC 竞赛: 'http://www.dcjingsai.com'
+    - IEEE ISI 2019: 'http://www.isi-conf.org'
+    - 深圳人工智能与数据科学研究院 SAIDI: '#'
+  range: Feb.1st - May.1st 2019
+  deadtime: "2019-04-23 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-02-26'
+  note: "<br>本次比赛基于3500家上市公司全量信息，描述公司在财务、法务、股权、经营状况、舆论等方面的属性特征，共设计两个任务， 两个任务将单独进行排名。团队可以报名一个或两个任务。
+  <br>We provide full size information for over 3,500 listed companies in this competition. Two missions are given, based on the companies' attributes in terms of finance, legal affairs, equity, business status, public opinion, etc. And they will be ranked separately. One participation team can registrate one mission or two.
+  <br>Mission 1: 企业投资价值评估 Company Investment Value Evaluation
+  <br>Mission 2: 法律诉讼类型预测 Company Investment Value Evaluation"
+  prize: NaN
 
 - id: diqiuwuhou
   type1: 

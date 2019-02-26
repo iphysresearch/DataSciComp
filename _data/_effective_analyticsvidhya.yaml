@@ -1,6 +1,7 @@
 
 
 # Analytics Vidhya ##
+# https://datahack.analyticsvidhya.com/contest/all/?
 
 - id: Build_A_Recommendation_Engine_Powered_by_IBM_Cloud
   type1: 
@@ -11,8 +12,6 @@
   url: https://datahack.analyticsvidhya.com/contest/build-a-recommendation-engine-powered-by-ibm-cloud/
   hostby: 
     - Analytics Vidhya: https://datahack.analyticsvidhya.com/contest/all/?
-  from: Analytics Vidhya
-  from_url: https://datahack.analyticsvidhya.com/contest/all/?
   range: 24 Jan - 25 July, 2019
   deadtime: '2019-07-25 02:29:00'
   timezone: "Etc/GMT-8"

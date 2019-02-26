@@ -115,7 +115,7 @@
   title: 'UG2+ PRIZE CHALLENGE'
   url: http://www.ug2challenge.org/index.html
   hostby: 
-    - CVPR 2019: 'https://nips.cc'
+    - CVPR 2019: http://cvpr2019.thecvf.com
   range: January 31 - June 18 2019
   deadtime: "2019-04-01 23:59:59"
   timezone: UTC
@@ -126,6 +126,28 @@
   <br>Track 2: <a href="http://www.ug2challenge.org/track2.html">Object Detection in Poor Visibility Environments</a>'
   prize: $60K
 
+
+
+- id: Language_and_Intelligence_Challenge2019
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: '2019语言与智能技术竞赛 Language and Intelligence Challenge'
+  url: http://lic2019.ccf.org.cn
+  hostby: 
+    - CCF: 'https://www.ccf.org.cn'
+    - CIPS: 'http://www.cipsc.org.cn'
+    - Baidu Inc.: 'http://home.baidu.com'
+  range: Feb. 25 - Aug./Oct. 2019
+  deadtime: "2019-03-31 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-02-26'
+  note: "本届比赛设立了三个任务：
+  <br>1. <a href='http://lic2019.ccf.org.cn/read'>机器阅读理解任务 Machine Reading Comprehension</a>：让机器阅读文本然后回答和阅读内容相关的问题， 阅读理解旨在使机器具备理解自然语言的能力。
+  <br>2. <a href='http://lic2019.ccf.org.cn/talk'>知识驱动对话 Knowledge-driven Dialogue</a>：知识驱动对话是一种人机对话任务，机器根据知识信息构建的图谱进行主动聊天， 旨在使机器具备模拟人类用语言进行信息传递的能力。
+  <br>3. <a href='http://lic2019.ccf.org.cn/kg'>信息抽取任务 Information Extraction</a>：信息抽取是指从自然语言文本中抽取实体、属性、关系等信息， 旨在使机器具备从海量文本自动构建知识的能力。"
+  prize: ￥90,000
 
 
 # http://spiechallenges.cloudapp.net/competitions/

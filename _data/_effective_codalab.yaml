@@ -1,5 +1,6 @@
 
 # CadaLab ##
+# https://competitions.codalab.org/competitions/
 
 - id: Evaluating_grammatical_error_corrections
   type1: 
@@ -16,6 +17,68 @@
   pubtime: '2019-02-01'
   note: 
   prize: NaN
+
+- id: MolHack_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'MolHack 2019'
+  url: https://competitions.codalab.org/competitions/21716
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - CVPR 2019: http://cvpr2019.thecvf.com
+  range: Feb. 24 - Mar. 31 2019
+  deadtime: "2019-03-31 05:59:59"
+  timezone: UTC
+  pubtime: '2019-02-26'
+  note: 'Verify your residency of <b>Taiwan</b>!
+  <br>At the minimum, the MolHack challenge will require the participants to build and train a Conditional Generative DNN model that can generate new small molecules such that the newly generated small molecules have similar MACCS fingerprints as the target MACCS fingerprint upon which the generation of the molecules is conditioned.'
+  prize: NaN
+
+
+
+- id: SkelNetOn_CVPR19
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'SkelNetOn - CVPR 2019'
+  url: http://ubee.enseeiht.fr/skelneton/challenge.html
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - CVPR 2019: http://cvpr2019.thecvf.com
+  range: Feb. 19 - Jun. 17 2019
+  deadtime: "2019-03-25 05:59:59"
+  timezone: UTC
+  pubtime: '2019-02-26'
+  note: 'We release our dataset in different formats to run a competition with our workshop. We provide a shape dataset with corresponding skeleton representations in three domains, as well as some complementary sources (pre/post processing, sampling, and data augmentation scripts). The challenge will be posed as extracting the skeleton from a given shape, as detailed below.
+  <br>Mission 1: <a href="https://competitions.codalab.org/competitions/21685">Shape Pixels to Skeleton Pixels</a>
+  <br>Mission 2: <a href="https://competitions.codalab.org/competitions/21697">Shape Points to Skeleton Points</a>
+  <br>Mission 3: <a href="https://competitions.codalab.org/competitions/21775">Parametric Skeletons</a>'
+  prize: NaN
+
+
+- id: eHealth_KD_IberLEF2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'eHealth-KD @IberLEF 2019'
+  url: https://competitions.codalab.org/competitions/21781
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - eHealth-KD: https://knowledge-learning.github.io/ehealthkd-2019/
+  range: Feb. 11, 2019 - Never
+  deadtime: "2019-04-29 23:59:59"
+  timezone: "Etc/GMT-12"
+  pubtime: '2019-02-26'
+  note: "More details are available at: <a href='https://knowledge-learning.github.io/ehealthkd-2019/'>https://knowledge-learning.github.io/ehealthkd-2019</a>"
+  prize: NaN
+
 
 - id: IEEE_2019_GRSS_Data_Fusion_Contest
   type1: 
