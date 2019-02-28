@@ -2,6 +2,26 @@
 # Unearthed ##
 # https://unearthed.solutions
 
+- id: Explorer_Challenge
+  type1: 
+    - PF
+  type2:
+    - DM
+    - CV
+  title: "Explorer Challenge: A $1million prize pool to find Australia’s next big mineral deposit"
+  url: https://unearthed.solutions/u/competitions/explorer-challenge
+  hostby:
+    - Unearthed: https://unearthed.solutions
+  range: 28 Feb - 09 May, 2019
+  deadtime: '2019-03-12 23:59:59'
+  timezone: "Australia/Perth"
+  pubtime: '2019-02-28'
+  note: 'Join a global challenge to test the limits of data science and geology and develop new ideas about mineral exploration. 
+OZ Minerals, a modern mining company, is opening up >2TB of their own private data from their exploration project, Mount Woods. Can you use this data to predict the next mineral deposit in South Australia?
+The winning models will be tested in real life, the top predictions will be drilled in 2019.'
+  prize: $1,000,000
+
+
 - id: Predicting_zinc_recovery_at_McArthur_River_Mine
   type1: 
     - PF

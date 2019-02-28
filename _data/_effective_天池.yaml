@@ -3,6 +3,25 @@
 # https://tianchi.aliyun.com/competition
 
 
+
+- id: 2019_Future_Food_Challenge
+  type1: 
+    - PF
+  type2:
+    - DM
+    - NLP
+  title: 2019 Future Food Challenge
+  url: https://tianchi.aliyun.com/competition/entrance/231705/introduction?spm=5176.12281949.0.0.7e9276d8mqVJ8x
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: February 28 - June 2-4, 2019
+  deadtime: "2019-04-10 08:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-02-28'
+  note: 'Use the training data set to develop an <b>unsupervised</b> algorithm which identifies news items in the test set relating to the same food safety incident and assigns the same Event-ID to such group. '
+  prize: USD $10,000
+
+
 - id: Gridlock_Prediction_Challenge
   type1: 
     - PF

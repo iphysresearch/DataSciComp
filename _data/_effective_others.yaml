@@ -150,5 +150,26 @@
   prize: ￥90,000
 
 
+- id: mdi_ids
+  type1: 
+    - AC
+  type2:
+    - CV
+    - SP
+  title: '首届中国心电智能大赛'
+  url: http://mdi.ids.tsinghua.edu.cn/
+  hostby: 
+    - 清数DLAB(Tsingdata): http://www.tsingdata.com
+    - 数据派THU(DatapiTHU): http://www.ids.tsinghua.edu.cn
+    - 大数据文摘(BigDataDigest): https://www.jiqizhixin.com/users/b935793e-0a5c-46e1-8bd4-cd8ca2cbe7b9
+  range: 2019年1月1日 - 2019年9月
+  deadtime: "2019-03-31 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-02-28'
+  note: "自2012年起，国家陆续出台政策推动健康医疗和大数据的融合发展，从“健康中国”战略到“两个一百年”奋斗目标，健康医疗大数据已成为国家战略的创新需要，是国家及民族复兴所需的核心技术及国之重器。在此背景下，由清华大学临床医学院和数据科学研究院以及多家重点医院联合主办的首届中国心电智能大赛应运而生并于2018年12月20日正式启动。此次大赛获得天津市卫健委和河北省卫健委领导高度重视。预计大赛总奖金将高达百万元。"
+  prize: ~￥150万
+
+
+
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org
