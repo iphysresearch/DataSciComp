@@ -19,7 +19,7 @@
 
 ---
 
-> ###### [Description](#description) | [How to Contribute](#how-to-Contribute) | [Data Format](#data-format) | [To-Do](#to-do) | [FAQ](#faq) | [Acknowledgments & other useful listings](#acknowledgments-and-other-useful-listings) | [License](#license)
+> ###### [Description](#description) | [How to Contribute](#how-to-Contribute) | [Data Format](#data-format) | [To-Do](#to-do) | [FAQ](#faq) | [Acknowledgments & other useful listings](#acknowledgments-and-other-useful-listings) | [Stargazers over time](#stargazers-over-time) | [License](#license)
 
 ---
 
