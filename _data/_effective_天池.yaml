@@ -4,13 +4,13 @@
 
 
 
-- id: 2019_Future_Food_Challenge
+- id: Future_Food_Challenge2019
   type1: 
     - PF
   type2:
     - DM
     - NLP
-  title: 2019 Future Food Challenge
+  title: '2019 Future Food Challenge'
   url: https://tianchi.aliyun.com/competition/entrance/231705/introduction?spm=5176.12281949.0.0.7e9276d8mqVJ8x
   hostby: 
     - 天池: 'https://tianchi.aliyun.com/'
