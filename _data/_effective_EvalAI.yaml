@@ -171,3 +171,42 @@
   pubtime: '2019-02-15'
   note: '斯坦福新视觉问答(VQA)数据集：GQA真实世界视觉推理数据集 “GQA: a new dataset for compositional question answering over real-world images”<br>Given an image and a natural language question about the image, the task is to provide an accurate natural language answer.'
   prize: NaN
+
+
+- id: SUMO_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: '2019 SUMO Challenge'
+  url: https://sumochallenge.org/2019-sumo-challenge.html
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/237/overview'
+    - CVPR 2019: 'https://visualqa.org/workshop.html'
+  range: Feb 5 - June 17, 2019
+  deadtime: "2019-04-26 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'The 2019 Scene Understanding and Modeling (SUMO) Challenge encourages the development of algorithms for complete understanding of 3D indoor scenes from 360 degree RGB-D panoramas. The target 3D models of indoor scenes include all visible layout elements and objects complete with pose, semantic information, and texture. Algorithms submitted are evaluated at 3 levels of complexity corresponding to 3 tracks of the challenge: oriented 3D bounding boxes, oriented 3D voxel grids, and oriented 3D meshes.'
+  prize: $6000 & Titan X GPU
+
+
+- id: TextVQA_2019   
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: 'TextVQA Challenge 2019'
+  url: https://textvqa.org/challenge
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/244/overview'
+    - CVPR 2019: 'https://visualqa.org/workshop.html'
+  range: 4 March - 17 June, 2019
+  deadtime: "2019-05-18 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'Studies have shown that a dominant class of questions asked by visually impaired users on images of their surrounding involves reading text in the image. But today’s VQA models can not read! To aid and pivot research in the direction of VQA models with the capability to read, we introduce a new dataset TextVQA. TextVQA which requires model to read text from images and reason over it to answer questions about an image.'
+  prize: GCP credits

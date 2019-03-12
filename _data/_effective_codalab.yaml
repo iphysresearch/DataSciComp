@@ -1,6 +1,7 @@
 
 # CadaLab ##
 # https://competitions.codalab.org/competitions/
+# https://sites.google.com/view/iberlef-2019/home
 
 - id: Evaluating_grammatical_error_corrections
   type1: 
@@ -17,6 +18,179 @@
   pubtime: '2019-02-01'
   note: 
   prize: NaN
+
+
+- id: neges2019
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: 'NEGES 2019: Negation in Spanish'
+  url: http://www.sepln.org/workshops/neges2019/
+  hostby:
+    - IberLEF 2019: https://sites.google.com/view/iberlef-2019/home
+  range: February 18 - 24th September, 2019
+  deadtime: "2019-04-26 23:59:59"
+  timezone: 'Etc/GMT+2'
+  pubtime: '2019-03-12'
+  note: 'this task aims to advance the study of this phenomenon in Spanish, the second most widely spoken language in the world and the third most widely used on the Internet.
+  <br>Sub-task A: Negation cues detection
+  <br>Sub-task B: Role of negation in sentiment analysis'
+  prize: NaN
+
+
+- id: NER_RE
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: 'Named Entity Recognition and Relation Extraction for Portuguese'
+  url: http://www.inf.pucrs.br/linatural/wordpress/iberlef-2019/
+  hostby:
+    - IberLEF 2019: https://sites.google.com/view/iberlef-2019/home
+  range: 18th March - 24th September, 2019
+  deadtime: "2019-05-06 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'The main objective of these tasks is to propose to participants the challenge of applying their systems/solutions to the activities of Named Entity Recognition (NER) and/or Relation Extraction (RE) in Portuguese texts. 
+  <br>Task 1: Named Entity Recognition
+  <br>Task 2: Relation Extraction for Named Entities
+  <br>Task 3: General Open Relation Extraction'
+  prize: NaN
+
+
+- id: MEX_A3T
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: 'MEX-A3T: Authorship and aggressiveness analysis in Twitter: case study in Mexican Spanish'
+  url: https://sites.google.com/view/mex-a3t/
+  hostby:
+    - IberLEF 2019: https://sites.google.com/view/iberlef-2019/home
+  range: 18th March - 24th September, 2019
+  deadtime: "2019-05-06 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'The goal of the second edition of MEX-A3T is to further improve the research in these two important NLP tasks as well as to continue pushing the computational treatment of the Mexican Spanish. The MEX-A3T@IberLEF2019 has the following two tracks: 
+  <br><a href="https://sites.google.com/view/mex-a3t/tracks/AP?authuser=0">AUTHOR PROFILING TRACK</a>
+  <br><a href="https://sites.google.com/view/mex-a3t/tracks/AI?authuser=0">AGGRESSIVENESS DETECTION TRACK</a>'
+  prize: NaN
+
+
+
+- id: IroSvA_2019
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: 'IroSvA: Irony Detection in Spanish Variants'
+  url: http://www.autoritas.net/IroSvA2019/
+  hostby:
+    - IberLEF 2019: https://sites.google.com/view/iberlef-2019/home
+  range: 10th February - 20th June, 2019
+  deadtime: "2019-04-23 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'Welcome to IroSvA (Irony Detection in Spanish Variants) the first shared task fully dedicated to identify the presence of irony in short messages (tweets and news comments) written in Spanish.'
+  prize: NaN
+
+
+- id: HAHA_2019
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: 'HAHA 2019: Humor Analysis based on Human Annotation'
+  url: https://www.fing.edu.uy/inco/grupos/pln/haha/
+  hostby:
+    - IberLEF 2019: https://sites.google.com/view/iberlef-2019/home
+  range: March 18th - September 24th, 2019
+  deadtime: "2019-06-03 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'The HAHA evaluation campaign proposes different subtasks related to automatic humor detection. In order to carry out the tasks, an annotated corpus of tweets in Spanish will be provided.'
+  prize: NaN
+
+
+
+- id: FACT_2019
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: 'FACT: Factuality Analysis and Classification Task'
+  url: https://www.fing.edu.uy/inco/grupos/pln/fact/
+  hostby:
+    - IberLEF 2019: https://sites.google.com/view/iberlef-2019/home
+  range: March 18th - July 1st, 2019
+  deadtime: "2019-06-03 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'The goal of this task is the determination of the status of verb events with respect to factuality in Spanish texts.'
+  prize: NaN
+
+  
+- id: TASS_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'TASS 2019: Sentiment Analysis Task at SEPLN'
+  url: https://competitions.codalab.org/competitions/21957
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - SEPLN2019: http://hitz.eus/sepln2019/
+    - IberLEF 2019: https://sites.google.com/view/iberlef-2019/home
+  range: March 7 - September 24, 2019
+  deadtime: "2019-05-12 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'The first aim of this task is the furtherance of research on sentiment analysis in Spanish with a special interest on the language used in Twitter. '
+  prize: NaN
+
+
+
+- id: BEA_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'Building Educational Applications 2019 Shared Task: Grammatical Error Correction'
+  url: https://www.cl.cam.ac.uk/research/nl/bea2019st/
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+    - BEA 2019 Shared Task Discussion Group: https://groups.google.com/forum/#!forum/bea2019st
+  range: Jan 25 - August 2, 2019
+  deadtime: "2019-03-30 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'Grammatical error correction (GEC) is the task of automatically correcting grammatical errors in text; e.g. [I follows his advices -> I followed his advice].
+  <br>There are 3 tracks in the BEA 2019 shared task:
+  <br><a href="https://competitions.codalab.org/competitions/21922">Restricted Track</a>
+  <br><a href="https://competitions.codalab.org/competitions/21923">Unrestricted Track</a>
+  <br><a href="https://competitions.codalab.org/competitions/21924">Low Resource Track</a>'
+  prize: NaN
+
+- id: WebVision_Challenge_2019
+  type1: 
+    - PF
+  type2:
+    - CV
+    - NLP
+  title: 'WebVision Challenge 2019'
+  url: https://competitions.codalab.org/competitions/21721
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+  range: March 1 - June 7, 2019
+  deadtime: "2019-06-07 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'The goal of this challenge is to advance the area of learning knowledge and representation from web data. The web data not only contains huge numbers of visual images, but also rich meta information concerning these visual data, which could be exploited to learn good representations and models. In 2019, we organize one track for this challenge: WebVision Image Classification Task.'
+  prize: NaN
+
 
 - id: MolHack_2019
   type1: 
@@ -72,6 +246,7 @@
   hostby:
     - CodaLab: https://competitions.codalab.org
     - eHealth-KD: https://knowledge-learning.github.io/ehealthkd-2019/
+    - IberLEF 2019: https://sites.google.com/view/iberlef-2019/home
   range: Feb. 11, 2019 - Never
   deadtime: "2019-04-29 23:59:59"
   timezone: "Etc/GMT-12"

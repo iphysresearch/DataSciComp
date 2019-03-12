@@ -291,3 +291,23 @@
   <br>(2) estimate microstructural measures (signal modeling; <a href="https://my.vanderbilt.edu/memento/sub-challenge-2/">sub-challenge #2</a>)
   <br>(3) evaluate sensitivity and specificity of potential biomarkers (biomarker evaluation; <a href="https://my.vanderbilt.edu/memento/sub-challenge-3/">sub-challenge #3</a>).'
   prize: NaN
+
+  
+
+
+- id: KiTS19
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'KiTS19 Challenge'
+  url: https://kits19.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://grand-challenge.org/challenges/
+  range: March 15 - August 2, 2019
+  deadtime: '2020-07-29 23:59:59'
+  timezone: UTC
+  pubtime: '2019-03-12'
+  note: 'The goal of this challenge is to accelerate the development of reliable kidney and kidney tumor semantic segmentation methodologies. '
+  prize: NaN

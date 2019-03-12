@@ -1,0 +1,39 @@
+
+
+
+# FUTURELAB.AI ##
+# https://ai.futurelab.tv/contest
+
+
+- id: futureai_1
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: '2019未来杯高校AI挑战赛: 图像-发现超新星'
+  url: https://ai.futurelab.tv/contest_detail/1
+  hostby: 
+    - 睡前FUTURE.AI: https://ai.futurelab.tv/
+  range: 3月8日 - 6月17日, 2019
+  deadtime: "2019-03-29 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-03-12'
+  note: '设计一个目标检测模型，从天文望远镜拍摄到的影像中发现疑似新星、超新星。'
+  prize: 80,000RMB+
+
+
+- id: futureai_2
+  type1: 
+    - PF
+  type2:
+    - SP
+  title: '2019未来杯高校AI挑战赛: 语音-跨设备说话人识别'
+  url: https://ai.futurelab.tv/contest_detail/2
+  hostby: 
+    - 睡前FUTURE.AI: https://ai.futurelab.tv/
+  range: 3月8日 - 6月17日, 2019
+  deadtime: "2019-03-29 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-03-12'
+  note: '设计一个声纹锁，家庭成员可以在特定设备上通过任意3句短句注册身份，仅家庭成员通过说任意短句可以开锁，未注册人员（攻击者）无法通过语音开锁。'
+  prize: 100,000RMB+
