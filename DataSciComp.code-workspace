@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"python.pythonPath": ".venv/bin/python3.6"
+		"python.pythonPath": ".venv/bin/python3.6",
+		"python.formatting.blackPath": "/Users/Herb/anaconda3/bin/black"
 	}
 }
