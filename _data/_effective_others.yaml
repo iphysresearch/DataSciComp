@@ -171,5 +171,34 @@
 
 
 
+
+- id: zhongxingshensuanshi
+  type1: 
+    - PF
+  type2:
+    - CV
+    - RL
+    - SP
+    - DM
+  title: '中兴捧月“神算师”算法大赛'
+  url: http://challenge.zte.net/suanfa.php
+  hostby: 
+    - 中兴ZTE: http://job.zte.com.cn
+  range: 2019年3月15日 - 2019年5月22日
+  deadtime: "2019-04-20 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-03-17'
+  note: '2019 年中兴捧月神算师算法大赛（FANTASTIC ALGORITHM）是由中兴通讯面向全球大学生举办的校园赛事。
+  <br>本届算法大赛分为线上初赛和线下总决赛两轮，设置四大算法方向（四大门派、七道赛题）供参赛者根据兴趣自由选择。
+  <br>阿尔法·勒克斯特派：<b>深度学习模型优化加速</b>
+  <br>迪杰斯特拉派：<b>网络流量均衡、报文分类格则处理</b>
+  <br>图令派：<b>人工智能音频预处理</b>
+  <br>傅里叶派：<b>无线信道估计、射频失真建模、智能调度算法</b>'
+  prize: ~￥83万
+
+
+
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org
+
+

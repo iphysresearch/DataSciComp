@@ -1,6 +1,61 @@
 # Kaggle ##
 # https://www.kaggle.com
 
+
+
+
+- id: CareerCon_2019_Help_Navigate_Robots
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: "CareerCon 2019 - Help Navigate Robots"
+  url: https://www.kaggle.com/c/career-con-2019
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - April 11th, 2019
+  deadtime: "2019-04-04 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-17'
+  note: 'Compete to get your resume in front of our sponsors'
+  prize: NaN
+
+
+- id: Aerial_Cactus_Identification
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: "Aerial Cactus Identification"
+  url: https://www.kaggle.com/c/aerial-cactus-identification
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - April 23th, 2019
+  deadtime: "2019-04-23 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-17'
+  note: 'Determine whether an image contains a columnar cactus'
+  prize: NaN
+
+
+
+- id: Data_Science_for_Good_CareerVillage_org
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: "Data Science for Good: CareerVillage.org"
+  url: https://www.kaggle.com/c/data-science-for-good-careervillage
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Feb 26th - April 30th, 2019
+  deadtime: "2019-07-08 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-17'
+  note: 'Match career advice questions with professionals in the field'
+  prize: $15,000
+
+
 - id: Google_Cloud_NCAA_ML_Competition_2019_Mens
   type1: 
     - PF

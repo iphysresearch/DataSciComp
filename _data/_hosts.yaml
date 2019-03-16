@@ -334,3 +334,13 @@
   descri: 'TinyMind.CN，CSDN旗下专业AI技术社区'
 
 
+- id: flyai
+  type1: 
+    - PF
+  title: FlyAI
+  url: https://www.flyai.com
+  logo: https://i.loli.net/2019/03/16/5c8d1c255b884.png
+  descri: '北京智能工场科技有限公司旗下的FlyAI是为AI开发者提供数据竞赛并支持GPU离线训练的一站式服务平台。每周免费提供项目开源算法样例，支持算法能力变现以及快速的迭代算法模型。挑战者，都在FlyAI!'
+
+
+

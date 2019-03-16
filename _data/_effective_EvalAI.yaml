@@ -210,3 +210,27 @@
   pubtime: '2019-03-12'
   note: 'Studies have shown that a dominant class of questions asked by visually impaired users on images of their surrounding involves reading text in the image. But today’s VQA models can not read! To aid and pivot research in the direction of VQA models with the capability to read, we introduce a new dataset TextVQA. TextVQA which requires model to read text from images and reason over it to answer questions about an image.'
   prize: GCP credits
+
+
+
+- id: CARLA_Autonomous_Driving_Challenge      
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - RL
+  title: 'CARLA Autonomous Driving Challenge'
+  url: http://carlachallenge.org/challenge/
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/246/phases'
+  range: 13 March - May 12, 2019
+  deadtime: "2019-05-11 07:59:59"
+  timezone: UTC
+  pubtime: '2019-03-17'
+  note: 'The CARLA Autonomous Driving challenge encourages the development of state-of-the-art autonomous driving systems to tackle complex traffic scenarios. 
+  <br>Track 1 - LIDAR, GPS and Cameras. All sensors track, for robotics teams that want to leverage the power of sensor fusion.
+  <br>Track 2 - Cameras and GPS. Only cameras track, for brave ML teams that want to explore driving with cameras.
+  <br>Track 3 - HD map, waypoints and all sensors. Map-based track, for teams that want to exploit available AD stacks based on HD maps and pre-computed waypoints
+  <br>Track 4 - Scene layout. A perception-less track, for teams that don’t want to deal with perception and prefer to focus on planning and control aspects.'
+  prize: $8,000.00
