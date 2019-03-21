@@ -3,7 +3,6 @@
 # https://tianchi.aliyun.com/competition
 
 
-
 - id: Future_Food_Challenge2019
   type1: 
     - PF
@@ -72,3 +71,21 @@
   pubtime: '2019-02-15'
   note: '2019津南数字制造算法挑战赛，赛场二以物流货物限制品监测为课题，要求选手针对给出的限制品种类，利用X光图像及标注数据，研究开发高效的计算机视觉算法，监测图像是否包含危险品及其大致位置。通过自动化监测包裹携带品算法，降低漏检风险及误报率，提升危险品管理效率。'
   prize: ￥300,000
+
+
+
+- id: quanqiuchengshijisuanaitiaozhansai
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '全球城市计算AI挑战赛'
+  url: https://tianchi.aliyun.com/competition/entrance/231708/introduction?spm=5176.12281905.5490641.1.358b6badpKtnUN
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: 3月19日 - 4月11日, 2019
+  deadtime: "2019-03-30 11:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-03-21'
+  note: '大赛以“地铁乘客流量预测”为赛题，参赛者可通过分析地铁站的历史刷卡数据，预测站点未来的客流量变化，帮助实现更合理的出行路线选择，规避交通堵塞，提前部署站点安保措施等，最终实现用大数据和人工智能等技术助力未来城市安全出行。'
+  prize: ￥300000

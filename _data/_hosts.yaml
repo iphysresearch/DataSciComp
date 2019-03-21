@@ -324,6 +324,15 @@
   logo: https://i.loli.net/2019/02/10/5c5fdab9c67ca.png
   descri: '百度点石是百度大脑面向企业客户的大数据服务平台,面向个人与企业开发者提供从数据收集、存储、建模、部署上线等全流程的开发与交易服务。'
 
+- id: iQIYI
+  type1: 
+    - PF
+  title: 爱奇艺|iQIYI
+  url: http://challenge.ai.iqiyi.com
+  logo: https://i.loli.net/2019/03/21/5c933631042ff.png
+  descri: 'We use AI to solve real problems. You can participate in competitions, imporve yourself, win bonuses and opportunities.'
+
+
 
 - id: tinymind
   type1: 

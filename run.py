@@ -20,6 +20,7 @@ add_datas = [
     "./_data/_effective_ICDAR.yaml",
     "./_data/_effective_kelvins.yaml",
     "./_data/_effective_天池.yaml",
+    "./_data/_effective_iQIYI.yaml",
     "./_data/_effective_FUTURELAB_AI.yaml",
     "./_data/_effective_点石.yaml",
     "./_data/_effective_kesci.yaml",

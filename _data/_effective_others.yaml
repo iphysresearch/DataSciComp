@@ -171,7 +171,6 @@
 
 
 
-
 - id: zhongxingshensuanshi
   type1: 
     - PF
@@ -195,6 +194,42 @@
   <br>图令派：<b>人工智能音频预处理</b>
   <br>傅里叶派：<b>无线信道估计、射频失真建模、智能调度算法</b>'
   prize: ~￥83万
+
+
+- id: zhongguorengongzhinengduomeitixinxishibiejishujingsai
+  type1: 
+    - PF
+  type2:
+    - CV
+    - SP
+    - DM
+    - NLP
+  title: '中国人工智能·多媒体信息识别技术竞赛'
+  url: https://ai.ixm.gov.cn/
+  hostby: 
+    - 厦门市人民政府: https://ai.ixm.gov.cn
+  range: 2019年3月20日 - 2019年7月
+  deadtime: "2019-04-15 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-03-21'
+  note: '为推动和引领人工智能领域创新发展，由中央网信办、工业和信息化部、公安部指导，厦门市政府作为主办，举办“中国人工智能·多媒体信息识别技术竞赛”。首个全国范围大型人工智能领域竞赛。
+  <br>竞赛内容：本届竞赛设置图像、音频和视频3大类、15个竞赛项目，包括：
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=9ee396fad04a4d2eb88118a30c0d4a5d">同源图像检索</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=044428582d7841c48e1af72b5ea11a77">相似图像检索</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=9e44e5ad336741439a7903670588d994">手写文本光学字符识别（OCR）</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=fd861f966aca4c39b30be0dee70b544c">印刷文本光学字符识别（OCR）</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=b02f516f6d114ee79b5da4d9f46e013e">人脸识别</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=f7544f489fad4ccead4e670cc64ddc8c">特定物品识别</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=ae0b7f8f7ff848b9965a029faa53362d">地标识别</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=54a09e63d118439398c215b0877b67c0">旗帜识别</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=3c8d0220c3c94cd7b253783585bd8178">Logo识别</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=64ca222a8ecb4b298a504b0c82adcae2">声纹识别</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=a090509a4d834f94a574671ecb4c585b">语种相关关键词识别</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=a29a178fe6ab4811b56335050011bd6d">变种同源音频检索</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=ce46d70dbc3849719e8ac1fa081a3a27">变种同源视频检索</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=587d2897312e4f649d8472c64311672b">群体行为识别</a>、
+  <a href="https://ai.ixm.gov.cn/detail/project-detail.html?id=012c011181b34596a2885d9678dd9621">特定行为识别</a>。竞赛项目涵盖了当前人工智能多媒体信息识别领域的主流应用方向。'
+  prize: NaN
 
 
 
