@@ -1,0 +1,19 @@
+
+
+# https://www.biendata.com/
+  
+- id: sohu2019
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: '2019 搜狐校园算法大赛'
+  url: https://www.biendata.com/competition/sohu2019/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: 03/20 - 05/22 2019
+  deadtime: "2019-05-06 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-03-25'
+  note: "给定若干文章，目标是判断文章的核心实体以及对核心实体的情感态度。每篇文章识别最多三个核心实体，并分别判断文章对上述核心实体的情感倾向（积极、中立、消极三种）。"
+  prize: ￥75,000

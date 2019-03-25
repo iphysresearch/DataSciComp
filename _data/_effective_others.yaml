@@ -232,6 +232,25 @@
   prize: NaN
 
 
+- id: KDD_Cup_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+  title: 'KDD Cup 2019'
+  url: https://www.4paradigm.com/competition/kddcup2019
+  hostby: 
+    - 4Paradigm: https://www.4paradigm.com
+    - ChaLearn: http://chalearn.org
+    - CodaLab: https://competitions.codalab.org
+  range: Apr 1st - Jul 16th, 2019
+  deadtime: "2019-07-11 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-03-25'
+  note: 'The 5th AutoML Challenge: AutoML for Temporal Relational Data'
+  prize: $65,000
+
 
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org

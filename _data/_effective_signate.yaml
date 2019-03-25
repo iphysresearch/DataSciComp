@@ -56,7 +56,7 @@
     - PF
   type2:
     - CV
-  title: 【招待制】糖尿病患者の検査項目データにおける臨床検査項目分類コード推定
+  title: '【招待制】糖尿病患者の検査項目データにおける臨床検査項目分類コード推定'
   url: https://signate.jp/competitions/153
   hostby:
     - SIGNATE: https://signate.jp/
@@ -66,4 +66,21 @@
   pubtime: '2019-02-01'
   note: '本コンペティションは招待制となっております。'
   prize: ¥1,000,000
+
+
+- id: signate_jp_159
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: '日本たばこ産業 たばこ商品の画像検出（ステージ１）'
+  url: https://signate.jp/competitions/159
+  hostby:
+    - SIGNATE: https://signate.jp/
+  range: 3月19日 - 6月17日2019年
+  deadtime: "2019-06-07 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-25'
+  note: '2019/03/20 学習用データ、評価用データ1の棚画像の向きを、棚の上部が上になるよう揃えました。'
+  prize: ¥2,000,000
 
