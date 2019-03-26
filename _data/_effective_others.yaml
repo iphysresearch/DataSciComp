@@ -252,6 +252,25 @@
   prize: $65,000
 
 
+
+- id: tenxunguanggaosuanfadasai_2019
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '腾讯广告算法大赛 2019'
+  url: https://algo.qq.com/application/home/home/index.html
+  hostby: 
+    - 腾讯广告: https://e.qq.com
+  range: 4月18日 - 6月14日, 2019
+  deadtime: "2019-05-16 11:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-03-26'
+  note: '本次竞赛将提供历史n天的曝光广告的数据（特定流量上采样），包括对应每次曝光的流量特征（用户属性和广告位等时空信息）以及曝光广告的设置和竞争力分数；测试集是新的一批广告设置（有完全新的广告id，也有老的广告id修改了设置），要求预估这批广告的日曝光 。（出于业务数据安全保证的考虑，所有数据均为脱敏处理后的数据。）'
+  prize: $42,000
+
+
+
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org
 

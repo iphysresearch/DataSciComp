@@ -4,6 +4,24 @@
 
 
 
+- id: iWildCam_2019_FGVC6
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'iWildCam 2019 - FGVC6'
+  url: https://www.kaggle.com/c/iwildcam-2019-fgvc6
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - CVPR2019: http://cvpr2019.thecvf.com
+  range: Now - June 7, 2019
+  deadtime: "2019-06-01 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-26'
+  note: 'Categorize animals in the wild'
+  prize: NaN
+
+
 - id: CareerCon_2019_Help_Navigate_Robots
   type1: 
     - PF
