@@ -1,0 +1,19 @@
+# FlyAI ##
+# https://www.flyai.com
+
+
+- id: caltech256
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'Caltech256 图像分类竞赛'
+  url: https://www.flyai.com/d/Caltech256
+  hostby: 
+    - FlyAI: https://www.flyai.com/d/Caltech256
+  range: 3月1日 - 5月1日, 2019
+  deadtime: "2019-05-01 23:59:59"
+  timezone: "Asia/Beijing"
+  pubtime: '2019-03-29'
+  note: '要求参赛队利用深度学习等算法自动识别出所给图像对应的目标，根据作品提交时间先后顺序进行人工审核，审核合格后提交至排行榜。'
+  prize: 80000RMB
