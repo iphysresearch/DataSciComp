@@ -282,7 +282,7 @@
     - WAD2019: http://wad.vision
     - DiDi: https://didiglobal.com
     - Berkeley DeepDriving: https://bdd-data.berkeley.edu
-  range: 03/25 - 06/17, 2019
+  range: Mar 25 - June 17, 2019
   deadtime: "2019-05-31 11:59:59"
   timezone: UTC
   pubtime: '2019-03-30'
@@ -291,8 +291,8 @@
   Based on the datasets, we have define a set of four realistic problems and encourage new algorithms and pipelines to be invented for autonomous driving. 
   More specifically, they are nuScenes challenge 
   <br>Challenge 1: <a href="https://www.nuscenes.org/object-detection">nuScenes</a> 3D Detection
-  <br>Challenge 2: <a href="https://bdd-data.berkeley.edu/wad-2019.html">BDD100K</a> & <a href="https://outreach.didichuxing.com/d2city/challenge">D²-City</a> Detection Domain Adaptation
-  <br>Challenge 3: <a href="https://outreach.didichuxing.com/d2city/challenge">D²-City</a> & <a href="https://bdd-data.berkeley.edu/wad-2019.html">BDD100K</a> Tracking Domain Adaptation'
+  <br>Challenge 2: <a href="https://bdd-data.berkeley.edu/wad-2019.html">BDD100K</a> and <a href="https://outreach.didichuxing.com/d2city/challenge">D²-City</a> Detection Domain Adaptation
+  <br>Challenge 3: <a href="https://outreach.didichuxing.com/d2city/challenge">D²-City</a> and <a href="https://bdd-data.berkeley.edu/wad-2019.html">BDD100K</a> Tracking Domain Adaptation'
   prize: NaN
 
 

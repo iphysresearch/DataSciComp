@@ -6,6 +6,7 @@
 - type1 只有三个选项 PF，AC
 - type2 有五个选项 DM, CV, NLP, RL, SP
     -（可多选，但不可不选）
+- Note 中不可以有 &
 
 - hostby 的内容必须指定
 
