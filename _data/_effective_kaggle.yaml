@@ -2,6 +2,85 @@
 # https://www.kaggle.com
 
 
+- id: iNaturalist_2019_at_FGVC6
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+    - NLP
+  title: 'iNaturalist 2019 at FGVC6'
+  url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - CVPR2019: http://cvpr2019.thecvf.com
+  range: Now -  July 10, 2019
+  deadtime: "2019-06-03 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-30'
+  note: 'Fine-grained classification spanning a thousand species'
+  prize: NaN
+
+
+
+- id: Jigsaw_Unintended_Bias_in_Toxicity_Classification
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+    - NLP
+  title: 'Jigsaw Unintended Bias in Toxicity Classification'
+  url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now -  July 10, 2019
+  deadtime: "2019-06-19 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-30'
+  note: 'This is a Kernels-only competition.
+  <br>Detect toxicity across a diverse range of conversations'
+  prize: $65,000
+
+
+
+- id: iMet_Collection_2019_FGVC6
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'iMet Collection 2019 - FGVC6'
+  url: https://www.kaggle.com/c/imet-2019-fgvc6
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - CVPR2019: http://cvpr2019.thecvf.com
+  range: Now -  June 11, 2019
+  deadtime: "2019-05-28 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-30'
+  note: 'This is a Kernels-only competition.
+  <br>Recognize artwork attributes from The Metropolitan Museum of Art'
+  prize: NaN
+
+
+
+- id: Ciphertext_Challenge_II
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: 'Ciphertext Challenge II'
+  url: https://www.kaggle.com/c/ciphertext-challenge-ii
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - April 25th, 2019
+  deadtime: "2019-04-25 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-30'
+  note: 'Your mission this time: to correctly match each piece of ciphertext with its corresponding piece of plaintext. Daunting! Also, there are some new ciphers in play this time, which will involve some meta-puzzling. Enjoy!'
+  prize: Kaggle Swag
+
 
 
 - id: iWildCam_2019_FGVC6
