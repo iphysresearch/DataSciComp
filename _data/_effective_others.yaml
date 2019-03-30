@@ -269,6 +269,32 @@
   note: '本次竞赛将提供历史n天的曝光广告的数据（特定流量上采样），包括对应每次曝光的流量特征（用户属性和广告位等时空信息）以及曝光广告的设置和竞争力分数；测试集是新的一批广告设置（有完全新的广告id，也有老的广告id修改了设置），要求预估这批广告的日曝光 。（出于业务数据安全保证的考虑，所有数据均为脱敏处理后的数据。）'
   prize: $42,000
 
+- id: Workshop_on_Autonomous_Driving
+  type1: 
+    - AC
+  type2:
+    - CV
+    - RL
+  title: 'Workshop on Autonomous Driving 2019 | Challenge'
+  url: https://sites.google.com/view/wad2019/challenge?authuser=0
+  hostby: 
+    - CVPR2019: http://cvpr2019.thecvf.com
+    - WAD2019: http://wad.vision
+    - DiDi: https://didiglobal.com
+    - Berkeley DeepDriving: https://bdd-data.berkeley.edu
+  range: 03/25 - 06/17, 2019
+  deadtime: "2019-05-31 11:59:59"
+  timezone: UTC
+  pubtime: '2019-03-30'
+  note: 'We host a challenge to understand the current status of computer vision algorithms in solving the environmental perception problems for autonomous driving. 
+  We have prepared a number of large scale datasets with fine annotation, collected and annotated by Berkeley Deep Driving Consortium, nuTonomy and DiDi. 
+  Based on the datasets, we have define a set of four realistic problems and encourage new algorithms and pipelines to be invented for autonomous driving. 
+  More specifically, they are nuScenes challenge 
+  <br>Challenge 1: <a href="https://www.nuscenes.org/object-detection">nuScenes</a> 3D Detection
+  <br>Challenge 2: <a href="https://bdd-data.berkeley.edu/wad-2019.html">BDD100K</a> & <a href="https://outreach.didichuxing.com/d2city/challenge">D²-City</a> Detection Domain Adaptation
+  <br>Challenge 3: <a href="https://outreach.didichuxing.com/d2city/challenge">D²-City</a> & <a href="https://bdd-data.berkeley.edu/wad-2019.html">BDD100K</a> Tracking Domain Adaptation'
+  prize: NaN
+
 
 
 # http://spiechallenges.cloudapp.net/competitions/
