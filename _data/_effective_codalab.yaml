@@ -19,6 +19,22 @@
   note: 
   prize: NaN
 
+- id: Thales_AIChallenge4Health2019
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 2019 Thales AIChallenge4Health
+  url: https://competitions.codalab.org/competitions/21639
+  hostby:
+    - CodaLab: https://competitions.codalab.org
+  range: March 21 - May 21, 2019
+  deadtime: "2019-05-21 23:59:59"
+  timezone: UTC
+  pubtime: '2019-03-30'
+  note: 'The purpose of this challenge is to carry out spot detection in X-ray medical images in the surgical field. '
+  prize: 3000 €.
+
 
 - id: neges2019
   type1: 
