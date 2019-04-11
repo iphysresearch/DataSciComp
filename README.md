@@ -123,6 +123,7 @@ See more details: `./_data/readme`
 - [CV-oriented ai-deadlines (with an emphasis on medical images)](https://creedai.github.io/ai-deadlines/) by @duducheng
 - [A searchable compilation of Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) by @[EliotAndres](https://github.com/EliotAndres)
 - [Data competition Top Solution 数据竞赛top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution) by @[Smilexuhc](https://github.com/Smilexuhc)
+- [Chinese Data Competitions' Solutions | CDCS 中国数据竞赛优胜解集锦](https://github.com/geekinglcq/CDCS) by @[geekinglcq](https://github.com/geekinglcq)
 - [ApacheCN 中文开源组织](http://www.apachecn.org) | 专注于优秀项目维护的开源组织 [[Github](https://github.com/apachecn), [Kaggle 项目实战（教程）](https://github.com/apachecn/kaggle)]
 
 

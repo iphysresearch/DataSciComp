@@ -3,22 +3,19 @@
 # herox ##
 # https://www.herox.com
 
-# demo
-- id: UG2_PRIZE_CHALLENGE
+
+- id: Geopolitical_Forecasting_GF_Challenge_2
   type1: 
-    - AC
+    - PF
   type2:
-    - CV
-  title: 'UG2+ PRIZE CHALLENGE'
-  url: http://www.ug2challenge.org/index.html
+    - DM
+  title: 'Geopolitical Forecasting [GF] Challenge 2'
+  url: https://www.herox.com/IARPAGFChallenge2
   hostby: 
     - CVPR 2019: 'https://nips.cc'
-  range: January 31 - June 18 2019
-  deadtime: "2018-04-01 23:59:59"
+  range: April 4, 2018 - Feb. 1, 2020
+  deadtime: "2019-11-30 23:59:59"
   timezone: UTC
-  pubtime: '2019-01-20'
-  note: 'BRIDGING THE GAP BETWEEN COMPUTATIONAL PHOTOGRAPHY AND VISUAL RECOGNITION:
-  <br>The UG2+ Challenge seeks to advance the analysis of "difficult" imagery by applying image restoration and enhancement algorithms to improve analysis performance. Participants are tasked with developing novel algorithms to improve the analysis of imagery captured under problematic conditions.
-  <br>Track 1: <a href="http://www.ug2challenge.org/track1.html">Video object classification and detection from unconstrained mobility platforms</a>
-  <br>Track 2: <a href="http://www.ug2challenge.org/track2.html">Object Detection in Poor Visibility Environments</a>'
-  prize: $60K
+  pubtime: '2019-04-11'
+  note: 'Solvers, whether individuals or teams, will create innovative solutions and methods to produce forecasts to a set of more than 300 questions referred to as Individual Forecasting Problems (IFPs), released regularly over the course of the nine-month Challenge.'
+  prize: $250,000

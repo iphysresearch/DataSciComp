@@ -234,3 +234,40 @@
   <br>Track 3 - HD map, waypoints and all sensors. Map-based track, for teams that want to exploit available AD stacks based on HD maps and pre-computed waypoints
   <br>Track 4 - Scene layout. A perception-less track, for teams that don’t want to deal with perception and prefer to focus on planning and control aspects.'
   prize: $8,000.00
+
+- id: WiDGET3D_challenge
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: '3D-WiDGET challenge'
+  url: https://zenodo.org/record/2573265#.XJPSWBNKhQJ
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/249/'
+    - CVPR 2019: 'http://cvpr2019.thecvf.com'
+  range: Mar 20 - May 2, 2019
+  deadtime: "2019-05-02 07:59:59"
+  timezone: UTC
+  pubtime: '2019-04-11'
+  note: '3D reconstruction is mostly evaluated qualitatively. With this dataset, we are introducing a new difficult quantitative task, the 3D IQ test task (3D-IQTT).'
+  prize: NaN
+
+- id: Habitat_Challenge_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Habitat Challenge 2019'
+  url: https://aihabitat.org/challenge/
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/254/'
+    - Habitat Team: https://aihabitat.org
+    - CVPR 2019: http://cvpr2019.thecvf.com
+  range: Apr 3 - May 19, 2019
+  deadtime: "2019-05-10 11:59:59"
+  timezone: UTC
+  pubtime: '2019-04-11'
+  note: 'The objective of Habitat Challenge is to benchmark the state-of-the-art in goal-directed visual navigation around the PointGoal task as defined by Anderson et al. The challenge is built on top of the Habitat stack.'
+  prize: $10k

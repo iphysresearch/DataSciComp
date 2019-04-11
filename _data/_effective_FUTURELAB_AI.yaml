@@ -37,3 +37,36 @@
   pubtime: '2019-03-12'
   note: '设计一个声纹锁，家庭成员可以在特定设备上通过任意3句短句注册身份，仅家庭成员通过说任意短句可以开锁，未注册人员（攻击者）无法通过语音开锁。'
   prize: 100,000RMB+
+
+
+- id: futureai_3
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '2019未来杯高校AI挑战赛: 城市-房产租金预测'
+  url: 'https://ai.futurelab.tv/contest_detail/3'
+  hostby: 
+    - 睡前FUTURE.AI: https://ai.futurelab.tv/
+  range: 4月8日 - 6月17日, 2019
+  deadtime: "2019-05-28 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-04-11'
+  note: '线上比赛要求参赛选手根据给定的数据集，建立模型，预测房屋租金。'
+  prize: 90,000RMB
+
+- id: futureai_4
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '2019未来杯高校AI挑战赛: 互娱-漫画人脸识别'
+  url: 'https://ai.futurelab.tv/contest_detail/4'
+  hostby: 
+    - 睡前FUTURE.AI: https://ai.futurelab.tv/
+  range: 4月8日 - 6月17日, 2019
+  deadtime: "2019-04-22 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-04-11'
+  note: '初赛中，选手需要基于给定的训练数据设计模型，判断给定的一对漫画图像和真实图像是否是同一个人。请将预测的结果按照测试集id顺序输出，以便平台对提交模型的结果进行验证。'
+  prize: 90,000RMB

@@ -5,6 +5,25 @@
 # https://dianshi.baidu.com/competition/
 
 
+- id: Context_Aware_Multi_Modal_Transportation_Recommendation
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: 'Context-Aware Multi-Modal Transportation Recommendation'
+  url: https://dianshi.baidu.com/competition/29/rule
+  hostby: 
+    - 点石: https://dianshi.baidu.com/competition/
+  range: April 10th - August 4th, 2019
+  deadtime: "2019-04-30 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-04-11'
+  note: 'The competition consists of two tasks with the detail below. 
+<br>Task 1: Recommend the most appropriate transport mode. For task 1, participates are required to post the external data in the forum on how to access the external data, and provide sample codes in Python. 
+<br>Task 2: Open research/application challenge. For task 2, a data description as well as how to access the external data must be described in the proposal.'
+  prize: $35000
+
+
 - id: meilixiangcun
   type1: 
     - PF

@@ -29,6 +29,7 @@ add_datas = [
     "./_data/_effective_biendata.yaml",
     "./_data/_effective_ICME.yaml",
     "./_data/_effective_EvalAI.yaml",
+    "./_data/_effective_FlyAI.yaml",
     "./_data/_effective_others.yaml",
 ]
 

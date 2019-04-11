@@ -19,6 +19,26 @@
   note: 
   prize: NaN
 
+
+- id: CLEF_2019_Lab_ProtestNews
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'CLEF 2019 Lab ProtestNews'
+  url: https://competitions.codalab.org/competitions/22349
+  hostby: 
+    - CodaLab: https://competitions.codalab.org  
+    - CLEF 2019: http://clef2019.clef-initiative.eu
+  range: April 1 - June 20, 2019
+  deadtime: "2019-05-01 11:59:59"
+  timezone: UTC
+  pubtime: '2019-04-11'
+  note: 'The task ProtestNews aims at extracting event information from news articles across multiple countries.'
+  prize: NaN
+
+
 - id: Thales_AIChallenge4Health2019
   type1: 
     - PF

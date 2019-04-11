@@ -2,6 +2,26 @@
 
 # https://www.biendata.com/
   
+
+
+- id: CCKS_2019
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: 'CCKS 2019 人物关系抽取'
+  url: https://www.biendata.com/competition/ccks_2019_ipre/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: 04/20 - 07/25 2019
+  deadtime: "2019-06-30 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-04-11'
+  note: '在本次任务中，我们重点关注人物之间的关系抽取研究，简称IPRE（Inter-Personal Relationship Extraction）。给定一组人物实体对和包含该实体对的句子，找出给定实体对在已知关系表中的关系。'
+  prize: ￥43,000
+
+
+
 - id: sohu2019
   type1: 
     - PF

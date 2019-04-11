@@ -243,12 +243,13 @@
   hostby: 
     - 4Paradigm: https://www.4paradigm.com
     - ChaLearn: http://chalearn.org
-    - CodaLab: https://competitions.codalab.org
+    - CodaLab: https://competitions.codalab.org/competitions/21948
   range: Apr 1st - Jul 16th, 2019
   deadtime: "2019-07-11 23:59:59"
   timezone: "Asia/Shanghai"
   pubtime: '2019-03-25'
-  note: 'The 5th AutoML Challenge: AutoML for Temporal Relational Data'
+  note: 'The 5th AutoML Challenge: AutoML for Temporal Relational Data
+  <br>In this challenge, participants are invited to develop AutoML solutions to binary classification problems for temporal relational data. '
   prize: $65,000
 
 
@@ -296,6 +297,22 @@
   prize: NaN
 
 
+- id: RecSys_Challeng_2019
+  type1: 
+    - AC
+  type2:
+    - DM
+    - SP
+  title: 'RecSys Challenge 2019'
+  url: http://www.recsyschallenge.com/2019/
+  hostby: 
+    - ACM RecSys conference: https://recsys.acm.org/recsys19/
+  range: March - September, 2019
+  deadtime: "2019-06-30 11:59:59"
+  timezone: "Etc/GMT-12"
+  pubtime: '2019-04-11'
+  note: "This year's challenge is to develop a session-based and context-aware recommender system to adapt a list of accommodations according to the needs of the user."
+  prize: NaN
 
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org

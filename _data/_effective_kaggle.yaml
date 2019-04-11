@@ -24,6 +24,63 @@
 #   prize: NaN
 
 
+- id: Google_Landmark_Recognition_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Google Landmark Recognition 2019'
+  url: https://www.kaggle.com/c/landmark-recognition-2019
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - CVPR2019: http://cvpr2019.thecvf.com
+  range: Now -  June 10, 2019
+  deadtime: "2019-05-27 23:59:59"
+  timezone: UTC
+  pubtime: '2019-04-11'
+  note: 'Label famous (and not-so-famous) landmarks in images'
+  prize: $25,000
+
+
+
+- id: Google_Landmark_Retrieval_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Google Landmark Retrieval 2019'
+  url: https://www.kaggle.com/c/landmark-retrieval-2019
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - CVPR2019: http://cvpr2019.thecvf.com
+  range: Now -  June 10, 2019
+  deadtime: "2019-05-27 23:59:59"
+  timezone: UTC
+  pubtime: '2019-04-11'
+  note: 'Given an image, can you find all of the same landmarks in a dataset?'
+  prize: $25,000
+
+
+
+- id: Freesound_Audio_Tagging_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - SP
+  title: 'Freesound Audio Tagging 2019'
+  url: https://www.kaggle.com/c/freesound-audio-tagging-2019
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now -  June 10, 2019
+  deadtime: "2019-06-03 23:59:59"
+  timezone: UTC
+  pubtime: '2019-04-11'
+  note: 'Automatically recognize sounds and apply tags of varying natures'
+  prize: $5,000
+
 
 
 - id: iNaturalist_2019_at_FGVC6
