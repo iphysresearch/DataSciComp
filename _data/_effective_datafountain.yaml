@@ -106,3 +106,19 @@
   note: '赛题共包含数据近7600例肝癌病例影像，其中3600例作为训练，3974例作为测试。影像数据层厚分布为0.6mm-7.5mm。'
   prize: '￥1,000,000'
 
+
+- id: zidongjiashijiaotongbiaozhishibie
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: '基于虚拟仿真环境下的自动驾驶交通标志识别'
+  url: https://www.datafountain.cn/competitions/339
+  hostby: 
+    - DataFountain: https://www.datafountain.cn/
+  range: 4月-6月, 2019
+  deadtime: "2019-04-26 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-04-27'
+  note: '在此任务中，我们将提供给参赛者一系列基于虚拟仿真环境下的自动驾驶视频图像，其中交通标志牌将作出标注。要求参赛者识别测试数据中随机出现的交通标志牌，并按照出现顺序反馈对应的识别结果。该虚拟仿真环境下伴随行人、非机动车等干扰因素，并具备多样性天气条件（包含光照）。'
+  prize: '10万元'

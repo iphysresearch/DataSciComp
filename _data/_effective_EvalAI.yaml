@@ -271,3 +271,43 @@
   pubtime: '2019-04-11'
   note: 'The objective of Habitat Challenge is to benchmark the state-of-the-art in goal-directed visual navigation around the PointGoal task as defined by Anderson et al. The challenge is built on top of the Habitat stack.'
   prize: $10k
+
+- id: LID_Challenge_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Weakly Supervised Learning for Real-World Computer Vision Applications and the 1st Learning from Imperfect Data (LID) Challenge'
+  url: https://lidchallenge.github.io/#challenge
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/'
+    - LID Team: https://lidchallenge.github.io/
+    - CVPR 2019: http://cvpr2019.thecvf.com
+  range: Jan 19 - Jun 1, 2019
+  deadtime: "2019-05-01 11:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: 'We will organize the first Learning from Imperfect Data (LID) challenge on object semantic segmentation and scene parsing, which includes two competition tracks:
+  <br>Track1: <a href="https://evalai.cloudcv.org/web/challenges/challenge-page/276/overview">Object semantic segmentation with image-level supervision</a>
+  <br>Track2: <a href="https://evalai.cloudcv.org/web/challenges/challenge-page/300/overview">Scene parsing with point-based supervision</a>'
+  prize: NaN
+
+
+- id: Apizoom_iapr_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Apizoom iapr-2019'
+  url: https://evalai.cloudcv.org/web/challenges/challenge-page/321/overview
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/'
+  range: Apr 19 - May 31, 2019
+  deadtime: "2019-05-31 07:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: 'Detecting and quantifying the presence of Varroa in a beehive is, therefore, crucial to treat the infection appropriately and as early as possible, and image analysis appears very useful in this problem.
+  <br>For this project, we provide 800 training and 150 validation images with labels.'
+  prize: NaN

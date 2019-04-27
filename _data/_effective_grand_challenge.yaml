@@ -311,3 +311,25 @@
   pubtime: '2019-03-12'
   note: 'The goal of this challenge is to accelerate the development of reliable kidney and kidney tumor semantic segmentation methodologies. '
   prize: NaN
+
+
+
+- id: paip2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'PAIP 2019 Challenge'
+  url: https://paip2019.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://grand-challenge.org/challenges/
+    - MICCAI 2019: https://www.miccai2019.org
+  range: April 15 - September 2, 2019
+  deadtime: '2020-09-15 23:59:59'
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: 'The goal of the challenge is to evaluate new and existing algorithms for automated detection of liver cancer in whole-slide images (WSIs). There are two tasks and therefore two leaderboards for evaluating the performance of the algorithms. Participants can choose to join both or either tasks according to their interests.
+  <br>Task 1: Liver Cancer Segmentation
+  <br>Task 2: Viable Tumor Burden Estimation'
+  prize: NaN

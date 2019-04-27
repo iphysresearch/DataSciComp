@@ -314,6 +314,88 @@
   note: "This year's challenge is to develop a session-based and context-aware recommender system to adapt a list of accommodations according to the needs of the user."
   prize: NaN
 
+- id: mavsr
+  type1: 
+    - AC
+  type2:
+    - CV
+    - SP
+    - NLP
+  title: 'The 1st Mandarin Audio-Visual Speech Recognition Challenge (MAVSR)'
+  url: http://vipl.ict.ac.cn/homepage/mavsr/index.html
+  hostby: 
+    - ICMI 2019: https://icmi.acm.org/2019/
+  range: April 11 - August 8, 2019
+  deadtime: "2019-06-25 11:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: 'This challenge aims at exploring the complementarity between visual and acoustic information in real-world speech recognition systems, and will be held at ACM International Conference on Multimodal Interaction (ICMI) 2019.
+  <br>Sub-challenge 1: Closed-set word-level speech recognition
+  <br>Sub-challenge 2: Open-set word-level speech recognition
+  <br>Sub-challenge 3: Visual keyword spotting'
+  prize: ~30,000 RMB
+
+
+- id: EmotiW
+  type1: 
+    - AC
+  type2:
+    - CV
+    - SP
+    - NLP
+  title: '7th Emotion Recognition in the Wild Challenge (EmotiW)'
+  url: https://sites.google.com/view/emotiw2019
+  hostby: 
+    - ICMI 2019: https://icmi.acm.org/2019/
+  range: February - July, 2019
+  deadtime: "2019-07-15 11:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: 'The goal of this challenge is to extend and carry forward the new common platform for evaluation of emotion recognition methods in real-world conditions defined in EmotiW2018 Grand Challenge held at the ACM International Conference on Multimodal Interaction 2018. This year there will be three sub-challenges:
+<br>Audio-video based emotion recognition sub-challenge (AV)
+<br>Group-level Cohesion sub-challenge (GC)
+<br>Engagement prediction in the Wild (EW)'
+  prize: NaN
+
+- id: CATSLU
+  type1: 
+    - AC
+  type2:
+    - NLP
+    - SP
+  title: 'The 1st Chinese Audio-Textual Spoken Language Understanding Challenge (CATSLU)'
+  url: https://sites.google.com/view/CATSLU/home
+  hostby: 
+    - ICMI 2019: https://icmi.acm.org/2019/
+  range: '15/03 - 12/08, 2019'
+  deadtime: "2019-06-20 11:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: "The spoken language understanding (SLU) is a key component of spoken dialogue system (SDS), parsing user's utterances into corresponding semantic concepts. To fully investigate these problems and promote application of spoken dialogue system, we will release a multi-turn task-oriented Chinese spoken dialog dataset and organize the first open, audio-text based Chinese Task Oriented Spoken Language Understanding Challenge. This challenge consists of two sub-challenges:
+  <br>SLU in domain
+  <br>Domain adaptation of SLU"
+  prize: NaN
+
+
+- id: hailiangguangxueyaogan
+  type1: 
+    - AC
+  type2:
+    - CV
+  title: '海量光学遥感数据智能处理算法大赛'
+  url: http://119.3.218.200:8000
+  hostby: 
+    - 哈尔滨工业大学（深圳）: http://www.hitsz.edu.cn/index.html
+  range: 5月1日 - 11月, 2019
+  deadtime: "2019-05-31 11:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: '本次海量光学遥感数据智能处理算法大赛由哈尔滨工业大学（深圳）主办，国防科技创新快速响应小组协办，航天东方红卫星有限公司、中国科学院长春光学精密机械与物理研究所等单位承办，旨在推动海量光学遥感卫星数据处理技术的发展，瞄准在轨应用，推动该技术领域的创新发展，为实现海量遥感数据处理与应用能力的大幅提升提供支撑。
+  <br>主题一：目标智能检测识别主题
+  <br>主题二：自主开发应用主题'
+  prize: 210万/120万
+
+
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org
 

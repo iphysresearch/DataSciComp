@@ -41,3 +41,23 @@
   prize: '实习机会'
 
 
+
+- id: diqiuwuhou
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '华为算法精英大赛'
+  url: 'http://www.dcjingsai.com/common/cmpt/华为算法精英大赛_竞赛信息.html'
+  hostby: 
+    - DC 竞赛: 'http://www.dcjingsai.com'
+  range: 3月17日-8月27日, 2019
+  deadtime: "2019-05-19 18:00:00"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-04-27'
+  note: '“DigiX极客算法精英大赛”（下面简称算法精英赛）是江苏省人工智能学会（JSAI）和华为终端公司联合举办的面向全球高校学子举办的高级别算法竞赛。贴近实战，以丰富的消费者业务场景和数据驱动；涵盖传统机器学习、深度学习以及计算机视觉、自然语言处理等各个业务领域。
+  <br>赛题一：华为视频会员用户流失预警
+  <br>赛题二：华为账号用户人口属性预测
+  <br>赛题三：华为PPS CTR预测'
+  prize: '￥690,000'
+

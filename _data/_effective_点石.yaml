@@ -4,6 +4,24 @@
 # 点石 ##
 # https://dianshi.baidu.com/competition/
 
+- id: Urban_Region_Function_Classification
+  type1: 
+    - PF
+  type2:
+    - DM
+    - CV
+  title: 'Urban Region Function Classification'
+  url: https://dianshi.baidu.com/competition/30/rule
+  hostby: 
+    - 点石: https://dianshi.baidu.com/competition/
+  range: April 30th - September, 2019
+  deadtime: "2019-06-10 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-04-27'
+  note: '2019 The 5th Baidu &amp; XJTU Big Data Competition And The First IKCEST "One Belt One Road" International Big Data Competition.
+  <br>Build models to classify the functions of urban areas with data of satellite images and user behavior from given geographical areas.'
+  prize: RMB150,000
+
 
 - id: Context_Aware_Multi_Modal_Transportation_Recommendation
   type1: 

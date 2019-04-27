@@ -1,7 +1,7 @@
 
 # CadaLab ##
 # https://competitions.codalab.org/competitions/
-# https://sites.google.com/view/iberlef-2019/home
+
 
 - id: Evaluating_grammatical_error_corrections
   type1: 
@@ -19,6 +19,64 @@
   note: 
   prize: NaN
 
+- id: VisDA_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Visual Domain Adaptation Challenge (VisDA-2019)'
+  url: http://ai.bu.edu/visda-2019/
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/
+    - ICCV 2019: https://eccv2018.org
+  range: April 9 - Sept. 27, 2019
+  deadtime: "2019-09-27 04:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: 'We are pleased to announce the 2019 Visual Domain Adaptation (VisDA2019) Challenge! It is well known that the success of machine learning methods on visual recognition tasks is highly dependent on access to large labeled datasets. Unfortunately, performance often drops significantly when the model is presented with data from a new deployment domain which it did not see in training, a problem known as dataset shift. The VisDA challenge aims to test domain adaptation methods’ ability to transfer source knowledge and adapt it to novel target domains.
+  <br>This challenge includes two tracks:
+<br><a href="https://competitions.codalab.org/competitions/22469">Multi-Source Domain Adaptation Challenge</a>
+<br><a href="https://competitions.codalab.org/competitions/22470">Semi-Supervised Domain Adaptation</a>'
+  prize: NaN
+
+
+- id: DAVIS_CVPR2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'The DAVIS Challenge on Video Object Segmentation @ CVPR 2019'
+  url: https://davischallenge.org/challenge2019/index.html
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/
+    - CVPR 2019: http://cvpr2019.thecvf.com
+  range: May 1 - May 24, 2019
+  deadtime: "2019-05-24 23:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: 'The <a href="https://davischallenge.org/challenge2019/semisupervised.html">semi-supervised</a>, 
+  <a href="https://davischallenge.org/challenge2019/interactive.html">interactive</a> and 
+  <a href="https://davischallenge.org/challenge2019/unsupervised.html">unsupervised</a> challenges'
+  prize: NVIDIA GEFORCE RTX 2080Ti
+
+
+- id: Broadcast_5G
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '5G Broadcast – R&amp;S Engineering Competition 2019'
+  url: https://competitions.codalab.org/competitions/22560
+  hostby: 
+    - CodaLab: https://competitions.codalab.org  
+  range: April 23 - May 19, 2019
+  deadtime: "2019-05-19 21:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: 'In this context, your task is to develop an algorithm (machine learning) to optimize the user experience of the customer (= unsatisfied demand) and to maximize the profit (advertising earnings) of the content provider. '
+  prize: USD $3,000
 
 - id: CLEF_2019_Lab_ProtestNews
   type1: 
@@ -289,6 +347,29 @@
   pubtime: '2019-02-26'
   note: "More details are available at: <a href='https://knowledge-learning.github.io/ehealthkd-2019/'>https://knowledge-learning.github.io/ehealthkd-2019</a>"
   prize: NaN
+
+- id: meddocan
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'MEDDOCAN (Medical Document Anonymization) task'
+  url: https://competitions.codalab.org/competitions/22643
+  hostby:
+    - temu.bsc.es/meddocan: http://temu.bsc.es/meddocan/
+    - CodaLab: https://competitions.codalab.org
+    - IberLEF 2019: https://sites.google.com/view/iberlef-2019/home
+    - SEPLN 2019 (Bilbao): http://www.sepln.org/news/xxxv-congreso-internacional-de-la-sepln/
+  range: March 18, 2019 - September 24, 2019
+  deadtime: "2019-05-17 23:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: 'The MEDDOCAN task will be structured into two sub-tasks:
+  <br>1) NER offset and entity type classification.
+  <br>2) Sensitive token detection.
+  <br>The training set comprises 500 clinical cases, and the development and test set 250 clinical cases each.'
+  prize: 1,700€
 
 
 - id: IEEE_2019_GRSS_Data_Fusion_Contest

@@ -35,3 +35,25 @@
   pubtime: '2019-02-01'
   note: '基于给定的化学反应数据建立模型，从而可对任给定的反应试剂和反应产物数据，模型输出该化学反应的反应物。'
   prize: '￥50,000 + ￥20,000 GPU资源'
+
+
+- id: Self_driving_Car_Challenge_under_5G_Environment
+  type1: 
+    - PF
+  type2:
+    - RL
+    - AC
+  title: '2019 AIWIN 5G环境下无人驾驶挑战赛 / Self-driving Car Challenge under 5G Environment'
+  url: https://www.kesci.com/home/competition/5cbd8083c7d626002beb280d
+  hostby: 
+    - Kesci: https://www.kesci.com/
+  range: 2019-04-25 至 2019-07-31
+  deadtime: "2019-06-16 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-04-27'
+  note: "Under 5G network environment, Self-driving car faces new opportunities and challenges. International teams are invited to join us at LinGang’s Self-driving car closed test zone to conduct real road test and virtual scene test.
+  <br>1、无人驾驶 5G应用挑战 / Self-driving Car 5G application challenge
+  <br>2、自动驾驶算法虚拟场景挑战 / Automatic driving algorithm Virtual scene Challenge"
+  prize: '¥ 200,000 + SAIL奖推荐'
+
+

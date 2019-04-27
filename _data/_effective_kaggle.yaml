@@ -4,24 +4,24 @@
 
 
 
-# - id: iMat Fashion 2019 at FGVC6
-#   type1: 
-#     - PF
-#     - AC
-#   type2:
-#     - DM
-#     - NLP
-#   title: 'iMat Fashion 2019 at FGVC6'
-#   url: https://www.kaggle.com/c/imaterialist-challenge-fashion-2019
-#   hostby:
-#     - Kaggle: https://www.kaggle.com/
-#     - CVPR2019: http://cvpr2019.thecvf.com
-#   range: Now -  July 10, 2019
-#   deadtime: "2019-06-03 23:59:59"
-#   timezone: UTC
-#   pubtime: '2019-03-30'
-#   note: 'Fine-grained classification spanning a thousand species'
-#   prize: NaN
+- id: iMat_Fashion_2019_at_FGVC6
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'iMaterialist (Fashion) 2019 at FGVC6'
+  url: https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - FGVC6: https://sites.google.com/view/fgvc6/home
+    - CVPR2019: http://cvpr2019.thecvf.com
+  range: Now -  June 3, 2019
+  deadtime: "2019-06-03 23:59:59"
+  timezone: UTC
+  pubtime: '2019-04-27'
+  note: 'Fine-grained segmentation task for fashion and apparel'
+  prize: NaN
 
 
 - id: Google_Landmark_Recognition_2019
@@ -94,6 +94,7 @@
   url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
   hostby:
     - Kaggle: https://www.kaggle.com/
+    - FGVC6: https://sites.google.com/view/fgvc6/home
     - CVPR2019: http://cvpr2019.thecvf.com
   range: Now -  July 10, 2019
   deadtime: "2019-06-03 23:59:59"
@@ -135,6 +136,7 @@
   url: https://www.kaggle.com/c/imet-2019-fgvc6
   hostby:
     - Kaggle: https://www.kaggle.com/
+    - FGVC6: https://sites.google.com/view/fgvc6/home
     - CVPR2019: http://cvpr2019.thecvf.com
   range: Now -  June 11, 2019
   deadtime: "2019-05-28 23:59:59"
@@ -173,6 +175,7 @@
   url: https://www.kaggle.com/c/iwildcam-2019-fgvc6
   hostby:
     - Kaggle: https://www.kaggle.com/
+    - FGVC6: https://sites.google.com/view/fgvc6/home
     - CVPR2019: http://cvpr2019.thecvf.com
   range: Now - June 7, 2019
   deadtime: "2019-06-01 23:59:59"

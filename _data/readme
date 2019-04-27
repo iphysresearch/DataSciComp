@@ -6,7 +6,7 @@
 - type1 只有三个选项 PF，AC
 - type2 有五个选项 DM, CV, NLP, RL, SP
     -（可多选，但不可不选）
-- Note 中不可以有 &
+- Note 中不可以有 & (如果编写的XML文件必须包含&字符，则必须分别写成&amp;)
 
 - hostby 的内容必须指定
 
