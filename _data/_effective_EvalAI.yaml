@@ -311,3 +311,44 @@
   note: 'Detecting and quantifying the presence of Varroa in a beehive is, therefore, crucial to treat the infection appropriately and as early as possible, and image analysis appears very useful in this problem.
   <br>For this project, we provide 800 training and 150 validation images with labels.'
   prize: NaN
+
+
+
+- id: openeds_challenge2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'OpenEDS Challenge'
+  url: https://research.fb.com/programs/openeds-challenge
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/'
+    - Facebook: https://research.fb.com
+  range: May 3 - Sep 16, 2019
+  deadtime: "2019-09-15 23:59:59"
+  timezone: UTC
+  pubtime: '2019-05-06'
+  note: 'In the absence of accurate gaze labels, we propose to advance the state of the art by carefully designing two challenges that combine human annotation of eye features with unlabeled data. These challenges focus on deeper understanding of the distribution underlying human eye state. We invite ML and CV researchers for participation.
+  <br><a href="https://evalai.cloudcv.org/web/challenges/challenge-page/353">Track-1 Semantic Segmentation challenge</a>
+  <br><a href="https://evalai.cloudcv.org/web/challenges/challenge-page/354">Track-2 Synthetic Eye Generation challenge</a>'
+  prize: $13,000 USD x2
+
+
+
+- id: nocaps
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: nocaps
+  url: https://nocaps.org
+  hostby: 
+    - EvalAI: https://evalai.cloudcv.org/web/challenges/challenge-page/355/
+  range: Feb 8, 2019 - Apr 26, 2099
+  deadtime: "2099-04-26 07:59:59"
+  timezone: UTC
+  pubtime: '2019-05-06'
+  note: 'Image captioning models have achieved impressive results on datasets containing limited visual concepts and large amounts of paired image-caption training data. However, if these models are to ever function in the wild, a much larger variety of visual concepts must be learned, ideally from less supervision. To encourage the development of image captioning models that can learn visual concepts from alternative data sources, such as object detection datasets, we present the first large-scale benchmark for this task. Dubbed nocaps, for novel object captioning at scale, our benchmark consists of 166,100 human-generated captions describing 15,100 images from the Open Images validation and test sets. The associated training data consists of COCO image-caption pairs, plus Open Images imagelevel labels and object bounding boxes. Since Open Images contains many more classes than COCO, nearly 400 object classes seen in test images have no or very few associated training captions (hence, nocaps). We extend existing novel object captioning models to establish strong baselines for this benchmark and provide analysis to guide future work on this task.'
+  prize: NaN

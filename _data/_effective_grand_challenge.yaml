@@ -333,3 +333,42 @@
   <br>Task 1: Liver Cancer Segmentation
   <br>Task 2: Viable Tumor Burden Estimation'
   prize: NaN
+
+
+
+
+- id: patchcamelyon
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: PatchCamelyon
+  url: https://github.com/basveeling/pcam
+  hostby:
+    - Grand Challenges: https://patchcamelyon.grand-challenge.org
+  range: 'No deadline'
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-05-06'
+  note: 'The PatchCamelyon benchmark is a new and challenging image classification dataset. It consists of 327.680 color images (96 x 96px) extracted from histopathologic scans of lymph node sections. Each image is annoted with a binary label indicating presence of metastatic tissue. PCam provides a new benchmark for machine learning models: bigger than CIFAR10, smaller than imagenet, trainable on a single GPU.'
+  prize: NaN
+
+
+# TBA
+# - id: age_grand2019
+#   type1: 
+#     - PF
+#     - AC
+#   type2:
+#     - CV
+#   title: Angle closure Glaucoma Evaluation CHALLENGE(AGE) 
+#   url: https://github.com/basveeling/pcam
+#   hostby:
+#     - Grand Challenges: https://age.grand-challenge.org
+#   range: 'No deadline'
+#   deadtime: 'No deadline'
+#   timezone: UTC
+#   pubtime: '2019-05-06'
+#   note: 'TBA'
+#   prize: NaN

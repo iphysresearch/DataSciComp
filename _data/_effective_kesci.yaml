@@ -40,9 +40,9 @@
 - id: Self_driving_Car_Challenge_under_5G_Environment
   type1: 
     - PF
+    - AC
   type2:
     - RL
-    - AC
   title: '2019 AIWIN 5G环境下无人驾驶挑战赛 / Self-driving Car Challenge under 5G Environment'
   url: https://www.kesci.com/home/competition/5cbd8083c7d626002beb280d
   hostby: 
@@ -55,5 +55,24 @@
   <br>1、无人驾驶 5G应用挑战 / Self-driving Car 5G application challenge
   <br>2、自动驾驶算法虚拟场景挑战 / Automatic driving algorithm Virtual scene Challenge"
   prize: '¥ 200,000 + SAIL奖推荐'
+
+
+- id: dashujutiaozhansai
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: '2019中国高校计算机大赛——大数据挑战赛'
+  url: https://www.kesci.com/home/competition/5cb80fd312c371002b12355f
+  hostby: 
+    - Kesci: https://www.kesci.com/
+  range: 2019-04-28 至 2019-06-25
+  deadtime: "2019-06-15 15:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-06'
+  note: '2019大数据挑战赛（以下简称“大赛”）是在中国高校计算机大赛主办单位的指导下，由清华大学、南开大学与字节跳动公司联合主办，亚马逊AWS提供资源支持以及科赛提供竞赛平台支持，并以企业真实场景和实际数据为基础的高端算法竞赛。大赛面向全球高校在校生开放，旨在提升高校学生对数据分析与处理的算法研究与技术应用能力，探索大数据的核心科学与技术问题，尝试创新大数据技术，推动大数据的产学研用，本次大赛鼓励高校教师参与指导。
+  <br>预选赛——文本情感分类模型
+  <br>正式赛题——文本点击率预估（5月26日开赛）'
+  prize: '30万元人民币'
 
 

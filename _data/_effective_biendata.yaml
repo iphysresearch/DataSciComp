@@ -4,9 +4,80 @@
   
 
 
+- id: objects365
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'Objects 365 图片物体检测'
+  url: https://www.biendata.com/competition/objects365/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '04/29 - 06/10 2019'
+  deadtime: "2019-06-10 23:59:59"
+  timezone: UTC
+  pubtime: '2019-05-06'
+  note: 'Objects365是一个全新的数据集，旨在促进对自然场景不同对象的检测研究。Objects365在638K张图像上标注了365个对象类，训练集中共有超过1000万个边界框。因此，这些标注涵盖了发生在各种场景类别中的常见对象。'
+  prize: $20,000
+
+
+- id: crowdhuman
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'Crowd Human 人体检测'
+  url: https://www.biendata.com/competition/crowdhuman/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '04/29 - 06/10 2019'
+  deadtime: "2019-06-10 23:59:59"
+  timezone: UTC
+  pubtime: '2019-05-06'
+  note: 'CrowdHuman是目前最大的人体检测数据集，带有充分的标注信息，图片来源具有丰富的多样性。包含15000张训练集，4370张验证集和5000张测试集，在数据集中，总共有340K个人体目标，平均每张图片有22.6个人，数据集中有各种各样的遮挡场景。每个人的实例都有一个头部边界框、可见区域边界框和全身边界框。'
+  prize: $10,000
+
+
+- id: ccks_2019_4
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'CCKS 2019 面向金融领域的事件主体抽取'
+  url: https://www.biendata.com/competition/ccks_2019_4/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '05/01 - 07/30 2019'
+  deadtime: "2019-07-27 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-06'
+  note: '本次评测任务的主要目标是从真实的新闻语料中，抽取特定事件类型的主体。即给定一段文本T，和文本所属的事件类型S，从文本T中抽取指定事件类型S的事件主体。'
+  prize: ￥15,000
+
+
+- id: ccks_2019_6
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'CCKS 2019 中文知识图谱问答'
+  url: https://www.biendata.com/competition/ccks_2019_6/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '04/20 - 07/30 2019'
+  deadtime: "2019-07-20 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-06'
+  note: '本评测任务为基于中文知识图谱的自然语言问答，简称CKBQA （Chinese Knowledge Base Question Answering）。即输入一句中文问题，问答系统从给定知识库中选择若干实体或属性值作为该问题的答案。问题均为客观事实型，不包含主观因素。理解并回答问题的过程中可能需要进行实体识别、关系抽取、语义解析等子任务。这些子任务的训练可以使用额外的资源，但是最终的答案必须来自给定的知识库。'
+  prize: ￥15,000
+
+
 - id: ccks_2019_ipre
   type1: 
     - PF
+    - AC
   type2:
     - NLP
   title: 'CCKS 2019 人物关系抽取'
@@ -23,6 +94,7 @@
 - id: ccks_2019_el
   type1: 
     - PF
+    - AC
   type2:
     - NLP
   title: 'CCKS 2019 中文短文本的实体链指'
