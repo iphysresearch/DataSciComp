@@ -19,7 +19,7 @@
 
 ---
 
-> ###### [Description](#description) | [How to Contribute](#how-to-Contribute) | [Data Format](#data-format) | [To-Do](#to-do) | [FAQ](#faq) | [Acknowledgments & other useful listings](#acknowledgments-and-other-useful-listings) | [Stargazers over time](#stargazers-over-time) | [License](#license)
+> ###### [Description](#description) | [How to Contribute](#how-to-Contribute) | [Data Format](#data-format) | [To-Do](#to-do) | [Feature Requests](#feature-requests) | [FAQ](#faq) | [Acknowledgments & other useful listings](#acknowledgments-and-other-useful-listings) | [Stargazers over time](#stargazers-over-time) | [License](#license)
 
 ---
 
@@ -90,17 +90,6 @@ Here is an example:
 See more details: `./_data/readme`
 
 
-## Feature Requests
-
-Help us imporve DataSciComp!
-
-如果你还想 DataSciComp 支持新的特性和功能，请使用 [FeatHub](https://feathub.com/iphysresearch/DataSciComp) 进行投票，我们将综合考虑投票结果等因素来确定开发的优先级。
-
-[![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/iphysresearch/DataSciComp)
-
-[![Feature Requests](http://feathub.com/iphysresearch/DataSciComp?format=svg)](http://feathub.com/iphysresearch/DataSciComp)
-
-
 ## To-Do
 
 - [ ] 双语化？
@@ -110,6 +99,16 @@ Help us imporve DataSciComp!
 - [ ] A more handy way to add/update by any visitors.（更方便的表单填写实现赛题增加/更新）
 - [ ] Auto-update infos by crawling target site.（定时爬虫监控目标站点的赛题信息更新）
 
+
+## Feature Requests
+
+Help us imporve DataSciComp!
+
+如果你还想 DataSciComp 支持新的特性和功能，请使用 [FeatHub](https://feathub.com/iphysresearch/DataSciComp) 进行投票，我们将综合考虑投票结果等因素来确定开发的优先级。
+
+[![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/iphysresearch/DataSciComp)
+
+[![Feature Requests](http://feathub.com/iphysresearch/DataSciComp?format=svg)](http://feathub.com/iphysresearch/DataSciComp)
 
 
 ## FAQ
