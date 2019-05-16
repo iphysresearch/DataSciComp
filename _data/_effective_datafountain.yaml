@@ -3,6 +3,23 @@
 # datafountain ##
 # https://www.datafountain.cn/competitions
 
+- id: jiqirendasai
+  type1: 
+    - PF
+  type2:
+    - RL
+  title: '2019世界机器人大赛—BCI脑控机器人大赛 暨 第三届中国脑机接口比赛'
+  url: http://www.worldrobotconference.com/html/jiqirendasai/saishi/2018/0314/290.html
+  hostby: 
+    - DataFountain: https://www.datafountain.cn/
+  range: 5月9日-7月9日, 2019
+  deadtime: "2019-06-09 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-16'
+  note: '脑-机接口（BCI）是指通过对神经系统电活动和特征信号的收集、识别及转化，使人脑发出的指令能够直接传递给指定的机器终端，从而使人对机器人的控制和操作更为高效便捷，该项技术在人与机器人的交流沟通领域有着重大创新意义和使用价值，其已广泛应用于助残康复、灾害救援、娱乐体验等多个领域，并在改善残疾人生活质量中做出了巨大贡献。'
+  prize: '￥100,000'
+
+
 - id: zhinengpandian
   type1: 
     - PF

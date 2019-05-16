@@ -3,6 +3,40 @@
 
 
 
+- id: data-science-for-good-city-of-los-angeles
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'Northeastern SMILE Lab - Recognizing Faces in the Wild'
+  url: https://www.kaggle.com/c/recognizing-faces-in-the-wild/overview/description
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - August 8, 2019
+  deadtime: "2019-08-01 23:59:59"
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: 'Can you determine if two individuals are related?'
+  prize: NaN
+
+
+- id: data-science-for-good-city-of-los-angeles
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: 'Data Science for Good: City of Los Angeles'
+  url: https://www.kaggle.com/c/data-science-for-good-city-of-los-angeles
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: May 8th - June 21, 2019
+  deadtime: "2019-06-21 23:59:59"
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: 'Help the City of Los Angeles to structure and analyze its job descriptions.
+  <br>The goal is to convert a folder full of plain-text job postings into a single structured CSV file and then to use this data to: (1) identify language that can negatively bias the pool of applicants; (2) improve the diversity and quality of the applicant pool; and/or (3) make it easier to determine which promotions are available to employees in each job class.'
+  prize: $15,000
+
 
 - id: iMat_Fashion_2019_at_FGVC6
   type1: 

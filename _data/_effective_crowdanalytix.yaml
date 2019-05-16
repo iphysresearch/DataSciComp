@@ -1,0 +1,42 @@
+
+
+# crowdanalytix
+# https://www.crowdanalytix.com/listContests
+
+
+- id: identify-characters-from-product-images
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: Identify Characters from Product Images
+  url: https://www.crowdanalytix.com/contests/identify-characters-from-product-images
+  hostby: 
+    - CrowdANALYTIX: https://www.crowdanalytix.com
+  range: 12 MAY 2019 - 9 JUL 2019
+  deadtime: "2020-06-20 19:59:59"
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: 'Identify the characters from product image from a list of 42 possible values.
+  <br>While using machine learning to perform image recognition is currently one of the most popular use cases, in some cases, the existing large-scale models are too broad to be effective for specific business use cases. In this contest we will use a data driven approach to identify the “characters” in an image (product images). '
+  prize: NaN  
+
+
+- id: propensity-to-fund-mortgages
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+  title: Propensity to Fund Mortgages
+  url: https://www.crowdanalytix.com/contests/propensity-to-fund-mortgages
+  hostby: 
+    - CrowdANALYTIX: https://www.crowdanalytix.com
+  range: 25 APR 2019 - 6 JUN 2019
+  deadtime: "2020-05-22 19:59:59"
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: 'Develop a model to predict, given mortgage application information, whether the mortgage will be funded or not.
+  <br>To predict whether a mortgage will be funded using only this application data, certain leading factors driving the loan’s ultimate status will be identified. Solvers will discover the specific aspects of the dataset that have the greatest impact, and build a model based on this information.'
+  prize: $10000

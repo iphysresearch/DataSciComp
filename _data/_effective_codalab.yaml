@@ -19,6 +19,121 @@
   note: 
   prize: NaN
 
+
+
+- id: l2rpn
+  type1: 
+    - PF
+    - AC
+  type2:
+    - RL
+  title: 'Learning to Run a Power Network (L2RPN 2019)'
+  url: https://l2rpn.chalearn.org
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/22845
+    - IJCNN 2019: https://www.ijcnn.org
+  range: May 15th - Jul 14th, 2019
+  deadtime: "2019-06-19 23:59:59"
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: 'The challenge is based on an environment (and not solely a dataset) in which an agent can learn by interactions. '
+  prize: 3000$ travel expenses
+
+
+- id: graphgolf
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+    - CV
+  title: 'Graph Golf: The Order/degree Problem Competition'
+  url: http://research.nii.ac.jp/graphgolf/
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/22858
+    - CANDAR 2019: https://is-candar.org
+  range: 05-13 ~ 11-26, 2019
+  deadtime: "2019-10-14 23:59:59"
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: '<b>Find a graph that has smallest diameter &amp; average shortest path length given an order and a degree.</b>
+  <br>Graph Golf is an international competition of the order/degree problem since 2015. It is conducted with the goal of making a catalog of smallest-diameter graphs for every order/degree pair. Anyone in the world can take part in the competition by submitting a graph. Outstanding authors are awarded in CANDAR 2019, an international conference held in Nagasaki, Japan, in November 2019.'
+  prize: NaN
+
+
+
+- id: WIDER2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: 'WIDER Face &amp; Person Challenge 2019'
+  url: http://wider-challenge.org/2019.html
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/
+    - ICCV 2019: http://iccv2019.thecvf.com
+    - 商汤: https://www.sensetime.com
+    - Amazon: https://aws.amazon.com/rekognition/
+  range: May 8 - July 25, 2019
+  deadtime: "2019-07-25 23:59:59"
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: 'Following the success of the <a href="http://wider-challenge.org/2018.html">First WIDER Challenge Workshop</a>, 
+  we organize a new round of challenge in conjunction with <a href="http://iccv2019.thecvf.com">ICCV 2019</a>. 
+  The challenge centers around the problem of precise localization of human faces and bodies, and accurate association of identities. It comprises of four tracks:
+  <br><a href="http://wider-challenge.org/comingsoon.html">WIDER Face Detection</a>, aims at soliciting new approaches to advance the state-of- the-art in face detection.
+  <br><a href="https://competitions.codalab.org/competitions/22852">WIDER Pedestrian Detection</a>, has the goal of gathering effective and efficient approaches to address the problem of pedestrian detection in unconstrained environments.
+  <br><a href="https://competitions.codalab.org/competitions/22833">WIDER Cast Search by Portrait</a>, presents an exciting challenge of searching cast across hundreds of movies.
+  <br><a href="https://competitions.codalab.org/competitions/22864">WIDER Person Search by Language</a>, aims to seek new approaches to search person by natural language.'
+  prize: cash prize and AWS credits
+
+
+- id: ActivityNet
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: 'ActivityNet-Entities Object Localization Task'
+  url: https://github.com/facebookresearch/ActivityNet-Entities
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/22835
+    - CVPR 2019: http://cvpr2019.thecvf.com
+  range: May 7, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: 'ActivityNet-Entities, is based on the video description dataset ActivityNet Captions and augments it with 158k bounding box annotations, each grounding a noun phrase (NP). Here we release the complete set of NP-based annotations as well as the pre-processed object-based annotations.
+  <br>please see our dataset <a href="https://github.com/facebookresearch/ActivityNet-Entities">repo</a>, code  
+  <a href="https://github.com/facebookresearch/grounded-video-description">repo</a>, and CVPR 2019 oral 
+  <a href="https://arxiv.org/pdf/1812.06587.pdf">paper</a>.'
+  prize: NaN
+
+
+
+- id: YouCook2
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: 'YouCook2 Dense Video Captioning'
+  url: http://youcook2.eecs.umich.edu
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/21492
+  range: May 6, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: 'YouCook2 is currently suitable for video-language research, weakly-supervised activity and object recognition in video, common object and action discovery across videos and procedure learning.'
+  prize: NaN
+
+
+
 - id: VisDA_2019
   type1: 
     - PF

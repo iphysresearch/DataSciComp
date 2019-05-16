@@ -12,6 +12,7 @@ add_datas = [
     "./_data/_effective_challengedata.yaml",
     "./_data/_effective_crowdai.yaml",
     "./_data/_effective_signate.yaml",
+    "./_data/_effective_crowdanalytix.yaml",
     "./_data/_effective_unearthed.yaml",
     "./_data/_effective_analyticsvidhya.yaml",
     "./_data/_effective_GECCO.yaml",
@@ -30,7 +31,7 @@ add_datas = [
     "./_data/_effective_ICME.yaml",
     "./_data/_effective_EvalAI.yaml",
     "./_data/_effective_FlyAI.yaml",
-    "./_data/_effective_others.yaml",
+    # "./_data/_effective_others.yaml",
 ]
 
 competitions = []
@@ -45,6 +46,8 @@ competitions = [
 ]
 competitions.sort(key=lambda x: x["deadtime"])
 
+# Find CVPR competitions
+# CVPR_comps = [comp for comp in competitions if 'CVPR' in  [ 'CVPR' for l in comp['hostby'] if 'CVPR' in [ 'CVPR' for key in l.keys() if 'CVPR' in key ] ]  ]
 
 app = Flask(__name__)
 

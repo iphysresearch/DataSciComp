@@ -3,6 +3,43 @@
 # https://www.biendata.com/
   
 
+- id: smpetst2019
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: 'SMP 2019 ETST 第二届文本溯源技术评测'
+  url: https://www.biendata.com/competition/smpetst2019/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '05/20 - 07/08 2019'
+  deadtime: "2019-07-01 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-16'
+  note: 'SMP 2019文本溯源评测由中国中文信息学会社会媒体处理专业委员会主办，黑龙江工程学院承办。本次技术评测以科研立项或成果创新型审查为应用背景，文本溯源的目标是判断一个文本的内容是否复制或改编于另外一个或者多个文本。文本溯源技术在学术诚信检测、搜索引擎优化等领域有广泛应用。'
+  prize: $19,000
+
+
+
+
+- id: ccks_2019_5
+  type1: 
+    - PF
+  type2:
+    - DM
+    - NLP
+  title: 'CCKS 2019 公众公司公告信息抽取'
+  url: https://www.biendata.com/competition/ccks_2019_5/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '07/20 - 07/25 2019'
+  deadtime: "2019-04-20 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-16'
+  note: '本次评测的主要目标是针对公告文件（均以PDF方式发布）中的信息抽取。作为知识图谱构建的基础，结构化数据是必不可少的。由此，如何通过自动化的技术来从各类公告中抽取信息，将非结构化数据转化为结构化数据是知识图谱领域所面临的一大挑战。'
+  prize: $10,000
+
+
 
 - id: objects365
   type1: 
@@ -13,6 +50,7 @@
   url: https://www.biendata.com/competition/objects365/
   hostby: 
     - Biendata: https://www.biendata.com/
+    - CVPR 2019: http://cvpr2019.thecvf.com
   range: '04/29 - 06/10 2019'
   deadtime: "2019-06-10 23:59:59"
   timezone: UTC
@@ -30,6 +68,7 @@
   url: https://www.biendata.com/competition/crowdhuman/
   hostby: 
     - Biendata: https://www.biendata.com/
+    - CVPR 2019: http://cvpr2019.thecvf.com
   range: '04/29 - 06/10 2019'
   deadtime: "2019-06-10 23:59:59"
   timezone: UTC

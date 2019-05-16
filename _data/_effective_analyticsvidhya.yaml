@@ -3,6 +3,26 @@
 # Analytics Vidhya ##
 # https://datahack.analyticsvidhya.com/contest/all/?
 
+- id: Game_of_Deep_Learning_Computer_Vision_Hackathon
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'Game of Deep Learning: Computer Vision Hackathon'
+  url: https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/
+  hostby: 
+    - Analytics Vidhya: https://datahack.analyticsvidhya.com/contest/all/?
+  range: May 25 - Jun 10, 2019
+  deadtime: '2019-06-10 02:29:00'
+  timezone: "EtcT-8"
+  pubtime: '2019-05-16'
+  note: 'Do you feel passionate about solving problems through deep learning?
+  <br>Do you aspire to take data science to millions of people out there? Can the leader in you make people follow data science out of sheer passion?
+  <br>If the answer to all the questions is yes – look no more. Analytics Vidhya is looking for evangelists who can carry and deliver their baton to the world.'
+  prize: Datahack Summit 2019 Tickets & Job Opportunities with AV 
+
+
+
 - id: Build_A_Recommendation_Engine_Powered_by_IBM_Cloud
   type1: 
     - PF

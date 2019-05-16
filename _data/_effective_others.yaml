@@ -396,6 +396,27 @@
   prize: 210万/120万
 
 
+
+- id: arieldatachallenge
+  type1: 
+    - AC
+  type2:
+    - CV
+  title: 'ARIEL Data Challenge Series 2019'
+  url: https://ariel-datachallenge.azurewebsites.net
+  hostby: 
+    - ECML-PKDD 2019 : http://ecmlpkdd2019.org
+  range: ~ 15th of August 2019
+  deadtime: "2019-08-15 11:59:59"
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: 'ARIEL, a mission to make the first large-scale survey of exoplanet atmospheres, has launched a global competition series to find innovative solutions for the interpretation and analysis of exoplanet data. You can find our press release <a href="https://arieldata.blob.core.windows.net/static/ariel_ml_datachallenge_press.pdf">here</a>.
+  <br><a href="https://ariel-datachallenge.azurewebsites.net/ML">The first ARIEL Data Challenge</a> invites professional and amateur data scientists around the world to use Machine Learning (ML) to remove noise from exoplanet observations caused by starspots and by instrumentation.
+  <br><a href="https://ariel-datachallenge.azurewebsites.net/retrieval">A second ARIEL Data Challenge</a> that focuses on the retrieval of spectra from simulations of cloudy and cloud-free super-Earth and hot-Jupiter data was also launched today.
+  <br><a href="https://ariel-datachallenge.azurewebsites.net/#">A further data analysis challenge</a> to create pipelines for faster, more effective processing of the raw data gathered by the mission will be launched in June.'
+  prize: Eternal gratitude ... or a bottle of wine.
+
+
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org
 # http://ichallenge.baidu.com

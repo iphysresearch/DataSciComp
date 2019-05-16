@@ -140,7 +140,7 @@
   type2:
     - CV
     - NLP
-  title: 'Visual Dialog Challenge 2019'
+  title: 'Visual Question Answering Challenge 2019'
   url: https://visualqa.org/challenge.html
   hostby: 
     - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/163'
@@ -352,3 +352,23 @@
   pubtime: '2019-05-06'
   note: 'Image captioning models have achieved impressive results on datasets containing limited visual concepts and large amounts of paired image-caption training data. However, if these models are to ever function in the wild, a much larger variety of visual concepts must be learned, ideally from less supervision. To encourage the development of image captioning models that can learn visual concepts from alternative data sources, such as object detection datasets, we present the first large-scale benchmark for this task. Dubbed nocaps, for novel object captioning at scale, our benchmark consists of 166,100 human-generated captions describing 15,100 images from the Open Images validation and test sets. The associated training data consists of COCO image-caption pairs, plus Open Images imagelevel labels and object bounding boxes. Since Open Images contains many more classes than COCO, nearly 400 object classes seen in test images have no or very few associated training captions (hence, nocaps). We extend existing novel object captioning models to establish strong baselines for this benchmark and provide analysis to guide future work on this task.'
   prize: NaN
+
+
+
+- id: nuScenes
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'nuScenes detection challenge'
+  url: 'https://www.nuscenes.org/'
+  hostby: 
+    - EvalAI: https://evalai.cloudcv.org/web/challenges/challenge-page/356/
+    - CVPR 2019: http://cvpr2019.thecvf.com
+  range: Apr 1, 2019 - Jan 1, 2099
+  deadtime: "2099-06-01 07:59:59"
+  timezone: UTC
+  pubtime: '2019-05-16'
+  note: 'The nuScenes dataset is a large-scale autonomous driving dataset.'
+  prize: NaN  
