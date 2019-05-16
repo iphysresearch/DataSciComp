@@ -74,7 +74,13 @@
   logo: https://i.loli.net/2019/02/10/5c5fbb19110f7.png
   descri: 'SIGNATEには様々な分野の優秀なデータサイエンティストが登録しています。AI開発やデータ分析のテーマごとに多数のデータサイエンティストが精度やアイデアを競うコンペティションにより、最高品質のAIを開発することができます。コンペを通じて人材採用、人材育成、ベンダー評価など、様々な課題のソリューションが可能となります。'
 
-
+- id: crowdanalytix
+  type1: 
+    - PF
+  title: CrowdANALYTIX
+  url: https://www.crowdanalytix.com
+  logo: https://i.loli.net/2019/05/16/5cdd2484bcae188297.png
+  descri: 'CrowdANALYTIX is a platform for building high-precision, custom AI solutions.Our unique modular approach of building AI modules, each tuned to a single task, and combining those modules to deliver the final solution results in much higher precision than more generic AI models.'
 
 - id: unearthed
   type1: 
