@@ -395,8 +395,6 @@
   <br>主题二：自主开发应用主题'
   prize: 210万/120万
 
-
-
 - id: arieldatachallenge
   type1: 
     - AC
@@ -405,8 +403,8 @@
   title: 'ARIEL Data Challenge Series 2019'
   url: https://ariel-datachallenge.azurewebsites.net
   hostby: 
-    - ECML-PKDD 2019 : http://ecmlpkdd2019.org
-  range: ~ 15th of August 2019
+    - ECML-PKDD 2019: http://ecmlpkdd2019.org
+  range: '~ 15th of August 2019'
   deadtime: "2019-08-15 11:59:59"
   timezone: UTC
   pubtime: '2019-05-16'
@@ -414,9 +412,26 @@
   <br><a href="https://ariel-datachallenge.azurewebsites.net/ML">The first ARIEL Data Challenge</a> invites professional and amateur data scientists around the world to use Machine Learning (ML) to remove noise from exoplanet observations caused by starspots and by instrumentation.
   <br><a href="https://ariel-datachallenge.azurewebsites.net/retrieval">A second ARIEL Data Challenge</a> that focuses on the retrieval of spectra from simulations of cloudy and cloud-free super-Earth and hot-Jupiter data was also launched today.
   <br><a href="https://ariel-datachallenge.azurewebsites.net/#">A further data analysis challenge</a> to create pipelines for faster, more effective processing of the raw data gathered by the mission will be launched in June.'
-  prize: Eternal gratitude ... or a bottle of wine.
+  prize: 'Eternal gratitude ... or a bottle of wine.'
 
 
+- id: cail2019
+  type1: 
+    - AC
+  type2:
+    - NLP
+  title: '2019中国‘法研杯’司法人工智能挑战赛（CAIL2019）'
+  url: http://cail.cipsc.org.cn
+  hostby: 
+    - 中国中文信息学会 (CIPS): http://www.cipsc.org.cn
+  range: 5月15日 - 7月26日, 2019
+  deadtime: "2019-06-30 11:59:59"
+  timezone: UTC
+  pubtime: '2019-05-17'
+  note: '本次挑战赛聚焦在<b>法律要素抽取</b>、<b>法律阅读理解</b>、<b>相似案例匹配</b>三个真实场景的任务，提供海量的已标注的法律文书数据，旨在为研究者提供学术交流平台，推动语言理解和人工智能领域技术在法律领域的应用，促进法律人工智能事业的发展。今年预计于10月在北京举办颁奖会和技术研讨会。诚邀学术界和工业界的研究者和开发者积极参与，比赛中发现的重大基础性问题，在国家自然科学基金专项资金中将予以重点考虑！'
+  prize: 60,000RMB
+
+  
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org
 # http://ichallenge.baidu.com

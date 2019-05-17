@@ -1,0 +1,24 @@
+
+
+# Tinymind
+# https://www.tinymind.cn/competitions/ai
+
+
+- id: tinymindRMB
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'TinyMind人民币面值&amp;冠字号编码识别挑战赛'
+  url: https://www.tinymind.cn/competitions/47
+  hostby: 
+    - Tinymind: https://www.tinymind.cn/competitions/
+  range: 5月16日 - 7月3日, 2019
+  deadtime: "2019-05-28 11:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-17'
+  note: '针对人民币纸币面额及编码识别技术的深入研究，TinyMind发起本期挑战赛，诚邀广大AI界大佬,疯狂炫技，踊跃报名。
+  <br>第一阶段：热身赛—— ⼈⺠币⾯值识别
+  <br>第二阶段：正式赛——人民币冠字号编码识别'
+  prize: '10000元'
+
