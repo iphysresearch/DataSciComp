@@ -2325,6 +2325,38 @@
     <hr>
 </div>
 
+<div id="xfyun2019" class="PF-comp SP-comp DM-comp CV-comp rewarded-comp">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <a href="http://challenge.xfyun.cn/2019/" name="xfyun2019"><b>iFLYTEK AI 开发者大赛</b></a>
+            <div class="meta">5月21日 - 10月14日, 2019
+                 // Host by
+                 
+                 
+                 
+                 <a href="https://www.xfyun.cn" style="background-color:#CCFF66">讯飞开放平台</a>
+                 
+                 
+                 // Prize: 100万 RMB</div>
+            
+            <div class="note"><b>Note</b>: "iFLYTEK AI 开发者大赛"是由科大讯飞发起的顶尖人工智能竞赛平台，汇聚产学研各界力量，面向全球开发者发起数据算法及创新应用类挑战，推动人工智能前沿科学研究和创新成果转化，培育人工智能产业人才，助力人工智能生态建设。 2019 年，第二届 iFLYTEK AI 开发者大赛将继续开放科大讯飞优质大数据资源及人工智能核心技术，面向全球开发者发起数据算法及创新应用类挑战。 <br><b>阿尔茨海默综合症预测挑战赛</b>: 基于老年人在特定图片描述任务中产生的语音，给定语音数据中提取出的声学特征、主被试对话的切分信息、人工文本转写结果以及对应的认知标签，建立2分类模型预测认知标签（正常或认知障碍）。 <br><b>移动广告反欺诈算法挑战赛</b>: 移动广告反欺诈需要强大的数据作为支撑，本次大赛提供了讯飞AI营销云海量的现网流量数据作为训练样本，参赛选手需基于提供的样本构建模型，预测流量作弊与否。 <br><b>大数据应用分类标注挑战赛</b>: 选手基于提供的应用二级分类标签以及若干随机应用标注样本，实现应用分类标注算法（每个应用一个标签，以应用最主要属性对应的标签为该应用的标签）。 <br><b>工程机械核心部件寿命预测挑战赛</b>: 由中科云谷科技有限公司提供某类工程机械设备的核心耗损性部件的工作数据，包括部件工作时长、转速、温度、电压、电流等多类工况数据。希望参赛者利用大数据分析、机器学习、深度学习等方法，提取合适的特征、建立合适的寿命预测模型，预测核心耗损性部件的剩余寿命。 
+            <!-- More info <a href="http://baidu.com">here</a> -->
+            </div>
+            
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            
+            <span class="timer"></span>
+            <div class="deadline">
+                <div>Entry Deadline: <span class="deadline-time"></span></div>
+            </div>
+            <div class="calendar"></div>
+                                  
+        </div>
+    </div>
+    <hr>
+</div>
+
 <div id="Deep_Learning_based_Loop_Filter" class="PF-comp AC-comp CV-comp SP-comp unrewarded-comp">
     <div class="row">
         <div class="col-xs-12 col-sm-6">
@@ -7134,6 +7166,53 @@
           var today = moment();
           if (today.diff(compDate) > 0)
             $('#arieldatachallenge').addClass('past');
+            
+        
+            
+          // adjust date according to deadline timezone
+        //   var timezone = "Etc/GMT-8" ;
+        //   var timezone = "Asia/Shanghai" ;
+          var timezone = "Asia/Shanghai" ;
+          var compDate = moment.tz("2019-08-21 11:59:59", timezone);
+
+          // render countdown timer
+          $('#xfyun2019 .timer').countdown(compDate.toDate(), function(event) {
+            $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+          });
+          $('#xfyun2019 .deadline-time').html(compDate.toString());
+
+          // add calendar button
+          var myCalendar = createCalendar({
+            options: {
+              class: 'calendar-obj',
+
+              // You can pass an ID. If you don't, one will be generated for you
+              id: 'xfyun2019'
+            },
+            data: {
+              // Event title
+              title: '[Entry Deadline] iFLYTEK AI 开发者大赛',
+
+              // Event start date
+              start: compDate.toDate(), 
+              end: compDate.toDate(), 
+                // You can also choose to set an end time
+                // If an end time is set, this will take precedence over duration
+                // end: new Date('June 15, 2013 23:00'),                   
+
+              // Event duration (IN MINUTES)
+              duration: 60,
+
+                // Event Description
+                description: '&#34;iFLYTEK AI 开发者大赛&#34;是由科大讯飞发起的顶尖人工智能竞赛平台，汇聚产学研各界力量，面向全球开发者发起数据算法及创新应用类挑战，推动人工智能前沿科学研究和创新成果转化，培育人工智能产业人才，助力人工智能生态建设。 2019 年，第二届 iFLYTEK AI 开发者大赛将继续开放科大讯飞优质大数据资源及人工智能核心技术，面向全球开发者发起数据算法及创新应用类挑战。 &lt;br&gt;&lt;b&gt;阿尔茨海默综合症预测挑战赛&lt;/b&gt;: 基于老年人在特定图片描述任务中产生的语音，给定语音数据中提取出的声学特征、主被试对话的切分信息、人工文本转写结果以及对应的认知标签，建立2分类模型预测认知标签（正常或认知障碍）。 &lt;br&gt;&lt;b&gt;移动广告反欺诈算法挑战赛&lt;/b&gt;: 移动广告反欺诈需要强大的数据作为支撑，本次大赛提供了讯飞AI营销云海量的现网流量数据作为训练样本，参赛选手需基于提供的样本构建模型，预测流量作弊与否。 &lt;br&gt;&lt;b&gt;大数据应用分类标注挑战赛&lt;/b&gt;: 选手基于提供的应用二级分类标签以及若干随机应用标注样本，实现应用分类标注算法（每个应用一个标签，以应用最主要属性对应的标签为该应用的标签）。 &lt;br&gt;&lt;b&gt;工程机械核心部件寿命预测挑战赛&lt;/b&gt;: 由中科云谷科技有限公司提供某类工程机械设备的核心耗损性部件的工作数据，包括部件工作时长、转速、温度、电压、电流等多类工况数据。希望参赛者利用大数据分析、机器学习、深度学习等方法，提取合适的特征、建立合适的寿命预测模型，预测核心耗损性部件的剩余寿命。'
+            }
+          });
+          document.querySelector('#xfyun2019 .calendar').appendChild(myCalendar);
+
+          // check if date has passed, add 'past' class to it
+          var today = moment();
+          if (today.diff(compDate) > 0)
+            $('#xfyun2019').addClass('past');
             
         
             
