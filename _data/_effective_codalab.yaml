@@ -19,6 +19,79 @@
   note: 
   prize: NaN
 
+- id: Mobile_age
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: 'Mobile age group classification'
+  url: https://competitions.codalab.org/competitions/22946
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/
+  range: May. 17, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-05-24'
+  note: 'This is an EE331 competition leaderboard for Mobile age group classification. It consists of 157K datasamples with 85 various features and age group label (ranging from 1 to 6). The data is splitted into train : validation : test sset with 70 : 20 : 10 ratio.'
+  prize: NaN
+
+
+- id: Perfect
+  type1: 
+    - PF
+  type2:
+    - RL
+    - CV
+  title: 'Perfect Pitching Simulator'
+  url: https://fastballs.wordpress.com/category/pitchfx-glossary/
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/22953
+  range: May. 17, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-05-24'
+  note: 'Perfect Pitching Simulator!'
+  prize: NaN
+
+
+- id: exoplanet
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'Exoplanet imaging data challenge'
+  url: https://exoplanet-imaging-challenge.github.io
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/22836
+  range: May 16th - Sep 16th, 2019
+  deadtime: "2019-09-16 22:59:59"
+  timezone: UTC
+  pubtime: '2019-05-24'
+  note: 'This competition is composed of two sub-challenges focusing on the two most widely used observing techniques: 
+  <b>pupil tracking</b> (angular differential imaging, ADI) and 
+  <b>multi-spectral imaging combined with pupil tracking</b> (multi-channel spectral differential imaging, ADI+mSDI).'
+  prize: NaN
+
+
+- id: CMRC_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'CMRC 2019: The Third Evaluation Workshop on Chinese Machine Reading Comprehension'
+  url: https://hfl-rc.github.io/cmrc2019/
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/23059
+    - 中国中文信息学会计算语言学专业委员会（CIPS-CL）: http://www.cips-cl.org
+    - 哈工大讯飞联合实验室（HFL）: https://hfl-rc.github.io
+    - 科大讯飞股份有限公司: https://www.iflytek.com
+  range: May 23th - Oct 18th, 2019
+  deadtime: "2019-06-30 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-24'
+  note: '<b>第三届“讯飞杯”中文机器阅读理解（CMRC 2019）</b>的任务是句子级填空型阅读理解（Sentence Cloze-Style Machine Reading Comprehension, SC-MRC）。 根据给定的一个叙事篇章以及若干个从篇章中抽取出的句子，参赛者需要建立模型将候选句子精准的填回原篇章中，使之成为完整的一篇文章。本任务需要机器能够根据上下文的逻辑关系判断空缺部分的内容，进一步提升了机器阅读理解的难度。'
+  prize: 35,000 CNY
 
 
 - id: l2rpn

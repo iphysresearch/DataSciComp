@@ -2,6 +2,23 @@
 # https://www.kaggle.com/competitions
 
 
+- id: instant-gratification
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: Instant Gratification
+  url: https://www.kaggle.com/c/instant-gratification
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - June 20, 2019
+  deadtime: "2019-06-20 23:59:59"
+  timezone: UTC
+  pubtime: '2019-05-24'
+  note: 'A synchronous Kernels-only competition'
+  prize: $5,000
+
+
 
 - id: data-science-for-good-city-of-los-angeles
   type1: 

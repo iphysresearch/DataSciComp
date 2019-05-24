@@ -2,6 +2,7 @@
 
 # grand-challenge ##
 # https://grand-challenge.org/challenges/
+# https://verse2019.grand-challenge.org/Home/
 
 - id: LYON19
   type1: 
@@ -353,6 +354,70 @@
   pubtime: '2019-05-06'
   note: 'The PatchCamelyon benchmark is a new and challenging image classification dataset. It consists of 327.680 color images (96 x 96px) extracted from histopathologic scans of lymph node sections. Each image is annoted with a binary label indicating presence of metastatic tissue. PCam provides a new benchmark for machine learning models: bigger than CIFAR10, smaller than imagenet, trainable on a single GPU.'
   prize: NaN
+
+
+- id: VerSe2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'The Large Scale Vertebrae Segmentation Challenge (VerSe2019) '
+  url: https://verse2019.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://patchcamelyon.grand-challenge.org
+  range: May 16 - TBA
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-05-24'
+  note: 'Spine or vertebral segmentation is a crucial step in all applications regarding automated quantification of spinal morphology and pathology. With the advent of deep learning, for such a task on computed tomography (CT) scans, a big and varied data is a primary sought-after resource.
+  <br>Task 1: Vertebra Labelling
+  <br>Task 2: Vertebra Segmentation'
+  prize: NaN
+
+- id: EndoVis2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Endoscopic Vision Challenge 2019'
+  url: https://endovis.grand-challenge.org/Endoscopic_Vision_Challenge/
+  hostby:
+    - Grand Challenges: https://patchcamelyon.grand-challenge.org
+  range: June 5 - Oct 13, 2019
+  deadtime: '2019-10-07 23:59:59'
+  timezone: UTC
+  pubtime: '2019-05-24'
+  note: 'As a vision CAI challenge at MICCAI, our aim is to provide a formal framework for evaluating the current state of the art, gather researchers in the field and provide high quality data with protocols for validating endoscopic vision algorithms.
+  <br>EndoVis 2019 Sub-challenges:
+  <br><a href="https://endovissub-workflowandskill.grand-challenge.org">Surgical Workflow and Skill Analysis</a>
+  <br><a href="https://endovissub2019-scared.grand-challenge.org">Stereo Correspondence and Reconstruction of Endoscopic Data</a>'
+  prize: NaN
+
+
+- id: ODIR2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - DM
+  title: 'Peking University International Competition on Ocular Disease Intelligent Recognition (ODIR-2019)'
+  url: https://odir2019.grand-challenge.org/
+  hostby:
+    - Grand Challenges: https://patchcamelyon.grand-challenge.org
+    - 北京大学: https://www.pku.edu.cn
+  range: May 18 - Sep 25, 2019
+  deadtime: '2019-09-21 23:59:59'
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-24'
+  note: "<b>北京大学'智慧之眼'国际眼科疾病智能识别竞赛</b>
+  <br>The SG will provide participants with 5,000 structured desensitized ophthalmologic image set of patient's age, sex, binocular color fundus photos and doctors' diagnostic report. 
+  <br>上工医信将为参赛者提供5000组包含患者的性别、年龄、双眼彩色眼底照片和医生印象报告等的结构化脱敏后眼科的数据集。
+  <br>The purpose of this challenge is to compare approaches of ophthalmic disease classification in color fundus images. Participant will have to submit classification results of eight categories for all the testing data. For every category, a classification probability (value from 0.0 to 1.0) denotes risk of a patient diagnosed with corresponding category.  
+  <br>该竞赛的目的是比较基于彩色眼底图像进行眼科疾病分类的不同方法。 参与者必须提交所有测试数据集的八个类别的分类结果。 对于每个类别，分类概率（值从0.0到1.0）表示患者被诊断为具有相应类别的可能性/风险。"
+  prize: 10,00,000 RMB (140,000+ USD) 
 
 
 # TBA

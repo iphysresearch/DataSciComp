@@ -372,3 +372,24 @@
   pubtime: '2019-05-16'
   note: 'The nuScenes dataset is a large-scale autonomous driving dataset.'
   prize: NaN  
+
+
+- id: sigir_ecom2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - DM
+    - NLP
+  title: 'eBay SIGIR 2019 eCommerce Search Challenge: High Accuracy Recall Task'
+  url: 'https://sigir-ecom.github.io/data-task.html'
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/361/'
+    - The 2019 SIGIR Workshop On eCommerce: 'https://sigir-ecom.github.io/index.html'
+  range: May 17 - July 25, 2019
+  deadtime: "2019-07-18 23:59:59"
+  timezone: UTC
+  pubtime: '2019-05-24'
+  note: 'The challenge data consists of a set of popular search queries and a fair size set of candidate documents. Challenge participants make a boolean relevant-or-not decision for each query-document pair. Human judgments are used to create labeled training and evaluation data for a subset of the query-document pairs. Evaluation of submissions will be based on the traditional F1 metric, incorporating components of both recall and precision.'
+  prize: NaN  
