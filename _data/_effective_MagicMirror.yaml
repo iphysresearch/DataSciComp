@@ -11,11 +11,11 @@
   title: '第四届魔镜杯大赛'
   url: https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=17
   hostby: 
-    - 魔镜杯: 'https://ai.ppdai.com/mirror/show'
+    - 拍拍贷·AI: 'https://ai.ppdai.com/mirror/show'
   range: 2019-05-28 至 2019-07-27
   deadtime: "2019-07-27 12:59:59"
   timezone: "Asia/Shanghai"
-  pubtime: '2019-05-28'
+  pubtime: '2019-05-30'
   note: '本次比赛以互联网金融信贷业务为背景，参赛选手需要利用提供的数据，预测资产组合在未来一段时间内每日的回款金额。赛题涵盖了信贷违约预测、现金流预测等金融领域常见问题，同时又是复杂的时序问题和多目标预测问题。'
   prize: ￥370000
 

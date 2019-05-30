@@ -454,6 +454,48 @@
   <br><b>工程机械核心部件寿命预测挑战赛</b>: 由中科云谷科技有限公司提供某类工程机械设备的核心耗损性部件的工作数据，包括部件工作时长、转速、温度、电压、电流等多类工况数据。希望参赛者利用大数据分析、机器学习、深度学习等方法，提取合适的特征、建立合适的寿命预测模型，预测核心耗损性部件的剩余寿命。'
   prize: 100万 RMB
   
+
+
+- id: PrognosisRotorParts
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '转子部件脱落故障预测 (Prognosis of Rotor Parts Fly-off)'
+  url: http://www.industrial-bigdata.com/competition/competitionAction!showDetail2019.action?competition.competitionId=5
+  hostby: 
+    - 中国信息通信研究院: http://www.industrial-bigdata.com/
+  range: 5月24日 - 7月22日, 2019
+  deadtime: "2019-06-28 11:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-30'
+  note: '<b>第三届工业大数据创新竞赛</b>
+  <br>Background: For large rotating machines, due to the high rotating speed and tremendous momentum of the rotor, the centrifugal force may lead to the loose or flying apart of the rotor parts, which brings a great threat to the operation safety of the equipment. This type of fault could lead to high maintenance cost and significant economic loss. The capture of the early symptom of rotor faults is relatively difficult and has become a worldwide challenge in the field of prognostics. It will bring significant safety value and economic benefits if the big data-based methods can detect and predict incipient faults.
+  <br>赛事简要：大型旋转机组设备高速旋转、动能巨大，转子部件脱落故障给设备安全运行带来巨大威胁。而且这类故障维修成本高、耗时长，早期征兆难以捕捉，是故障预测的世界性难题。如果能通过大数据方法，实现此故障征兆的早期发现和程度预测，将带来显著的安全价值和经济效益。'
+  prize: ￥200,000
+
+
+
+- id: Hengqin_Quantitative_Finance
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: 'The 2nd China (Hengqin) International University Quantitative Finance Competition'
+  url: http://qfc-c.com
+  hostby: 
+    - 珠海市横琴新区金融服务中心: 'http://www.hengqin.gov.cn/hq/index.html'
+  range: 2019-04-19 至 2020-03-21
+  deadtime: "2019-09-23 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-05-30'
+  note: '第二届中国（横琴）国际高校量化金融大赛
+  <br><b>参赛要求</b> 参赛者应根据题目要求，完成一篇包括量化金融策略原理、模型的假设、建立和求解、计算方法的设计、分析和检验、模型的改进等方面的书面报告（即答卷）；并在规定竞赛期间内，将参赛策略的市场运行进行模拟仿真竞赛。根据参赛策略的测试结果（包括样本内和样本外）的收益水平及市场风险防范的效果等统一指标打分评比，以市场的标准来决定优劣，评价策略的回测和实盘模拟表现，同时考虑策略逻辑的稳健性和创新性。竞赛评奖以策略的合理性、建模的创新性、测试策略的市场适应性及收益风险水平等结果为主要标准。
+  <br><b>Requirements</b> Participants should write a report covering quantitative financial strategy theories 1) Model theoretical hypothesis and description of quantitive model 2) Data analysis 3) Strategy back testing results and performance analysis. According to the requirements of the competition, participants’ strategies will be back tested and paper traded during the required period. Evaluation and scoring will base on unified measurements including return, volatility, max drawdown of the strategies and so on. The determination of merits and evaluation of strategy back test and paper trading performance will be made according to market standards, while the robustness and innovation of the strategic logic will also be taken into consideration. Key criteria will include the rationality of the strategy, the creativeness of the model, the market adaptability of the testing strategy and the level of return and risk.'
+  prize: ￥140万
+
+
+
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org
 # http://ichallenge.baidu.com
