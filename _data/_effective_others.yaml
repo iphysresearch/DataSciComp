@@ -495,6 +495,42 @@
   prize: ￥140万
 
 
+- id: changfengbei3
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '第三届"长风杯"大数据分析与挖掘竞赛'
+  url: http://contest.cfdsj.cn/index/care
+  hostby: 
+    - 长风大数据平台: http://cfdsj.cn
+  range: 2019-05-15 至 2019-10-31
+  deadtime: "2019-07-31 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-03'
+  note: '第三届“长风杯”大数据分析与挖掘竞赛是一场面向全国普通高等院校经济与管理类、信息技术类等专业在校大学生的全国性赛事。
+  <br>长风大数据平台将向本次竞赛的参赛者免费开放物流、电商、交通、公共、贸易等多行业的海量数据资源；其他生产型/服务型企业所提供真实数据。'
+  prize: ￥5万
+
+
+- id: zhongdianhuizhi2
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: '政府治理大数据应用算法大赛'
+  url: http://campus.chinahr.com/pages/cetctwo/
+  hostby: 
+    - 中电科大数据研究院有限公司: http://chrcmp.chinahr.com/pages/zdk2019/
+  range: 2019-05-27 至 2019-08-31
+  deadtime: "2019-06-27 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-03'
+  note: '国内外全日制<b>在校</b>大学生（包括全日制本科、硕士、博士研究生等非2019届毕业生），热爱算法建模、热爱数据分析、热爱应用开发等均可参赛。
+  <br>本轮赛事仅设1题: <b>政策公文中的语义搜索</b>(需要根据输入的问题，返回对应的政策内容，以及相应的公文名称和具体条例)'
+  prize: ￥14万  
+
+
 
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org

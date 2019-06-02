@@ -54,6 +54,106 @@
   prize: NaN
 
 
+
+- id: PharmaCoNER
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'PharmaCoNER: Pharmacological Substances, Compounds and proteins and Named Entity Recognition track'
+  url: http://temu.bsc.es/pharmaconer/
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/23159
+  range: March 18 - November 3, 2019
+  deadtime: "2019-06-25 22:59:59"
+  timezone: UTC
+  pubtime: '2019-06-03'
+  note: 'For this task we have prepared a manually classified collection of clinical case sections derived from Open access Spanish medical publications, named the Spanish Clinical Case Corpus (SPACCC). The corpus contains a total of 1000 clinical cases / 396,988 words. It is noteworthy to say that this kind of narrative shows properties of both, the biomedical and medical literature as well as clinical records.
+  <br>Track 1: NER offset and entity classification.
+  <br>Track 2: Concept indexing.'
+  prize: 1,700€x2
+
+
+
+- id: DeepFashion2
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'DeepFashion2 Challenge 2019'
+  url: https://sites.google.com/view/cvcreative/deepfashion2?authuser=0
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions
+  range: May 27 - July 30, 2019
+  deadtime: "2019-07-30 22:59:59"
+  timezone: UTC
+  pubtime: '2019-06-03'
+  note: 'DeepFashion2 (<a href="https://github.com/switchablenorms/DeepFashion2">github</a>) is a comprehensive fashion dataset. It contains 491K diverse images of 13 popular clothing categories from both commercial shopping stores and consumers. It totally has 801K clothing clothing items, where each item in an image is labeled with scale, occlusion, zoom-in, viewpoint, category, style, bounding box, dense landmarks and per-pixel mask.There are also 873K Commercial-Consumer clothes pairs.
+  <br>The dataset is split into a training set (391K images), a validation set (34k images), and a test set (67k images).
+  <br><a href="https://competitions.codalab.org/competitions/23095">Track 1 Clothes Landmark Estimation</a>
+  <br><a href="https://competitions.codalab.org/competitions/23098">Track 2 Clothes Retrieval</a>'
+  prize: NaN
+
+
+
+- id: Colorization2019
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: '2019 EE331 - Colorization'
+  url: https://competitions.codalab.org/competitions/23046
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/23046
+  range: May 27 - June 15, 2019
+  deadtime: "2019-06-15 22:59:59"
+  timezone: UTC
+  pubtime: '2019-06-03'
+  note: 'Our goal is to make colorization from input images.
+  <br>The normal images are composed of RGB values, but we can represent these images into LAB values.
+  <br>In here, L means lightness.
+  <br>We cannot know the color of the image without the A and B values.'
+  prize: NaN
+
+- id: cope2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'Challenges and Opportunities in Automated Coding of COntentious Political Events (Cope 2019) @Euro CSS 2019'
+  url: https://emw.ku.edu.tr/?event=challenges-and-opportunities-in-automated-coding-of-contentious-political-events
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/22842
+    - Euro CSS 2019: http://symposium.computationalsocialscience.eu/2019/
+  range: 6/7 - 9/2, 2019
+  deadtime: "2019-08-10 22:59:59"
+  timezone: UTC
+  pubtime: '2019-06-03'
+  note: 'We use English online news archives from India and China as data sources to create the training and test corpora. India and China are the source and the target countries respectively in our setting.'
+  prize: NaN
+
+
+- id: alchemy
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: 'Alchemy Contest'
+  url: https://alchemy.tencent.com
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/22974
+    - Tencent Quantum Lab 腾讯量子实验室: https://www.tencent.com/en-us/
+  range: 5/22 - 9/30, 2019
+  deadtime: "2019-09-30 22:59:59"
+  timezone: UTC
+  pubtime: '2019-06-03'
+  note: 'The Tencent Quantum Lab has recently introduced a new molecular dataset, called Alchemy, to facilitate the development of new machine learning models useful for chemistry and materials science.
+  <br>The dataset lists 12 quantum mechanical properties of 130,000+ organic molecules comprising up to 12 heavy atoms (C, N, O, S, F and Cl), sampled from the <a href="http://gdb.unibe.ch/downloads/">GDBMedChem</a> database. These properties have been calculated using the open-source computational chemistry program Python-based Simulation of Chemistry Framework (<a href="https://github.com/pyscf/pyscf">PySCF</a>).'
+  prize: total ￥100,000 RMB
+
+
 - id: exoplanet
   type1: 
     - PF

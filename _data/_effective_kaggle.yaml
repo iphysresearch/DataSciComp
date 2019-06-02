@@ -1,6 +1,24 @@
 # Kaggle ##
 # https://www.kaggle.com/competitions
 
+- id: champs-scalar-coupling
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: Predicting Molecular Properties
+  url: https://www.kaggle.com/c/champs-scalar-coupling
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - August 28, 2019
+  deadtime: "2019-08-21 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-03'
+  note: 'Can you measure the magnetic interactions between a pair of atoms?'
+  prize: $30,000
+
+
+
 
 - id: instant-gratification
   type1: 
