@@ -1,0 +1,25 @@
+
+
+# NeurIPS ##
+
+
+
+- id: MicroNet_Challenge_NeurIPS2019
+  type1: 
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: 'MicroNet Challenge @NeurIPS 2019'
+  url: https://micronet-challenge.github.io/
+  hostby: 
+    - NeurIPS 2019: https://nips.cc
+  range: June 1, 2018 - Dec 13, 2019
+  deadtime: "2019-09-30 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-03'
+  note: 'The competition consists of three different tasks. Contestants are free to submit entries for one, two, or all three tasks. Contestants are allowed to enter up to three models for each task, but will be ranked according to their top entry in each task. Entries can only be trained on the training data for the task they are entered in. No pre-training, or use of auxiliary data is allowed.
+  <br><a href="http://image-net.org/index">ImageNet Classification</a>: The de facto standard dataset for image classification. The dataset is composed of 1,281,167 training images and 50,000 development images. Entries are required to achieve 75% top-1 accuracy on the public test set.
+  <br><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-100 Classification</a>: A widely popular image classification dataset of small images. The dataset is composed of 50,000 training images and 10,000 development images. Entries are required to achieve 80% top-1 accuracy on the test set.
+  <br><a href="https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/">WikiText-103 Language Modeling</a>: A language modeling dataset that emphasizes long-term dependencies. Entries will perform the standard language modeling task, predicting the next token from the current one. The dataset is composed of 103 million training words, 217 thousand development words, and 245 thousand testing words. Entries should use the standard word-level vocabulary of 267,735 tokens. Entries are required to achieve a word-level perplexity below 35 on the test set.'
+  prize: NaN
