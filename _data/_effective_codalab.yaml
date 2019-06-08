@@ -19,6 +19,63 @@
   note: 
   prize: NaN
 
+
+- id: L2D
+  type1: 
+    - PF
+  type2:
+    - CV
+    - RF
+  title: 'Challenge: Learning To Drive (L2D)'
+  url: https://competitions.codalab.org/competitions/23245
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/
+    - ICCV 2019: http://iccv2019.thecvf.com
+  range: June 1, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-06-08'
+  note: 'Challenge participants need to develop driving models that can drive most similar to the human driver that recorded the dataset.'
+  prize: NaN
+
+
+- id: L2D
+  type1: 
+    - PF
+  type2:
+    - CV
+    - RF
+  title: 'Challenge: Learning To Drive (L2D)'
+  url: https://competitions.codalab.org/competitions/23245
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/
+    - ICCV 2019: http://iccv2019.thecvf.com
+  range: June 1, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-06-08'
+  note: 'Challenge participants need to develop driving models that can drive most similar to the human driver that recorded the dataset.'
+  prize: NaN
+
+- id: youtube_vos2019
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'The 2nd Large-scale Video Object Segmentation Challenge'
+  url: https://youtube-vos.org/challenge/2019/
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/
+    - ICCV 2019: http://iccv2019.thecvf.com
+  range: May. 20 - Sep. 5 2019
+  deadtime: "2019-09-05 22:59:59"
+  timezone: UTC
+  pubtime: '2019-06-08'
+  note: 'As a continuous effort to push forward the research on video object segmentation tasks, we plan to host a second workshop with a challenge based on the YouTube-VOS dataset, targeting at more diversified problem settings, i.e., we plan to provide two challenge tracks in this workshop. 
+  <br><a href="https://youtube-vos.org/dataset/vos/">Track 1: Video Object Segmentation</a>
+  <br><a href="https://youtube-vos.org/dataset/vis/">Track 2: Video Instance Segmentation</a>'
+  prize: NaN
+
 - id: Mobile_age
   type1: 
     - PF

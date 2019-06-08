@@ -3,6 +3,26 @@
 # https://www.biendata.com/
   
 
+- id: hackathon2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'Science of Science 数据黑客松'
+  url: https://www.biendata.com/competition/hackathon/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '06/18 - 06/12 2019'
+  deadtime: "2019-06-10 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-08'
+  note: '科学论文虽然代表了人类对自然最前沿的理解，但大众却很难读懂论文。所以论文发表后，科研机构经常会发布研究新闻稿解释论文中的研究。本次比赛的任务是给定一篇科研新闻，找到这篇新闻描述的论文。
+  <br>提交数据格式: 新闻数据测试集press_test.csv中的每篇新闻都是在报道论文测试集paper_test.csv中的一篇论文。对于每篇新闻，选手需要从paper_test.csv中选出三篇最相关的论文。参赛者需要在训练集上训练模型，并对新闻和论文的相关行进行预测，最终可以标注 Top 3 的匹配结果。注意：预测出的匹配论文之间存在顺序，按照预测得分，从大到小排序。
+  <br>本次黑客松任务即挂靠这次会议。在4天的时间里，参赛选手需要通过平台提交预测结果。前三名选手将获得4万元奖金，并被邀请到会议上介绍获奖方法。'
+  prize: 40,000元
+
+
 - id: smpetst2019
   type1: 
     - PF

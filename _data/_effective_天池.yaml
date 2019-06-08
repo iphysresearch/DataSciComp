@@ -3,6 +3,41 @@
 # https://tianchi.aliyun.com/competition
 
 
+
+- id: xianyunongye2019
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: '2019 年县域农业大脑AI挑战赛'
+  url: https://tianchi.aliyun.com/competition/entrance/231717/introduction
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: 6月05 - 9月25, 2019
+  deadtime: "2019-07-19 11:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-08'
+  note: '本次大赛，我们选择了具有独特的地理环境、气候条件以及人文特色的贵州省兴仁市作为研究区域，聚焦当地的特色优势产业和支柱产业——薏仁米产业， 以薏仁米作物识别以及产量预测为比赛命题，要求选手开发算法模型，通过无人机航拍的地面影像，探索作物分类的精准算法，识别薏仁米、玉米、烤烟三大作物类型，提升作物识别的准确度，降低对人工实地勘察的依赖，提升农业资产盘点效率，并结合产量标注数据预测当年的薏仁米产量，提升农业精准管理能力。'
+  prize: ￥300000
+
+
+- id: NL2SQL2019
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: '首届中文NL2SQL挑战赛'
+  url: https://tianchi.aliyun.com/competition/entrance/231716/introduction
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: 6月24 - 9月, 2019
+  deadtime: "2019-08-05 11:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-08'
+  note: '首届中文NL2SQL挑战赛，使用金融以及通用领域的表格数据作为数据源，提供在此基础上标注的自然语言与SQL语句的匹配对，希望选手可以利用数据训练出可以准确转换自然语言到SQL的模型。'
+  prize: ￥十五万
+
+
 - id: YOUKU2019
   type1: 
     - PF
