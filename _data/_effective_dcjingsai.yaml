@@ -61,3 +61,21 @@
   <br>赛题三：华为PPS CTR预测'
   prize: '￥690,000'
 
+
+
+- id: zhongdianhuizhi
+  type1: 
+    - PF
+  type2:
+    - DM
+    - NLP
+  title: '第二届“中电慧治”杯政府治理大数据应用算法大赛'
+  url: 'https://www.dcjingsai.com/common/cmpt/第二届“中电慧治”杯政府治理大数据应用算法大赛_竞赛信息.html'
+  hostby: 
+    - DC 竞赛: 'http://www.dcjingsai.com'
+  range: 5月27日-8月, 2019
+  deadtime: "2019-06-27 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-17'
+  note: '政策公文中的语义搜索'
+  prize: '￥140,000'

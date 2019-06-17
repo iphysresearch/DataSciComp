@@ -84,3 +84,20 @@
   note: '2019/03/20 学習用データ、評価用データ1の棚画像の向きを、棚の上部が上になるよう揃えました。'
   prize: ¥2,000,000
 
+
+
+- id: signate_jp_162
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '飯田産業 土地の販売価格の推定'
+  url: https://signate.jp/competitions/162
+  hostby:
+    - SIGNATE: https://signate.jp/
+  range: 6月10日 - 8月2019年
+  deadtime: "2019-08-15 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-17'
+  note: '「日本語をネイティブに話せる方」'
+  prize: ¥2,300,000

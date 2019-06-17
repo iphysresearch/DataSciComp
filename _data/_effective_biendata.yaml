@@ -3,6 +3,25 @@
 # https://www.biendata.com/
   
 
+- id: SMP_ECISA
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: 'SMP - ECISA “拓尔思杯”中文隐式情感分析评测 2019'
+  url: https://biendata.com/competition/smpecisa2019/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '04/24 - 08/18 2019'
+  deadtime: "2019-07-14 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-17'
+  note: '欢迎来到SMP2019“拓尔思杯”中文隐式情感分析评测（The Evaluation of Chinese Implicit Sentiment Analysis，SMP-ECISA 2019）。
+  <br>我们将隐式情感定义为：“不含有显式情感词，但表达了主观情感的语言片段”，并将其划分为事实型隐式情感和修辞型隐式情感。其中，修辞型隐式情感又可细分为隐喻/比喻型、反问型以及反讽型。本次评测任务中，仅针对隐式情感的识别与情感倾向性分类。'
+  prize: 30000元
+
+
+
 - id: hackathon2019
   type1: 
     - PF

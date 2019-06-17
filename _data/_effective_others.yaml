@@ -531,6 +531,28 @@
   prize: ￥14万  
 
 
+- id: rscup
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: '遥感图像稀疏表征与智能分析竞赛'
+  url: http://rscup.bjxintong.com.cn/
+  hostby: 
+    - 中国科学院空间应用工程与技术中心: http://www.csu.cas.cn
+  range: 2019-06-01 至 2019-09-20
+  deadtime: "2019-08-10 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-17'
+  note: '本次大赛设置<a href="http://rscup.bjxintong.com.cn/#/theme/1">遥感图像场景分类</a>、
+  <a href="http://rscup.bjxintong.com.cn/#/theme/2">遥感图像目标检测</a>、 
+  <a href="http://rscup.bjxintong.com.cn/#/theme/3">遥感图像语义分割</a>、
+  <a href="http://rscup.bjxintong.com.cn/#/theme/4">遥感图像变化检测</a>和
+  <a href="http://rscup.bjxintong.com.cn/#/theme/5">遥感卫星视频目标跟踪</a>五个竞赛单元，并在决赛中设置
+  <a href="http://rscup.bjxintong.com.cn/#/theme/6">基于华为昇腾AI处理器的遥感图像解译加分赛</a>。 
+  组织方将提供面向各竞赛单元的大规模遥感图像精确标注数据集与标准规范的测试数据， 制定可量化的算法评测标准，通过初赛、决赛和复审答辩等多个阶段的评比， 遴选出优秀的遥感图像解译算法，决胜出优胜团队。'
+  prize: ￥160000
 
 
 

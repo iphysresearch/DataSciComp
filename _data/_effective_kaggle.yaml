@@ -1,6 +1,30 @@
 # Kaggle ##
 # https://www.kaggle.com/competitions
 
+
+
+- id: open-images-2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: Open Images 2019
+  url: https://storage.googleapis.com/openimages/web/challenge2019.html
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - ICCV 2019: http://iccv2019.thecvf.com
+  range: Now - Oct 27, 2019
+  deadtime: "2019-09-24 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-17'
+  note: 'This year’s <a href="https://g.co/dataset/openimages">Open Images V5</a> release enabled the second <a href="https://storage.googleapis.com/openimages/web/challenge2019.html">Open Images Challenge</a> to include the following 3 tracks:
+  <br><a href="https://www.kaggle.com/c/open-images-2019-object-detection">Object detection</a> track for detecting bounding boxes around object instances, relaunched from 2018.
+  <br><a href="https://www.kaggle.com/c/open-images-2019-visual-relationship">Visual relationship detection track</a> for detecting pairs of objects in particular relations, also relaunched from 2018.
+  <br>Instance segmentation track [Link to be provided when launched on July 1], brand new for 2019.'
+  prize: $25,000
+
+
 - id: champs-scalar-coupling
   type1: 
     - PF
@@ -16,8 +40,6 @@
   pubtime: '2019-06-03'
   note: 'Can you measure the magnetic interactions between a pair of atoms?'
   prize: $30,000
-
-
 
 
 - id: instant-gratification

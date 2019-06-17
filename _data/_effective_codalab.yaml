@@ -20,22 +20,80 @@
   prize: NaN
 
 
-- id: L2D
+
+- id: DSTC_8
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: 'Multi-domain Task-Completion Dialog Challenge [DSTC 8]'
+  url: https://www.microsoft.com/en-us/research/project/multi-domain-task-completion-dialog-challenge/
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/
+    - DSTC8: https://sites.google.com/dstc.community/dstc8/home?authuser=0
+  range: June 17 - Oct 6, 2019
+  deadtime: "2019-10-06 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-17'
+  note: 'As part of the Eighth Dialog System Technology Challenge (<a href="https://sites.google.com/dstc.community/dstc8/home?authuser=0">DSTC8</a>), Microsoft Research and Tsinghua University are hosting a track intended to foster progress in two important aspects of dialog systems: dialog complexity and scaling to new domains. For this DSTC8 track, there are two tasks you can compete in (see below). The challenge runs from June 17, 2019 – October 6, 2019.
+  <br>Participants will build an <a href="https://competitions.codalab.org/competitions/23263">end-to-end multi-domain</a> dialog system for tourist information desk settings.
+  <br>Participants will develop <a href="https://www.microsoft.com/en-us/research/project/multi-domain-task-completion-dialog-challenge/">fast adaptation</a> methods for building a conversation model that generates appropriate domain-specific user responses to an incomplete dialog history.'
+  prize: NaN
+
+
+- id: Fashion_IQ_Challenge
   type1: 
     - PF
   type2:
     - CV
-    - RF
-  title: 'Challenge: Learning To Drive (L2D)'
-  url: https://competitions.codalab.org/competitions/23245
+    - NLP
+  title: 'Fashion IQ Challenge'
+  url: https://competitions.codalab.org/competitions/23391
   hostby: 
     - CodaLab: https://competitions.codalab.org/
-    - ICCV 2019: http://iccv2019.thecvf.com
+    - ICCV 2019: https://sites.google.com/view/lingir
+    - Github: https://github.com/XiaoxiaoGuo/fashion-iq
+  range: June 1 - Sept 30, 2019
+  deadtime: "2019-09-30 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-17'
+  note: 'Fashion IQ is a new dataset we contribute to the research community to facilitate research on natural language based interactive image retrieval'
+  prize: NaN
+
+
+- id: MLCAS_2019
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'MLCAS 2019 - Sorghum head detection'
+  url: https://www.register.extension.iastate.edu/mlcas2019/competition
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/23177
+    - MLCAS 2019: https://www.register.extension.iastate.edu/mlcas2019
+  range: June 10 - July 21, 2019
+  deadtime: "2019-07-21 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-17'
+  note: 'This challenge uses RGB image frames of Sorghum heads collected from an UAV. The dataset consists of 1300 images wth sorghum head annotations. You can find further information about the datasets for Training phase and Final test phase in the "Participate" tab under the heading "Get Data". The datasets could be downloaded from  the "Participate" tab under the heading "Files". The training dataset contains both labelled images and  unlabelled images. Participants are encouraged to use algorithms from active learning, semi-supervised learning or unsupervised learning for utilizing the unlabelled images during training.'
+  prize: $37,000
+
+- id: Oil
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'Oil Radish Semantic Segmentation and Yield Estimation Challenges'
+  url: https://competitions.codalab.org/competitions/23386
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/
+    - CVPPP 2019: https://www.plant-phenotyping.org/CVPPP2019
+    - CVPR 2019: http://cvpr2019.thecvf.com
   range: June 1, 2019 - Never
   deadtime: 'No deadline'
   timezone: UTC
-  pubtime: '2019-06-08'
-  note: 'Challenge participants need to develop driving models that can drive most similar to the human driver that recorded the dataset.'
+  pubtime: '2019-06-17'
+  note: 'The challenges associated with the dataset are the Semantic Segmentation challenge and the Yield Estimation challenge. In the Semantic Segmentation challenge, participants must perform pixel-wise classifiction on a subset of the labelled images. In the Yield Estimation challenge, participants must estimate the oil radish yield of same subset of labelled images.'
   prize: NaN
 
 

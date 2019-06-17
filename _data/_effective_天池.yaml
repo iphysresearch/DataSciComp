@@ -4,6 +4,23 @@
 
 
 
+- id: antaibei
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '安泰杯 —— 跨境电商智能算法大赛'
+  url: https://tianchi.aliyun.com/competition/entrance/231718/introduction?spm=5176.12281949.1003.1.3a994c2axCiMpB
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: 7月16 - 9月16, 2019
+  deadtime: "2019-08-09 09:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-17'
+  note: '本次比赛给出若干日内来自成熟国家的部分用户的行为数据，以及来自待成熟国家的A部分用户的行为数据，以及待成熟国家的B部分用户的行为数据去除每个用户的最后一条购买数据，让参赛人预测B部分用户的最后一条行为数据。'
+  prize: ￥100000
+
+
 - id: xianyunongye2019
   type1: 
     - PF

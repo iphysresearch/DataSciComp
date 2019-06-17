@@ -420,6 +420,50 @@
   prize: 10,00,000 RMB (140,000+ USD) 
 
 
+- id: digestpath2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Digestive-System Pathological Detection and Segmentation Challenge 2019'
+  url: https://digestpath2019.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://digestpath2019.grand-challenge.org
+    - MICCAI 2019: https://www.miccai2019.org
+  range: June 14 - Oct 1, 2019
+  deadtime: '2019-09-23 23:59:59'
+  timezone: UTC
+  pubtime: '2019-06-17'
+  note: 'The goal of the challenge is to set up tasks for evaluating automatic algorithms on signet ring cell detection and colonoscopy tissue screening from digestive system pathological images. This will be the first challenge and first public dataset on signet ring cell detection and colonoscopy tissue screening. Releasing the large quantity of expert-level annotations on digestive-system pathological images will substantially advance the research on automatic pathological object detection and lesion segmentation. 
+  <br>Task 1: Signet ring cell detection. 
+  <br>Task 2: Colonoscopy tissue segmentation and classification. '
+  prize: NaN
+
+
+- id: structseg2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Automatic Structure Segmentation for Radiotherapy Planning Challenge 2019'
+  url: https://structseg2019.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://structseg2019.grand-challenge.org
+    - MICCAI 2019: https://www.miccai2019.org
+  range: June 15 - Oct 1, 2019
+  deadtime: '2019-09-15 23:59:59'
+  timezone: UTC
+  pubtime: '2019-06-17'
+  note: 'The goal of the challenge is to set up tasks for evaluating automatic algorithms on segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. There are four tasks for evaluating the performance of the algorithms. Participants can choose to join all or either tasks according to their interests. 
+  <br>Task 1: Organ-at-risk segmentation from head &amp; neck CT scans. 
+  <br>Task 2: Gross Target Volume segmentation of nasopharynx cancer. 
+  <br>Task 3: Organ-at-risk segmentation from chest CT scans. 
+  <br>Task 4: Gross Target Volume segmentation of lung cancer.            '
+  prize: NaN
+
+
 # TBA
 # - id: age_grand2019
 #   type1: 

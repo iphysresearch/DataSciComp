@@ -3,7 +3,7 @@
 
 # FUTURELAB.AI ##
 # https://ai.futurelab.tv/contest
-
+# https://ai.futurelab.tv/tournament/3
 
 - id: futureai_1
   type1: 
@@ -70,3 +70,24 @@
   pubtime: '2019-04-11'
   note: '初赛中，选手需要基于给定的训练数据设计模型，判断给定的一对漫画图像和真实图像是否是同一个人。请将预测的结果按照测试集id顺序输出，以便平台对提交模型的结果进行验证。'
   prize: 90,000RMB
+
+- id: futureai_56
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '全国高校大数据应用创新大赛'
+  url: 'https://ai.futurelab.tv/contest_detail/4'
+  hostby: 
+    - 睡前FUTURE.AI: https://ai.futurelab.tv/
+  range: 6月8日 - 9月, 2019
+  deadtime: "2019-07-29 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-17'
+  note: '全国高校大数据应用创新大赛”（以下简称大赛）是由教育部高等学校计算机类专业教学指导委员会、中国工程院中国工程科技知识中心和联合国教科文组织国际工程科技知识中心联合主办，复旦大学计算机学院承办，面向全国高校在校学生的，年度性大数据学科竞赛。
+  通用赛道：
+  <br><a href="https://ai.futurelab.tv/contest_detail/6">大数据技术技能赛</a>: 大赛提供的数据和自选数据建立并训练模型，使之能够预测给定地区、日期和前置气象条件下，未来7天的部分气象要素的变化情况; 
+  <br><a href="https://ai.futurelab.tv/contest_detail/5">大数据与人工智能创意赛</a>: 本次大赛气象大数据开放式命题赛道，提供过去5年若干城市的气象数据，参赛选手可自主运用和扩充数据，设计一个基于气象大数据的跨行业跨领域的应用解决方案。<br>'
+  prize: 20,000元 x 2
+
+
