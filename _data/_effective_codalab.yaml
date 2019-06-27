@@ -20,6 +20,25 @@
   prize: NaN
 
 
+- id: YouCook2
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+    - NLP
+  title: 'YouCook2-BoundingBoxes Video Object Grounding Task'
+  url: http://youcook2.eecs.umich.edu
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/23510
+    - Github: https://github.com/MichiganCOG/Video-Grounding-from-Text
+  range: June 24, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-06-27'
+  note: 'YouCook2 is the largest task-oriented, instructional video dataset in the vision community. It contains 2000 long untrimmed videos from 89 cooking recipes; on average, each distinct recipe has 22 videos. The procedure steps for each video are annotated with temporal boundaries and described by imperative English sentences (see the example below). '
+  prize: NaN
+
 
 - id: DSTC_8
   type1: 

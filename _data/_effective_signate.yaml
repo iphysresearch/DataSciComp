@@ -101,3 +101,22 @@
   pubtime: '2019-06-17'
   note: '「日本語をネイティブに話せる方」'
   prize: ¥2,300,000
+
+
+
+
+- id: signate_jp_168
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: 'AI Drug Discovery: Pharmacokinetic Parameter Prediction'
+  url: https://signate.jp/competitions/168
+  hostby:
+    - SIGNATE: https://signate.jp/
+  range: 6月27日 - 11月2019年
+  deadtime: "2019-07-10 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-27'
+  note: 'Predict pharmacokinetic parameters from compound information and experimental data in the screening test.'
+  prize: ¥2,000,000

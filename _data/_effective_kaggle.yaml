@@ -2,6 +2,25 @@
 # https://www.kaggle.com/competitions
 
 
+- id: siim-acr-pneumothorax-segmentation
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'SIIM-ACR Pneumothorax Segmentation'
+  url: https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - C-MIMI 2019: https://siim.org/page/2019cmimi
+  range: Now - Sept 22, 2019
+  deadtime: "2019-08-21 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-27'
+  note: 'Identify Pneumothorax disease in chest x-rays'
+  prize: $30,000
+
+
 
 - id: open-images-2019
   type1: 

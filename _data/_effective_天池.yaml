@@ -4,6 +4,56 @@
 
 
 
+- id: zhongjianjian
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: '全球数据智能大赛(2019)——“数字人体”赛场一：肺部CT多病种智能诊断'
+  url: https://tianchi.aliyun.com/competition/entrance/231724/
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: 6月24 - 9月09, 2019
+  deadtime: "2019-07-24 11:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-27'
+  note: '赛场一“数字人体”挑战赛以肺部CT多病种智能诊断为课题，开放高质量CT标注数据，要求选手提出并综合运用目标检测、深度学习等人工智能算法，识别肺结节、索条（条索状影）、动脉硬化或钙化、淋巴结钙化等多个病种，避免同一部位单病种的反复筛查，提高检测的速度和精度，辅助医生进行诊断。'
+  prize: $900,000
+
+- id: zhongjianjian
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '第五届中间件性能挑战赛'
+  url: https://tianchi.aliyun.com/competition/entrance/231714/
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: 6月10 - 7月22, 2019
+  deadtime: "2019-07-19 17:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-27'
+  note: '<br>初赛：《自适应负载均衡的设计实现》<br>复赛：《实现一个进程内基于队列的消息持久化存储引擎》'
+  prize: $200,000
+
+- id: CIKM_2019
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: 'CIKM 2019 EComm AI'
+  url: https://tianchi.aliyun.com/competition/entrance/231719/
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: 7月05 - 9月25, 2019
+  deadtime: "2019-08-14 08:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-27'
+  note: '
+  <br><a href="https://tianchi.aliyun.com/competition/entrance/231719">Predicting User Behavior Diversities in A Dynamic Interactive Environment</a>
+  <br><a href="https://tianchi.aliyun.com/competition/entrance/231721">Efficient and Novel Item Retrieval for Large-scale Online Shopping Recommendation</a>'
+  prize: $25000 + $25000
+
 - id: antaibei
   type1: 
     - PF

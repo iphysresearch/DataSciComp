@@ -79,3 +79,28 @@
   pubtime: '2019-06-16'
   note: '政策公文中的语义搜索'
   prize: '￥140,000'
+
+
+- id: AIkaifazhe
+  type1: 
+    - PF
+  type2:
+    - DM
+    - SP
+    - CV
+    - NLP
+  title: 'AI开发者大赛'
+  url: 'https://www.dcjingsai.com/'
+  hostby: 
+    - DC 竞赛: 'http://www.dcjingsai.com'
+    - 科大讯飞: 'https://www.xfyun.cn'
+  range: 5月21日-9月21日, 2019
+  deadtime: "2019-08-20 16:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-06-27'
+  note: '
+  <br><a href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-工程机械核心部件寿命预测挑战赛_竞赛信息.html">AI开发者大赛-工程机械核心部件寿命预测挑战赛</a>
+  <br><a href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-大数据应用分类标注挑战赛_竞赛信息.html">AI开发者大赛-大数据应用分类标注挑战赛</a>
+  <br><a href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-广告营销反作弊算法挑战赛_竞赛信息.html">AI开发者大赛-广告营销反作弊算法挑战赛</a>
+  <br><a href="https://www.pkbigdata.com/common/cmpt/AI开发者大赛-阿尔茨海默综合征预测挑战赛_竞赛信息.html">AI开发者大赛-阿尔茨海默综合征预测挑战赛</a>'
+  prize: '1000000 x 8'

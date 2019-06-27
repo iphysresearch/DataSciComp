@@ -3,6 +3,24 @@
 # https://www.biendata.com/
   
 
+- id: chengyuyuedulijie
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: '成语阅读理解大赛'
+  url: https://www.biendata.com/competition/idiom/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '06/25 - 09/25 2019'
+  deadtime: "2019-09-18 23:59:59"
+  timezone: UTC
+  pubtime: '2019-06-27'
+  note: '本次竞赛将基于选词填空的任务形式，提供大规模的成语填空训练语料。在给定若干段文本下，选手需要在提供的候选项中，依次选出填入文本中的空格处最恰当的成语。'
+  prize: ￥24,000元并
+
+
+
 - id: SMP_ECISA
   type1: 
     - PF

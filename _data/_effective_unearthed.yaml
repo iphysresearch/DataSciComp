@@ -2,6 +2,58 @@
 # Unearthed ##
 # https://unearthed.solutions
 
+
+
+- id: Evergreen3
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'Evergreen: Automatically detect drill core tray outlines in core photography'
+  url: https://unearthed.solutions/u/competitions/evergreen/get-2-the-core
+  hostby:
+    - Unearthed: https://unearthed.solutions
+  range: June 27, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: "Australia/Perth"
+  pubtime: '2019-06-27'
+  note: 'This global online competition invites innovators from around the world to build an algorithm that can determine and map the spatial extents of the core tray and then the individual rows contained within.  '
+  prize: NaN
+
+- id: Evergreen2
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'Evergreen: Identify depth measurements in core images'
+  url: https://unearthed.solutions/u/competitions/evergreen/get-2-core-ii-revenge-depths
+  hostby:
+    - Unearthed: https://unearthed.solutions
+  range: June 27, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: "Australia/Perth"
+  pubtime: '2019-06-27'
+  note: 'This is an online competition inviting companies and individuals from around the world to provide a solution that can correctly identify recorded depths within a core photograph.  '
+  prize: NaN
+
+
+- id: Evergreen1
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: 'Evergreen: Reduce water usage in gold processing through tailings density prediction'
+  url: https://unearthed.solutions/u/competitions/evergreen/hydrosaver
+  hostby:
+    - Unearthed: https://unearthed.solutions
+  range: June 27, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: "Australia/Perth"
+  pubtime: '2019-06-27'
+  note: "This global online competition invites data scientists and innovators from around the world to develop a prediction model for tailings density (and therefore water consumption) in Newcrest's gold processing operations."
+  prize: NaN
+
+
 - id: Explorer_Challenge
   type1: 
     - PF
