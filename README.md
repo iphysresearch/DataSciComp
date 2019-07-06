@@ -56,7 +56,8 @@
     $ python run.py
     ```
 
-- A WeChat group have been created: <a target='_blank' href="https://i.loli.net/2019/06/27/5d146f6ed957675455.png">QR code</a> (6月24日前有效)
+- A WeChat group have been created: <a target='_blank' href="https://i.loli.net/2019/07/06/5d20acc015e2497580.png">QR code</a> (7月13日前有效)
+
 
 
 
