@@ -555,6 +555,70 @@
   prize: ￥160000
 
 
+- id: sodic2019
+  type1: 
+    - PF
+  type2:
+    - CV
+    - DM
+    - NLP
+  title: '"华为云杯"2019深圳开放数据应用创新大赛'
+  url: https://opendata.sz.gov.cn/sodic2019/
+  hostby: 
+    - 深圳市政府数据开放平台: https://opendata.sz.gov.cn
+    - 华为 HUAWEI: https://www.huawei.com/
+  range: 2019-06-19 至 2019-09-07
+  deadtime: "2019-07-25 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-06'
+  note: '
+  赛题数据：
+  <br>交通数据 室内停车 公租房轮候 卫星遥感 文体公益活动 游客预约 道路积水 深圳图书馆进馆人次统计 龙岗区坂田街道交通流量 企业信用目录 坪山区民生诉求数据 坪山区河流域和易积水道路视频 光明区政府服务办事大厅预约'
+  prize: 1400000元 + 300000元华为云资源
+
+
+
+- id: AutoCV2_2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'AutoCV2: Image and video Classification'
+  url: https://autodl.lri.fr/competitions/146
+  hostby: 
+    - AutoDL: https://autodl.chalearn.org
+    - NeurIPS 2019: https://neurips.cc/Conferences/2019/CallForCompetitions
+  range: July 2 - Aug 20, 2019
+  deadtime: "2019-08-20 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-06'
+  note: 'This is round 2 of AutoCV: Image + Video! This is a 2-phase challenge, see the challenge rules for details. This is the FEED-BACK PHASE. The second phase (final blind-test phase) will be run from a separate submission site, to be announced after the end of the feed-back phase.'
+  prize: 4000 USD
+
+
+
+- id: tianyibei
+  type1: 
+    - PF
+  type2:
+    - CV
+    - DM
+  title: '“添翼杯”人工智能创新应用大赛'
+  url: https://tianyicup.kesci.com
+  hostby: 
+    - 上海电信: https://tianyicup.kesci.com
+  range: 2019-06-14 至 2019-09-20
+  deadtime: "2019-07-31 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-06'
+  note: '
+  <br>智慧环保-垃圾分类图像检测问题: 请参赛选手利用训练集图片，建立算法模型，对测试集给定的物品图片，判断其属于可回收垃圾的概率。
+  <br>智慧教育-成绩预测问题：请参赛选手利用脱敏后的初中学生过往考试情况与考试考点信息，建立算法模型，预测学生初中最后一次期末考试的成绩。'
+  prize: 40,000 元 x 2
+
+
+
 # http://www.prcv2019.com/竞赛通知.html
 # http://spiechallenges.cloudapp.net/competitions/
 # https://autodl.chalearn.org
