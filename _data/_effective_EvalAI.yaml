@@ -393,3 +393,21 @@
   pubtime: '2019-05-24'
   note: 'The challenge data consists of a set of popular search queries and a fair size set of candidate documents. Challenge participants make a boolean relevant-or-not decision for each query-document pair. Human judgments are used to create labeled training and evaluation data for a subset of the query-document pairs. Evaluation of submissions will be based on the traditional F1 metric, incorporating components of both recall and precision.'
   prize: NaN  
+
+- id: sigir2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'QMUL Surveillance Face Recognition Challenge @ ICCV2019 workshop RLQ'
+  url: https://qmul-survface.github.io
+  hostby: 
+    - EvalAI: 'https://evalai.cloudcv.org/web/challenges/challenge-page/392/'
+    - ICCV 2019: http://iccv2019.thecvf.com
+  range: 27 June - 30 Aug, 2019
+  deadtime: "2019-08-30 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-06'
+  note: 'The challenge data consists of a set of popular search queries and a fair size set of candidate documents. Challenge participants make a boolean relevant-or-not decision for each query-document pair. Human judgments are used to create labeled training and evaluation data for a subset of the query-document pairs. Evaluation of submissions will be based on the traditional F1 metric, incorporating components of both recall and precision.'
+  prize: NaN  

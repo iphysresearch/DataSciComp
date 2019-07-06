@@ -104,3 +104,36 @@
   <br><a href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-广告营销反作弊算法挑战赛_竞赛信息.html">AI开发者大赛-广告营销反作弊算法挑战赛</a>
   <br><a href="https://www.pkbigdata.com/common/cmpt/AI开发者大赛-阿尔茨海默综合征预测挑战赛_竞赛信息.html">AI开发者大赛-阿尔茨海默综合征预测挑战赛</a>'
   prize: '1000000 x 8'
+
+
+- id: AIinTRCzhiliang
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'AI in RTC-超分辨率图像质量比较挑战赛'
+  url: 'https://www.dcjingsai.com/common/cmpt/AI%20in%20RTC-超分辨率图像质量比较挑战赛_竞赛信息.html'
+  hostby: 
+    - DC 竞赛: 'http://www.dcjingsai.com'
+  range: 7月1日-10月23日, 2019
+  deadtime: "2019-09-27 13:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-06'
+  note: '单帧图像超分辨率近年来备受关注。同样的图像，在经过不同超分辨率算法处理后，获得的图像质量也有所不同。在这个挑战中，参赛者需要对100张图片进行4倍超分辨率处理。比赛最终以PI (perceptual index)指标作为评判标准，PI值越小，表明图像质量越高，得分越高，分值高的团队获得优胜。'
+  prize: '100000'
+
+- id: AIinTRCxingneng
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'AI in RTC-超分辨率算法性能比较挑战赛'
+  url: 'https://www.dcjingsai.com/common/cmpt/AI%20in%20RTC-超分辨率算法性能比较挑战赛_竞赛信息.html'
+  hostby: 
+    - DC 竞赛: 'http://www.dcjingsai.com'
+  range: 7月1日-10月23日, 2019
+  deadtime: "2019-09-27 13:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-06'
+  note: '将超分辨算法用于处理实时视频流时，模型的处理表现与运算性能，是一个两难的选择。为了追求较低复杂度，可能需要牺牲图像质量；为了追求较高质量的输出，导致设备资源占用过高，产生设备发烫、视频模糊卡顿等现象。该挑战主要考察算法模型的性能，参赛者需要对图像做2倍的超分辨率处理，算法复杂度控制在1GFLOPs之内，我们以SRCNN模型为baseline, 并采用PSNR、SSIM及运行时间来综合评估算法的性能，分值高者即获胜。'
+  prize: '100000'

@@ -3,6 +3,42 @@
 # https://www.biendata.com/
   
 
+
+- id: ccks_2019_1
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: 'CCKS 2019 医疗命名实体识别'
+  url: https://www.biendata.com/competition/ccks_2019_1/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '04/01 - 08/15 2019'
+  deadtime: "2019-07-10 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-06'
+  note: '本任务是CCKS围绕中文电子病历语义化开展的系列评测的一个延续，在CCKS 2017，2018医疗命名实体识别评测任务的基础上进行了延伸和拓展。
+  <br>包括两个子任务：1）医疗命名实体识别：由于国内没有公开可获得的面向中文电子病历医疗实体识别数据集，本年度保留了医疗命名实体识别任务，对2018年度数据集做了修订，并随任务一同发布。2）医疗实体及属性抽取（跨院迁移）：在医疗实体识别的基础上，对预定义实体属性进行抽取。'
+  prize: ￥15,000
+
+- id: datagrand
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: '“达观杯”文本智能信息抽取挑战赛'
+  url: https://www.biendata.com/competition/datagrand/
+  hostby: 
+    - Biendata: https://www.biendata.com/
+  range: '06/28 - 08/31 2019'
+  deadtime: "2019-08-31 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-06'
+  note: '本次大赛的任务是给定一定数量的标注语料以及海量的未标注语料，在3个字段上做信息抽取任务。'
+  prize: 七万七千元
+
+
+
 - id: chengyuyuedulijie
   type1: 
     - PF
@@ -17,7 +53,7 @@
   timezone: UTC
   pubtime: '2019-06-27'
   note: '本次竞赛将基于选词填空的任务形式，提供大规模的成语填空训练语料。在给定若干段文本下，选手需要在提供的候选项中，依次选出填入文本中的空格处最恰当的成语。'
-  prize: ￥24,000元并
+  prize: ￥24,000元
 
 
 

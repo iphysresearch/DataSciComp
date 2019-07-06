@@ -20,6 +20,65 @@
   prize: NaN
 
 
+
+- id: Reconstruction2D3D
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: '2nd 3D Face Alignment in the Wild Challenge - Dense Reconstruction from Video'
+  url: https://competitions.codalab.org/competitions/23626
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/23626
+  range: July 4 - Aug 15 2019
+  deadtime: "2019-08-15 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-06'
+  note: 'The 2nd 3DFAW Challenge evaluates 3D face reconstruction methods on a new large corpora of profile-to-profile face videos annotated with corresponding high-resolution 3D ground truth meshes. The corpora includes profile-to-profile videos obtained under a range of conditions:
+  <br>high-definition in-the-lab video,
+  <br>unconstrained video from an iPhone device'
+  prize: NaN
+
+
+- id: LexicalGerman
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'Lexical Semantic Change Detection in German'
+  url: https://competitions.codalab.org/competitions/23563
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/23563
+  range: July 1 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-07-06'
+  note: 'Given two corpora Ca and Cb, rank all target words according to their degree of lexical semantic change between Ca and Cb as annotated by human judges. (Higher rank means higher change.)'
+  prize: NaN
+
+
+- id: CoNLL2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+    - NLP
+  title: 'CoNLL 2019 Shard Task on Cross-Framework Meaning Representation Parsing'
+  url: http://mrp.nlpl.eu
+  hostby: 
+    - CodaLab: https://competitions.codalab.org/competitions/23524
+  range: March 6 - November 3, 2019
+  deadtime: "2019-09-02 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-06'
+  note: 'The 2019 Conference on Computational Language Learning (CoNLL) hosts a shared task (or ‘system bake-off’) on Cross-Framework Meaning Representation Parsing (MRP 2019). 
+  <br>The goal of the task is to advance data-driven parsing into graph-structured representations of sentence meaning. '
+  prize: NaN
+
+
 - id: YouCook2
   type1: 
     - PF
@@ -1139,10 +1198,10 @@
   hostby:
     - CodaLab: https://competitions.codalab.org
     - EPIC-KITCHENS 2018: https://epic-kitchens.github.io/2018
-  range: Aug. 1, 2018 - Never
-  deadtime: 'No deadline'
+  range: July 3, 2018 - Nov. 22 2019
+  deadtime: "2019-11-22 23:59:59"
   timezone: UTC
-  pubtime: '2019-02-01'
+  pubtime: '2019-07-06'
   note: "The <b>largest dataset in first-person (egocentric) vision</b>; multi-faceted <b>non-scripted</b> recordings in native environments - i.e. the wearers' homes, capturing all daily activities in the kitchen over multiple days.
   <br><a href='https://competitions.codalab.org/competitions/20115'>Action-Recognition Challenge</a>
   <br><a href='https://competitions.codalab.org/competitions/20071'>Action-Anticipation Challenge</a>

@@ -76,3 +76,18 @@
   prize: '30万元人民币'
 
 
+- id: laisibei
+  type1: 
+    - PF
+  type2:
+    - NLP
+  title: '莱斯杯：全国第二届“军事智能机器阅读"挑战赛"'
+  url: https://www.kesci.com/home/competition/5d142d8cbb14e6002c04e14a
+  hostby: 
+    - Kesci: https://www.kesci.com/
+  range: 2019-09-03 至 2019-10-28
+  deadtime: "2019-07-31 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-06'
+  note: '本次竞赛提供的大规模中文阅读理解数据集，共包含15万余篇的专业文章，7万个军事类复杂问题，每个问题对应五篇文章'
+  prize: '50万元人民币'

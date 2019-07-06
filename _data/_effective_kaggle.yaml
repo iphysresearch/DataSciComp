@@ -2,6 +2,82 @@
 # https://www.kaggle.com/competitions
 
 
+
+- id: generative-dog-images
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Generative Dog Images'
+  url: 'https://www.kaggle.com/c/generative-dog-images'
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - August 9, 2019
+  deadtime: "2019-08-09 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-06'
+  note: 'Experiment with creating puppy pics'
+  prize: $10,000
+
+
+- id: aptos2019-blindness-detection
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: 'APTOS 2019 Blindness Detection'
+  url: 'https://www.kaggle.com/c/aptos2019-blindness-detection'
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - 4th APTOS Symposium: http://2019.asiateleophth.org
+  range: Now - Sept 5, 2019
+  deadtime: "2019-08-29 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-06'
+  note: "Detect diabetic retinopathy to stop blindness before it's too late"
+  prize: $50,000
+
+
+- id: recursion-cellular-image-classification
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Recursion Cellular Image Classification'
+  url: https://www.kaggle.com/c/recursion-cellular-image-classification
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - NeurIPS 2019: https://nips.cc/Conferences/2019/CallForCompetitions
+  range: Now - Sept 26, 2019
+  deadtime: "2019-07-22 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-06'
+  note: 'CellSignal: Disentangling biological signal from experimental noise in cellular images'
+  prize: $13,000
+
+
+
+- id: youtube8m-2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'The 3rd YouTube-8M Video Understanding Challenge'
+  url: https://www.kaggle.com/c/youtube8m-2019
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - ICCV 2019: http://iccv2019.thecvf.com
+  range: Now - October 28, 2019
+  deadtime: "2019-09-06 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-06'
+  note: 'Temporal localization of topics within video'
+  prize: $25,000
+
+
 - id: siim-acr-pneumothorax-segmentation
   type1: 
     - PF
