@@ -344,7 +344,7 @@
             var cookies = document.cookie.split(";");  
             for(var i=0; i<cookies.length;i++){  
                 var arr=cookies[i].split("=");  
-                if(arr[0]==name){  
+                if(arr[0].trim()==name){  
                     return unescape(arr[1]);  
                 }  
             }  
