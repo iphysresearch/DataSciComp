@@ -4,6 +4,152 @@
 # https://nips.cc/Conferences/2019/CallForCompetitions
 
 
+- id: C4C2019
+  type1: 
+    - AC
+  type2:
+    - CV
+    - SP
+  title: 'Causality for Climate (C4C)'
+  url: https://causeme.uv.es
+  hostby: 
+    - NeurIPS 2019: https://nips.cc
+  range: Jul 31 - Oct 31, 2019
+  deadtime: "2019-10-31 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'A causal understanding of climatic interactions is of high societal relevance from identifying causes of extreme events to process understanding and weather forecasting. This competition comprises a number of multivariate time series datasets featuring major challenges of climate data from time delays and nonlinearity to nonstationarity and selection bias. The competition aims to open up new interdisciplinary research pathways by improving our scientific understanding of Earth’s climate, while also driving method development and benchmarking in the computer science community.'
+  prize: $10,000USD
+
+
+- id: Reconnaissance2019
+  type1: 
+    - AC
+  type2:
+    - RL
+  title: 'Reconnaissance Blind Chess'
+  url: https://rbc.jhuapl.edu
+  hostby: 
+    - NeurIPS 2019: https://nips.cc
+  range: August, 13 - Oct 31, 2019
+  deadtime: "2019-08-06 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: "Build the best AI bot to play reconnaissance blind chess, a challenge for making optimal decisions in the face of uncertainty. Reconnaissance blind chess is like chess except a player does not know where her opponent's pieces are a priori. Rather, she can covertly sense a chosen 3x3 square of the board each turn and also learn partial information from captures."
+  prize: $1,000USD
+
+
+- id: AutoDL2019NeurIPS
+  type1: 
+    - AC
+  type2:
+    - CV
+    - SP
+    - DM
+    - NLP
+    - RL
+  title: 'Automated Deep Learning (AutoDL)'
+  url: https://autodl.chalearn.org
+  hostby: 
+    - NeurIPS 2019: https://nips.cc
+  range: Apr 29 - Oct 31, 2019
+  deadtime: "2019-10-31 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'The AutoDL challenge aims taking the automate the design of deep learning (DL) methods to solve generic tasks. This is a challenge with “code submission”: machine learning algorithms are trained and tested on a challenge platform on data invisible to the participants. We target applications such as speech, image, video, and text, for which DL methods have had great success recently, to drive the community to work on automating the design of DL models. Raw data will be provided, formatted in a uniform tensor manner, to encourage participants to submit generic algorithms. We will impose restrictions on training time and resources to push the state-of-the-art further. We will provide a large number of pre-formatted public datasets and set up a repository of data exchange to enable meta-learning.'
+  prize: ~$10,000USD
+
+
+
+- id: ObjectDetection3D2019
+  type1: 
+    - AC
+  type2:
+    - RL
+  title: '3D Object Detection over HD Maps for Autonomous Cars'
+  url: https://level5.lyft.com/dataset/
+  hostby: 
+    - NeurIPS 2019: https://nips.cc
+  range: Nov 1 - Nov 7, 2019
+  deadtime: "2019-11-07 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'Autonomous cars are expected to dramatically redefine the future of transportation. The 3D Perception system of the autonomous car is a critical keystone upon which high level autonomy functions depend. This competition is designed to help advance the state of the art in 3D object detection by focusing research on this topic in the context of autonomous cars, specifically by sharing the full modality of sensor data available to typical autonomous cars, and by providing access to a high fidelity HD map.'
+  prize: ~17,500USD
+
+
+
+- id: Traffic4cast2019
+  type1: 
+    - AC
+  type2:
+    - CV
+  title: 'Traffic4cast -- Traffic Map Movie Forecasting'
+  url: https://www.iarai.ac.at/traffic4cast/
+  hostby: 
+    - NeurIPS 2019: https://nips.cc
+  range: May 1 - Dec 1, 2019
+  deadtime: "2019-10-15 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: "Predict high resolution traffic flow volume, heading, and speed on a whole city map looking 15 minutes into the future! Kicking off a series of annual competitions, this year's data is based on 100 billion probe points from 3 cities mapped in 5 minute intervals, showing trends across weekdays and seasonal effects. Improved traffic predictions are of great social, environmental, and economic value, while also advancing our general ability to capture the simple implicit rules underlying a complex system and model its future states."
+  prize: ~17,000USD + 2 resea. fellowships up to 12 months + compl. registrations
+
+
+  
+- id: gameofdrones2019
+  type1: 
+    - AC
+  type2:
+    - RL
+  title: 'Game of Drones – Competition at NeurIPS 2019'
+  url: https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/
+  hostby: 
+    - NeurIPS 2019: https://nips.cc
+  range: July 1st – Dec. 8th, 2019
+  deadtime: "2019-08-31 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'Game of Drones is a multi-drone racing tournament conducted in the high-fidelity simulation environment AirSim. Participants will have the choice of three tiers: Planning only, Perception only, or Full Autonomous Racing. The aim is to combine challenges from adversarial planning and real-time perception and to encourage fusing learning- and model-based approaches.'
+  prize: ~12,000USD
+
+
+- id: ML4MPI
+  type1: 
+    - AC
+  type2:
+    - DM
+  title: 'Live Malaria Challenge'
+  url: https://researcher.watson.ibm.com/researcher/view_group.php?id=9784
+  hostby: 
+    - NeurIPS 2019: https://nips.cc
+  range: TBA – Dec 11, 2019
+  deadtime: "2019-12-11 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'In the NeurIPS Live Malaria Challenge we are looking for participants to apply machine learning tools to determine novel solutions which could impact malaria policy in Sub Saharan Africa. Specifically, how should combinations of interventions be deployed under budget constraints to impact lives saved and the prevalence of the malaria parasite in a simulated environment.'
+  prize: 3 mo. Internship @IBM res. Africa
+
+
+- id: Pommermanyear22019
+  type1: 
+    - AC
+  type2:
+    - RL
+  title: 'Pommerman Year 2: Radio.'
+  url: https://www.pommerman.com
+  hostby: 
+    - NeurIPS 2019: https://nips.cc
+  range: TBA – Nov 8, 2019
+  deadtime: "2019-11-08 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'Pommerman: Train a team of communicative agents to play Bomberman in a partially observed setting. Compete against other teams.'
+  prize: ~15,000USD in Google Cloud Credits
+
+
+
+
 - id: MicroNet_Challenge_NeurIPS2019
   type1: 
     - AC
