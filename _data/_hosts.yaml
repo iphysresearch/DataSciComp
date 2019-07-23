@@ -42,10 +42,21 @@
 - id: crowdai
   type1: 
     - PF
-  title: crowdAI
+  title: crowdAI (shutting down)
   url: https://www.crowdai.org
   logo: https://i.loli.net/2019/02/10/5c5fab0aa7cc0.png
   descri: "crowdAI is a platform for open data science challenges. crowdAI helps universities, government agencies, NGOs, or businesses to run and manage their data challenges. The crowdAI platform is a non-profit, open source infrastructure that can immediately reach thousands of data scientists around the world to work on interesting data problems."
+
+
+- id: aicrowd
+  type1: 
+    - PF
+  title: AIcrowd
+  url: https://www.aicrowd.com  
+  logo: https://i.loli.net/2019/07/23/5d36619fc463991441.png
+  descri: 'AIcrowd is a platform for streamlining your AI workflow - internally, or externally, by running AI, machine learning, and other data science challenges. AIcrowd helps organizations - whether businesses, universities, government agencies or NGOs - develop, manage, and promote their challenges. '
+
+
 
 
 - id: EvalAI
@@ -302,6 +313,14 @@
   logo: https://i.loli.net/2019/02/10/5c5fd6851c5cf.png
   descri: 'iChallenge is set up to share high-quality labeled and annotated imaging data of ophthalmology, to enhance communication between different researchers (not only computer scientists but also clinicians) and to promote development of automatic algorithms in <b>diagnosis and image segmentation</b>.
   <br>Contact: ai@baidu.com'
+
+- id: baiduaistudio
+  type1: 
+    - PF
+  title: 'Baidu大脑 | AI Studio'
+  url: https://aistudio.baidu.com/aistudio/index
+  logo: https://i.loli.net/2019/07/23/5d371b5fc124b88704.png
+  descri: 'AI Studio是基于百度深度学习平台飞桨的一站式AI开发平台，提供在线编程环境、免费GPU算力、海量开源算法和开放数据，帮助开发者快速创建和部署模型。'
 
 
 - id: jdata

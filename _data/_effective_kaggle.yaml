@@ -2,6 +2,60 @@
 # https://www.kaggle.com/competitions
 
 
+- id: kuzushiji-recognition
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: 'Kuzushiji Recognition'
+  url: 'https://www.kaggle.com/c/kuzushiji-recognition'
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+  range: Now - October 14, 2019
+  deadtime: "2019-10-07 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'Opening the door to a thousand years of Japanese culture'
+  prize: $15,000
+
+
+- id: ieee-fraud-detection
+  type1: 
+    - PF
+    - AC
+  type2:
+    - DM
+  title: 'IEEE-CIS Fraud Detection'
+  url: 'https://www.kaggle.com/c/ieee-fraud-detection'
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - IEEE-CIS: https://cis.ieee.org
+  range: Now - October 1, 2019
+  deadtime: "2019-09-24 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'Can you detect fraud from customer transactions?'
+  prize: $25,000
+
+- id: open-images-2019-instance-segmentation
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Open Images 2019 - Instance Segmentation'
+  url: 'https://www.kaggle.com/c/open-images-2019-instance-segmentation'
+  hostby:
+    - Kaggle: https://www.kaggle.com/
+    - ICCV 2019: http://iccv2019.thecvf.com
+  range: Now - October 27, 2019
+  deadtime: "2019-09-24 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'Outline segmentation masks of objects in images'
+  prize: $20,000
+
 
 - id: generative-dog-images
   type1: 

@@ -3,6 +3,22 @@
 # https://tianchi.aliyun.com/competition
 
 
+- id: alibabazhilianzhaopin
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '阿里巴巴大数据智能云上编程大赛 —— 智联招聘人岗智能匹配'
+  url: https://tianchi.aliyun.com/competition/entrance/231728/introduction
+  hostby: 
+    - 天池: 'https://tianchi.aliyun.com/'
+  range: 7月24日 - 9月21, 2019
+  deadtime: "2019-08-20 09:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-23'
+  note: '本次大赛要求参赛者根据智联招聘抽样的经过脱敏的求职者标签数据、职位信息、及部分求职者行为信息、用人单位反馈信息，训练排序模型，对求职者的职位候选集进行排序，尽可能使得双端都满意的职位（求职者满意以及用人单位满意）优先推荐。本次比赛里，假定对于曝光给求职者的职位候选集里，假如求职者感兴趣会产生浏览职位行为，浏览职位后，如果求职者满意会产生主动投递行为。用人单位收到求职者主动投递的简历后会给出是否满意的反馈信号。'
+  prize: ￥300000
+
 
 - id: zhongjianjian
   type1: 

@@ -618,6 +618,71 @@
   prize: 40,000 元 x 2
 
 
+- id: zhijiangbei2019
+  type1: 
+    - PF
+  type2:
+    - CV
+    - DM
+    - NLP
+  title: '2019之江杯全球人工智能大赛'
+  url: http://aicup2019.zhejianglab.com
+  hostby: 
+    - 之江实验室: http://www.zhejianglab.com
+  range: 2019-07-17 至 2019-09-30
+  deadtime: "2019-08-31 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-23'
+  note: '随着新一轮世界科技革命和产业变革的孕育兴起，人工智能已经成为当前信息技术和未来科技高端发展的重要方向。为激发广大科研人员人工智能创业者参与人工智能前沿理论和算法研究的热情，之江实验室举办2019之江杯全球人工智能大赛，以“以赛引才、以赛促研、以赛兴业”为基本思路，聚焦人工智能“基础研究”+“产融结合”，促进我国人工智能发展走在世界前列引领科技发展潮流。
+  <br><a href="https://zhejianglab.aliyun.com/entrance/231734/introduction?spm=5176.12281949.1003.1.2b58c341xkeLkZ">视频描述生成</a>: 本赛题为视频描述（Video Caption）,视频描述的输入是一段视频，输出是描述视频主要故事的一段文本。
+  <br><a href="https://zhejianglab.aliyun.com/entrance/231733/introduction?spm=5176.12281949.1003.2.2b58c341xkeLkZ">行人多目标跟踪</a>: 主要任务是给定一个图像序列，找到图像序列中运动的物体，对目标进行定位，并将不同帧中的同一行人一一对应，记录其ID，然后给出不同物体的运动轨迹。
+  <br><a href="https://zhejianglab.aliyun.com/entrance/231732/introduction?spm=5176.12281949.1003.3.2b58c341xkeLkZ">零样本目标检测</a>: 零样本目标检测（zero-shot object detection）竞赛的任务是在已知类别上训练目标检测模型，但要求模型能够用于检测测试图片中未知类别的对象。
+  <br><a href="https://zhejianglab.aliyun.com/entrance/231731/introduction?spm=5176.12281949.1003.4.2b58c341xkeLkZ">电商评论观点挖掘</a>: 本次品牌评论观点挖掘的任务是在商品评论中抽取商品属性特征和消费者观点，并确认其情感极性和属性种类。
+  '
+  prize: 大赛总奖金池超过260万元
+
+
+- id: AIIA2019
+  type1: 
+    - PF
+  type2:
+    - CV
+    - DM
+  title: '2019 AIIA杯人工智能巡回赛 中国移动“家·网”赛站'
+  url: http://aiia.cmri.cn
+  hostby: 
+    - 中国移动: http://open.home.10086.cn/
+  range: 7月4-9月 2019
+  deadtime: "2019-08-04 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-23'
+  note: '结合中国移动在AI领域的研发布局，本次“家·网”赛站的主题是智慧家庭和智慧网络，希望借助AI技术构建数字家庭生态，打造动态高效的智能网络。
+  <br><a href="http://open.home.10086.cn/hack/#/protal">智慧家庭赛题</a>
+  <br><a href="http://aiia.cmri.cn/index/content_page">智慧网络赛题</a>: 任务一：网络流量预测; 任务二：无线侧故障根因分析;
+  '
+  prize: 240,000 元
+
+
+
+- id: quanqiushujuziyuankaifazhe
+  type1: 
+    - PF
+  type2:
+    - DM
+  title: '全球数据资源开发者大赛'
+  url: https://wdd.datarda.com/index
+  hostby: 
+    - 杭州市人民政府: http://www.hangzhou.gov.cn
+  range: 2月28-12月28 2019
+  deadtime: "2019-10-01 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-23'
+  note: '
+  <br>中国移动专题赛: 赛题一：ETC便民服务群体挖掘; 赛题二：企业人才结构变化预测;
+  <br>行业算法赛: 赛题一：楼盘精准推荐模型; 赛题二：社区独居老人识别与居民用能数据分析; 赛题三：移动办事服务的用户行为预测;
+  '
+  prize: TBA
+
 
 # http://www.prcv2019.com/竞赛通知.html
 # http://spiechallenges.cloudapp.net/competitions/

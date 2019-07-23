@@ -11,6 +11,7 @@ add_datas = [
     "./_data/_effective_codalab.yaml",
     "./_data/_effective_challengedata.yaml",
     "./_data/_effective_crowdai.yaml",
+    "./_data/_effective_aicrowd.yaml",
     "./_data/_effective_signate.yaml",
     "./_data/_effective_crowdanalytix.yaml",
     "./_data/_effective_unearthed.yaml",
@@ -34,6 +35,7 @@ add_datas = [
     "./_data/_effective_FlyAI.yaml",
     "./_data/_effective_tinymind.yaml",
     "./_data/_effective_MagicMirror.yaml",
+    "./_data/_effective_baiduAIstudio.yaml",
     "./_data/_effective_others.yaml",
 ]
 

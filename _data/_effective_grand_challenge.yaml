@@ -464,6 +464,24 @@
   prize: NaN
 
 
+- id: AASCE2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Accurate Automated Spinal Curvature Estimation'
+  url: https://aasce19.grand-challenge.org
+  hostby:
+    - Grand Challenges: https://aasce19.grand-challenge.org
+    - MICCAI 2019: https://www.miccai2019.org
+  range: July 8 - Aug 20, 2019
+  deadtime: '2019-08-20 23:59:59'
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'The goal of MICCAI 2019 Challenge on accurate automated spinal curvature estimation and error correction from x-ray images is to investigate (semi-)automatic spinal curvature estimation algorithms and provide a standard evaluation framework with a set of x-ray images. '
+  prize: NaN
+
 # TBA
 # - id: age_grand2019
 #   type1: 

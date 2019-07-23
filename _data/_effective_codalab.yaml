@@ -20,6 +20,84 @@
   prize: NaN
 
 
+- id: TweetQA
+  type1: 
+    - PF
+    - AC
+  type2:
+    - NLP
+  title: TweetQA Competition
+  url: https://tweetqa.github.io
+  hostby:
+    - CodaLab: https://competitions.codalab.org/competitions/20307
+  range: July 20, 2019 - Never
+  deadtime: 'No deadline'
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'Unlike other QA datasets like SQuAD in which the answers are extractive, we allow the answers to be abstractive. The task requires model to read a short tweet and a question and outputs a text phrase (does not need to be in the tweet) as the answer.'
+  prize: NaN
+  
+
+
+- id: AIM2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'AIM 2019 image manipulation challenges'
+  url: http://www.vision.ee.ethz.ch/aim19/
+  hostby:
+    - CodaLab: https://competitions.codalab.org/
+    - ICCV 2019: http://iccv2019.thecvf.com
+  range: July 17, 2019 - Aug. 30, 2019
+  deadtime: "2019-08-23 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'Advances in Image Manipulation workshop and challenges on image and video manipulation in conjunction with ICCV 2019.
+  <br>AIM 2019 image manipulation challenges:
+  <br><a href="https://competitions.codalab.org/competitions/20156">Bokeh Effect Challenge: Track 1 Fidelity</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20157">Bokeh Effect Challenge: Track 2 Perceptual</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20158">RAW-to-RGB Mapping Challenge: Track 1 Fidelity</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20159">RAW-to-RGB Mapping Challenge: Track 2 Perceptual</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20163">Real World Super-Resolution Challenge: Track 1 Same Domain</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20164">Real World Super-Resolution Challenge: Track 2 Target Domain</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20165">Demoireing Challenge: Track 1 Fidelity</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20166">Demoireing Challenge: Track 2 Perceptual</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20167">Constrained Super-Resolution Challenge: Track 1 Parameters optimization</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20168">Constrained Super-Resolution Challenge: Track 2 Inference optimization</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20169">Constrained Super-Resolution Challenge: Track 3 Fidelity optimization</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20235">Extreme Super-Resolution Challenge: Track 1 Fidelity</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20236">Extreme Super-Resolution Challenge: Track 2 Perceptual</a>;
+  <br>AIM 2019 video manipulation challenges:
+  <br><a href="https://competitions.codalab.org/competitions/20246">Video Quality Mapping Challenge : Track 1 Supervised</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20247">Video Quality Mapping Challenge : Track 2 Unsupervised</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20248">Video Extreme Super-Resolution Challenge: Track 1 Fidelity</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20249">Video Extreme Super-Resolution Challenge: Track 2 Perceptual</a>; 
+  <br><a href="https://competitions.codalab.org/competitions/20244">Video Temporal Super-Resolution Challenge</a>;
+  '
+  prize: NaN
+  
+
+- id: VoxCeleb
+  type1: 
+    - PF
+    - AC
+  type2:
+    - SP
+    - CV
+  title: The VoxCeleb Speaker Recognition Challenge
+  url: http://www.robots.ox.ac.uk/~vgg/data/voxceleb/competition.html
+  hostby:
+    - CodaLab: https://competitions.codalab.org/competitions/20199
+  range: July 15, 2019 - Sep. 14, 2019
+  deadtime: "2019-08-15 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: "The goal of this challenge is to probe how well current methods can recognize speakers from speech obtained 'in the wild'. The challenge will consists of the following two tasks:
+  <br>Audio only speaker verification - Fixed training data: This task requires that participants train only on the VoxCeleb2 dev dataset for which we have already released speaker verification labels. The dev dataset contains 1,092,009 utterances from 5,994 speakers.
+  <br>Audio only speaker verification - Open training data: For the open training condition, participants can use the VoxCeleb datasets and any other data (including that which is not publicly released) except the challenge's test data"
+  prize: NaN
 
 - id: Reconstruction2D3D
   type1: 

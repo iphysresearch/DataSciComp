@@ -411,3 +411,40 @@
   pubtime: '2019-07-06'
   note: 'The challenge data consists of a set of popular search queries and a fair size set of candidate documents. Challenge participants make a boolean relevant-or-not decision for each query-document pair. Human judgments are used to create labeled training and evaluation data for a subset of the query-document pairs. Evaluation of submissions will be based on the traditional F1 metric, incorporating components of both recall and precision.'
   prize: NaN  
+
+- id: AnimalAIOlympics
+  type1: 
+    - PF
+    - AC
+  type2:
+    - RL
+  title: 'Animal-AI Olympics Competition'
+  url: http://animalaiolympics.com
+  hostby: 
+    - EvalAI: https://evalai.cloudcv.org/web/challenges/challenge-page/396/overview
+  range: January - December, 2019
+  deadtime: "2019-11-01 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: "The Animal-AI Olympics is an AI competition with tests inspired by animal cognition. Participants are given a small environment with just seven different classes of objects that can be placed inside. In each test, the agent needs to retrieve the food in the environment, but to do so there are obstacles to overcome, ramps to climb, boxes to push, and areas that must be avoided. The real challenge is that we don't provide the tests in advance. It's up to you to play with the environment and build interesting setups that can help create an agent that understands how the environment's physics work and the affordances that it has. The final submission should be an agent capable of robust food retrieval behaviour similar to that of many kinds of animals. We know the animals can pass these tests, it's time to see if AI can too. The Animal-AI Olympics is an AI competition with tests inspired by animal cognition. Participants are given a small environment with just seven different classes of objects that can be placed inside. In each test, the agent needs to retrieve the food in the environment, but to do so there are obstacles to overcome, ramps to climb, boxes to push, and areas that must be avoided. The real challenge is that we don't provide the tests in advance. It's up to you to play with the environment and build interesting setups that can help create an agent that understands how the environment's physics work and the affordances that it has. The final submission should be an agent capable of robust food retrieval behaviour similar to that of many kinds of animals. We know the animals can pass these tests, it's time to see if AI can too. "
+  prize: NaN  
+
+
+- id: Dunhuangimagerestoration
+  type1: 
+    - PF
+    - AC
+  type2:
+    - CV
+  title: 'Dunhuang Image Restoration Challenge@ICCV2019 workshop on e-Heritage'
+  url: http://www.eheritage-ws.org
+  hostby: 
+    - EvalAI: https://evalai.cloudcv.org/web/challenges/challenge-page/402/
+    - ICCV 2019: http://iccv2019.thecvf.com
+  range: Jul 25 - Aug 16, 2019
+  deadtime: "2019-08-16 23:59:59"
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'In 1970s, the Dunhuang Academy is established to systematically preserve the heritage. From the study, half of them suffer from corrosion and aging. Because the paintings are created by different artists from 10 centuries, it is non-trivial for manual restoration. And therefore, we release the first Dunhuang Challenge with 600 paintings, which enables an open and public attention in the research community on data driven e-heritage restoration.
+  <br>This year, the academy is proposing to collaborate with Microsoft Research and other researchers over the world, aiming to solve the automatic restoration of the wall painting using computer vision and machine learning technology.'
+  prize: NaN  
