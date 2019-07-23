@@ -1,0 +1,83 @@
+
+# AICrowd ##
+
+# https://www.aicrowd.com/challenges
+
+
+- id: MineRL2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - RL
+  title: 'NeurIPS 2019 : MineRL Competition'
+  url: https://www.aicrowd.com/challenges/neurips-2019-minerl-competition
+  hostby:
+    - crowdAI: https://www.aicrowd.com/
+    - NeurIPS 2019: https://nips.cc/Conferences/2019
+  range: May 10 - Dec 8, 2019
+  deadtime: '2019-09-22 23:59:59'
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'The main task of the competition is solving the ObtainDiamond environment. In this environment, the agent begins in a random starting location without any items, and is tasked with obtaining a diamond. This task can only be accomplished by navigating the complex item hierarchy of Minecraft.'
+  prize: Nvidia GPUs
+
+
+
+- id: learntomove
+  type1: 
+    - PF
+    - AC
+  type2:
+    - RL
+  title: 'NeurIPS 2019: Learn to Move - Walk Around'
+  url: http://osim-rl.stanford.edu/docs/nips2019/
+  hostby:
+    - crowdAI: https://www.aicrowd.com/challenges/neurips-2019-learn-to-move-walk-around
+    - NeurIPS 2019: https://nips.cc/Conferences/2019
+  range: June 6 ~ October 27, 2019
+  deadtime: '2019-10-13 23:59:59'
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'You are provided with a human musculoskeletal model and a physics-based simulation environment, OpenSim. 
+  <br>There will be three tracks: 1) Best performance, 2) Novel ML solution, and 3) Novel biomechanical solution, where all the winners of each track will be awarded.'
+  prize: NVIDIA GPU + Travel grant
+
+- id: Disentanglement2019
+  type1: 
+    - PF
+    - AC
+  type2:
+    - RL
+  title: 'NeurIPS 2019: Disentanglement Challenge'
+  url: https://www.aicrowd.com/challenges/neurips-2019-disentanglement-challenge
+  hostby:
+    - crowdAI: https://www.aicrowd.com/
+    - NeurIPS 2019: https://nips.cc/Conferences/2019
+  range: June 28th - September 24th, 2019
+  deadtime: '2019-07-26 23:59:59'
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'Given the growing importance of the field and the potential societal impact in the medical domain or fair decision making, it is high time to bring disentanglement to the real-world:
+  <br>Stage 1: Sim-to-real transfer learning - design representation learning algorithms on simulated data and transfer them to the real world.
+  <br>Stage 2: Advancing disentangled representation learning to complicated physical objects.'
+  prize: 10,000 EUR x 2
+
+
+
+- id: Snake
+  type1: 
+    - PF
+  type2:
+    - CV
+  title: Snake Species Identification Challenge
+  url: https://www.aicrowd.com/challenges/snake-species-identification-challenge#timeline
+  hostby:
+    - crowdAI: https://www.aicrowd.com/
+  range: January 21 - July 31, 2019
+  deadtime: '2019-07-31 23:59:59'
+  timezone: UTC
+  pubtime: '2019-07-23'
+  note: 'In this challenge you will be provided with a dataset of RGB images of snakes, and their corresponding species (class). The goal is to train a classification model.'
+  prize: 2 x travel grant
+
