@@ -1,0 +1,40 @@
+
+# https://aistudio.baidu.com/aistudio/competition
+
+
+
+- id: baiduzhixing2019
+  type1: 
+    - PF
+  type2:
+    - CV
+    - NLP
+  title: '2019百度之星开发者大赛'
+  url: https://aistudio.baidu.com/aistudio/competition/detail/7
+  hostby: 
+    - Baidu AIstudio: https://aistudio.baidu.com/aistudio/index
+  range: 7月1日 - 9月23日, 2019
+  deadtime: "2019-08-01 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-23'
+  note: '本次竞赛任务为目标检测，参赛者需要找出所给图像中所有感兴趣的目标，确定它们的位置和大小。参赛者需提供一个飞桨（PaddlePaddle）模型，模型输出所给图片中每个目标的信息，包括boundingbox（[x0,y0,x1,y1]）、类别信息和分数。'
+  prize: ￥112,000
+
+
+
+- id: zhongwenwenzichangjingwenzishibie
+  type1: 
+    - PF
+  type2:
+    - CV
+    - NLP
+  title: '中文场景文字识别技术创新大赛'
+  url: https://aistudio.baidu.com/aistudio/competition/detail/8
+  hostby: 
+    - Baidu AIstudio: https://aistudio.baidu.com/aistudio/index
+  range: 7月5日 - 9月27日, 2019
+  deadtime: "2019-08-05 23:59:59"
+  timezone: "Asia/Shanghai"
+  pubtime: '2019-07-23'
+  note: '文字识别的主要任务是对图像区域中的文字行进行预测，返回文字行的内容。'
+  prize: ￥54,000
