@@ -7,7 +7,7 @@ With almost 3 months together in joint development, the project has been reborn 
 We convert our website from static to dynamic such that everyone can submit a challenge/competition on their own interests. And more functions are coming. Please look forward to it!
 </p>
 <p>
-Click <a href="https://www.datascicamp.com">HERE</a> for our new website! You can also move to <a href="https://github.com/datascicamp/WelcomePage">Welcome page</a> for more infomations.
+Click <a href="https://www.datascicamp.com">HERE</a> for our new website! You can also move to <a href="https://github.com/datascicamp/DataSciCamp">Welcome page</a> for more infomations.
 </p>
 
 ---
