@@ -4,25 +4,6 @@
 # http://challenge.ai.iqiyi.com
 
 
-- id: iQIYI_Celebrity_Video_Identification_Challenge
-  type1: 
-    - PF
-    - AC
-  type2:
-    - CV
-    - SP
-  title: '2019 iQIYI Celebrity Video Identification Challenge'
-  url: http://challenge.ai.iqiyi.com/detail?raceId=5c767dc41a6fa0ccf53922e6
-  hostby: 
-    - 爱奇艺|iQIYI: http://challenge.ai.iqiyi.com/
-    - AVS Workgroup: http://www.avs.org.cn/english/index.asp
-  range: February 28 - July 8, 2019
-  deadtime: "2019-05-10 23:59:59"
-  timezone: "Asia/Shanghai"
-  pubtime: '2019-03-21'
-  note: 'The goal of the iQIYI-VID-2019 Challenge is as follows: For each identity in the training set, find all the video clips of the same identity in the test set. And the retrieval result list should be ordered according to the similarity between each test clip and the query. '
-  prize: 6,000 US dollars
-
 
 
 - id: Deep_Learning_based_Loop_Filter
