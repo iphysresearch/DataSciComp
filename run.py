@@ -98,7 +98,7 @@ def index(
     ]
     # 判断 prize
     for comp in competitions:
-        if (comp["prize"] == "NaN") or (comp["prize"] == "Kaggle Swag"):
+        if comp["prize"] in ["NaN", "Kaggle Swag"]:
             comp.update({"howprize": ["unrewarded"]})
         else:
             comp.update({"howprize": ["rewarded"]})
