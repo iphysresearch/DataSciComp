@@ -1,4 +1,4 @@
-<h1>Important!</h1>
+<h1>Important Terminology!</h1>
 <p>
 This Repo was permanently <b>archived</b> in 2019/10/01. <b>BUT this is not the end！</b><br>
   </p>
@@ -23,7 +23,7 @@ Click <a href="https://www.datascicamp.com">HERE</a> for our new website! You ca
   </a>
   <br>
   <br>
-    <h1>Data Science Challenge / Competition Deadlines </h1>
+    <h1>Data Science Challenges / Competition Deadlines </h1>
   <p>
       <li>A collection of popular Data Science Challenges/Competitions</li>
       <li>Countdown timers to keep track of the entry deadlines.</li>
@@ -83,7 +83,7 @@ Click <a href="https://www.datascicamp.com">HERE</a> for our new website! You ca
 
 
 
-## Data Format
+## Data Formats Available
 
 The entire dataset is stored in files `./_data/_effective_*.yaml` and `./_data/_hosts.yaml`.
 
